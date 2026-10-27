@@ -8,7 +8,7 @@
 - **Lab 02 program:** Created in `desk.py`. It follows the SEC filings, XBRL facts, arithmetic, earnings release, and peer comparison steps. Runs completed for Costco and Walmart.
 - **Source folders:** Costco run [`COSTCO_WHOLESALE_CORP_NEW_20261026_220708_EDT`](runs/COSTCO_WHOLESALE_CORP_NEW_20261026_220708_EDT/) and Walmart run [`Walmart_Inc._20261026_220827_EDT`](runs/Walmart_Inc._20261026_220827_EDT/). Costco's latest workbook/facts values were compared with the 10-K and release lines. The earlier run and first unsuccessful Walmart attempt are retained as troubleshooting history; use the later folders.
 - **Course audit:** Still needs a hand check of each claim and ratio and the two partner marks. Automated extraction is a draft aid, not proof of correct tagging.
-- **Lab 03 program:** Created in `lab03_app.py` using Purdue GenAI Studio's documented OpenAI-compatible endpoint and the OpenAI Python SDK. It has not been run because the previously exposed API key must be rotated and a model ID must be set in local `.env`.
+- **Lab 03 program:** Run with the replacement key and `qwen3-coder:latest`, which appeared in the authenticated model list. The five role calls completed and saved a Costco report. The first Manager draft used a wrong price and omitted two quarterly audit claims; the original is preserved beside a corrected review draft. The manual claim audit and recommendation review remain pending.
 - **Partner and Brightspace work:** Pending student/partner action. The partner must choose the Lab 03 company, check two claims, and complete the reflection. The student must audit the report and submit Checkpoint 1 with a repository commit link.
 - **GitHub:** The existing repository is private. Week 2 files were pushed under the user's earlier authorization. Latest handoff commit is recorded in [`RESTART_HERE.md`](../RESTART_HERE.md). Keep `.env`, the supplied PDFs, `.vscode/`, and `CONVERSATION.md` out of the repository.
 
@@ -25,6 +25,7 @@ The script uses only Python's standard library. It reads `SEC_USER_AGENT` from `
 - Calculated revenue growth `10.14%`; operating margin `3.85%`; return on average equity `28.40%`; debt/equity `17.21%`; free cash flow `$9,382m`.
 - Latest-quarter release lines: total revenue `$95,723m`; diluted GAAP EPS `$6.75`.
 - Saved numbered filing text was manually compared with the 10-K and release statement lines. Total revenue, net sales, membership fees, operating income, net income, diluted EPS, equity, current and long-term debt, operating cash flow, and additions to property/equipment were checked. The full hand-audit checklist remains open.
+- Lab 03 used the September 23, 2026 close of `$904.70` (last close before the September 24 release); its P/E is `43.58x`. The report and original model draft are saved in run folder `COSTCO_WHOLESALE_CORP_NEW_20261026_221745_EDT`.
 
 ### Walmart (`WMT`)
 
@@ -69,13 +70,12 @@ To focus on one step, use `--step N`. Steps 4–7 also fetch the filings and fac
 
 Official instructions: [Lab 03 — The App](https://cinderzhang.github.io/FIN67110-Fall2026/week-02/lab-03-make-it-yours.html).
 
-1. Revoke the exposed Purdue GenAI Studio key and create a replacement. Do not send it in chat or screenshots.
-2. Enter the replacement key and a model ID available to the account in local `.env`; set `GENAI_MODEL`. Keep `.env` private.
-3. Install the dependency: `python3.12 -m pip install -r WEEK_2/requirements-lab03.txt`.
-4. Run the desk on Costco with the last close before the September 24, 2026 earnings release, sourced from the exchange or LSEG Workspace, and include its date: `python3.12 WEEK_2/desk.py COST --peers WMT,TGT,BJ --price PRICE`. Then run the app on the resulting Costco folder: `python3.12 WEEK_2/lab03_app.py PATH_TO_COSTCO_RUN_FOLDER`.
-5. Audit the five report parts and eleven core claims by hand. Record wrong, unsupported, and missing claims.
-6. Ask the partner to select a U.S. company that reported this month. Run the desk and app for that ticker; ask the partner to check two claims and audit all eleven yourself.
-7. Complete the partner reflection and submit Checkpoint 1 in Brightspace with a private-repository commit link. Confirm the grader can access it.
+1. The API key and configured model ID are present locally. The model-list endpoint confirmed `qwen3-coder:latest` is available. Keep `.env` private.
+2. The OpenAI SDK is installed in the ignored local `.venv` environment.
+3. Costco's Lab 03 four-role report was generated. The original model output is `COST_lab03_model_draft.md`; the corrected review draft is `COST_lab03_report.md`.
+4. **Student hand audit remains required:** check all eleven core claims and every other number against the filings. In particular, inspect the model's narrative citations and recommendation. Record wrong, unsupported, and missing claims in [`AUDIT_TEMPLATE.md`](AUDIT_TEMPLATE.md).
+5. Ask the partner to select a U.S. company that reported this month. Run the desk and app for that ticker; ask the partner to check two claims and audit all eleven yourself.
+6. Complete the partner reflection and submit Checkpoint 1 in Brightspace with a private-repository commit link. Confirm the grader can access it.
 
 ### Definition checks
 
