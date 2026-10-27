@@ -1,0 +1,14 @@
+# Secrets and local credentials
+.env
+.env.*
+!.env.example
+
+# Local machine and Python environment
+.DS_Store
+.venv/
+__pycache__/
+*.py[cod]
+
+# Raw licensed data and local exports
+/data/raw/
+/exports/
