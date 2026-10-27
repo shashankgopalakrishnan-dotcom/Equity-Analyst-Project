@@ -19,6 +19,7 @@ Finish any remaining Week 1 and Lab 01 work, preserving user secrets and the pro
 - Lab 03 app: [`WEEK_2/lab03_app.py`](WEEK_2/lab03_app.py). Do not run until the exposed Purdue GenAI Studio key is rotated locally and `GENAI_MODEL` is set in `.env`. Install the SDK from `WEEK_2/requirements-lab03.txt` after key rotation.
 - Remaining Week 2 human steps: complete audit, partner checks/reflection, run Lab 03, ask partner to choose a company and check two claims, audit all eleven claims, and submit Brightspace Checkpoint 1 with repository commit permalink.
 - The supplied PDFs, `.env`, `.vscode/`, and `CONVERSATION.md` are private/local and must not be committed.
+- Week 2 coursework was pushed to the private GitHub repository on 2026-10-26. Latest commit: [`63a8fc1`](https://github.com/shashankgopalakrishnan-dotcom/Equity-Analyst-Project/commit/63a8fc1478ce60b8b03c7ab36cf27ad6d07766dd). Verified remotely: Week 2 README exists; `.env` and raw SEC Company Facts JSON return 404. Repository visibility remains Private.
 
 ## Verified or reported complete
 
