@@ -21,7 +21,7 @@ The script uses only Python's standard library. It reads `SEC_USER_AGENT` from `
 - 10-K accession: `0000909832-26-000093`, accepted `2026-10-07T01:13:15Z`; fiscal year ended `2026-08-30`.
 - 10-Q accession: `0000909832-26-000051`, accepted `2026-06-03T20:43:00Z`.
 - Latest earnings 8-K: `0000909832-26-000084`, accepted `2026-09-24T20:17:37Z`, Items 2.02 and 9.01. Exhibit 99.1: `costex9918-k92426.htm`.
-- Annual revenue: `$303,154m`; operating income `$11,685m`; net income `$9,226m`; diluted EPS `$20.76`.
+- Annual total revenue: `$303,154m` using `RevenueFromContractWithCustomerExcludingAssessedTax` (the newer fact); operating income `$11,685m`; net income `$9,226m`; diluted EPS `$20.76`.
 - Calculated revenue growth `10.14%`; operating margin `3.85%`; return on average equity `28.40%`; debt/equity `17.21%`; free cash flow `$9,382m`.
 - Latest-quarter release lines: total revenue `$95,723m`; diluted GAAP EPS `$6.75`.
 - Saved numbered filing text was manually compared with the 10-K and release statement lines. Total revenue, net sales, membership fees, operating income, net income, diluted EPS, equity, current and long-term debt, operating cash flow, and additions to property/equipment were checked. The full hand-audit checklist remains open.
@@ -48,7 +48,7 @@ Official instructions: [Lab 02 — The Desk's Steps](https://cinderzhang.github.
 - [ ] Match peer revenue and operating income to each peer's latest 10-K and use one margin definition.
 - [ ] Mark all seven lab checks by hand; have the partner check two; explain the XBRL tag and period issue; complete the reflection.
 
-The expected in-class demo is `COST --peers WMT,TGT,BJ --price P`. Replace `P` with the instructor's close; do not guess a price. Example local command after setting `SEC_USER_AGENT` in `.env`:
+The expected in-class demo is `COST --peers WMT,TGT,BJ --price P`. Replace `P` with the instructor's close; do not guess a price. The Week 2 page defines the valuation price as the last close before the earnings release, with its date, from an exchange or LSEG Workspace. Example local command after setting `SEC_USER_AGENT` in `.env`:
 
 ```sh
 python3.12 WEEK_2/desk.py COST --peers WMT,TGT,BJ
@@ -72,7 +72,7 @@ Official instructions: [Lab 03 — The App](https://cinderzhang.github.io/FIN671
 1. Revoke the exposed Purdue GenAI Studio key and create a replacement. Do not send it in chat or screenshots.
 2. Enter the replacement key and a model ID available to the account in local `.env`; set `GENAI_MODEL`. Keep `.env` private.
 3. Install the dependency: `python3.12 -m pip install -r WEEK_2/requirements-lab03.txt`.
-4. Run the app on the Costco folder: `python3.12 WEEK_2/lab03_app.py WEEK_2/runs/COSTCO_WHOLESALE_CORP_NEW_20261026_220708_EDT`.
+4. Run the desk on Costco with the last close before the September 24, 2026 earnings release, sourced from the exchange or LSEG Workspace, and include its date: `python3.12 WEEK_2/desk.py COST --peers WMT,TGT,BJ --price PRICE`. Then run the app on the resulting Costco folder: `python3.12 WEEK_2/lab03_app.py PATH_TO_COSTCO_RUN_FOLDER`.
 5. Audit the five report parts and eleven core claims by hand. Record wrong, unsupported, and missing claims.
 6. Ask the partner to select a U.S. company that reported this month. Run the desk and app for that ticker; ask the partner to check two claims and audit all eleven yourself.
 7. Complete the partner reflection and submit Checkpoint 1 in Brightspace with a private-repository commit link. Confirm the grader can access it.

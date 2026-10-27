@@ -29,8 +29,8 @@ DATA = "https://data.sec.gov"
 
 CONCEPTS = {
     "revenue": [
-        # Prefer the generic total-revenue concept when dates tie. Some
-        # retailers use the following contract tag for net sales only.
+        # Keep candidate order: when the same fiscal end is present, prefer
+        # the broad total-revenue concept (for example Costco Revenues).
         "Revenues",
         "RevenueFromContractWithCustomerExcludingAssessedTax",
         "SalesRevenueNet",
@@ -254,6 +254,9 @@ def fact_entries(companyfacts: dict, tags: list[str], unit: str, fiscal_end: str
     if not choices:
         return None
     newest = max(x[0] for x in choices)
+    # First choose the latest fiscal end, then the first candidate tag present
+    # at that end. This avoids falling back to an older tag/year while keeping
+    # candidate priority meaningful for the latest period.
     _, tag, unit_name, entries = next(x for x in choices if x[0] == newest)
     entries.sort(key=lambda x: (x.get("filed", ""), x.get("accn", "")))
     by_end: dict[str, dict] = {}
@@ -269,12 +272,8 @@ def build_company_facts(cik: str, user_agent: str, folder: Path, ticker: str) ->
     revenue = fact_entries(facts, CONCEPTS["revenue"], "USD")
     if not revenue:
         raise RuntimeError(f"No annual revenue fact found for {ticker}")
-    _, initial_revenue_series = revenue
-    fiscal_end = max(initial_revenue_series["by_end"])
-    revenue = fact_entries(facts, CONCEPTS["revenue"], "USD", fiscal_end=fiscal_end)
-    if not revenue:
-        raise RuntimeError(f"No annual revenue fact found for {ticker} at {fiscal_end}")
     revenue_tag, revenue_series = revenue
+    fiscal_end = max(revenue_series["by_end"])
     previous_ends = [end for end in revenue_series["by_end"] if end < fiscal_end]
     previous_end = max(previous_ends) if previous_ends else None
     values = {}
