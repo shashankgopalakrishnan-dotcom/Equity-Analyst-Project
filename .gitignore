@@ -8,6 +8,9 @@
 .venv/
 __pycache__/
 *.py[cod]
+WEEK_2/runs/*/companyfacts.json
+WEEK_2/runs/*/*_companyfacts.json
+WEEK_2/runs/*/peers/
 
 # Raw licensed data and local exports
 /data/raw/

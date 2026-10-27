@@ -10,6 +10,16 @@
 
 Finish any remaining Week 1 and Lab 01 work, preserving user secrets and the professor's ordered Orca checks.
 
+## Week 2 handoff (updated 2026-10-26)
+
+- Week 2 instructions and status: [`WEEK_2/README.md`](WEEK_2/README.md).
+- Lab 02 program: [`WEEK_2/desk.py`](WEEK_2/desk.py). Costco and Walmart filing/fact runs are in `WEEK_2/runs/`; use the later Costco and Walmart folders named in the Week 2 README.
+- Manual review template: [`WEEK_2/AUDIT_TEMPLATE.md`](WEEK_2/AUDIT_TEMPLATE.md). The SEC extraction and arithmetic ran, but student line-by-line and hand-calculation checks, two partner marks, and the partner reflection are pending.
+- Reading notes: [`WEEK_2/PREP_NOTES.md`](WEEK_2/PREP_NOTES.md). The linked Kim, Muhn & Nikolaev arXiv paper is marked withdrawn; ask the instructor which version to use.
+- Lab 03 app: [`WEEK_2/lab03_app.py`](WEEK_2/lab03_app.py). Do not run until the exposed Purdue GenAI Studio key is rotated locally and `GENAI_MODEL` is set in `.env`. Install the SDK from `WEEK_2/requirements-lab03.txt` after key rotation.
+- Remaining Week 2 human steps: complete audit, partner checks/reflection, run Lab 03, ask partner to choose a company and check two claims, audit all eleven claims, and submit Brightspace Checkpoint 1 with repository commit permalink.
+- The supplied PDFs, `.env`, `.vscode/`, and `CONVERSATION.md` are private/local and must not be committed.
+
 ## Verified or reported complete
 
 - `python3.12 --version` returned `Python 3.12.14` in this workspace on 2026-10-26. The live Orca chat also showed the same result. The user reports partner sign-off is complete.
