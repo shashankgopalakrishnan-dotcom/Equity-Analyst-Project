@@ -20,7 +20,7 @@ Finish any remaining Week 1 and Lab 01 work, preserving user secrets and the pro
 - Report note: the model draft stated a wrong price ($891.67) and omitted quarterly revenue and revenue growth. The raw output is preserved as `COST_lab03_model_draft.md`; `COST_lab03_report.md` corrects the known price and adds an 11-claim source table. Student must still check every claim, the narrative citations, and the recommendation by hand.
 - Remaining Week 2 human steps: complete the report and Lab 02 hand audits, get partner claim checks and reflection, run the partner-selected company, and submit Brightspace Checkpoint 1 with the latest repository commit permalink.
 - The supplied PDFs, `.env`, `.vscode/`, and `CONVERSATION.md` are private/local and must not be committed.
-- Week 2 coursework was pushed to the private GitHub repository on 2026-10-26. Latest commit: [`63a8fc1`](https://github.com/shashankgopalakrishnan-dotcom/Equity-Analyst-Project/commit/63a8fc1478ce60b8b03c7ab36cf27ad6d07766dd). Verified remotely: Week 2 README exists; `.env` and raw SEC Company Facts JSON return 404. Repository visibility remains Private.
+- Week 2 coursework was pushed to the private GitHub repository on 2026-10-26. The Lab 02 primary Costco and Walmart Company Facts exports were added in [`0532342`](https://github.com/shashankgopalakrishnan-dotcom/Equity-Analyst-Project/commit/0532342), under the user's earlier coursework-upload authorization. Verified remotely: both files exist; `.env` returns 404. Peer Company Facts exports remain local and ignored. Repository visibility remains Private.
 
 ## Verified or reported complete
 
