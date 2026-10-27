@@ -10,7 +10,7 @@
 - **Course audit:** Still needs a hand check of each claim and ratio and the two partner marks. Automated extraction is a draft aid, not proof of correct tagging.
 - **Lab 03 program:** Created in `lab03_app.py` using Purdue GenAI Studio's documented OpenAI-compatible endpoint and the OpenAI Python SDK. It has not been run because the previously exposed API key must be rotated and a model ID must be set in local `.env`.
 - **Partner and Brightspace work:** Pending student/partner action. The partner must choose the Lab 03 company, check two claims, and complete the reflection. The student must audit the report and submit Checkpoint 1 with a repository commit link.
-- **GitHub:** The existing repository is private. Week 2 files can be committed and pushed there under the user's earlier authorization. Keep `.env`, the supplied PDFs, `.vscode/`, and `CONVERSATION.md` out of the repository.
+- **GitHub:** The existing repository is private. Week 2 files were pushed under the user's earlier authorization. Latest handoff commit is recorded in [`RESTART_HERE.md`](../RESTART_HERE.md). Keep `.env`, the supplied PDFs, `.vscode/`, and `CONVERSATION.md` out of the repository.
 
 ## Lab 02 evidence
 
