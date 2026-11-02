@@ -23,7 +23,7 @@ The run used the Financial Datasets closing price of `$27.98` on `2026-10-27`, t
 
 ## Audit status
 
-Filing reviews were prepared with AI support for all seven reports on 2026-11-02. The student must verify the findings and marks before submission. Audit notes and corrected drafts are saved beside each original report:
+Filing reviews were prepared with AI support for all seven reports on 2026-11-02. **Student verification: complete on 2026-11-02.** The user confirms they reviewed and agree with the audit findings and corrected drafts for all seven reports. Audit notes and corrected drafts are saved beside each original report:
 
 - COST audit: `WEEK_2/runs/COSTCO_WHOLESALE_CORP_NEW_20261027_092302_EDT/COST_lab03_audit_20261102.md`
 - COST corrected draft: `WEEK_2/runs/COSTCO_WHOLESALE_CORP_NEW_20261027_092302_EDT/COST_lab03_reviewed_draft_20261102.md`
@@ -35,7 +35,7 @@ Filing reviews were prepared with AI support for all seven reports on 2026-11-02
 - AAPL corrected draft: `WEEK_2/runs/Apple_Inc._20261027_093055_EDT/AAPL_lab03_reviewed_draft_20261102.md`
 - MSFT corrected draft: `WEEK_2/runs/MICROSOFT_CORP_20261029_000818_EDT/MSFT_lab03_reviewed_draft_20261102.md`
 
-The COST review found eight correct and three missing core claims. It corrected the missing-quarter metrics and invalid P/E-to-margin comparison in a separate draft. The CMG review found the `$11,925.6B` revenue and `$666.3B` capex displays are each 1,000x too high and corrected units and arithmetic in a separate draft. The other five audit findings and corrections are listed above. These filing reviews do not replace the student's verification or the partner's two-claim check.
+The COST review found eight correct and three missing core claims. It corrected the missing-quarter metrics and invalid P/E-to-margin comparison in a separate draft. The CMG review found the `$11,925.6B` revenue and `$666.3B` capex displays are each 1,000x too high and corrected units and arithmetic in a separate draft. The other five audit findings and corrections are listed above. The user has verified and agrees with these filing-review findings. The partner's two-claim check and the partner reflection remain separate tasks.
 
 The other five reports also received filing reviews against the saved run filings on 2026-11-02. Their audit notes are saved beside the reports:
 
@@ -47,12 +47,13 @@ The other five reports also received filing reviews against the saved run filing
 
 The five reviewed drafts incorporate the findings in their audit notes. The original reports remain unchanged. Review the drafts and select the reports required for submission.
 
+Student verification of the seven report reviews and the CMG worksheet is complete. The CMG peer filing check for MCD, YUM, and CAVA is also complete; numbered peer filing texts and calculations are in `WEEK_2/CMG_LAB02_STEP7_PEER_CHECK.md` and the CMG run's `peers/` folders. The corrected Lab 03 CMG draft uses CMG's no-borrowings disclosure for 0.00x debt/equity.
+
 Still pending:
 
-- Verify the filing-review notes and corrected drafts for the reports you plan to submit. The notes were prepared with AI support; confirm the claims and marks against the filings yourself.
-- CMG Lab 02 Step 7 is now verified against the latest MCD, YUM, and CAVA 10-K statements. The numbered peer filing texts and calculations are in `WEEK_2/CMG_LAB02_STEP7_PEER_CHECK.md` and the CMG run's `peers/` folders. The corrected Lab 03 draft uses CMG's no-borrowings disclosure for 0.00x debt/equity.
-- Ask the partner to check two CMG claims and record their source lines. Complete the partner reflection.
-- Partner-selected company: CMG. The data run and filing review prepared with AI support are complete; student verification and the partner check remain pending. The partner must check two claims.
+- Record the partner's two Lab 2 marks and two CMG report-claim checks in `AUDIT_TEMPLATE.md`. A peer-check note has been received; confirm the partner's final marks and complete the worksheet fields.
+- Complete the partner reflection.
+- Partner-selected company: CMG. The data run, filing review, and student verification are complete. Record the partner's check of two claims.
 - Complete the partner reflection and Brightspace Checkpoint 1 submission. Use a commit link the grader can access.
 
 ## Run details
@@ -61,5 +62,5 @@ Still pending:
 - The model override was `qwen3:8b`. The `.env` model setting was not changed.
 - Prices are historical closes dated 2026-10-27 from the quotes already saved in each Lab 02 manifest. The report files state the price and date.
 - Earlier failed attempts on 2026-10-29 are superseded by these successful generations.
-- The selected reports and run artifacts were pushed in commit `9bc9811`. The repository was changed to public on 2026-11-02; the latest checked commit is `cd9c09e`. A Git-history scan found no credential-pattern matches. `.env`, PDFs, `.vscode/`, and `CONVERSATION.md` are not in the checked commit. Brightspace was not submitted.
+- The selected reports and run artifacts were pushed earlier. Partner review notes were pushed in commit `278a105`. The repository is public. A Git-history scan found no credential-pattern matches. `.env`, PDFs, `.vscode/`, and `CONVERSATION.md` are not in the checked commit. Brightspace was not submitted.
 - Keep `.env` private.

@@ -9,11 +9,10 @@
 - **Implementation update:** XBRL candidate tags for each measure are now limited to tags that contain the revenue fiscal year, while keeping prior annual facts for comparison. Step 7 now prints the selected current and prior facts for every peer, as well as the operating margin.
 - **Source folders:** Original Costco and Walmart runs are [`COSTCO_WHOLESALE_CORP_NEW_20261026_220708_EDT`](runs/COSTCO_WHOLESALE_CORP_NEW_20261026_220708_EDT/) and [`Walmart_Inc._20261026_220827_EDT`](runs/Walmart_Inc._20261026_220827_EDT/). After the implementation update, the seven-step Costco command completed in [`COSTCO_WHOLESALE_CORP_NEW_20261026_223242_EDT`](runs/COSTCO_WHOLESALE_CORP_NEW_20261026_223242_EDT/). This latest output includes all nine facts, prior-year values, calculations, release lines, and selected peer facts. The earlier run and first unsuccessful Walmart attempt are retained as troubleshooting history.
 - **Repository facts:** The full SEC Company Facts files for Costco and Walmart are now included in those two run folders and pushed. `.gitignore` continues to ignore new fact exports by default; those two course files were explicitly included.
-- **Course audit:** Still needs a hand check of each claim and ratio and the two partner marks. Automated extraction is a draft aid, not proof of correct tagging.
-- **Lab 03 reports:** On November 1, 2026, the app completed sequential runs for COST, WMT, TGT, BJ, AAPL, and MSFT using the `qwen3:8b` override. The exact paths are in [`LAB03_ALL_TICKERS_RUN_STATUS.md`](LAB03_ALL_TICKERS_RUN_STATUS.md). Each report has the five required headings. These are model drafts, not audited reports. A spot review found financial and peer claims that need checking against the filings.
-- **Partner and Brightspace work:** The partner selected CMG. Its seven-step run and report are saved under `runs/CHIPOTLE_MEXICAN_GRILL_INC_20261101_101158_EST/`. The student must audit all eleven claims, and the partner must check two claims. Complete the partner reflection, then submit Checkpoint 1 with a commit link the grader can access.
-- **Current repository commit:** Selected coursework files and Lab 03 reports/runs were pushed to the private repository in commit `9bc9811`. The user must finish the hand audit and partner steps before submitting in Brightspace.
-- **GitHub:** The existing repository is private. Week 2 files were pushed under the user's earlier authorization. Latest handoff commit is recorded in [`RESTART_HERE.md`](../RESTART_HERE.md). Keep `.env`, the supplied PDFs, `.vscode/`, and `CONVERSATION.md` out of the repository.
+- **Course audit:** The user confirmed their review of the filing findings and corrected drafts for all seven reports, and the CMG Lab 02 and Lab 03 checks, on November 2, 2026. The original run still has the errors listed in the worksheet; the corrected draft addresses them.
+- **Lab 03 reports:** On November 1, 2026, the app completed sequential runs for COST, WMT, TGT, BJ, AAPL, and MSFT using the `qwen3:8b` override. CMG was the partner-selected ticker. The audit findings and corrected-draft paths are in [`LAB03_ALL_TICKERS_RUN_STATUS.md`](LAB03_ALL_TICKERS_RUN_STATUS.md).
+- **Partner and Brightspace work:** The partner's peer-check note is saved in the repository. Confirm and record the partner's final marks in [`AUDIT_TEMPLATE.md`](AUDIT_TEMPLATE.md), complete the partner reflection, then submit Checkpoint 1 in Brightspace with a commit link the grader can access.
+- **Current repository status:** Public repository; latest commit `278a105`. Keep `.env`, the supplied PDFs, `.vscode/`, and `CONVERSATION.md` out of the repository.
 
 ## Lab 02 evidence
 
@@ -88,9 +87,9 @@ Official instructions: [Lab 03 — The App](https://cinderzhang.github.io/FIN671
 1. The API key and configured model ID are present locally. The model-list endpoint confirmed `qwen3-coder:latest` is available. Keep `.env` private.
 2. The OpenAI SDK is installed in the ignored local `.venv` environment.
 3. Costco's Lab 03 four-role report was generated. The original model output is `COST_lab03_model_draft.md`; the corrected review draft is `COST_lab03_report.md`.
-4. **Student hand audit remains required:** check all eleven core claims and every other number against the filings. In particular, inspect the model's narrative citations and recommendation. Record wrong, unsupported, and missing claims in [`AUDIT_TEMPLATE.md`](AUDIT_TEMPLATE.md).
-5. Ask the partner to select a U.S. company that reported this month. Run the desk and app for that ticker; ask the partner to check two claims and audit all eleven yourself.
-6. Complete the partner reflection and submit Checkpoint 1 in Brightspace with a private-repository commit link. Confirm the grader can access it.
+4. **Student verification:** complete. The user confirms they reviewed the CMG audit and agrees with the findings recorded in [`AUDIT_TEMPLATE.md`](AUDIT_TEMPLATE.md).
+5. The partner selected CMG. The report and audit are complete. Record the partner's two claim checks and the two Lab 02 marks in [`AUDIT_TEMPLATE.md`](AUDIT_TEMPLATE.md).
+6. Complete the partner reflection and submit Checkpoint 1 in Brightspace with a commit link the grader can access. Confirm the grader can open the repository.
 
 ### Definition checks
 
