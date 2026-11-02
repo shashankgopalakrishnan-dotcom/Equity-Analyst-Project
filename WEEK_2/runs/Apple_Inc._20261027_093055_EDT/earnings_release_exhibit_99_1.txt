@@ -1,0 +1,210 @@
+00001: EX-99.1
+00002: 2
+00003: a8-kex991q3202606272026.htm
+00004: EX-99.1
+00005: Document
+00006: Exhibit 99.1
+00007: Apple reports third quarter results
+00008: June quarter records for total company revenue and EPS
+00009: iPhone, Mac and Services revenue set new June quarter records
+00010: CUPERTINO, CALIFORNIA — Apple® today announced financial results for its fiscal 2026 third quarter ended June 27, 2026. The Company posted quarterly revenue of $109.4 billion, up 16 percent year over year. Company gross margin was 50.1 percent, including a favorable impact of approximately 2 percentage points from tariff refunds. Diluted earnings per share was $2.02, up 29 percent year over year, and included a favorable impact of $0.11 from tariff refunds.
+00011: “Today, Apple is proud to report our strongest June quarter ever, with double-digit revenue growth across iPhone, Mac and Services, and in every geographic segment,” said Tim Cook, Apple’s CEO. “At WWDC26, we were thrilled to introduce the all-new Siri AI, alongside all of Apple’s latest software innovations and important new child safety features.”
+00012: “We are very pleased with our record business performance during the quarter, which set new June quarter records for both EPS and operating cash flow,” said Kevan Parekh, Apple’s CFO. “Our installed base of active devices also reached a new all-time high across all major product categories and geographic segments.”
+00013: Apple’s board of directors has declared a cash dividend of $0.27 per share of the Company’s common stock. The dividend is payable on August 13, 2026, to shareholders of record as of the close of business on August 10, 2026.
+00014: Apple will provide live streaming of its Q3 2026 financial results conference call beginning at 2:00 p.m. PT on July 30, 2026, at apple.com/investor/earnings-call. The webcast will be available for replay for approximately two weeks thereafter.
+00015: Apple periodically provides information for investors on its corporate website, apple.com, and its investor relations website, investor.apple.com. This includes press releases and other information about financial performance, reports filed or furnished with the SEC, information on corporate governance, and details related to its annual meeting of shareholders.
+00016: This press release contains forward-looking statements, within the meaning of the Private Securities Litigation Reform Act of 1995. These forward-looking statements include without limitation those about payment of the Company’s quarterly dividend and future business plans. These statements involve risks and uncertainties, and actual results may differ materially from any future results expressed or implied by the forward-looking statements. Risks and uncertainties include without limitation: effects of global and regional economic conditions, including as a result of government policies, trade and other international disputes, geopolitical tensions, conflict, terrorism, natural disasters, and public health issues; risks relating to the design, manufacture, introduction, and transition of products and services in highly competitive and rapidly changing markets, including from reliance on third parties for components, technology, manufacturing, applications, services, support, and content; risks relating to information technology system failures, network disruptions, and failure to protect, loss of, or unauthorized access to, or release of, data; and effects of unfavorable legal proceedings, government investigations, and complex and changing laws and regulations. More information on these risks and other potential factors that could affect the Company’s business, reputation, results of operations, financial condition, and stock price is included in the Company’s filings with the SEC, including in the “Risk Factors” and “Management’s Discussion and Analysis of Financial Condition and Results of Operations” sections of the Company’s most recently filed periodic reports on Form 10-K and Form 10-Q and subsequent filings. The Company assumes no obligation to update any forward-looking statements, which speak only as of the date they are made.
+00017: Apple revolutionized personal technology with the introduction of the Macintosh in 1984. Today, Apple leads the world in innovation with iPhone, iPad, Mac, AirPods, Apple Watch, and Apple Vision Pro. Apple’s six software platforms — iOS, iPadOS, macOS, watchOS, visionOS, and tvOS — provide seamless experiences across all Apple devices and empower people with breakthrough services including the App Store, Apple Music, Apple Pay, iCloud, and Apple TV. Apple’s more than 150,000 employees are dedicated to making the best products on earth and to leaving the world better than we found it.
+00018: Press Contact:
+00019: Josh Rosenstock
+00020: Apple
+00021: jrosenstock@apple.com
+00022: (408) 862-1142
+00023: Investor Relations Contact:
+00024: Suhasini Chandramouli
+00025: Apple
+00026: suhasini@apple.com
+00027: (408) 974-3123
+00028: NOTE TO EDITORS: For additional information visit Apple Newsroom (www.apple.com/newsroom), or email Apple’s Media Helpline at media.help@apple.com.
+00029: © 2026 Apple Inc. All rights reserved. Apple and the Apple logo are trademarks of Apple. Other company and product names may be trademarks of their respective owners.
+00030: Apple Inc.
+00031: CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (Unaudited)
+00032: (In millions, except number of shares, which are reflected in thousands, and per-share amounts)
+00033: Three Months Ended Nine Months Ended
+00034: June 27,
+00035: 2026 June 28,
+00036: 2025 June 27,
+00037: 2026 June 28,
+00038: 2025
+00039: Net sales:
+00040: Products $ 78,678 $ 66,613 $ 272,629 $ 233,287
+00041: Services 30,739 27,423 91,728 80,408
+00042: Total net sales (1)
+00043: 109,417 94,036 364,357 313,695
+00044: Cost of sales:
+00045: Products 47,153 43,620 163,810 147,097
+00046: Services 7,494 6,698 21,765 19,738
+00047: Total cost of sales 54,647 50,318 185,575 166,835
+00048: Gross margin 54,770 43,718 178,782 146,860
+00049: Operating expenses:
+00050: Research and development
+00051: 11,729 8,866 34,035 25,684
+00052: Selling, general and administrative
+00053: 7,346 6,650 22,315 20,553
+00054: Total operating expenses
+00055: 19,075 15,516 56,350 46,237
+00056: Operating income
+00057: 35,695 28,202 122,432 100,623
+00058: Other income/(expense), net
+00059: 572 (171) 670 (698)
+00060: Income before provision for income taxes
+00061: 36,267 28,031 123,102 99,925
+00062: Provision for income taxes
+00063: 6,478 4,597 21,638 15,381
+00064: Net income
+00065: $ 29,789 $ 23,434 $ 101,464 $ 84,544
+00066: Earnings per share:
+00067: Basic
+00068: $ 2.03 $ 1.57 $ 6.91 $ 5.64
+00069: Diluted
+00070: $ 2.02 $ 1.57 $ 6.88 $ 5.62
+00071: Shares used in computing earnings per share:
+00072: Basic
+00073: 14,656,110 14,902,886 14,692,515 14,992,898
+00074: Diluted
+00075: 14,714,676 14,948,179 14,750,302 15,051,726
+00076: (1) Net sales by reportable segment:
+00077: Americas
+00078: $ 45,781 $ 41,198 $ 149,403 $ 134,161
+00079: Europe
+00080: 29,395 24,014 95,596 82,329
+00081: Greater China
+00082: 18,816 15,369 64,839 49,884
+00083: Japan
+00084: 6,554 5,782 24,368 22,067
+00085: Rest of Asia Pacific
+00086: 8,871 7,673 30,151 25,254
+00087: Total net sales
+00088: $ 109,417 $ 94,036 $ 364,357 $ 313,695
+00089: (1) Net sales by category:
+00090: iPhone
+00091: $ 54,252 $ 44,582 $ 196,515 $ 160,561
+00092: Mac
+00093: 10,352 8,046 27,137 24,982
+00094: iPad
+00095: 6,191 6,581 21,700 21,071
+00096: Wearables, Home and Accessories
+00097: 7,883 7,404 27,277 26,673
+00098: Services
+00099: 30,739 27,423 91,728 80,408
+00100: Total net sales
+00101: $ 109,417 $ 94,036 $ 364,357 $ 313,695
+00102: Apple Inc.
+00103: CONDENSED CONSOLIDATED BALANCE SHEETS (Unaudited)
+00104: (In millions, except number of shares, which are reflected in thousands, and par value)
+00105: June 27,
+00106: 2026 September 27,
+00107: 2025
+00108: ASSETS:
+00109: Current assets:
+00110: Cash and cash equivalents
+00111: $ 39,544 $ 35,934
+00112: Marketable securities
+00113: 22,855 18,763
+00114: Accounts receivable, net
+00115: 31,398 39,777
+00116: Vendor non-trade receivables
+00117: 27,509 33,180
+00118: Inventories
+00119: 11,092 5,718
+00120: Other current assets
+00121: 17,420 14,585
+00122: Total current assets
+00123: 149,818 147,957
+00124: Non-current assets:
+00125: Marketable securities
+00126: 84,118 77,723
+00127: Property, plant and equipment, net
+00128: 51,431 49,834
+00129: Intangible assets, net 20,342 11,093
+00130: Other non-current assets
+00131: 77,557 72,634
+00132: Total non-current assets
+00133: 233,448 211,284
+00134: Total assets
+00135: $ 383,266 $ 359,241
+00136: LIABILITIES AND SHAREHOLDERS’ EQUITY:
+00137: Current liabilities:
+00138: Accounts payable
+00139: $ 64,525 $ 69,860
+00140: Other current liabilities
+00141: 62,259 66,387
+00142: Deferred revenue
+00143: 9,538 9,055
+00144: Commercial paper
+00145: 1,997 7,979
+00146: Term debt
+00147: 11,007 12,350
+00148: Total current liabilities
+00149: 149,326 165,631
+00150: Non-current liabilities:
+00151: Term debt
+00152: 71,340 78,328
+00153: Other non-current liabilities
+00154: 55,080 41,549
+00155: Total non-current liabilities
+00156: 126,420 119,877
+00157: Total liabilities
+00158: 275,746 285,508
+00159: Commitments and contingencies
+00160: Shareholders’ equity:
+00161: Common stock and additional paid-in capital, $0.00001 par value: 50,400,000 shares authorized; 14,608,963 and 14,773,260 shares issued and outstanding, respectively
+00162: 100,702 93,568
+00163: Retained earnings/(Accumulated deficit) 11,326 (14,264)
+00164: Accumulated other comprehensive loss (4,508) (5,571)
+00165: Total shareholders’ equity
+00166: 107,520 73,733
+00167: Total liabilities and shareholders’ equity
+00168: $ 383,266 $ 359,241
+00169: Apple Inc.
+00170: CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (Unaudited)
+00171: (In millions)
+00172: Nine Months Ended
+00173: June 27,
+00174: 2026 June 28,
+00175: 2025
+00176: Cash, cash equivalents, and restricted cash and cash equivalents, beginning balances $ 35,934 $ 29,943
+00177: Operating activities:
+00178: Net income 101,464 84,544
+00179: Adjustments to reconcile net income to cash generated by operating activities:
+00180: Depreciation and amortization 9,973 8,571
+00181: Share-based compensation expense 10,523 9,680
+00182: Other (2,037) (1,748)
+00183: Changes in operating assets and liabilities:
+00184: Accounts receivable, net 8,316 5,685
+00185: Vendor non-trade receivables 5,671 13,555
+00186: Inventories (5,461) 1,223
+00187: Other current and non-current assets (16,266) (6,116)
+00188: Accounts payable (5,203) (18,479)
+00189: Other current and non-current liabilities 10,016 (15,161)
+00190: Cash generated by operating activities 116,996 81,754
+00191: Investing activities:
+00192: Purchases of marketable securities (48,752) (17,591)
+00193: Proceeds from maturities of marketable securities 26,504 35,036
+00194: Proceeds from sales of marketable securities 12,016 10,785
+00195: Payments for acquisition of property, plant and equipment (6,799) (9,473)
+00196: Other (1,780) (975)
+00197: Cash generated by/(used in) investing activities (18,811) 17,782
+00198: Financing activities:
+00199: Payments for taxes related to net share settlement of equity awards (6,462) (5,719)
+00200: Payments for dividends and dividend equivalents (11,778) (11,559)
+00201: Repurchases of common stock (62,094) (70,579)
+00202: Proceeds from issuance of term debt, net — 4,481
+00203: Repayments of term debt (8,146) (9,682)
+00204: Repayments of commercial paper, net (5,911) (65)
+00205: Other (184) (87)
+00206: Cash used in financing activities (94,575) (93,210)
+00207: Increase in cash, cash equivalents, and restricted cash and cash equivalents 3,610 6,326
+00208: Cash, cash equivalents, and restricted cash and cash equivalents, ending balances $ 39,544 $ 36,269
+00209: Supplemental cash flow disclosure:
+00210: Cash paid for income taxes, net $ 26,555 $ 37,332

@@ -50,6 +50,7 @@ CONCEPTS = {
     "current_debt": [
         "LongTermDebtCurrent",
         "LongTermDebtAndFinanceLeaseObligationsCurrent",
+        "LongTermDebtAndCapitalLeaseObligationsCurrent",
         "CurrentPortionOfLongTermDebt",
     ],
     "cash_from_operations": ["NetCashProvidedByUsedInOperatingActivities"],
@@ -206,11 +207,32 @@ def locate_exhibit(cik: str, row: dict, user_agent: str) -> str:
         description = item.get("description", "")
         if re.search(r"exhibit\s*99[.]1", description, flags=re.IGNORECASE):
             return item["name"]
-    raise RuntimeError("The selected earnings 8-K has no identifiable Exhibit 99.1 in its index")
+    # Some issuers label the earnings release as Exhibit 99, without a .1
+    # suffix. Use it only when no Exhibit 99.1 or release-named file is present.
+    # Keep the actual number in the output filename and manifest evidence.
+    exhibit_99 = [
+        name for name in candidates
+        if re.search(r"(?:ex|exhibit)[\s_-]*99[.]html?$", name, flags=re.IGNORECASE)
+    ]
+    if len(exhibit_99) == 1:
+        return exhibit_99[0]
+    raise RuntimeError("The selected earnings 8-K has no identifiable Exhibit 99.1, Exhibit 99, or press-release document in its index")
 
 
-def accepted(row: dict) -> str:
-    return row.get("acceptanceDateTime") or f"{row.get('filingDate', '')} (acceptance time unavailable)"
+def release_text_filename(document: str) -> str:
+    if re.search(r"ex(?:hibit)?[\s_-]*99[._-]?1|ex991", document, flags=re.IGNORECASE):
+        return "earnings_release_exhibit_99_1.txt"
+    return "earnings_release_exhibit_99.txt"
+
+
+def accepted(row: dict, cik: str, user_agent: str) -> str:
+    index_name = f"{row['accessionNumber']}-index.html"
+    index_text = plain_text(sec_get(accession_url(cik, row["accessionNumber"], index_name), user_agent))
+    lines = index_text.splitlines()
+    for index, line in enumerate(lines):
+        if line.strip().casefold() == "accepted" and index + 1 < len(lines):
+            return lines[index + 1].strip()
+    return row.get("acceptanceDateTime") or f"{row.get('filingDate', '')} (acceptance time unavailable on index)"
 
 
 def run_folder(company: str) -> Path:
@@ -238,8 +260,6 @@ def fact_entries(companyfacts: dict, tags: list[str], unit: str, fiscal_end: str
             if form not in ("10-K", "10-K/A"):
                 continue
             end = entry.get("end", "")
-            if fiscal_end and end != fiscal_end:
-                continue
             start = entry.get("start")
             if start:
                 try:
@@ -250,13 +270,19 @@ def fact_entries(companyfacts: dict, tags: list[str], unit: str, fiscal_end: str
                     continue
             valid.append(entry)
         if valid:
-            choices.append((max(x["end"] for x in valid), tag, unit_name, valid))
+            ends = {x["end"] for x in valid}
+            # When a revenue fiscal year is supplied, discard candidate tags
+            # that do not contain that year. Keep the full annual series for
+            # the selected tag so the prior-year value remains available.
+            if fiscal_end and fiscal_end not in ends:
+                continue
+            choices.append((max(ends), tag, unit_name, valid))
     if not choices:
         return None
     newest = max(x[0] for x in choices)
     # First choose the latest fiscal end, then the first candidate tag present
-    # at that end. This avoids falling back to an older tag/year while keeping
-    # candidate priority meaningful for the latest period.
+    # at that end. If anchored to revenue, only tags with that fiscal end are
+    # eligible, but their prior annual facts are retained below.
     _, tag, unit_name, entries = next(x for x in choices if x[0] == newest)
     entries.sort(key=lambda x: (x.get("filed", ""), x.get("accn", "")))
     by_end: dict[str, dict] = {}
@@ -284,7 +310,10 @@ def build_company_facts(cik: str, user_agent: str, folder: Path, ticker: str) ->
         if metric == "revenue":
             continue
         unit = "USD/shares" if metric == "diluted_eps" else "USD"
-        chosen = fact_entries(facts, candidates, unit)
+        # Use the revenue fiscal year as the anchor. Some issuers report the
+        # same measure under multiple tags, and the newest tag overall can
+        # lack a value for this exact fiscal year.
+        chosen = fact_entries(facts, candidates, unit, fiscal_end=fiscal_end)
         if not chosen:
             values[metric] = {"current": None, "prior": None}
             continue
@@ -370,18 +399,44 @@ def print_calculations(bundle: dict, price: float | None) -> dict:
 
 def release_lines(text: str) -> list[str]:
     lines = text.splitlines()
-    revenue = next((line for line in lines if re.search(r"^total\s+revenues?\s+[$0-9(]", line, flags=re.I)), None)
-    diluted = next((line for line in lines if re.search(r"^diluted\b.*(?:share|eps).*\s[$0-9(]", line, flags=re.I)), None)
+
+    def labeled_value(patterns: list[str]) -> list[str]:
+        for pattern in patterns:
+            for index, line in enumerate(lines):
+                if not re.search(pattern, line, flags=re.I):
+                    continue
+                # A financial statement may put the label and values on separate lines.
+                if "$" in line or re.search(r"\b\d[\d,]{2,}(?:\.\d+)?\b", line):
+                    return [line]
+                for candidate in lines[index + 1:index + 3]:
+                    if re.match(r"^\s*(?:\$|\d|\(\$?\d)", candidate):
+                        return [line, candidate]
+        return []
+
+    revenue = labeled_value([
+        r"^\s*total\s+revenues?\b",
+        r"^\s*total\s+net\s+sales\b",
+        r"^\s*net\s+sales\s+(?:\$|\d)",
+    ])
+    diluted = labeled_value([
+        r"diluted\s+earnings\s+per\s+share.*(?:\$|\b\d)",
+        r"earnings\s+per\s+diluted\s+share.*(?:\$|\b\d)",
+        r"^\s*diluted\s+earnings\s+per\s+share\b",
+        r"^\s*diluted\s+[$0-9(]",
+    ])
     if not diluted:
+        # Some releases use a short EPS label, then put diluted EPS values below it.
         for index, line in enumerate(lines):
-            if re.search(r"net\s+income\s+per\s+common\s+share", line, flags=re.I):
-                diluted = next((candidate for candidate in lines[index + 1:index + 5] if re.search(r"^diluted\s+[$0-9(]", candidate, flags=re.I)), None)
-                break
-    return [line for line in (revenue, diluted) if line]
+            if re.match(r"^\s*EPS\b", line, flags=re.I) and not re.search(r"adjusted", line, flags=re.I):
+                candidate = next((x for x in lines[index + 1:index + 3] if re.match(r"^\s*(?:\$|\d)", x)), None)
+                if candidate:
+                    diluted = [line, candidate]
+                    break
+    return list(dict.fromkeys(revenue + diluted))
 
 
-def accession_summary(row: dict) -> str:
-    return f"{row['form']} accession {row['accessionNumber']} accepted {accepted(row)}"
+def accession_summary(row: dict, cik: str, user_agent: str) -> str:
+    return f"{row['form']} accession {row['accessionNumber']} accepted {accepted(row, cik, user_agent)}"
 
 
 def run_ticker(ticker: str, peers: list[str], price: float | None, only_step: int | None, user_agent: str) -> Path:
@@ -399,12 +454,14 @@ def run_ticker(ticker: str, peers: list[str], price: float | None, only_step: in
     if only_step in (None, 2):
         print("Step 2 — Select latest filings and earnings 8-K")
         for key in ("10k", "10q", "earnings_8k"):
-            print(f"  {accession_summary(filings[key])}")
+            print(f"  {accession_summary(filings[key], cik, user_agent)}")
+            if key == "earnings_8k":
+                print("  Item 2.02 verified in the selected 8-K document")
     if only_step == 2:
         return RUNS
 
     if only_step in (None, 3):
-        print("Step 3 — Save filing text and Exhibit 99.1")
+        print("Step 3 — Save filing text and earnings-release exhibit")
     folder = run_folder(company)
     for key, label in (("10k", "10k"), ("10q", "10q"), ("earnings_8k", "earnings_8k")):
         row = filings[key]
@@ -413,7 +470,11 @@ def run_ticker(ticker: str, peers: list[str], price: float | None, only_step: in
         if key == "earnings_8k":
             exhibit = locate_exhibit(cik, row, user_agent)
             exhibit_text = plain_text(sec_get(accession_url(cik, row["accessionNumber"], exhibit), user_agent))
-            (folder / "earnings_release_exhibit_99_1.txt").write_text(numbered(exhibit_text), encoding="utf-8")
+            release_file = release_text_filename(exhibit)
+            (folder / release_file).write_text(numbered(exhibit_text), encoding="utf-8")
+            if only_step in (None, 3):
+                exhibit_number = "99.1" if release_file.endswith("99_1.txt") else "99"
+                print(f"  Release exhibit: EX-{exhibit_number} ({exhibit})")
             filings["release_text"] = exhibit_text
             filings["release_document"] = exhibit
     if only_step in (None, 3):
@@ -459,6 +520,9 @@ def run_ticker(ticker: str, peers: list[str], price: float | None, only_step: in
         peer_bundle = build_company_facts(peer_cik, user_agent, peer_folder, peer.upper())
         peer_margin = calculate(peer_bundle, None)["operating_margin"]
         margin_text = f"{peer_margin:.2%}" if peer_margin is not None else "unavailable"
+        print(f"  {peer.upper()} ({peer_company}), FY end {peer_bundle['fiscal_end']} — selected annual facts:")
+        for key in CONCEPTS:
+            display_fact(key, peer_bundle)
         revenue_record = peer_bundle["values"]["revenue"]["current"]
         op_record = peer_bundle["values"]["operating_income"]["current"]
         print(f"  {peer.upper()} ({peer_company}), FY end {peer_bundle['fiscal_end']}: operating income / total revenue = {margin_text}")
@@ -474,6 +538,7 @@ def run_ticker(ticker: str, peers: list[str], price: float | None, only_step: in
         "filings": {key: {**row, "_text": None} for key, row in filings.items() if isinstance(row, dict)},
         "earnings_release_document": filings.get("release_document"),
         "facts": bundle,
+        "share_price_input": price,
         "calculations": calculations,
         "peers": [{"ticker": x["ticker"], "company": x["company"], "fiscal_end": x["bundle"]["fiscal_end"], "margin": x["margin"], "tags": x["bundle"]["tags"]} for x in peer_bundles],
         "limitations": ["Automated release text search needs manual confirmation.", "XBRL candidate tags and periods need checking against each filing.", "This program does not make an investment recommendation."],

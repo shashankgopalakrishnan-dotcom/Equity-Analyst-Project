@@ -1,0 +1,375 @@
+{
+  "ticker": "BJ",
+  "company": "BJ's Wholesale Club Holdings, Inc.",
+  "cik": "0001531152",
+  "run_time_local": "2026-10-29T00:08:12.293606-04:00",
+  "filings": {
+    "10q": {
+      "accessionNumber": "0001531152-26-000057",
+      "filingDate": "2026-08-25",
+      "reportDate": "2026-08-01",
+      "acceptanceDateTime": "2026-08-25T20:32:14.000Z",
+      "act": "34",
+      "form": "10-Q",
+      "fileNumber": "001-38559",
+      "filmNumber": "261316276",
+      "items": "",
+      "core_type": "XBRL",
+      "size": 5229316,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "isXBRLNumeric": 1,
+      "primaryDocument": "bj-20260801.htm",
+      "primaryDocDescription": "10-Q",
+      "_text": null
+    },
+    "10k": {
+      "accessionNumber": "0001531152-26-000007",
+      "filingDate": "2026-03-12",
+      "reportDate": "2026-01-31",
+      "acceptanceDateTime": "2026-03-12T20:15:55.000Z",
+      "act": "34",
+      "form": "10-K",
+      "fileNumber": "001-38559",
+      "filmNumber": "26747944",
+      "items": "",
+      "core_type": "XBRL",
+      "size": 10695688,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "isXBRLNumeric": null,
+      "primaryDocument": "bj-20260131.htm",
+      "primaryDocDescription": "10-K",
+      "_text": null
+    },
+    "earnings_8k": {
+      "accessionNumber": "0001531152-26-000053",
+      "filingDate": "2026-08-21",
+      "reportDate": "2026-08-21",
+      "acceptanceDateTime": "2026-08-21T11:03:32.000Z",
+      "act": "34",
+      "form": "8-K",
+      "fileNumber": "001-38559",
+      "filmNumber": "261301661",
+      "items": "2.02,5.02,9.01",
+      "core_type": "XBRL",
+      "size": 448190,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "isXBRLNumeric": 0,
+      "primaryDocument": "bj-20260821.htm",
+      "primaryDocDescription": "8-K",
+      "_text": null
+    }
+  },
+  "earnings_release_document": "bj-2026080126x8kex991.htm",
+  "facts": {
+    "ticker": "BJ",
+    "cik": "0001531152",
+    "fiscal_end": "2026-01-31",
+    "values": {
+      "revenue": {
+        "current": {
+          "start": "2025-02-02",
+          "end": "2026-01-31",
+          "val": 21457274000,
+          "accn": "0001531152-26-000007",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-03-12",
+          "frame": "CY2025"
+        },
+        "prior": {
+          "start": "2024-02-04",
+          "end": "2025-02-01",
+          "val": 20501804000,
+          "accn": "0001531152-26-000007",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-03-12",
+          "frame": "CY2024"
+        }
+      },
+      "operating_income": {
+        "current": {
+          "start": "2025-02-02",
+          "end": "2026-01-31",
+          "val": 816604000,
+          "accn": "0001531152-26-000007",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-03-12",
+          "frame": "CY2025"
+        },
+        "prior": {
+          "start": "2024-02-04",
+          "end": "2025-02-01",
+          "val": 772206000,
+          "accn": "0001531152-26-000007",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-03-12",
+          "frame": "CY2024"
+        }
+      },
+      "net_income": {
+        "current": {
+          "start": "2025-02-02",
+          "end": "2026-01-31",
+          "val": 578377000,
+          "accn": "0001531152-26-000007",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-03-12"
+        },
+        "prior": {
+          "start": "2024-02-04",
+          "end": "2025-02-01",
+          "val": 534417000,
+          "accn": "0001531152-26-000007",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-03-12"
+        }
+      },
+      "diluted_eps": {
+        "current": {
+          "start": "2025-02-02",
+          "end": "2026-01-31",
+          "val": 4.38,
+          "accn": "0001531152-26-000007",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-03-12",
+          "frame": "CY2025"
+        },
+        "prior": {
+          "start": "2024-02-04",
+          "end": "2025-02-01",
+          "val": 4,
+          "accn": "0001531152-26-000007",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-03-12",
+          "frame": "CY2024"
+        }
+      },
+      "equity": {
+        "current": {
+          "end": "2026-01-31",
+          "val": 2197659000,
+          "accn": "0001531152-26-000007",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-03-12"
+        },
+        "prior": {
+          "end": "2025-02-01",
+          "val": 1847454000,
+          "accn": "0001531152-26-000007",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-03-12"
+        }
+      },
+      "long_term_debt": {
+        "current": {
+          "end": "2026-01-31",
+          "val": 399099000,
+          "accn": "0001531152-26-000007",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-03-12"
+        },
+        "prior": {
+          "end": "2025-02-01",
+          "val": 398807000,
+          "accn": "0001531152-26-000007",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-03-12",
+          "frame": "CY2024Q4I"
+        }
+      },
+      "current_debt": {
+        "current": {
+          "end": "2026-01-31",
+          "val": 120000000,
+          "accn": "0001531152-26-000007",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-03-12"
+        },
+        "prior": {
+          "end": "2025-02-01",
+          "val": 175000000,
+          "accn": "0001531152-26-000007",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-03-12",
+          "frame": "CY2024Q4I"
+        }
+      },
+      "cash_from_operations": {
+        "current": {
+          "start": "2025-02-02",
+          "end": "2026-01-31",
+          "val": 1030056000,
+          "accn": "0001531152-26-000007",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-03-12",
+          "frame": "CY2025"
+        },
+        "prior": {
+          "start": "2024-02-04",
+          "end": "2025-02-01",
+          "val": 900872000,
+          "accn": "0001531152-26-000007",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-03-12",
+          "frame": "CY2024"
+        }
+      },
+      "capex": {
+        "current": {
+          "start": "2025-02-02",
+          "end": "2026-01-31",
+          "val": 702048000,
+          "accn": "0001531152-26-000007",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-03-12",
+          "frame": "CY2025"
+        },
+        "prior": {
+          "start": "2024-02-04",
+          "end": "2025-02-01",
+          "val": 587983000,
+          "accn": "0001531152-26-000007",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-03-12",
+          "frame": "CY2024"
+        }
+      }
+    },
+    "tags": {
+      "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+      "operating_income": "OperatingIncomeLoss",
+      "net_income": "NetIncomeLoss",
+      "diluted_eps": "EarningsPerShareDiluted",
+      "equity": "StockholdersEquity",
+      "long_term_debt": "LongTermDebtNoncurrent",
+      "current_debt": "LongTermDebtCurrent",
+      "cash_from_operations": "NetCashProvidedByUsedInOperatingActivities",
+      "capex": "PaymentsToAcquirePropertyPlantAndEquipment"
+    },
+    "units": {
+      "revenue": "USD",
+      "operating_income": "USD",
+      "net_income": "USD",
+      "diluted_eps": "USD/shares",
+      "equity": "USD",
+      "long_term_debt": "USD",
+      "current_debt": "USD",
+      "cash_from_operations": "USD",
+      "capex": "USD"
+    },
+    "all_facts_path": "/Users/shashankgopalakrishnan/Documents/Courses/Mastering AI for finance/WEEK_2/runs/BJ_s_Wholesale_Club_Holdings_Inc._20261029_000808_EDT/BJ_companyfacts.json"
+  },
+  "calculations": {
+    "revenue_growth": 0.04660419151407358,
+    "operating_margin": 0.03805721080879146,
+    "return_on_average_equity": 0.28596333402799873,
+    "debt_to_equity": 0.23620543496511515,
+    "free_cash_flow": 328008000.0,
+    "pe": 24.0
+  },
+  "peers": [
+    {
+      "ticker": "COST",
+      "company": "COSTCO WHOLESALE CORP /NEW",
+      "fiscal_end": "2026-08-30",
+      "margin": 0.03854476602650798,
+      "tags": {
+        "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "operating_income": "OperatingIncomeLoss",
+        "net_income": "NetIncomeLoss",
+        "diluted_eps": "EarningsPerShareDiluted",
+        "equity": "StockholdersEquity",
+        "long_term_debt": "LongTermDebtNoncurrent",
+        "current_debt": "LongTermDebtCurrent",
+        "cash_from_operations": "NetCashProvidedByUsedInOperatingActivities",
+        "capex": "PaymentsToAcquirePropertyPlantAndEquipment"
+      }
+    },
+    {
+      "ticker": "WMT",
+      "company": "Walmart Inc.",
+      "fiscal_end": "2026-01-31",
+      "margin": 0.041820733829433104,
+      "tags": {
+        "revenue": "Revenues",
+        "operating_income": "OperatingIncomeLoss",
+        "net_income": "NetIncomeLoss",
+        "diluted_eps": "EarningsPerShareDiluted",
+        "equity": "StockholdersEquity",
+        "long_term_debt": "LongTermDebtNoncurrent",
+        "current_debt": "LongTermDebtCurrent",
+        "cash_from_operations": "NetCashProvidedByUsedInOperatingActivities",
+        "capex": "PaymentsToAcquirePropertyPlantAndEquipment"
+      }
+    },
+    {
+      "ticker": "TGT",
+      "company": "TARGET CORP",
+      "fiscal_end": "2026-01-31",
+      "margin": 0.048835655659477,
+      "tags": {
+        "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "operating_income": "OperatingIncomeLoss",
+        "net_income": "NetIncomeLoss",
+        "diluted_eps": "EarningsPerShareDiluted",
+        "equity": "StockholdersEquity",
+        "long_term_debt": "LongTermDebt",
+        "cash_from_operations": "NetCashProvidedByUsedInOperatingActivities",
+        "capex": "PaymentsToAcquirePropertyPlantAndEquipment"
+      }
+    }
+  ],
+  "limitations": [
+    "Automated release text search needs manual confirmation.",
+    "XBRL candidate tags and periods need checking against each filing.",
+    "This program does not make an investment recommendation."
+  ],
+  "latest_market_quote": {
+    "ticker": "BJ",
+    "price": 105.12,
+    "currency": "USD",
+    "as_of_date": "2026-10-27",
+    "source": "Financial Datasets historical daily prices",
+    "endpoint": "/prices",
+    "price_type": "daily close"
+  },
+  "share_price_input": 105.12
+}

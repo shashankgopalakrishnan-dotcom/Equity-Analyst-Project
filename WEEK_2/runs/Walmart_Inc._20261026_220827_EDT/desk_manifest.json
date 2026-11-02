@@ -304,7 +304,7 @@
     "return_on_average_equity": 0.22969102449771808,
     "debt_to_equity": 0.38312737785719303,
     "free_cash_flow": 14923000000.0,
-    "pe": null
+    "pe": 43.70695970695971
   },
   "peers": [
     {
@@ -363,5 +363,15 @@
     "Automated release text search needs manual confirmation.",
     "XBRL candidate tags and periods need checking against each filing.",
     "This program does not make an investment recommendation."
-  ]
+  ],
+  "latest_market_quote": {
+    "ticker": "WMT",
+    "price": 119.32,
+    "currency": "USD",
+    "as_of_date": "2026-10-27",
+    "source": "Financial Datasets historical daily prices",
+    "endpoint": "/prices",
+    "price_type": "daily close"
+  },
+  "share_price_input": 119.32
 }

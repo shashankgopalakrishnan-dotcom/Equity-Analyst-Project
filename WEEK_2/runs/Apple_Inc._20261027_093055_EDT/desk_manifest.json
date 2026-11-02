@@ -1,0 +1,344 @@
+{
+  "ticker": "AAPL",
+  "company": "Apple Inc.",
+  "cik": "0000320193",
+  "run_time_local": "2026-10-27T09:30:57.762843-04:00",
+  "filings": {
+    "10q": {
+      "accessionNumber": "0000320193-26-000020",
+      "filingDate": "2026-07-31",
+      "reportDate": "2026-06-27",
+      "acceptanceDateTime": "2026-07-31T10:01:02.000Z",
+      "act": "34",
+      "form": "10-Q",
+      "fileNumber": "001-36743",
+      "filmNumber": "261225227",
+      "items": "",
+      "core_type": "XBRL",
+      "size": 5946811,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "isXBRLNumeric": 1,
+      "primaryDocument": "aapl-20260627.htm",
+      "primaryDocDescription": "10-Q",
+      "_text": null
+    },
+    "10k": {
+      "accessionNumber": "0000320193-25-000079",
+      "filingDate": "2025-10-31",
+      "reportDate": "2025-09-27",
+      "acceptanceDateTime": "2025-10-31T10:01:26.000Z",
+      "act": "34",
+      "form": "10-K",
+      "fileNumber": "001-36743",
+      "filmNumber": "251437791",
+      "items": "",
+      "core_type": "XBRL",
+      "size": 9392337,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "isXBRLNumeric": null,
+      "primaryDocument": "aapl-20250927.htm",
+      "primaryDocDescription": "10-K",
+      "_text": null
+    },
+    "earnings_8k": {
+      "accessionNumber": "0000320193-26-000018",
+      "filingDate": "2026-07-30",
+      "reportDate": "2026-07-30",
+      "acceptanceDateTime": "2026-07-30T20:30:28.000Z",
+      "act": "34",
+      "form": "8-K",
+      "fileNumber": "001-36743",
+      "filmNumber": "261223821",
+      "items": "2.02,9.01",
+      "core_type": "XBRL",
+      "size": 417360,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "isXBRLNumeric": 0,
+      "primaryDocument": "aapl-20260730.htm",
+      "primaryDocDescription": "8-K",
+      "_text": null
+    }
+  },
+  "earnings_release_document": "a8-kex991q3202606272026.htm",
+  "facts": {
+    "ticker": "AAPL",
+    "cik": "0000320193",
+    "fiscal_end": "2025-09-27",
+    "values": {
+      "revenue": {
+        "current": {
+          "start": "2024-09-29",
+          "end": "2025-09-27",
+          "val": 416161000000,
+          "accn": "0000320193-25-000079",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-10-31",
+          "frame": "CY2025"
+        },
+        "prior": {
+          "start": "2023-10-01",
+          "end": "2024-09-28",
+          "val": 391035000000,
+          "accn": "0000320193-25-000079",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-10-31",
+          "frame": "CY2024"
+        }
+      },
+      "operating_income": {
+        "current": {
+          "start": "2024-09-29",
+          "end": "2025-09-27",
+          "val": 133050000000,
+          "accn": "0000320193-25-000079",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-10-31",
+          "frame": "CY2025"
+        },
+        "prior": {
+          "start": "2023-10-01",
+          "end": "2024-09-28",
+          "val": 123216000000,
+          "accn": "0000320193-25-000079",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-10-31",
+          "frame": "CY2024"
+        }
+      },
+      "net_income": {
+        "current": {
+          "start": "2024-09-29",
+          "end": "2025-09-27",
+          "val": 112010000000,
+          "accn": "0000320193-25-000079",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-10-31",
+          "frame": "CY2025"
+        },
+        "prior": {
+          "start": "2023-10-01",
+          "end": "2024-09-28",
+          "val": 93736000000,
+          "accn": "0000320193-25-000079",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-10-31",
+          "frame": "CY2024"
+        }
+      },
+      "diluted_eps": {
+        "current": {
+          "start": "2024-09-29",
+          "end": "2025-09-27",
+          "val": 7.46,
+          "accn": "0000320193-25-000079",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-10-31",
+          "frame": "CY2025"
+        },
+        "prior": {
+          "start": "2023-10-01",
+          "end": "2024-09-28",
+          "val": 6.08,
+          "accn": "0000320193-25-000079",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-10-31",
+          "frame": "CY2024"
+        }
+      },
+      "equity": {
+        "current": {
+          "end": "2025-09-27",
+          "val": 73733000000,
+          "accn": "0000320193-25-000079",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-10-31"
+        },
+        "prior": {
+          "end": "2024-09-28",
+          "val": 56950000000,
+          "accn": "0000320193-25-000079",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-10-31"
+        }
+      },
+      "long_term_debt": {
+        "current": {
+          "end": "2025-09-27",
+          "val": 78328000000,
+          "accn": "0000320193-25-000079",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-10-31"
+        },
+        "prior": {
+          "end": "2024-09-28",
+          "val": 85750000000,
+          "accn": "0000320193-25-000079",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-10-31",
+          "frame": "CY2024Q3I"
+        }
+      },
+      "current_debt": {
+        "current": {
+          "end": "2025-09-27",
+          "val": 12350000000,
+          "accn": "0000320193-25-000079",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-10-31"
+        },
+        "prior": {
+          "end": "2024-09-28",
+          "val": 10912000000,
+          "accn": "0000320193-25-000079",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-10-31",
+          "frame": "CY2024Q3I"
+        }
+      },
+      "cash_from_operations": {
+        "current": {
+          "start": "2024-09-29",
+          "end": "2025-09-27",
+          "val": 111482000000,
+          "accn": "0000320193-25-000079",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-10-31",
+          "frame": "CY2025"
+        },
+        "prior": {
+          "start": "2023-10-01",
+          "end": "2024-09-28",
+          "val": 118254000000,
+          "accn": "0000320193-25-000079",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-10-31",
+          "frame": "CY2024"
+        }
+      },
+      "capex": {
+        "current": {
+          "start": "2024-09-29",
+          "end": "2025-09-27",
+          "val": 12715000000,
+          "accn": "0000320193-25-000079",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-10-31",
+          "frame": "CY2025"
+        },
+        "prior": {
+          "start": "2023-10-01",
+          "end": "2024-09-28",
+          "val": 9447000000,
+          "accn": "0000320193-25-000079",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-10-31",
+          "frame": "CY2024"
+        }
+      }
+    },
+    "tags": {
+      "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+      "operating_income": "OperatingIncomeLoss",
+      "net_income": "NetIncomeLoss",
+      "diluted_eps": "EarningsPerShareDiluted",
+      "equity": "StockholdersEquity",
+      "long_term_debt": "LongTermDebtNoncurrent",
+      "current_debt": "LongTermDebtCurrent",
+      "cash_from_operations": "NetCashProvidedByUsedInOperatingActivities",
+      "capex": "PaymentsToAcquirePropertyPlantAndEquipment"
+    },
+    "units": {
+      "revenue": "USD",
+      "operating_income": "USD",
+      "net_income": "USD",
+      "diluted_eps": "USD/shares",
+      "equity": "USD",
+      "long_term_debt": "USD",
+      "current_debt": "USD",
+      "cash_from_operations": "USD",
+      "capex": "USD"
+    },
+    "all_facts_path": "/Users/shashankgopalakrishnan/Documents/Courses/Mastering AI for finance/WEEK_2/runs/Apple_Inc._20261027_093055_EDT/AAPL_companyfacts.json"
+  },
+  "calculations": {
+    "revenue_growth": 0.06425511782832749,
+    "operating_margin": 0.31970799762591884,
+    "return_on_average_equity": 1.7142244974480232,
+    "debt_to_equity": 1.229815686327696,
+    "free_cash_flow": 98767000000.0,
+    "pe": 46.52815013404826
+  },
+  "peers": [
+    {
+      "ticker": "MSFT",
+      "company": "MICROSOFT CORP",
+      "fiscal_end": "2026-06-30",
+      "margin": 0.4678081840892722,
+      "tags": {
+        "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "operating_income": "OperatingIncomeLoss",
+        "net_income": "NetIncomeLoss",
+        "diluted_eps": "EarningsPerShareDiluted",
+        "equity": "StockholdersEquity",
+        "long_term_debt": "LongTermDebtNoncurrent",
+        "current_debt": "LongTermDebtCurrent",
+        "cash_from_operations": "NetCashProvidedByUsedInOperatingActivities",
+        "capex": "PaymentsToAcquirePropertyPlantAndEquipment"
+      }
+    }
+  ],
+  "limitations": [
+    "Automated release text search needs manual confirmation.",
+    "XBRL candidate tags and periods need checking against each filing.",
+    "This program does not make an investment recommendation."
+  ],
+  "latest_market_quote": {
+    "ticker": "AAPL",
+    "price": 347.1,
+    "currency": "USD",
+    "as_of_date": "2026-10-27",
+    "source": "Financial Datasets historical daily prices",
+    "endpoint": "/prices",
+    "price_type": "daily close"
+  },
+  "share_price_input": 347.1
+}

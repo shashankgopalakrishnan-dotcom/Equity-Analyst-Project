@@ -1,0 +1,66 @@
+00001: 8-K
+00002: UNITED STATES
+00003: SECURITIES AND EXCHANGE COMMISSION
+00004: WASHINGTON, D.C. 20549
+00005: FORM 8-K
+00006: CURRENT REPORT
+00007: PURSUANT TO SECTION 13 OR 15(D)
+00008: OF THE SECURITIES EXCHANGE ACT OF 1934
+00009: Date of Report (Date of earliest event reported) October 28, 2026
+00010: Microsoft Corporation
+00011: Washington
+00012: 001-37845
+00013: 91-1144442
+00014: (State or Other Jurisdiction
+00015: of Incorporation)
+00016: (Commission
+00017: File Number)
+00018: (IRS Employer
+00019: Identification No.)
+00020: One Microsoft Way, Redmond, Washington 98052-6399
+00021: (425) 882-8080
+00022: www.microsoft.com/investor
+00023: Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+00024: 
+00025: Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+00026: 
+00027: Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+00028: 
+00029: Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+00030: 
+00031: Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+00032: Securities registered pursuant to Section 12(b) of the Act:
+00033: Title of each class
+00034: Trading Symbol
+00035: Name of exchange on which registered
+00036: Common stock, $0.00000625 par value per share
+00037: MSFT
+00038: Nasdaq
+00039: 3.125% Notes due 2028
+00040: MSFT
+00041: Nasdaq
+00042: 2.625% Notes due 2033
+00043: MSFT
+00044: Nasdaq
+00045: Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging growth company ¨
+00046: If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨
+00047: Item 2.02.
+00048: Results of Operations and Financial Condition
+00049: On October 28, 2026, Microsoft Corporation issued a press release announcing its financial results for the fiscal quarter ended September 30, 2026. A copy of the press release is furnished as Exhibit 99.1 to this report.
+00050: In accordance with General Instruction B.2 of Form 8-K, the information in this Current Report on Form 8-K, including Exhibit 99.1, shall not be deemed to be “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liability of that section, and shall not be incorporated by reference into any registration statement or other document filed under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such filing.
+00051: Item 9.01.
+00052: Financial Statements and Exhibits
+00053: (d) Exhibits:
+00054: 99.1
+00055: Press release, dated October 28, 2026 issued by Microsoft Corporation
+00056: 104
+00057: Cover Page Interactive Data File (embedded within the Inline XBRL document)
+00058: SIGNATURE
+00059: Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+00060: MICROSOFT CORPORATION
+00061: (Registrant)
+00062: Date: October 28, 2026
+00063: /s/ ALICE L. JOLLA
+00064: Alice L. Jolla
+00065: Corporate Vice President and
+00066: Chief Accounting Officer

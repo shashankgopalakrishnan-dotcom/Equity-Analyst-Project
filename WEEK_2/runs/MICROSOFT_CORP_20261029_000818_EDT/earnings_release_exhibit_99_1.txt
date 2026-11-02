@@ -1,0 +1,672 @@
+00001: EX-99.1
+00002: 2
+00003: msft-ex99_1.htm
+00004: EX-99.1
+00005: EX-99.1
+00006: Exhibit 99.1
+00007: Microsoft Announces First Quarter Results
+00008: REDMOND, Wash. — October 28, 2026 — Microsoft Corp. today announced the following results for the quarter ended September 30, 2026, as compared to the corresponding period of last fiscal year:
+00009: •
+00010: Revenue was $92.3 billion and increased 19%
+00011: •
+00012: Operating income was $45.9 billion and increased 21% (up 22% in constant currency)
+00013: •
+00014: Net income was $36.6 billion and increased 32% on a GAAP basis, and was $36.4 billion and increased 18% (up 19% in constant currency) on a non-GAAP basis
+00015: •
+00016: Diluted earnings per share was $4.92 and increased 32% on a GAAP basis, and was $4.89 and increased 18% (up 19% in constant currency) on a non-GAAP basis
+00017: •
+00018: Non-GAAP results exclude the impact from investments in OpenAI, explained in the Non-GAAP Definition section below
+00019: “We are delivering greater capability, choice, control, and cost efficiency for customers across our entire stack,” said Satya Nadella, chairman and chief executive officer of Microsoft. “By helping organizations build and own their own intelligence, and earning trust through agent safety and security, we are translating our innovation into growing adoption and real-world impact across every industry.”
+00020: “We delivered a strong start to the fiscal year with Microsoft Cloud revenue of $63.9 billion, with growth accelerating to 30% (up 31% in constant currency) year-over-year,” said Amy Hood, executive vice president and chief financial officer of Microsoft. “Results exceeded expectations across revenue, operating income, and earnings per share.”
+00021: The following table adjusts for the impact from investments in OpenAI and reconciles our financial results reported in accordance with generally accepted accounting principles (GAAP) to non-GAAP financial results. Additional information regarding our non-GAAP definition is provided below. All growth comparisons relate to the corresponding period in the last fiscal year.
+00022: Three Months Ended September 30,
+00023: 2026
+00024: 2025
+00025: Percentage Change Y/Y
+00026: Percentage Change Y/Y
+00027: ($ in millions, except per share amounts)
+00028: As Reported (GAAP)
+00029: Impact from OpenAI*
+00030: As Adjusted (non-GAAP)
+00031: As Reported (GAAP)
+00032: Impact from OpenAI*
+00033: As Adjusted (non-GAAP)
+00034: GAAP
+00035: Constant Currency
+00036: Net Impact from OpenAI*
+00037: Non-GAAP
+00038: Non-GAAP Constant Currency
+00039: Net income
+00040: $36,629
+00041: $(207)
+00042: $36,422
+00043: $27,747
+00044: $3,086
+00045: $30,833
+00046: 32%
+00047: 33%
+00048: $(3,293)
+00049: 18%
+00050: 19%
+00051: Diluted earnings per share
+00052: $4.92
+00053: $(0.03)
+00054: $4.89
+00055: $3.72
+00056: $0.41
+00057: $4.13
+00058: 32%
+00059: 33%
+00060: $(0.44)
+00061: 18%
+00062: 19%
+00063: *Impact from OpenAI adjusts for the impact from investments in OpenAI
+00064: Business Highlights
+00065: Revenue in Agents and Infra was $76.8 billion and increased 25%, with the following business highlights:
+00066: •
+00067: Commercial remaining performance obligation increased 73% to $677 billion
+00068: •
+00069: Microsoft Cloud revenue was $63.9 billion and increased 30% (up 31% in constant currency)
+00070: •
+00071: Azure revenue increased 48%
+00072: •
+00073: Microsoft 365 commercial cloud revenue increased 18% (up 19% in constant currency) on an adjusted basis, normalized for a 1-point benefit from in-period revenue recognition in the prior year, and increased 17% (up 18% in constant currency) on a reported basis
+00074: •
+00075: Microsoft 365 consumer cloud revenue increased 17% (up 16% in constant currency)
+00076: •
+00077: Industry solutions cloud revenue increased 10%
+00078: Revenue in Devices and Consumer was $15.5 billion and decreased 3%, with the following business highlights:
+00079: •
+00080: Search and advertising revenue excluding traffic acquisition costs increased 12%
+00081: •
+00082: XBOX content and services revenue decreased 2% (down 1% in constant currency)
+00083: •
+00084: Windows OEM and Devices revenue decreased 22%
+00085: Microsoft returned $10.2 billion to shareholders in the form of dividends and share repurchases in the first quarter of fiscal year 2027.
+00086: Business Outlook
+00087: Microsoft will provide forward-looking guidance in connection with this quarterly earnings announcement on its earnings conference call and webcast.
+00088: Quarterly Highlights, Product Releases, and Customer Stories
+00089: Every quarter Microsoft delivers hundreds of products, services, and enhancements. These releases are driven by years of significant research and development investments, to empower customers with greater productivity, security, and differentiated value.
+00090: This momentum is reflected in stories that showcase how our technology is shaping industries and driving customer success. We share innovation updates on our product blogs across Azure, Microsoft 365, and more on our Official Microsoft blog.
+00091: Webcast Details
+00092: Satya Nadella, chairman and chief executive officer, Amy Hood, executive vice president and chief financial officer, Alice Jolla, chief accounting officer, Brian DeFoe, deputy general counsel and corporate secretary, and Jonathan Neilson, vice president of investor relations, will host a conference call and webcast at 2:30 p.m. Pacific time (5:30 p.m. Eastern time) today to discuss details of the company’s performance for the quarter and certain forward-looking information. The session may be accessed at http://www.microsoft.com/en-us/investor. Participants can also dial into the conference call at (877) 407-0666 or +1 (201) 689-8023 for international, no password required. The webcast will be available for replay through the close of business on October 28, 2027.
+00093: Non-GAAP Definition
+00094: Impact from investments in OpenAI. In the first quarter of fiscal year 2027, net income and diluted earnings per share were impacted by net gains from investments in OpenAI, which resulted in an increase in net income and diluted earnings per share of $207 million and $0.03, respectively. In the first quarter of fiscal year 2026, net income and diluted earnings per share were impacted by net losses from investments in OpenAI, which resulted in a decrease in net income and diluted earnings per share of $3.1 billion and $0.41, respectively.
+00095: Microsoft has provided non-GAAP financial measures related to the impact from investments in OpenAI to aid investors in better understanding our performance. Microsoft believes these non-GAAP measures assist investors by providing additional insight into its operational performance and help clarify trends affecting its business. For comparability of reporting, management considers non-GAAP measures in conjunction with GAAP financial results in evaluating business performance. The non-GAAP financial measures presented in this release should not be considered as a substitute for, or superior to, the measures of financial performance prepared in accordance with GAAP.
+00096: Constant Currency
+00097: Microsoft presents constant currency information to provide a framework for assessing how our underlying businesses performed excluding the effect of foreign currency rate fluctuations. To present this information, current and comparative prior period results for entities reporting in currencies other than United States dollars are converted into United States dollars using the average exchange rates from the comparative period rather than the actual exchange rates in effect during the respective periods. All growth comparisons relate to the corresponding period in the last fiscal year. Microsoft has provided this non-GAAP financial information to aid investors in better understanding our performance. The non-GAAP financial measures presented in this release should not be considered as a substitute for, or superior to, the measures of financial performance prepared in accordance with GAAP.
+00098: Financial Performance Constant Currency Reconciliation
+00099: Three Months Ended September 30,
+00100: 2026
+00101: 2025
+00102: Percentage Change Y/Y
+00103: Percentage Change Y/Y
+00104: ($ in millions, except per share amounts)
+00105: As Reported (GAAP)
+00106: As Adjusted (non-GAAP)
+00107: As Reported (GAAP)
+00108: As Adjusted (non-GAAP)
+00109: GAAP
+00110: Non-GAAP
+00111: Constant Currency Impact
+00112: Constant Currency
+00113: Non-GAAP Constant Currency
+00114: Revenue
+00115: $92,279
+00116: -
+00117: $77,673
+00118: -
+00119: 19%
+00120: -
+00121: $(309)
+00122: 19%
+00123: -
+00124: Operating income
+00125: $45,915
+00126: -
+00127: $37,961
+00128: -
+00129: 21%
+00130: -
+00131: $(297)
+00132: 22%
+00133: -
+00134: Net income
+00135: $36,629
+00136: $36,422
+00137: $27,747
+00138: $30,833
+00139: 32%
+00140: 18%
+00141: $(242)
+00142: 33%
+00143: 19%
+00144: Diluted earnings per share
+00145: $4.92
+00146: $4.89
+00147: $3.72
+00148: $4.13
+00149: 32%
+00150: 18%
+00151: $(0.03)
+00152: 33%
+00153: 19%
+00154: Segment Revenue Constant Currency Reconciliation
+00155: Three Months Ended September 30,
+00156: 2026
+00157: 2025
+00158: Percentage Change Y/Y
+00159: Percentage Change Y/Y
+00160: ($ in millions)
+00161: As Reported (GAAP)
+00162: As Reported (GAAP)
+00163: GAAP
+00164: Constant Currency Impact
+00165: Constant Currency
+00166: Agents and Infra
+00167: $76,795
+00168: $61,672
+00169: 25%
+00170: $(290)
+00171: 25%
+00172: Devices and Consumer
+00173: $15,484
+00174: $16,001
+00175: (3)%
+00176: $(19)
+00177: (3)%
+00178: We have recast certain prior period amounts to conform to the way we internally manage and monitor our business, which reflects the fiscal year 2027 changes to our segments announced in September 2026.
+00179: Selected Product and Service Information Constant Currency Reconciliation
+00180: Three Months Ended September 30, 2026
+00181: Percentage Change Y/Y (GAAP)
+00182: Constant Currency Impact
+00183: Percentage Change Y/Y Constant Currency
+00184: Commercial remaining performance obligation
+00185: 73%
+00186: 0%
+00187: 73%
+00188: Microsoft Cloud revenue
+00189: 30%
+00190: 1%
+00191: 31%
+00192: Azure revenue
+00193: 48%
+00194: 0%
+00195: 48%
+00196: Microsoft 365 commercial cloud revenue
+00197: 17%
+00198: 1%
+00199: 18%
+00200: Microsoft 365 consumer cloud revenue
+00201: 17%
+00202: (1)%
+00203: 16%
+00204: Industry solutions cloud revenue
+00205: 10%
+00206: 0%
+00207: 10%
+00208: Search and advertising revenue excluding traffic acquisition costs
+00209: 12%
+00210: 0%
+00211: 12%
+00212: XBOX content and services revenue
+00213: (2)%
+00214: 1%
+00215: (1)%
+00216: Windows OEM and devices revenue
+00217: (22)%
+00218: 0%
+00219: (22)%
+00220: About Microsoft
+00221: Microsoft (Nasdaq “MSFT” @microsoft) creates platforms and tools powered by AI to deliver innovative solutions that meet the evolving needs of our customers. The technology company is committed to making AI available broadly and doing so responsibly, with a mission to empower every person and every organization on the planet to achieve more.
+00222: Forward-Looking Statements
+00223: Statements in this release that are “forward-looking statements” are based on current expectations and assumptions that are subject to risks and uncertainties. Actual results could differ materially because of factors such as:
+00224: •
+00225: intense competition in all of our markets that could adversely affect our results of operations;
+00226: •
+00227: substantial investments in cloud and AI strategy that depend on customer demand, technological developments, competitive dynamics, and regulatory condition;
+00228: •
+00229: development, delivery, and maintenance of competitive cloud-based and AI products and services that achieve broad customer adoption and sustainable revenue growth;
+00230: •
+00231: significant investments in products and services that may not achieve expected returns;
+00232: •
+00233: acquisitions, joint ventures, and strategic alliances that could have an adverse effect on our business;
+00234: •
+00235: cyberattacks and security vulnerabilities that could lead to reduced revenue, increased costs, liability claims, or harm to our reputation or competitive position;
+00236: •
+00237: disclosure and misuse of personal data that could cause liability and harm to our reputation;
+00238: •
+00239: the possibility that we may not be able to protect information in our products and services from use by others;
+00240: •
+00241: abuse of our platforms that may harm our reputation or user engagement;
+00242: •
+00243: products and services, how they are used by customers, and how third-party products and services interact with them, presenting security, privacy, and execution risks;
+00244: •
+00245: issues about the development, deployment, and use of AI that may result in reputational or competitive harm, or liability;
+00246: •
+00247: inability to develop and expand adequate infrastructure;
+00248: •
+00249: supply or other quality problems;
+00250: •
+00251: excessive outages, disruptions, or capacity constraints of our services if we fail to maintain an adequate operations infrastructure or secure resources necessary to support it;
+00252: •
+00253: potential consequences of new, existing, and evolving legal and regulatory requirements;
+00254: •
+00255: claims against us that could result in adverse outcomes in legal disputes;
+00256: •
+00257: uncertainties relating to our business with government customers;
+00258: •
+00259: additional tax liabilities;
+00260: •
+00261: an inability to protect and utilize our intellectual property may harm our business and operating results;
+00262: •
+00263: claims that Microsoft has infringed the intellectual property rights of others;
+00264: •
+00265: damage to our reputation or our brands that may harm our business and results of operations;
+00266: •
+00267: adverse economic or market conditions that could harm our business;
+00268: •
+00269: catastrophic events or geopolitical conditions that could disrupt our business;
+00270: •
+00271: exposure to increased economic and operational uncertainties from operating a global business, including the effects of foreign currency exchange; and
+00272: •
+00273: the dependence of our business on our ability to attract and retain talented employees.
+00274: For more information about risks and uncertainties associated with Microsoft’s business, please refer to the “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and “Risk Factors” sections of Microsoft’s SEC filings, including, but not limited to, its annual report on Form 10-K and quarterly reports on Form 10-Q, copies of which may be obtained by contacting Microsoft’s Investor Relations department at (800) 285-7772 or at Microsoft’s Investor Relations website at http://www.microsoft.com/en-us/investor.
+00275: All information in this release is as of September 30, 2026. The company undertakes no duty to update any forward-looking statement to conform the statement to actual results or changes in the company’s expectations.
+00276: For more information, press only:
+00277: Microsoft Media Relations, WE Communications for Microsoft, (425) 638-7777, rrt@we-worldwide.com
+00278: For more information, financial analysts and investors only:
+00279: Jonathan Neilson, Vice President, Investor Relations, (425) 706-4400
+00280: Note to editors: For more information, news and perspectives from Microsoft, please visit the Microsoft News Center at http://www.microsoft.com/news. Web links, telephone numbers, and titles were correct at time of publication, but may since have changed. Shareholder and financial information, as well as today’s 2:30 p.m. Pacific time conference call with investors and analysts, is available at http://www.microsoft.com/en-us/investor.
+00281: MICROSOFT CORPORATION
+00282: INCOME STATEMENTS
+00283: (In millions, except per share amounts) (Unaudited)
+00284: Three Months Ended
+00285: September 30,
+00286: 2026
+00287: 2025
+00288: Revenue:
+00289: Product
+00290: $14,631
+00291: $15,922
+00292: Service and other
+00293: 77,648
+00294: 61,751
+00295: Total revenue
+00296: 92,279
+00297: 77,673
+00298: Cost of revenue:
+00299: Product
+00300: 2,471
+00301: 2,922
+00302: Service and other
+00303: 27,249
+00304: 21,121
+00305: Total cost of revenue
+00306: 29,720
+00307: 24,043
+00308: Gross margin
+00309: 62,559
+00310: 53,630
+00311: Research and development
+00312: 9,047
+00313: 8,146
+00314: Sales and marketing
+00315: 5,716
+00316: 5,717
+00317: General and administrative
+00318: 1,881
+00319: 1,806
+00320: Operating income
+00321: 45,915
+00322: 37,961
+00323: Other income (expense), net
+00324: 38
+00325: (3,660)
+00326: Income before income taxes
+00327: 45,953
+00328: 34,301
+00329: Provision for income taxes
+00330: 9,324
+00331: 6,554
+00332: Net income
+00333: $36,629
+00334: $27,747
+00335: Earnings per share:
+00336: Basic
+00337: $4.93
+00338: $3.73
+00339: Diluted
+00340: $4.92
+00341: $3.72
+00342: Weighted average shares outstanding:
+00343: Basic
+00344: 7,426
+00345: 7,433
+00346: Diluted
+00347: 7,446
+00348: 7,466
+00349: COMPREHENSIVE INCOME STATEMENTS
+00350: (In millions) (Unaudited)
+00351: Three Months Ended
+00352: September 30,
+00353: 2026
+00354: 2025
+00355: Net income
+00356: $36,629
+00357: $27,747
+00358: Other comprehensive income (loss), net of tax:
+00359: Net change related to derivatives
+00360: 3
+00361: (3)
+00362: Net change related to investments
+00363: (559)
+00364: 687
+00365: Translation adjustments and other
+00366: (17)
+00367: (98)
+00368: Other comprehensive income (loss)
+00369: (573)
+00370: 586
+00371: Comprehensive income
+00372: $36,056
+00373: $28,333
+00374: BALANCE SHEETS
+00375: (In millions) (Unaudited)
+00376: September 30,
+00377: 2026
+00378: June 30,
+00379: 2026
+00380: Assets
+00381: Current assets:
+00382: Cash and cash equivalents
+00383: $20,281
+00384: $20,935
+00385: Short-term investments
+00386: 44,228
+00387: 55,908
+00388: Total cash, cash equivalents, and short-term investments
+00389: 64,509
+00390: 76,843
+00391: Accounts receivable, net of allowance for doubtful accounts of $728 and $1,040
+00392: 62,084
+00393: 80,876
+00394: Inventories
+00395: 1,835
+00396: 1,397
+00397: Other current assets
+00398: 57,709
+00399: 48,594
+00400: Total current assets
+00401: 186,137
+00402: 207,710
+00403: Property and equipment, net of accumulated depreciation of $127,208 and $118,691
+00404: 346,844
+00405: 313,076
+00406: Operating lease right-of-use assets
+00407: 30,178
+00408: 24,177
+00409: Equity and other investments
+00410: 37,808
+00411: 36,348
+00412: Goodwill
+00413: 119,646
+00414: 119,651
+00415: Intangible assets, net
+00416: 17,751
+00417: 18,609
+00418: Other long-term assets
+00419: 41,039
+00420: 38,805
+00421: Total assets
+00422: $779,403
+00423: $758,376
+00424: Liabilities and stockholders' equity
+00425: Current liabilities:
+00426: Accounts payable
+00427: $42,625
+00428: $42,416
+00429: Current portion of long-term debt
+00430: 4,391
+00431: 9,227
+00432: Accrued compensation
+00433: 10,156
+00434: 14,945
+00435: Short-term income taxes
+00436: 1,447
+00437: 2,534
+00438: Short-term unearned revenue
+00439: 66,866
+00440: 72,965
+00441: Other current liabilities
+00442: 26,483
+00443: 26,738
+00444: Total current liabilities
+00445: 151,968
+00446: 168,825
+00447: Long-term debt
+00448: 31,090
+00449: 31,067
+00450: Long-term income taxes
+00451: 29,235
+00452: 28,647
+00453: Long-term unearned revenue
+00454: 2,697
+00455: 2,747
+00456: Deferred income taxes
+00457: 3,174
+00458: 3,054
+00459: Operating lease liabilities
+00460: 21,719
+00461: 16,532
+00462: Other long-term liabilities
+00463: 69,011
+00464: 65,117
+00465: Total liabilities
+00466: 308,894
+00467: 315,989
+00468: Commitments and contingencies
+00469: Stockholders' equity:
+00470: Common stock and paid-in capital - shares authorized 24,000; outstanding 7,427 and 7,427
+00471: 119,571
+00472: 117,406
+00473: Retained earnings
+00474: 354,795
+00475: 328,265
+00476: Accumulated other comprehensive loss
+00477: (3,857)
+00478: (3,284)
+00479: Total stockholders' equity
+00480: 470,509
+00481: 442,387
+00482: Total liabilities and stockholders' equity
+00483: $779,403
+00484: $758,376
+00485: CASH FLOWS STATEMENTS
+00486: (In millions) (Unaudited)
+00487: Three Months Ended
+00488: September 30,
+00489: 2026
+00490: 2025
+00491: Operations
+00492: Net income
+00493: $36,629
+00494: $27,747
+00495: Adjustments to reconcile net income to net cash from operations:
+00496: Depreciation, amortization, and other
+00497: 11,744
+00498: 8,147
+00499: Stock-based compensation expense
+00500: 3,134
+00501: 2,983
+00502: Net recognized losses (gains) on investments and derivatives
+00503: (231)
+00504: 3,907
+00505: Deferred income taxes
+00506: 4,609
+00507: 2,491
+00508: Changes in operating assets and liabilities:
+00509: Accounts receivable
+00510: 17,104
+00511: 16,490
+00512: Inventories
+00513: (436)
+00514: (192)
+00515: Other current assets
+00516: (1,903)
+00517: (1,162)
+00518: Other long-term assets
+00519: (6,389)
+00520: (394)
+00521: Accounts payable
+00522: 525
+00523: (614)
+00524: Unearned revenue
+00525: (5,942)
+00526: (5,418)
+00527: Income taxes
+00528: (556)
+00529: (2,944)
+00530: Other current liabilities
+00531: (4,528)
+00532: (5,507)
+00533: Other long-term liabilities
+00534: 4,240
+00535: (477)
+00536: Net cash from operations
+00537: 58,000
+00538: 45,057
+00539: Financing
+00540: Repayments of debt
+00541: (4,850)
+00542: 0
+00543: Common stock issued
+00544: 598
+00545: 689
+00546: Common stock repurchased
+00547: (4,379)
+00548: (5,650)
+00549: Common stock cash dividends paid
+00550: (6,757)
+00551: (6,169)
+00552: Other, net
+00553: (1,252)
+00554: (669)
+00555: Net cash used in financing
+00556: (16,640)
+00557: (11,799)
+00558: Investing
+00559: Additions to property and equipment
+00560: (39,367)
+00561: (19,394)
+00562: Acquisition of companies, net of cash acquired and divestitures, and purchases of intangible and other assets
+00563: (397)
+00564: (578)
+00565: Purchases of investments
+00566: (5,394)
+00567: (17,671)
+00568: Maturities of investments
+00569: 5,672
+00570: 6,031
+00571: Sales of investments
+00572: 10,470
+00573: 3,262
+00574: Other, net
+00575: (12,949)
+00576: (6,209)
+00577: Net cash used in investing
+00578: (41,965)
+00579: (34,559)
+00580: Effect of foreign exchange rates on cash and cash equivalents
+00581: (49)
+00582: (92)
+00583: Net change in cash and cash equivalents
+00584: (654)
+00585: (1,393)
+00586: Cash and cash equivalents, beginning of period
+00587: 20,935
+00588: 30,242
+00589: Cash and cash equivalents, end of period
+00590: $20,281
+00591: $28,849
+00592: We have recast certain prior period amounts to conform to the current period presentation.
+00593: SEGMENT RESULTS
+00594: (In millions) (Unaudited)
+00595: Three Months Ended
+00596: September 30,
+00597: 2026
+00598: 2025
+00599: Agents and Infra
+00600: Revenue
+00601: $76,795
+00602: $61,672
+00603: Cost of revenue
+00604: 23,887
+00605: 17,701
+00606: Operating expenses
+00607: 12,350
+00608: 11,253
+00609: Operating income
+00610: $40,558
+00611: $32,718
+00612: Devices and Consumer
+00613: Revenue
+00614: $15,484
+00615: $16,001
+00616: Cost of revenue
+00617: 5,833
+00618: 6,342
+00619: Operating expenses
+00620: 4,294
+00621: 4,416
+00622: Operating income
+00623: $5,357
+00624: $5,243
+00625: Total
+00626: Revenue
+00627: $92,279
+00628: $77,673
+00629: Cost of revenue
+00630: 29,720
+00631: 24,043
+00632: Operating expenses
+00633: 16,644
+00634: 15,669
+00635: Operating income
+00636: $45,915
+00637: $37,961
+00638: We have recast certain prior period amounts to conform to the way we internally manage and monitor our business, which reflects the fiscal year 2027 changes to our segments announced in September 2026.
+00639: PRODUCT AND SERVICE OFFERINGS REVENUE
+00640: (In millions) (Unaudited)
+00641: Three Months Ended
+00642: September 30,
+00643: 2026
+00644: 2025
+00645: Azure
+00646: $33,165
+00647: $22,384
+00648: Microsoft 365 cloud
+00649: 27,778
+00650: 23,694
+00651: Productivity and server licensing
+00652: 8,407
+00653: 8,678
+00654: Search and advertising
+00655: 6,554
+00656: 5,942
+00657: XBOX
+00658: 5,379
+00659: 5,508
+00660: Industry solutions
+00661: 5,337
+00662: 4,894
+00663: Windows OEM and devices
+00664: 3,551
+00665: 4,551
+00666: Frontier and support services
+00667: 2,108
+00668: 2,022
+00669: Total revenue
+00670: $92,279
+00671: $77,673
+00672: We have recast certain prior period amounts to conform to the way we internally manage and monitor our business, which reflects the fiscal year 2027 changes to our segments announced in September 2026.
