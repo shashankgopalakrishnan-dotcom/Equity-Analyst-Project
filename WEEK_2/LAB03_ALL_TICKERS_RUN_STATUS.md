@@ -50,7 +50,7 @@ The five reviewed drafts incorporate the findings in their audit notes. The orig
 Still pending:
 
 - Review the AI-assisted audit notes and corrected drafts for the reports you plan to submit. The user confirmed that AI may complete this audit.
-- If you need the CMG Lab 02 Step 7 filing-line check, obtain each peer's 10-K statement lines; the original run saved their Company Facts but not their 10-K text. The corrected Lab 03 draft uses CMG's no-borrowings disclosure for 0.00x debt/equity.
+- CMG Lab 02 Step 7 is now verified against the latest MCD, YUM, and CAVA 10-K statements. The numbered peer filing texts and calculations are in `WEEK_2/CMG_LAB02_STEP7_PEER_CHECK.md` and the CMG run's `peers/` folders. The corrected Lab 03 draft uses CMG's no-borrowings disclosure for 0.00x debt/equity.
 - Ask the partner to check two CMG claims and record their source lines. Complete the partner reflection.
 - Partner-selected company: CMG. The data run, AI-assisted audit, and corrected draft are complete. The partner must check two claims.
 - Complete the partner reflection and Brightspace Checkpoint 1 submission. Use a commit link the grader can access.

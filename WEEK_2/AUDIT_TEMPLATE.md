@@ -2,7 +2,7 @@
 
 This worksheet records the AI-assisted audit against the saved filings. The user confirmed that AI may complete the audit. Partner-check fields remain open until the partner reviews two claims.
 
-> **Status: AI-assisted Lab 03 filing audit completed on 2026-11-02.** The user confirmed that AI may complete the audit. The older Lab 02 extractor did not provide current debt or debt/equity, so those two original data-pull checks remain incorrect. The reviewed Lab 03 draft calculates 0.00x from the 10-K's no-borrowings disclosure; leases are excluded. The Lab 02 peer statement-line comparison is still incomplete because the run saved Company Facts but did not save the peer 10-K texts. Partner checks, reflection, and Brightspace fields remain open.
+> **Status: AI-assisted Lab 03 filing audit completed on 2026-11-02.** The user confirmed that AI may complete the audit. The older Lab 02 extractor did not provide current debt or debt/equity, so those two original data-pull checks remain incorrect. The reviewed Lab 03 draft calculates 0.00x from the 10-K's no-borrowings disclosure; leases are excluded. The CMG peer statement-line check is complete: the latest 10-K text for MCD, YUM, and CAVA is saved in the CMG run folder and the revenue, operating income, periods, and margins are checked below. Partner checks, reflection, and Brightspace fields remain open.
 
 **Audited run:** `WEEK_2/runs/CHIPOTLE_MEXICAN_GRILL_INC_20261101_101158_EST/`
 **Report:** `CMG_lab03_report_20261101_101604.md` (model `qwen3:8b`)
@@ -18,7 +18,7 @@ This worksheet records the AI-assisted audit against the saved filings. The user
 | 4 | XBRL concept, unit, fiscal period, and accession match the requested fact |  | ✓ | The listed facts match the saved Company Facts data. **Incomplete:** `current_debt` is null; the run does not provide the requested current portion or its tag. `LongTermDebt` is 0. Verify the debt line in the 10-K and correct or confirm the program output. |
 | 5 | Ratio arithmetic and definitions |  | ✓ | Revenue growth 5.41%, operating margin 16.23%, ROAE 47.36%, FCF $1,447.6M, and P/E 24.54 recalculate from the listed inputs. **Incomplete:** debt/equity is printed as unavailable because `current_debt` is null. Do not mark this step correct until you verify the filing and required result. P/E uses Oct-2026 price with FY2025 EPS, not TTM EPS. |
 | 6 | Latest-quarter total revenue and diluted GAAP EPS match the release | ✓ |  | Release line 70: total revenue $3,293,162K vs $3,003,444K (+9.65%, release says 9.6%). Line 88: diluted EPS $0.27 vs $0.29. The numbers are right; the *report* leaves out the EPS (see claim 11). |
-| 7 | Peer facts and operating margin use the same definition |  |  | The saved Company Facts calculations use `OperatingIncomeLoss` ÷ revenue: MCD 46.1%, YUM 31.3%, CAVA 4.7%. This Lab 02 filing-line check remains incomplete because peer 10-K text was not saved in the run. The reviewed Lab 03 draft labels these values as Company Facts calculations and notes the limits of comparing franchisors with CMG. |
+| 7 | Peer facts and operating margin use the same definition | ✓ |  | **Verified against each latest 10-K statement.** MCD FY2025: total revenue $26,885m (line 00808); operating income $12,393m (line 00821); margin `$12,393m / $26,885m = 46.10%`. YUM FY2025: total revenue $8,214m (line 01083); operating profit $2,574m (line 01092); margin `$2,574m / $8,214m = 31.34%`. CAVA FY2025: revenue $1,179,664 thousand (line 01156); income from operations $55,285 thousand (line 01170); margin `$55,285k / $1,179,664k = 4.69%`. Each revenue and operating-income pair has the same fiscal period and uses GAAP totals. See [`CMG_LAB02_STEP7_PEER_CHECK.md`](CMG_LAB02_STEP7_PEER_CHECK.md) and the saved peer `10k.txt` files. |
 
 Partner checks: claim/step 1: ____________________  claim/step 2: ____________________
 
@@ -64,7 +64,7 @@ Detail on the other claims:
 | "7.2% YoY labor cost increase" | correct | 10-K line 526 (dollars, $2,991.7M vs $2,789.8M) |
 | $1.6B repurchase authorization left; $110M bought in Q3 | correct | Release line 35 |
 | Price $27.98, P/E 24.54 | correct | Manifest quote 2026-10-27; 27.98 ÷ 1.14. See the Lab 02 step 5 caveat. |
-| Peer margins MCD 46.1%, YUM 31.3%, CAVA 4.7% | correct | Recomputed from the peer company-facts files. See the Lab 02 step 7 caveat. |
+| Peer margins MCD 46.10%, YUM 31.34%, CAVA 4.69% | correct | Recomputed from each peer's latest 10-K statement values and matched to the saved Company Facts. See [`CMG_LAB02_STEP7_PEER_CHECK.md`](CMG_LAB02_STEP7_PEER_CHECK.md). |
 | Cash from operations $2.114B | correct | XBRL FY2025 $2,113,926,000 |
 
 ## Recommendation review
