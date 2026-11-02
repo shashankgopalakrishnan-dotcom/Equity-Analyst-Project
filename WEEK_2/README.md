@@ -1,6 +1,6 @@
 # FIN 67110 — Week 2
 
-**Updated:** October 26, 2026  
+**Updated:** November 2, 2026
 **Official page:** [Week 2 — The Desk, Then Make It Yours](https://cinderzhang.github.io/FIN67110-Fall2026/week-02/index.html)
 
 ## Status
@@ -12,6 +12,7 @@
 - **Course audit:** Still needs a hand check of each claim and ratio and the two partner marks. Automated extraction is a draft aid, not proof of correct tagging.
 - **Lab 03 reports:** On November 1, 2026, the app completed sequential runs for COST, WMT, TGT, BJ, AAPL, and MSFT using the `qwen3:8b` override. The exact paths are in [`LAB03_ALL_TICKERS_RUN_STATUS.md`](LAB03_ALL_TICKERS_RUN_STATUS.md). Each report has the five required headings. These are model drafts, not audited reports. A spot review found financial and peer claims that need checking against the filings.
 - **Partner and Brightspace work:** The partner selected CMG. Its seven-step run and report are saved under `runs/CHIPOTLE_MEXICAN_GRILL_INC_20261101_101158_EST/`. The student must audit all eleven claims, and the partner must check two claims. Complete the partner reflection, then submit Checkpoint 1 with a commit link the grader can access.
+- **Current repository commit:** Selected coursework files and Lab 03 reports/runs were pushed to the private repository in commit `9bc9811`. The user must finish the hand audit and partner steps before submitting in Brightspace.
 - **GitHub:** The existing repository is private. Week 2 files were pushed under the user's earlier authorization. Latest handoff commit is recorded in [`RESTART_HERE.md`](../RESTART_HERE.md). Keep `.env`, the supplied PDFs, `.vscode/`, and `CONVERSATION.md` out of the repository.
 
 ## Lab 02 evidence

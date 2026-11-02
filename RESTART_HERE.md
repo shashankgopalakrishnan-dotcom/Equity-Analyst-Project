@@ -14,7 +14,8 @@ The active work is the Lab 03 report audit for COST and the partner-selected com
 - **Generated:** Reports for COST, WMT, TGT, BJ, AAPL, and MSFT completed sequentially on 2026-11-01 with `qwen3:8b`. The partner selected CMG; its seven-step SEC/XBRL run and Lab 03 report also completed on 2026-11-01, using MCD, YUM, and CAVA as peers. Exact paths are in [`WEEK_2/LAB03_ALL_TICKERS_RUN_STATUS.md`](WEEK_2/LAB03_ALL_TICKERS_RUN_STATUS.md). The `.env` model setting was not changed.
 - **Audit still pending:** These are model drafts. CMG's report has a visible 1,000x unit error in annual revenue and capex. COST also compares P/E with peer operating margins. Check all eleven claims, all other numbers, source lines, and recommendation logic against the filings before submission.
 - **Next action:** Audit the required COST and CMG reports. The partner must check two CMG claims. Complete the reflection. Submit Checkpoint 1 with a commit link that the grader can access.
-- Keep `.env` private. Do not commit or upload it. No GitHub push was made for these Lab 03 attempts.
+- **Repository:** The selected coursework and Lab 03 run/report artifacts were pushed to the private GitHub repository in commit `9bc9811`. The remote tree check found no `.env`, PDFs, `.vscode/`, or `CONVERSATION.md`. Brightspace was not submitted.
+- Keep `.env` private. Do not commit or upload it.
 
 ## Previous restart notes
 

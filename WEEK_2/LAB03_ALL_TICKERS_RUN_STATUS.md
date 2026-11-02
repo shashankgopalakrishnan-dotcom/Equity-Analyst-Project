@@ -1,6 +1,6 @@
 # Lab 03 report run status
 
-Updated: 2026-11-01
+Updated: 2026-11-02
 
 ## Generated reports
 
@@ -40,4 +40,5 @@ Still pending:
 - The model override was `qwen3:8b`. The `.env` model setting was not changed.
 - Prices are historical closes dated 2026-10-27 from the quotes already saved in each Lab 02 manifest. The report files state the price and date.
 - Earlier failed attempts on 2026-10-29 are superseded by these successful generations.
-- Keep `.env` private. No GitHub push was made for these reports.
+- The selected reports and run artifacts were pushed to the private repository in commit `9bc9811`. A remote-tree check confirmed `.env`, PDFs, `.vscode/`, and `CONVERSATION.md` are absent. Brightspace was not submitted.
+- Keep `.env` private.
