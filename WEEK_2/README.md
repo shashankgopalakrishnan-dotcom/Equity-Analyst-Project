@@ -12,7 +12,7 @@
 - **Course audit:** The user confirmed their review of the filing findings and corrected drafts for all seven reports, and the CMG Lab 02 and Lab 03 checks, on November 2, 2026. The original run still has the errors listed in the worksheet; the corrected draft addresses them.
 - **Lab 03 reports:** On November 1, 2026, the app completed sequential runs for COST, WMT, TGT, BJ, AAPL, and MSFT using the `qwen3:8b` override. CMG was the partner-selected ticker. The audit findings and corrected-draft paths are in [`LAB03_ALL_TICKERS_RUN_STATUS.md`](LAB03_ALL_TICKERS_RUN_STATUS.md).
 - **Partner and Brightspace work:** The partner's peer-check note is saved in the repository. Confirm and record the partner's final marks in [`AUDIT_TEMPLATE.md`](AUDIT_TEMPLATE.md), complete the partner reflection, then submit Checkpoint 1 in Brightspace with a commit link the grader can access.
-- **Current repository status:** Public repository; latest commit `278a105`. Keep `.env`, the supplied PDFs, `.vscode/`, and `CONVERSATION.md` out of the repository.
+- **Current repository status:** Public repository; student verification status pushed in commit `3473464`. Keep `.env`, the supplied PDFs, `.vscode/`, and `CONVERSATION.md` out of the repository.
 
 ## Lab 02 evidence
 
