@@ -1,6 +1,6 @@
 # MSFT Lab 03 report audit
 
-**Status:** AI-assisted filing audit. The user confirmed AI may be used for this audit. The partner check remains separate and is not recorded here.
+**Review status:** Filing review prepared with AI support at the student's direction. Student verification and partner checks remain separate and pending.
 
 **Report:** `MSFT_lab03_report_20261101_093901.md`
 **10-K:** `0001193125-26-323660`, year ended 2026-06-30

@@ -1,6 +1,6 @@
 # WMT Lab 03 report audit
 
-**Status:** AI-assisted filing audit. The user confirmed AI may be used for this audit. The partner check remains separate and is not recorded here.
+**Review status:** Filing review prepared with AI support at the student's direction. Student verification and partner checks remain separate and pending.
 
 **Report:** `WMT_lab03_report_20261101_093313.md`
 **10-K:** `0000104169-26-000055`, year ended 2026-01-31

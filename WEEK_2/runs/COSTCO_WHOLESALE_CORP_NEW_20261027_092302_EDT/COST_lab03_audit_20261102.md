@@ -1,6 +1,6 @@
 # COST Lab 03 audit
 
-**Status:** AI-assisted source audit. The user confirmed AI may be used for this audit. The partner check remains separate and is not recorded here.
+**Review status:** Filing review prepared with AI support at the student's direction. Student verification and partner checks remain separate and pending.
 
 **Report reviewed:** `COST_lab03_report_20261101_093152.md`
 **10-K:** accession `0000909832-26-000093`, fiscal year ended 2026-08-30
@@ -59,6 +59,6 @@ The corrected draft uses a **provisional Hold**. Its deciding figure is **47.79x
 
 ## Remaining review items
 
-- The AI-assisted audit records the filing values, periods, calculations, and citation corrections above. No core claim is left unaudited in this review.
+- This filing review records the values, periods, calculations, and citation corrections above. Check each finding against the cited filing before submitting.
 - The partner check remains pending.
 - The provisional Hold is an analytical judgment based on the evidence stated above, not a forecast or fair-value conclusion.

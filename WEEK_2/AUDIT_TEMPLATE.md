@@ -1,8 +1,8 @@
-# FIN 67110 Lab 02 and Lab 03 audit record
+# FIN 67110 Lab 02 and Lab 03 Audit Worksheet
 
-This worksheet records the AI-assisted audit against the saved filings. The user confirmed that AI may complete the audit. Partner-check fields remain open until the partner reviews two claims.
+This is your audit worksheet. It records a filing review prepared with AI support at your direction. Verify the findings against the filings and make or confirm your own marks before submission. Partner-check fields remain open until your partner reviews the required items.
 
-> **Status: AI-assisted Lab 03 filing audit completed on 2026-11-02.** The user confirmed that AI may complete the audit. The older Lab 02 extractor did not provide current debt or debt/equity, so those two original data-pull checks remain incorrect. The reviewed Lab 03 draft calculates 0.00x from the 10-K's no-borrowings disclosure; leases are excluded. The CMG peer statement-line check is complete: the latest 10-K text for MCD, YUM, and CAVA is saved in the CMG run folder and the revenue, operating income, periods, and margins are checked below. Partner checks, reflection, and Brightspace fields remain open.
+> **Review status: Filing review prepared with AI support on 2026-11-02. Your verification and the partner checks remain pending.** The older Lab 02 extractor did not provide current debt or debt/equity, so those two original data-pull checks remain incorrect. The reviewed Lab 03 draft calculates 0.00x from the 10-K's no-borrowings disclosure; leases are excluded. The CMG peer statement-line check is complete: the latest 10-K text for MCD, YUM, and CAVA is saved in the CMG run folder and the revenue, operating income, periods, and margins are checked below. Partner checks, reflection, and Brightspace fields remain open.
 
 **Audited run:** `WEEK_2/runs/CHIPOTLE_MEXICAN_GRILL_INC_20261101_101158_EST/`
 **Report:** `CMG_lab03_report_20261101_101604.md` (model `qwen3:8b`)
@@ -86,6 +86,16 @@ The report says **Buy**, driven by 9.6% Q3 revenue growth. The sourced evidence 
 - [x] Future Developments and Strategic Recommendations
 - [x] Investment Recommendation
 - [ ] Recommendation follows from sourced evidence and states uncertainty
+
+## Your verification before submission
+
+- [ ] Check the CMG filing selection against EDGAR. In particular, confirm the latest 8-K that reports Item 2.02 and its accession.
+- [ ] Check the Lab 02 Step 4 debt facts against the 10-K. The run printed no `current_debt` fact. Confirm the current-debt tag or the filing evidence for zero borrowings, and correct the data output if needed.
+- [ ] Redo the Lab 02 ratios from the printed inputs. Confirm the debt/equity definition and note that the P/E uses historical FY2025 EPS.
+- [ ] Mark the seven Lab 02 checks on your class worksheet. The CMG Step 7 peer figures and source lines are now recorded above and in `CMG_LAB02_STEP7_PEER_CHECK.md`.
+- [ ] For each Lab 03 report you plan to submit, check all eleven core claims, other material numbers, citations, and the recommendation against the filings. The CMG review still flags recommendation support and uncertainty for your attention.
+- [ ] Ask your partner to check two Lab 02 marks and two CMG report claims. Record the source lines for the claims.
+- [ ] Complete the partner reflection and submit Checkpoint 1 in Brightspace with a commit link the grader can open.
 
 Partner-selected company: Chipotle Mexican Grill, Inc.  Ticker: CMG  Reported this month: Oct 28, 2026 (Q3 2026 release)
 
