@@ -1,0 +1,31 @@
+{
+  "failing_parts": [
+    {
+      "part": "Overview",
+      "role": "research",
+      "why": "The 'Overview' section is missing from the research output. While the research markdown includes details about business model, competitive position, catalysts, and recent developments, it does not explicitly structure these into a dedicated 'Overview' section."
+    },
+    {
+      "part": "Market Positioning and Growth Outlook",
+      "role": "research",
+      "why": "The 'Market Positioning and Growth Outlook' section is missing from the research output. Although details on market presence, competition, and catalysts are included, they are not organized under a dedicated section heading."
+    },
+    {
+      "part": "Valuation Insights",
+      "role": "financial",
+      "why": "The 'Valuation Insights' section is missing from the financial output. While financial metrics and ratios such as P/E ratio and return on equity are included, they are not explicitly framed under a valuation insights heading."
+    },
+    {
+      "part": "Future Developments and Strategic Recommendations",
+      "role": "advisor",
+      "why": "The 'Future Developments and Strategic Recommendations' section is missing from the advisor output. Although the investment thesis discusses future outlook and strategic investments, it does not clearly delineate this under a dedicated heading."
+    }
+  ],
+  "revised_roles": [
+    "advisor",
+    "financial",
+    "research"
+  ],
+  "manager_calls": 2,
+  "missing_after_compile": []
+}

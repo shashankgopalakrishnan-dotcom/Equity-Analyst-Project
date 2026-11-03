@@ -1,0 +1,30 @@
+{
+  "failing_parts": [
+    {
+      "part": "Overview",
+      "role": "research",
+      "why": "The 'Overview' section is missing from the research output. The research output contains business model, competitive position, catalysts, and recent developments, but does not synthesize these into a cohesive 'Overview' section as required."
+    },
+    {
+      "part": "Market Positioning and Growth Outlook",
+      "role": "research",
+      "why": "The 'Market Positioning and Growth Outlook' section is missing from the research output. While the research output includes competitive position, catalysts, and recent developments, it does not consolidate this into a dedicated market positioning and growth outlook section."
+    },
+    {
+      "part": "Valuation Insights",
+      "role": "financial",
+      "why": "The 'Valuation Insights' section is missing from the financial output. The financial output contains financial facts and ratios but does not synthesize these into valuation insights as required."
+    },
+    {
+      "part": "Future Developments and Strategic Recommendations",
+      "role": "research",
+      "why": "The 'Future Developments and Strategic Recommendations' section is missing from the research output. While the research includes expansion plans, the strategic recommendations are not explicitly outlined in a dedicated section."
+    }
+  ],
+  "revised_roles": [
+    "financial",
+    "research"
+  ],
+  "manager_calls": 2,
+  "missing_after_compile": []
+}

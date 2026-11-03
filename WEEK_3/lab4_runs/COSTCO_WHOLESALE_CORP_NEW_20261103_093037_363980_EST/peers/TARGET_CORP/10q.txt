@@ -1,0 +1,907 @@
+00001: tgt-20260801
+00002: UNITED STATES
+00003: SECURITIES AND EXCHANGE COMMISSION
+00004: Washington, D.C. 20549
+00005: FORM 10-Q
+00006: (Mark One)
+00007: ☒ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+00008: For the quarterly period ended August 1, 2026
+00009: OR
+00010: ☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+00011: For the transition period from ____ to ____
+00012: Commission File Number 1-6049
+00013: TARGET CORPORATION
+00014: (Exact name of registrant as specified in its charter)
+00015: Minnesota
+00016: (State or other jurisdiction of incorporation or organization)
+00017: 1000 Nicollet Mall, Minneapolis, Minnesota
+00018: (Address of principal executive offices)
+00019: 41-0215170
+00020: (I.R.S. Employer Identification No.)
+00021: 55403
+00022: (Zip Code)
+00023: 612-304-6073
+00024: (Registrant’s telephone number, including area code)
+00025: Securities registered pursuant to Section 12(b) of the Act:
+00026: Title of each class Trading Symbol(s) Name of each exchange on which registered
+00027: Common stock, par value $0.0833 per share TGT New York Stock Exchange
+00028: Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒ No ☐
+00029: Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒ No ☐
+00030: Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of "large accelerated filer," "accelerated filer," "smaller reporting company," and "emerging growth company" in Rule 12b-2 of the Exchange Act.
+00031: Large accelerated filer ☒ Accelerated filer ☐
+00032: Non-accelerated filer ☐ Smaller reporting company ☐
+00033: Emerging growth company ☐
+00034: If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+00035: Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐ No ☒
+00036: Total shares of common stock, par value $0.0833, outstanding at August 21, 2026, were 454,296,736.
+00037: Table of Contents
+00038: Index to Notes
+00039: TARGET CORPORATION
+00040: TABLE OF CONTENTS
+00041: PART I
+00042: FINANCIAL INFORMATION
+00043: Item 1.
+00044: Financial Statements (unaudited)
+00045: Consolidated Statements of Operations
+00046: 1
+00047: Consolidated Statements of Comprehensive Income
+00048: 2
+00049: Consolidated Statements of Financial Position
+00050: 3
+00051: Consolidated Statements of Cash Flows
+00052: 4
+00053: Consolidated Statements of Shareholders’ Investment
+00054: 5
+00055: Notes to Consolidated Financial Statements
+00056: 8
+00057: Item 2.
+00058: Management’s Discussion and Analysis of Financial Condition and Results of Operations
+00059: 14
+00060: Item 3.
+00061: Quantitative and Qualitative Disclosures About Market Risk
+00062: 24
+00063: Item 4.
+00064: Controls and Procedures
+00065: 24
+00066: PART II
+00067: OTHER INFORMATION
+00068: Item 1.
+00069: Legal Proceedings
+00070: 25
+00071: Item 1A.
+00072: Risk Factors
+00073: 25
+00074: Item 2.
+00075: Unregistered Sales of Equity Securities and Use of Proceeds
+00076: 25
+00077: Item 3.
+00078: Defaults Upon Senior Securities
+00079: 25
+00080: Item 4.
+00081: Mine Safety Disclosures
+00082: 25
+00083: Item 5.
+00084: Other Information
+00085: 25
+00086: Item 6.
+00087: Exhibits
+00088: 26
+00089: Signatures
+00090: 27
+00091: FINANCIAL STATEMENTS
+00092: Table of Contents
+00093: Index to Notes
+00094: PART I. FINANCIAL INFORMATION
+00095: Item 1. Financial Statements
+00096: Consolidated Statements of Operations
+00097: Three Months Ended Six Months Ended
+00098: (millions, except per share data) (unaudited) August 1, 2026 August 2, 2025 August 1, 2026 August 2, 2025
+00099: Net sales $ 26,539 $ 25,211 $ 51,982 $ 49,057
+00100: Cost of sales 17,603 17,903 35,664 35,031
+00101: Selling, general, and administrative expenses 5,725 5,359 11,286 9,950
+00102: Depreciation and amortization (exclusive of depreciation included in cost of sales) 651 632 1,337 1,287
+00103: Operating income 2,560 1,317 3,695 2,789
+00104: Net interest expense 98 116 215 232
+00105: Net other expense / (income) 3 (17) (13) (43)
+00106: Earnings before income taxes 2,459 1,218 3,493 2,600
+00107: Provision for income taxes 582 283 835 629
+00108: Net earnings $ 1,877 $ 935 $ 2,658 $ 1,971
+00109: Basic earnings per share $ 4.13 $ 2.06 $ 5.85 $ 4.33
+00110: Diluted earnings per share $ 4.11 $ 2.05 $ 5.83 $ 4.32
+00111: Weighted average common shares outstanding
+00112: Basic 454.4 454.6 454.1 454.8
+00113: Diluted 456.6 455.6 456.2 456.1
+00114: Antidilutive shares 0.7 5.0 0.9 2.3
+00115: See accompanying Notes to Consolidated Financial Statements.
+00116: TARGET CORPORATION
+00117: Q2 2026 Form 10-Q
+00118: 1
+00119: FINANCIAL STATEMENTS
+00120: Table of Contents
+00121: Index to Notes
+00122: Consolidated Statements of Comprehensive Income
+00123: Three Months Ended Six Months Ended
+00124: (millions) (unaudited) August 1, 2026 August 2, 2025 August 1, 2026 August 2, 2025
+00125: Net earnings $ 1,877 $ 935 $ 2,658 $ 1,971
+00126: Other comprehensive income / (loss), net of tax
+00127: Pension 6 — 13 —
+00128: Cash flow hedges and currency translation adjustment (5) (6) (10) (10)
+00129: Other comprehensive income / (loss) 1 (6) 3 (10)
+00130: Comprehensive income $ 1,878 $ 929 $ 2,661 $ 1,961
+00131: See accompanying Notes to Consolidated Financial Statements.
+00132: TARGET CORPORATION
+00133: Q2 2026 Form 10-Q
+00134: 2
+00135: FINANCIAL STATEMENTS
+00136: Table of Contents
+00137: Index to Notes
+00138: Consolidated Statements of Financial Position
+00139: (millions, except footnotes) (unaudited) August 1, 2026 January 31,
+00140: 2026 August 2,
+00141: 2025
+00142: Assets
+00143: Cash and cash equivalents $ 5,411 $ 5,488 $ 4,341
+00144: Inventory 13,249 12,304 12,881
+00145: Other current assets 2,268 2,213 1,812
+00146: Total current assets 20,928 20,005 19,034
+00147: Property and equipment, net 34,767 33,749 33,568
+00148: Operating lease assets 3,587 3,703 3,694
+00149: Other noncurrent assets 1,953 2,033 1,555
+00150: Total assets $ 61,235 $ 59,490 $ 57,851
+00151: Liabilities and shareholders’ investment
+00152: Accounts payable $ 13,306 $ 12,622 $ 12,019
+00153: Accrued and other current liabilities 6,738 6,478 6,068
+00154: Current portion of long-term debt and other borrowings 1,136 2,130 1,136
+00155: Total current liabilities 21,180 21,230 19,223
+00156: Long-term debt and other borrowings 14,221 14,326 15,320
+00157: Noncurrent operating lease liabilities 3,332 3,462 3,514
+00158: Deferred income taxes 2,504 2,265 2,413
+00159: Other noncurrent liabilities 2,155 2,042 1,961
+00160: Total noncurrent liabilities 22,212 22,095 23,208
+00161: Shareholders’ investment
+00162: Common stock 38 38 38
+00163: Additional paid-in capital 7,329 7,247 7,084
+00164: Retained earnings 10,890 9,297 8,766
+00165: Accumulated other comprehensive loss (414) (417) (468)
+00166: Total shareholders’ investment 17,843 16,165 15,420
+00167: Total liabilities and shareholders’ investment $ 61,235 $ 59,490 $ 57,851
+00168: Common Stock Authorized 6,000,000,000 shares, $0.0833 par value; 454,291,461, 452,840,187, and 454,396,092 shares issued and outstanding as of August 1, 2026, January 31, 2026, and August 2, 2025, respectively.
+00169: Preferred Stock Authorized 5,000,000 shares, $0.01 par value; no shares were issued or outstanding during any period presented.
+00170: See accompanying Notes to Consolidated Financial Statements.
+00171: TARGET CORPORATION
+00172: Q2 2026 Form 10-Q
+00173: 3
+00174: FINANCIAL STATEMENTS
+00175: Table of Contents
+00176: Index to Notes
+00177: Consolidated Statements of Cash Flows
+00178: Six Months Ended
+00179: (millions) (unaudited) August 1, 2026 August 2, 2025
+00180: Operating activities
+00181: Net earnings $ 2,658 $ 1,971
+00182: Adjustments to reconcile net earnings to cash provided by operating activities:
+00183: Depreciation and amortization 1,597 1,558
+00184: Share-based compensation expense 154 133
+00185: Deferred income taxes 238 112
+00186: Noncash (gains) / losses and other, net (4) 1
+00187: Changes in operating accounts:
+00188: Inventory (945) (141)
+00189: Other assets 22 151
+00190: Accounts payable 612 (1,125)
+00191: Accrued and other liabilities 187 (302)
+00192: Cash provided by operating activities 4,519 2,358
+00193: Investing activities
+00194: Expenditures for property and equipment (2,404) (1,864)
+00195: Other 7 11
+00196: Cash used in investing activities (2,397) (1,853)
+00197: Financing activities
+00198: Additions to long-term debt — 1,984
+00199: Reductions of long-term debt (1,070) (1,571)
+00200: Dividends paid (1,034) (1,019)
+00201: Repurchase of stock (3) (258)
+00202: Shares withheld for taxes on share-based compensation (92) (62)
+00203: Cash used in financing activities (2,199) (926)
+00204: Net decrease in cash and cash equivalents (77) (421)
+00205: Cash and cash equivalents at beginning of period 5,488 4,762
+00206: Cash and cash equivalents at end of period $ 5,411 $ 4,341
+00207: Supplemental information
+00208: Leased assets obtained in exchange for new finance lease liabilities $ 18 $ 41
+00209: Leased assets obtained in exchange for new operating lease liabilities 84 119
+00210: See accompanying Notes to Consolidated Financial Statements.
+00211: TARGET CORPORATION
+00212: Q2 2026 Form 10-Q
+00213: 4
+00214: FINANCIAL STATEMENTS
+00215: Table of Contents
+00216: Index to Notes
+00217: Consolidated Statements of Shareholders’ Investment
+00218: Common Stock Additional Accumulated Other
+00219: Stock Par Paid-in Retained Comprehensive
+00220: (millions) (unaudited) Shares Value Capital Earnings Loss Total
+00221: February 1, 2025 455.6 $ 38 $ 6,996 $ 8,090 $ (458) $ 14,666
+00222: Net earnings — — — 1,036 — 1,036
+00223: Other comprehensive loss — — — — (4) (4)
+00224: Dividends declared, $1.12 per share
+00225: — — — (515) — (515)
+00226: Repurchase of stock (2.2) — — (251) — (251)
+00227: Share-based compensation 1.0 — 15 — — 15
+00228: May 3, 2025 454.4 $ 38 $ 7,011 $ 8,360 $ (462) $ 14,947
+00229: Net earnings — — — 935 — 935
+00230: Other comprehensive loss — — — — (6) (6)
+00231: Dividends declared, $1.14 per share
+00232: — — — (529) — (529)
+00233: Share-based compensation — — 73 — — 73
+00234: August 2, 2025 454.4 $ 38 $ 7,084 $ 8,766 $ (468) $ 15,420
+00235: Net earnings — — — 689 — 689
+00236: Other comprehensive loss — — — — (3) (3)
+00237: Dividends declared, $1.14 per share
+00238: — — — (526) — (526)
+00239: Repurchase of stock (1.7) — — (152) — (152)
+00240: Share-based compensation 0.1 — 73 — — 73
+00241: November 1, 2025 452.8 $ 38 $ 7,157 $ 8,777 $ (471) $ 15,501
+00242: Net earnings — — — 1,046 — 1,046
+00243: Other comprehensive income — — — — 54 54
+00244: Dividends declared, $1.14 per share
+00245: — — — (526) — (526)
+00246: Share-based compensation — — 90 — — 90
+00247: January 31, 2026 452.8 $ 38 $ 7,247 $ 9,297 $ (417) $ 16,165
+00248: TARGET CORPORATION
+00249: Q2 2026 Form 10-Q
+00250: 5
+00251: FINANCIAL STATEMENTS
+00252: Table of Contents
+00253: Index to Notes
+00254: Consolidated Statements of Shareholders’ Investment
+00255: Common Stock Additional Accumulated Other
+00256: Stock Par Paid-in Retained Comprehensive
+00257: (millions) (unaudited) Shares Value Capital Earnings Loss Total
+00258: January 31, 2026 452.8 $ 38 $ 7,247 $ 9,297 $ (417) $ 16,165
+00259: Net earnings — — — 781 — 781
+00260: Other comprehensive income — — — — 2 2
+00261: Dividends declared, $1.14 per share
+00262: — — — (526) — (526)
+00263: Share-based compensation 1.4 — (27) — — (27)
+00264: May 2, 2026 454.2 $ 38 $ 7,220 $ 9,552 $ (415) $ 16,395
+00265: Net earnings — — — 1,877 — 1,877
+00266: Other comprehensive income — — — — 1 1
+00267: Dividends declared, $1.16 per share
+00268: — — — (539) — (539)
+00269: Share-based compensation 0.1 — 109 — — 109
+00270: August 1, 2026 454.3 $ 38 $ 7,329 $ 10,890 $ (414) $ 17,843
+00271: See accompanying Notes to Consolidated Financial Statements.
+00272: TARGET CORPORATION
+00273: Q2 2026 Form 10-Q
+00274: 6
+00275: FINANCIAL STATEMENTS
+00276: Table of Contents
+00277: INDEX
+00278: Index to Notes
+00279: INDEX TO NOTES
+00280: Notes to Consolidated Financial Statements
+00281: 8
+00282: Note 1
+00283: Accounting Policies
+00284: 8
+00285: Note 2
+00286: Net Sales
+00287: 8
+00288: Note 3
+00289: Tariff Refunds
+00290: 9
+00291: Note 4
+00292: Interchange Fee Settlements
+00293: 9
+00294: Note 5
+00295: Fair Value Measurements
+00296: 10
+00297: Note 6
+00298: Property and Equipment
+00299: 10
+00300: Note 7
+00301: Supplier Finance Programs
+00302: 10
+00303: Note 8
+00304: Long-Term Debt and Commercial Paper
+00305: 11
+00306: Note 9
+00307: Derivative Financial Instruments
+00308: 11
+00309: Note 10
+00310: Share Repurchase
+00311: 12
+00312: Note 11
+00313: Pension Benefits
+00314: 12
+00315: Note 12
+00316: Accumulated Other Comprehensive Loss
+00317: 12
+00318: Note 13
+00319: Segment Reporting
+00320: 13
+00321: TARGET CORPORATION
+00322: Q2 2026 Form 10-Q
+00323: 7
+00324: FINANCIAL STATEMENTS
+00325: Table of Contents
+00326: NOTES
+00327: Index to Notes
+00328: Notes to Consolidated Financial Statements (unaudited)
+00329: 1. Accounting Policies
+00330: These unaudited condensed consolidated financial statements are prepared in accordance with the rules and regulations of the Securities and Exchange Commission applicable to interim financial statements. While these statements reflect all normal recurring adjustments that are, in the opinion of management, necessary for fair presentation of the results of the interim period, they do not include all of the information and footnotes required by United States (U.S.) generally accepted accounting principles (GAAP) for complete financial statements. These condensed consolidated financial statements should be read in conjunction with the financial statement disclosures in our most recent Form 10-K.
+00331: We use the same accounting policies in preparing quarterly and annual financial statements.
+00332: We operate as a single segment that includes all of our operations, which are designed to enable guests to purchase products seamlessly in stores or through our digital channels. Nearly all of our revenues are generated in the U.S. The vast majority of our long-lived assets are located in the U.S.
+00333: Due to the seasonal nature of our business, quarterly revenues, expenses, earnings, and cash flows are not necessarily indicative of the results that may be expected for the full year.
+00334: 2. Net Sales
+00335: Merchandise sales represent the vast majority of our revenues. We also earn revenues from a variety of other sources, most notably advertising revenue and credit card profit-sharing income.
+00336: Net Sales Three Months Ended Six Months Ended
+00337: (millions) August 1, 2026 August 2, 2025 August 1, 2026 August 2, 2025
+00338: Apparel & accessories (a)
+00339: $ 4,090 $ 4,086 $ 7,937 $ 7,797
+00340: Beauty (b)
+00341: 3,639 3,396 7,037 6,498
+00342: Food & beverage (c)
+00343: 5,991 5,588 12,255 11,490
+00344: Hardlines (Fun 101) (d)
+00345: 3,894 3,522 7,415 6,597
+00346: Home furnishings & décor (e)
+00347: 3,668 3,662 6,906 6,880
+00348: Household essentials (f)
+00349: 4,617 4,422 9,187 8,779
+00350: Other merchandise sales 48 43 104 83
+00351: Merchandise sales 25,947 24,719 50,841 48,124
+00352: Advertising revenue 279 217 525 379
+00353: Credit card profit sharing 139 134 269 275
+00354: Other 174 141 347 279
+00355: Net sales $ 26,539 $ 25,211 $ 51,982 $ 49,057
+00356: (a)Includes apparel for women, men, young adults, kids, toddlers, and babies, as well as jewelry, accessories, and shoes.
+00357: (b)Includes skin and bath care, cosmetics, hair care, oral care, deodorant, and shaving products.
+00358: (c)Includes dry and perishable grocery, including snacks, candy, beverages, deli, bakery, meat, produce, food service (primarily Starbucks), and floral in our stores.
+00359: (d)Includes electronics, including video games and consoles, toys, trading cards, sporting goods and fan merchandise, pop culture and other entertainment, and luggage.
+00360: (e)Includes bed and bath, home décor, school/office supplies, storage, small appliances, kitchenware, greeting cards, party supplies, furniture, lighting, home improvement, and seasonal merchandise.
+00361: (f)Includes household cleaning, paper products, over-the-counter healthcare, vitamins and supplements, baby gear, and pet supplies.
+00362: TARGET CORPORATION
+00363: Q2 2026 Form 10-Q
+00364: 8
+00365: FINANCIAL STATEMENTS
+00366: Table of Contents
+00367: NOTES
+00368: Index to Notes
+00369: Merchandise sales — We record almost all retail store revenues at the point of sale. Digitally originated sales may include shipping revenue and are recorded upon delivery to the guest or upon guest pickup at the store. Sales are recognized net of expected returns, which we estimate using historical return patterns and our expectation of future returns. As of August 1, 2026, January 31, 2026, and August 2, 2025, the liability for estimated returns was $178 million, $155 million, and $179 million, respectively.
+00370: Revenue from Target gift card sales is recognized upon gift card redemption, which is typically within one year of issuance.
+00371: Gift Card Liability Activity January 31,
+00372: 2026
+00373: Gift Cards Issued During Current Period But Not Redeemed (b)
+00374: Revenue Recognized From Beginning Liability August 1,
+00375: 2026
+00376: (millions)
+00377: Gift card liability (a)
+00378: $ 1,197 $ 376 $ (614) $ 959
+00379: (a)Included in Accrued and Other Current Liabilities.
+00380: (b)Net of estimated breakage.
+00381: Advertising revenue — Primarily represents revenue related to certain advertising services provided via our Roundel digital advertising business offering. Roundel services are classified as either Net Sales or as a reduction of Cost of Sales or Selling, General, and Administrative (SG&A) Expenses, depending on the nature of the advertising arrangement.
+00382: Credit card profit sharing — We receive payments under a credit card program agreement with TD Bank Group (TD). Under the agreement, we receive a percentage of the profits generated by the Target Circle credit card receivables in exchange for performing account servicing and primary marketing functions. TD underwrites, funds, and owns Target Circle credit card receivables, controls risk management policies, and oversees regulatory compliance.
+00383: Other — Includes commissions earned on third-party sales through our Target Plus third-party digital marketplace, Target Circle 360 membership revenue, Shipt membership and service revenues, rental income, and other miscellaneous revenues.
+00384: 3. Tariff Refunds
+00385: Beginning in 2025, we paid tariffs imposed under the International Emergency Economic Powers Act (IEEPA) on certain imported merchandise. Following the February 2026 Supreme Court ruling that the tariffs imposed under IEEPA were not authorized by the statute and subsequent actions establishing a refund process, we began submitting refund claims.
+00386: During the three and six months ended August 1, 2026, we recognized $994 million related to IEEPA tariff refunds ("tariff refunds") received during the second quarter of 2026 as a reduction of Cost of Sales. We continue to pursue additional refund claims. Refund claims outstanding as of August 1, 2026, have not been recognized in the financial statements.
+00387: 4. Interchange Fee Settlements
+00388: In March 2025, we entered into settlement agreements to resolve credit card interchange fee litigation matters in which we were a plaintiff. As a result of these lump-sum settlements, during the first quarter of 2025, we recorded gains within SG&A Expenses of $593 million, net of legal fees.
+00389: TARGET CORPORATION
+00390: Q2 2026 Form 10-Q
+00391: 9
+00392: FINANCIAL STATEMENTS
+00393: Table of Contents
+00394: NOTES
+00395: Index to Notes
+00396: 5. Fair Value Measurements
+00397: Fair value measurements are reported in one of three levels reflecting the significant inputs used to determine fair value.
+00398: Financial Instruments Measured On a Recurring Basis Fair Value
+00399: (millions) Classification Measurement Level August 1, 2026 January 31, 2026 August 2, 2025
+00400: Assets
+00401: Short-term investments Cash and Cash Equivalents Level 1 $ 4,337 $ 4,611 $ 3,348
+00402: Prepaid forward contracts Other Current Assets Level 1 25 18 17
+00403: Interest rate swaps Other Noncurrent Assets Level 2 — — 1
+00404: Liabilities
+00405: Interest rate swaps Other Current Liabilities Level 2 — 1 3
+00406: Interest rate swaps Other Noncurrent Liabilities Level 2 106 54 60
+00407: Significant Financial Instruments Not Measured at Fair Value (a)
+00408: (millions)
+00409: August 1, 2026 January 31, 2026 August 2, 2025
+00410: Carrying
+00411: Amount Fair
+00412: Value Carrying
+00413: Amount Fair
+00414: Value Carrying
+00415: Amount Fair
+00416: Value
+00417: Long-term debt, including current portion (b)
+00418: $ 13,404 $ 12,355 $ 14,398 $ 13,732 $ 14,393 $ 13,643
+00419: (a)The carrying amounts of certain other current assets, commercial paper, accounts payable, and certain accrued and other current liabilities approximate fair value due to their short-term nature.
+00420: (b)The fair value of long-term debt is estimated using Level 2 inputs based on quoted prices for the instruments. Where quoted prices are not available, fair value is estimated using discounted cash flows and market-based expectations for interest rates. These amounts exclude commercial paper, fair value hedge adjustments, and lease liabilities.
+00421: 6. Property and Equipment
+00422: We review long-lived assets for impairment when store performance expectations, events, or changes in circumstances—such as a decision to relocate or close a store, office, or distribution center, discontinue a project, or make significant software changes—indicate that the asset’s carrying value may not be recoverable. We recognized impairment charges of $33 million for the three and six months ended August 1, 2026, and $34 million for the three and six months ended August 2, 2025. These impairment charges are included in SG&A Expenses.
+00423: 7. Supplier Finance Programs
+00424: We have arrangements with several financial institutions to act as our paying agents to certain vendors. The arrangements also permit the financial institutions to provide vendors with an option, at our vendors' sole discretion, to elect to receive early payment of our payment obligations from the financial institutions at a discounted amount. A vendor’s election to receive early payment does not change the amount that we must remit to the financial institutions or our payment date, which is up to 120 days from the invoice date.
+00425: We do not pay any fees or pledge any security to these financial institutions under these arrangements. The arrangements can be terminated by either party with notice ranging up to 120 days.
+00426: Our outstanding vendor obligations eligible for early payment under these arrangements totaled $3.2 billion, $3.0 billion, and $2.9 billion as of August 1, 2026, January 31, 2026, and August 2, 2025, respectively, and are included within Accounts Payable on our Consolidated Statements of Financial Position. These outstanding vendor obligations do not represent actual early payments made under supplier finance programs, which have historically been lower.
+00427: TARGET CORPORATION
+00428: Q2 2026 Form 10-Q
+00429: 10
+00430: FINANCIAL STATEMENTS
+00431: Table of Contents
+00432: NOTES
+00433: Index to Notes
+00434: 8. Long-Term Debt and Commercial Paper
+00435: Our unsecured long-term debt repayments during the six months ended August 1, 2026, were as follows:
+00436: Debt Repayments
+00437: (dollars in millions)
+00438: Repayment Date Maturity Date Principal Amount Interest Rate (Fixed)
+00439: April 2026 April 2026 $ 1,000 2.50 %
+00440: In August 2026, we obtained a committed $4.0 billion unsecured revolving credit facility that will expire in August 2031. This new facility replaced our $1.0 billion and $3.0 billion unsecured revolving credit facilities that were set to expire in October 2026 and October 2028, respectively. No balances were outstanding under any credit facility at any time during 2026 or 2025.
+00441: We obtain short-term financing from time to time under our commercial paper program. There was no commercial paper outstanding at any time during the three and six months ended August 1, 2026, or August 2, 2025.
+00442: 9. Derivative Financial Instruments
+00443: Our derivative instruments consist of interest rate swaps used to mitigate interest rate risk. As a result, we have counterparty credit exposure to large global financial institutions, which we monitor on an ongoing basis. Note 5 to the Consolidated Financial Statements provides the fair value and classification of these instruments.
+00444: We were party to interest rate swaps with notional amounts totaling $2.45 billion as of August 1, 2026, and $2.20 billion as of January 31, 2026, and August 2, 2025. We pay a floating rate and receive a fixed rate under each of these agreements. All of the agreements are designated as fair value hedges, and all were considered to be perfectly effective under the shortcut method during the three and six months ended August 1, 2026, and August 2, 2025.
+00445: Effect of Hedges on Debt
+00446: (millions)
+00447: August 1, 2026 January 31, 2026 August 2, 2025
+00448: Long-term debt and other borrowings
+00449: Carrying amount of hedged debt $ 2,335 $ 2,139 $ 2,132
+00450: Cumulative hedging adjustments, included in carrying amount (106) (55) (63)
+00451: Effect of Hedges on Net Interest Expense Three Months Ended Six Months Ended
+00452: (millions) August 1, 2026 August 2, 2025 August 1, 2026 August 2, 2025
+00453: Gain (loss) on fair value hedges recognized in Net Interest Expense
+00454: Interest rate swaps designated as fair value hedges $ (41) $ 6 $ (51) $ 62
+00455: Hedged debt 41 (6) 51 (62)
+00456: Gain on cash flow hedges recognized in Net Interest Expense 6 6 12 12
+00457: Total $ 6 $ 6 $ 12 $ 12
+00458: TARGET CORPORATION
+00459: Q2 2026 Form 10-Q
+00460: 11
+00461: FINANCIAL STATEMENTS
+00462: Table of Contents
+00463: NOTES
+00464: Index to Notes
+00465: 10. Share Repurchase
+00466: We periodically repurchase shares of our common stock under a board-authorized repurchase program through a combination of open market transactions, accelerated share repurchase arrangements, and other privately negotiated transactions with financial institutions.
+00467: Share Repurchase Activity Three Months Ended Six Months Ended
+00468: (millions, except per share data) August 1, 2026 August 2, 2025 August 1, 2026 August 2, 2025
+00469: Number of shares purchased — — — 2.2
+00470: Average price paid per share (a)
+00471: $ — $ — $ — $ 114.59
+00472: Total investment (a)
+00473: $ — $ — $ — $ 251
+00474: (a) Amounts include applicable excise tax and commissions.
+00475: 11. Pension Benefits
+00476: We provide pension plan benefits to eligible team members.
+00477: Net Pension Benefits Expense / (Income) Three Months Ended Six Months Ended
+00478: (millions) Classification August 1, 2026 August 2, 2025 August 1, 2026 August 2, 2025
+00479: Service cost benefits earned Cost of Sales and SG&A Expenses $ 17 $ 20 $ 35 $ 37
+00480: Interest cost on projected benefit obligation Net Other Expense / (Income) 40 42 80 84
+00481: Expected return on assets Net Other Expense / (Income) (64) (68) (128) (135)
+00482: Amortization of losses Net Other Expense / (Income) 10 — 19 —
+00483: Prior service cost Net Other Expense / (Income) 9 7 9 7
+00484: Total $ 12 $ 1 $ 15 $ (7)
+00485: 12. Accumulated Other Comprehensive Loss
+00486: Change in Accumulated Other Comprehensive Loss Cash Flow Hedges Currency Translation Adjustment Pension Total
+00487: (millions)
+00488: January 31, 2026 $ 248 $ (29) $ (636) $ (417)
+00489: Other comprehensive loss before reclassifications — (1) — (1)
+00490: Amounts reclassified (9) — 13 4
+00491: August 1, 2026 $ 239 $ (30) $ (623) $ (414)
+00492: Note: Amounts are net of tax.
+00493: TARGET CORPORATION
+00494: Q2 2026 Form 10-Q
+00495: 12
+00496: FINANCIAL STATEMENTS
+00497: Table of Contents
+00498: NOTES
+00499: Index to Notes
+00500: 13. Segment Reporting
+00501: Our Chief Operating Decision Maker (CODM)—our Chief Executive Officer—monitors our consolidated net earnings and operating income to evaluate performance and make operating decisions including whether to invest profits into capital projects, make equity or other investments, or return capital to shareholders. Consolidated assets as presented on our Consolidated Statements of Financial Position is the only view of assets regularly reviewed by our CODM. We operate as a single segment that includes all of our operations, which are designed to enable guests to purchase products seamlessly in stores or through our digital channels. Virtually all of our consolidated revenues are generated in the United States. The vast majority of our properties and equipment are located in the United States.
+00502: Business Segment Results Three Months Ended Six Months Ended
+00503: (millions) August 1, 2026 August 2, 2025 August 1, 2026 August 2, 2025
+00504: Net sales $ 26,539 $ 25,211 $ 51,982 $ 49,057
+00505: Cost of sales
+00506: Merchandising cost of sales (a)
+00507: 15,775 16,177 32,053 31,531
+00508: Supply chain and digital fulfillment costs 1,828 1,726 3,611 3,500
+00509: Total cost of sales (a)
+00510: 17,603 17,903 35,664 35,031
+00511: Selling, general, and administrative expenses (b)
+00512: 5,725 5,359 11,286 9,950
+00513: Depreciation and amortization (exclusive of depreciation included in cost of sales)
+00514: 651 632 1,337 1,287
+00515: Operating income (a)(b)
+00516: 2,560 1,317 3,695 2,789
+00517: Net interest expense 98 116 215 232
+00518: Net other expense / (income) 3 (17) (13) (43)
+00519: Earnings before income taxes 2,459 1,218 3,493 2,600
+00520: Provision for income taxes 582 283 835 629
+00521: Net earnings $ 1,877 $ 935 $ 2,658 $ 1,971
+00522: (a)For the three and six months ended August 1, 2026, includes $994 million of cost reductions related to tariff refunds. Note 3 provides additional information.
+00523: (b)For the six months ended August 2, 2025, includes $593 million of pretax net gains related to settlements of credit card interchange fee litigation matters. Note 4 provides additional information.
+00524: TARGET CORPORATION
+00525: Q2 2026 Form 10-Q
+00526: 13
+00527: MANAGEMENT'S DISCUSSION AND ANALYSIS
+00528: Table of Contents
+00529: FINANCIAL SUMMARY
+00530: Index to Notes
+00531: Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+00532: Financial Summary
+00533: Second quarter 2026 included the following:
+00534: •Net Sales of $26.5 billion, an increase of 5.3 percent from the comparable prior-year period, driven by:
+00535: •A comparable sales increase of 3.8 percent, reflecting a 3.6 percent increase in traffic and a 0.2 percent increase in average transaction amount;
+00536: •The sales contribution from new stores; and
+00537: •Non-merchandise sales growth of 20.1 percent, primarily driven by growth in our Roundel digital advertising business offering.
+00538: •Operating Income of $2.6 billion, an increase of $1.3 billion, or 94.4 percent, compared to the prior year, including $994 million related to tariff refunds received during the period. Excluding the impact of tariff refunds, Operating Income growth was approximately 19 percent.
+00539: •GAAP and Adjusted EPS1 of $4.11, an increase of 100.3 percent compared to the prior year, including $1.65 related to after-tax benefits of tariff refunds received during the period.
+00540: Earnings Per Share Three Months Ended Six Months Ended
+00541: August 1, 2026 August 2, 2025 Change August 1, 2026 August 2, 2025 Change
+00542: GAAP diluted earnings per share $ 4.11
+00543: (a)
+00544: $ 2.05 100.3 % $ 5.83
+00545: (a)
+00546: $ 4.32 34.8 %
+00547: Adjustments — — — (0.97)
+00548: Adjusted diluted earnings per share1
+00549: $ 4.11
+00550: (a)
+00551: $ 2.05 100.3 % $ 5.83
+00552: (a)
+00553: $ 3.35 73.7 %
+00554: 1Adjusted diluted earnings per share (Adjusted EPS), a non-GAAP metric, excludes the impact of certain items. Management believes that Adjusted EPS is useful in providing period-to-period comparisons of the results of our operations. A reconciliation of non-GAAP financial measures to GAAP measures is provided on page 19.
+00555: We report after-tax return on invested capital (ROIC) because we believe ROIC provides a meaningful measure of our capital allocation effectiveness over time. For the trailing twelve months ended August 1, 2026, after-tax ROIC was 15.4 percent, compared with 14.3 percent for the trailing twelve months ended August 2, 2025. The calculation of ROIC is provided on page 21.
+00556: Business Environment
+00557: During the second quarter of 2026, we received refunds of certain IEEPA tariffs previously paid and recognized $994 million related to these refunds as a reduction of Cost of Sales. Refer to Note 3 and the Gross Margin Rate section for additional information.
+00558: We continue to pursue additional refund claims in accordance with the established refund filing and validation process, along with other importers seeking tariff refunds. However, due to uncertainties related to the refund process, timing, and amount of potential refunds, as well as ongoing legal and regulatory developments, we are unable to estimate the ultimate financial effects of any potential additional tariff refunds.
+00559: The U.S. administration has instituted new tariffs against most major trading partners. We continue to assess and respond to the evolving consumer, legal and regulatory environment. The collective interaction of tariffs, tariff refunds, sourcing strategies, pricing actions, consumer response and behaviors, and other factors could materially impact our sales, results of operations, and financial condition in future periods.
+00560: TARGET CORPORATION
+00561: Q2 2026 Form 10-Q
+00562: 14
+00563: MANAGEMENT'S DISCUSSION AND ANALYSIS
+00564: Table of Contents
+00565: ANALYSIS OF RESULTS OF OPERATIONS
+00566: Index to Notes
+00567: Business Transformation Initiatives
+00568: Our multi-year business transformation initiatives are discussed in our Annual Report on Form 10-K for the fiscal year ended January 31, 2026. We did not incur any significant non-recurring costs or charges related to these initiatives during the three and six months ended August 1, 2026, or the comparable prior-year periods.
+00569: We may incur additional costs and charges related to these initiatives in future periods, which may adversely affect our results of operations and financial condition; however, we cannot reasonably estimate the amount or timing of such costs and charges.
+00570: Analysis of Results of Operations
+00571: Summary of Operating Income Three Months Ended Six Months Ended
+00572: (dollars in millions) August 1, 2026 August 2, 2025 Change August 1, 2026 August 2, 2025 Change
+00573: Net sales $ 26,539 $ 25,211 5.3 % $ 51,982 $ 49,057 6.0 %
+00574: Cost of sales (a)
+00575: 17,603 17,903 (1.7) 35,664 35,031 1.8
+00576: SG&A expenses 5,725 5,359 6.8 11,286 9,950 13.4
+00577: Depreciation and amortization (exclusive of depreciation included in cost of sales) 651 632 3.2 1,337 1,287 3.9
+00578: Operating income (a)
+00579: $ 2,560 $ 1,317 94.4 % $ 3,695 $ 2,789 32.5 %
+00580: Adjusted SG&A expenses (b)
+00581: $ 5,725 $ 5,359 6.8 % $ 11,286 $ 10,543 7.1 %
+00582: Adjusted operating income (a)(b)
+00583: 2,560 1,317 94.4 3,695 2,196 68.3
+00584: Rate Analysis Three Months Ended Six Months Ended
+00585: August 1, 2026 August 2, 2025 August 1, 2026 August 2, 2025
+00586: Gross margin rate (a)
+00587: 33.7 % 29.0 % 31.4 % 28.6 %
+00588: SG&A expense rate 21.6 21.3 21.7 20.3
+00589: Adjusted SG&A expense rate (b)
+00590: 21.6 21.3 21.7 21.5
+00591: Depreciation and amortization expense rate (exclusive of depreciation included in cost of sales) 2.5 2.5 2.6 2.6
+00592: Operating income margin rate (a)
+00593: 9.6 5.2 7.1 5.7
+00594: Adjusted operating income margin rate (a)(b)
+00595: 9.6 5.2 7.1 4.5
+00596: Note: Gross margin (GM) is calculated as Net Sales less Cost of Sales. All rates are calculated by dividing the applicable amount by Net Sales.
+00597: (a)Includes $994 million related to tariff refunds for the three and six months ended August 1, 2026, which provided a benefit to Gross margin rate, Operating income rate, and Adjusted operating income rate of 3.7 percentage points and 1.9 percentage points for the three and six month periods, respectively. Note 3 to the Financial Statements provides additional information.
+00598: (b)Adjusted SG&A expenses, Adjusted SG&A expense rate, Adjusted operating income, and Adjusted operating income margin rate, which are non-GAAP measures, exclude the impact of certain items. Management believes that these measures are useful in providing period-to-period comparisons of the results of our operations. A reconciliation of non-GAAP financial measures to GAAP measures is provided on page 19.
+00599: Net Sales
+00600: Net sales includes all Merchandise Sales and revenues from other sources, most notably advertising revenue and credit card profit-sharing income.
+00601: TARGET CORPORATION
+00602: Q2 2026 Form 10-Q
+00603: 15
+00604: MANAGEMENT'S DISCUSSION AND ANALYSIS
+00605: Table of Contents
+00606: ANALYSIS OF RESULTS OF OPERATIONS
+00607: Index to Notes
+00608: Merchandise Sales are net of expected returns and our estimate of gift card breakage. Comparable sales include all Merchandise Sales, except sales from stores open less than 13 months or that have been closed. We use comparable sales to evaluate the performance of our stores and digital channels by measuring the change in sales for a period over the comparable, prior-year period of equivalent length. Comparable sales measures vary across the retail industry. As a result, our comparable sales calculation is not necessarily comparable to similarly titled measures reported by other companies. Digitally originated sales include all Merchandise Sales initiated through mobile/computer applications and our websites. Our stores fulfill the majority of digitally originated sales, including shipment from stores to guests, store Order Pickup or Drive Up, and Same Day Delivery. Digitally originated sales may also be fulfilled through our distribution centers, our vendors, or other third parties.
+00609: Merchandise Sales growth—from both comparable sales and new stores—represents an important driver of our long-term profitability. We expect that comparable sales growth will drive a significant portion of our total sales growth. We believe that our ability to successfully differentiate our guests’ shopping experience through a careful combination of merchandise assortment, price, convenience, guest experience, and other factors will over the long-term drive both increasing shopping frequency (number of transactions, or "traffic") and the amount spent each visit (average transaction amount).
+00610: Comparable Sales Three Months Ended Six Months Ended
+00611: August 1, 2026 August 2, 2025 August 1, 2026 August 2, 2025
+00612: Comparable sales change 3.8 % (1.9) % 4.7 % (2.8) %
+00613: Drivers of change in comparable sales
+00614: Number of transactions (traffic) 3.6 (1.3) 4.0 (1.8)
+00615: Average transaction amount 0.2 (0.6) 0.7 (1.0)
+00616: Comparable Sales by Channel Three Months Ended Six Months Ended
+00617: August 1, 2026 August 2, 2025 August 1, 2026 August 2, 2025
+00618: Stores originated comparable sales change 2.7 % (3.2) % 3.7 % (4.4) %
+00619: Digitally originated comparable sales change 8.7 4.3 8.8 4.5
+00620: Merchandise Sales by Channel Three Months Ended Six Months Ended
+00621: August 1, 2026 August 2, 2025 August 1, 2026 August 2, 2025
+00622: Stores originated 80.4 % 81.1 % 80.1 % 80.7 %
+00623: Digitally originated 19.6 18.9 19.9 19.3
+00624: Total 100 % 100 % 100 % 100 %
+00625: Merchandise Sales by Fulfillment Channel Three Months Ended Six Months Ended
+00626: August 1, 2026 August 2, 2025 August 1, 2026 August 2, 2025
+00627: Stores 97.6 % 97.7 % 97.6 % 97.7 %
+00628: Other 2.4 2.3 2.4 2.3
+00629: Total 100 % 100 % 100 % 100 %
+00630: Note: Merchandise Sales fulfilled by stores include in-store purchases and digitally originated sales fulfilled by shipping merchandise from stores to guests, Order Pickup, Drive Up, and Same Day Delivery.
+00631: TARGET CORPORATION
+00632: Q2 2026 Form 10-Q
+00633: 16
+00634: MANAGEMENT'S DISCUSSION AND ANALYSIS
+00635: Table of Contents
+00636: ANALYSIS OF RESULTS OF OPERATIONS
+00637: Index to Notes
+00638: Merchandise Sales by Product Category Three Months Ended Six Months Ended
+00639: August 1, 2026 August 2, 2025 August 1, 2026 August 2, 2025
+00640: Apparel & accessories 16 % 16 % 16 % 16 %
+00641: Beauty 14 14 14 14
+00642: Food & beverage 23 23 24 24
+00643: Hardlines (Fun 101) 15 14 15 14
+00644: Home furnishings & décor 14 15 13 14
+00645: Household essentials 18 18 18 18
+00646: Total 100 % 100 % 100 % 100 %
+00647: Note 2 to the Financial Statements provides additional product category sales information. The collective interaction of a broad array of macroeconomic, competitive, and consumer behavioral factors, as well as sales mix and the transfer of sales to new stores, makes further analysis of sales metrics infeasible.
+00648: Store Data
+00649: Change in Number of Stores Three Months Ended Six Months Ended
+00650: August 1, 2026 August 2, 2025 August 1, 2026 August 2, 2025
+00651: Beginning store count 2,002 1,981 1,995 1,978
+00652: Opened 17 1 24 4
+00653: Ending store count 2,019 1,982 2,019 1,982
+00654: Number of Stores and Number of Stores
+00655: Retail Square Feet (a)
+00656: Retail Square Feet August 1, 2026 January 31, 2026 August 2, 2025 August 1, 2026 January 31, 2026 August 2, 2025
+00657: 170,000 or more sq. ft. 274 273 273 49,045 48,824 48,824
+00658: 50,000 to 169,999 sq. ft. 1,598 1,576 1,562 200,321 197,274 195,436
+00659: 49,999 or less sq. ft. 147 146 147 4,460 4,420 4,445
+00660: Total 2,019 1,995 1,982 253,826 250,518 248,705
+00661: (a)In thousands; reflects total square feet less office, supply chain facility, and vacant space.
+00662: TARGET CORPORATION
+00663: Q2 2026 Form 10-Q
+00664: 17
+00665: MANAGEMENT'S DISCUSSION AND ANALYSIS
+00666: Table of Contents
+00667: ANALYSIS OF RESULTS OF OPERATIONS
+00668: Index to Notes
+00669: Gross Margin Rate
+00670: Quarter-to-Date
+00671: For the three months ended August 1, 2026, our gross margin rate was 33.7 percent compared with 29.0 percent in the comparable prior-year period. The increase reflected benefits from tariff refunds and net merchandising impacts, including lower purchase order cancellation costs compared to the prior year, as well as growth in advertising and other revenues. The Business Environment section provides additional information about tariff refunds.
+00672: Year-to-Date
+00673: For the six months ended August 1, 2026, our gross margin rate was 31.4 percent compared with 28.6 percent in the comparable prior-year period. The increase reflected benefits from:
+00674: •tariff refunds;
+00675: •merchandising, including lower purchase order cancellation costs and markdown rates compared to the prior year and growth in advertising and other revenues; and
+00676: •supply chain and digital fulfillment, including productivity improvements in supply chain facilities, and the leveraging impact of higher sales.
+00677: Selling, General, and Administrative Expense Rate
+00678: For the three months ended August 1, 2026, our SG&A expense rate was 21.6 percent compared with 21.3 percent for the comparable prior-year period. The increase reflected higher compensation expense, including stores payroll and incentive compensation, new store and remodel-related expenses, and the net impact of other cost increases. These cost increases were partially offset by the leverage benefit of higher sales.
+00679: TARGET CORPORATION
+00680: Q2 2026 Form 10-Q
+00681: 18
+00682: MANAGEMENT'S DISCUSSION AND ANALYSIS
+00683: Table of Contents
+00684: ANALYSIS OF RESULTS OF OPERATIONS
+00685: Index to Notes
+00686: For the six months ended August 1, 2026, our SG&A expense rate was 21.7 percent compared with 20.3 percent for the comparable prior-year period. The comparable prior-period rate included a 1.2 percentage point benefit from interchange fee settlements, which are further described in Note 4 to the Financial Statements. Excluding this item, our Adjusted SG&A expense rate for the six months ended August 2, 2025, was 21.5 percent. The remaining 0.2 percentage point increase in 2026 reflected higher compensation expense, including stores payroll and incentive compensation, new store and remodel-related expenses, and the net impact of other cost increases. These cost increases were partially offset by the leverage benefit of higher sales.
+00687: Other Performance Factors
+00688: Net Interest Expense
+00689: Net interest expense was $98 million and $215 million for the three and six months ended August 1, 2026, respectively, compared with $116 million and $232 million in the comparable prior-year periods. The decrease in net interest expense was primarily due to an increase in interest income.
+00690: Provision for Income Taxes
+00691: Our effective income tax rates for the three and six months ended August 1, 2026, were 23.7 percent and 23.9 percent, respectively, compared with 23.2 percent and 24.2 percent in the comparable prior-year periods. For the three month period, the increase was driven by higher pretax earnings, partially offset by additional tax credit benefits. For the six month period, the decrease reflects additional tax credit benefits and lower discrete tax expenses related to share-based compensation, partially offset by higher pretax earnings.
+00692: Reconciliation of Non-GAAP Financial Measures to GAAP Measures
+00693: To provide additional transparency, we have disclosed non-GAAP adjusted diluted earnings per share (Adjusted EPS), adjusted SG&A expenses, adjusted SG&A expense rate, adjusted operating income, and adjusted operating income margin rate. These measures exclude certain items presented below. We believe this information is useful in providing period-to-period comparisons of the results of our operations. These measures are not in accordance with, or an alternative to, generally accepted accounting principles in the U.S. (GAAP). The most comparable GAAP measures are diluted earnings per share, SG&A expenses, SG&A expense rate, operating income, and operating income margin rate. Adjusted EPS, adjusted SG&A expenses, adjusted SG&A expense rate, adjusted operating income, and adjusted operating income margin rate should not be considered in isolation or as a substitution for analysis of our results as reported in accordance with GAAP. Other companies may calculate these measures differently, or not provide similar measures, limiting the usefulness of the measures for comparisons with other companies.
+00694: Reconciliation of Non-GAAP Adjusted EPS Three Months Ended
+00695: August 1, 2026 August 2, 2025
+00696: (millions, except per share data) Pretax Net of Tax Per Share Pretax Net of Tax Per Share
+00697: GAAP and Adjusted EPS $ 4.11 $ 2.05
+00698: Reconciliation of Non-GAAP Adjusted EPS Six Months Ended
+00699: August 1, 2026 August 2, 2025
+00700: (millions, except per share data) Pretax Net of Tax Per Share Pretax Net of Tax Per Share
+00701: GAAP diluted earnings per share $ 5.83 $ 4.32
+00702: Adjustments
+00703: Interchange fee settlements (a)
+00704: $ — $ — $ — $ (593) $ (441) $ (0.97)
+00705: Adjusted EPS $ 5.83 $ 3.35
+00706: TARGET CORPORATION
+00707: Q2 2026 Form 10-Q
+00708: 19
+00709: MANAGEMENT'S DISCUSSION AND ANALYSIS
+00710: Table of Contents
+00711: RECONCILIATION OF NON-GAAP FINANCIAL MEASURES
+00712: Index to Notes
+00713: Reconciliation of Non-GAAP Adjusted SG&A Expenses and Adjusted Operating Income Three Months Ended
+00714: August 1, 2026 August 2, 2025
+00715: SG&A Expenses
+00716: Operating Income (b)
+00717: SG&A Expenses Operating Income
+00718: (dollars in millions) Dollars Rate Dollars Rate Dollars Rate Dollars Rate
+00719: GAAP and Adjusted measures $ 5,725 21.6 % $ 2,560 9.6 % $ 5,359 21.3 % $ 1,317 5.2 %
+00720: Reconciliation of Non-GAAP Adjusted SG&A Expenses and Adjusted Operating Income Six Months Ended
+00721: August 1, 2026 August 2, 2025
+00722: SG&A Expenses
+00723: Operating Income (b)
+00724: SG&A Expenses Operating Income
+00725: (dollars in millions) Dollars Rate Dollars Rate Dollars Rate Dollars Rate
+00726: Reported, GAAP measure $ 11,286 21.7 % $ 3,695 7.1 % $ 9,950 20.3 % $ 2,789 5.7 %
+00727: Adjustments
+00728: Interchange fee settlements (a)
+00729: — — — — $ 593 1.2 % $ (593) (1.2) %
+00730: Adjusted, Non-GAAP measure $ 11,286 21.7 % $ 3,695 7.1 % $ 10,543 21.5 % $ 2,196 4.5 %
+00731: Note: Amounts may not foot due to rounding. Rates are calculated by dividing the applicable amount by Net Sales.
+00732: (a)The adjustment removes the favorable impact of the settlement gains from prior-year SG&A Expenses and Operating Income. Note 4 to the Financial Statements provides additional information.
+00733: (b)Note (a) to the Summary of Operating Income and Rate Analysis tables provides information about the impact of tariff refunds on Operating Income and Operating Income margin rate.
+00734: TARGET CORPORATION
+00735: Q2 2026 Form 10-Q
+00736: 20
+00737: MANAGEMENT'S DISCUSSION AND ANALYSIS
+00738: Table of Contents
+00739: RECONCILIATION OF NON-GAAP FINANCIAL MEASURES
+00740: Index to Notes
+00741: We have also disclosed after-tax ROIC, which is a ratio based on GAAP information, with the exception of the add-back of operating lease interest to operating income. We believe this metric is useful in assessing the effectiveness of our capital allocation over time. Other companies may calculate ROIC differently, limiting the usefulness of the measure for comparisons with other companies.
+00742: After-Tax Return on Invested Capital
+00743: (dollars in millions)
+00744: Trailing Twelve Months
+00745: Numerator August 1, 2026 August 2, 2025
+00746: Operating income $ 6,024 $ 5,425
+00747: + Net other income 64 99
+00748: EBIT 6,088 5,524
+00749: + Operating lease interest (a)
+00750: 172 166
+00751: - Income taxes (b)
+00752: 1,402 1,305
+00753: Net operating profit after taxes $ 4,858 $ 4,385
+00754: Denominator August 1, 2026 August 2, 2025 August 3, 2024
+00755: Current portion of long-term debt and other borrowings $ 1,136 $ 1,136 $ 1,640
+00756: + Noncurrent portion of long-term debt 14,221 15,320 13,654
+00757: + Shareholders' investment 17,843 15,420 14,429
+00758: + Operating lease liabilities (c)
+00759: 3,733 3,883 3,786
+00760: - Cash and cash equivalents 5,411 4,341 3,497
+00761: Invested capital $ 31,522 $ 31,418 $ 30,012
+00762: Average invested capital (d)
+00763: $ 31,470 $ 30,715
+00764: After-tax return on invested capital (e)
+00765: 15.4 % 14.3 %
+00766: (a)Represents the add-back to operating income driven by the hypothetical interest expense we would incur if the property under our operating leases were owned or accounted for as finance leases. Calculated using the discount rate for each lease and recorded as a component of rent expense within Operating Income. Operating lease interest is added back to Operating Income in the ROIC calculation to control for differences in capital structure between us and our competitors.
+00767: (b)Calculated using the effective tax rates, which were 22.4 percent and 22.9 percent for the trailing twelve months ended August 1, 2026, and August 2, 2025, respectively. For the trailing twelve months ended August 1, 2026, and August 2, 2025, includes tax effect of $1.4 billion and $1.3 billion, respectively, related to EBIT, and $39 million and $38 million, respectively, related to operating lease interest.
+00768: (c)Total short-term and long-term operating lease liabilities included within Accrued and Other Current Liabilities and Noncurrent Operating Lease Liabilities, respectively.
+00769: (d)Average based on the invested capital at the end of the current period and the invested capital at the end of the comparable prior period.
+00770: (e)For the trailing twelve months ended August 1, 2026, includes the impact of tariff refunds, which increased after-tax ROIC by 2.4 percentage points, and business transformation costs recognized in the trailing twelve-month period, which decreased after-tax ROIC by 0.6 percentage points. For the trailing twelve months ended August 2, 2025, includes the impact of after-tax net gains on interchange fee settlements, which increased after-tax ROIC by 1.4 percentage points.
+00771: TARGET CORPORATION
+00772: Q2 2026 Form 10-Q
+00773: 21
+00774: MANAGEMENT'S DISCUSSION AND ANALYSIS
+00775: Table of Contents
+00776: ANALYSIS OF FINANCIAL CONDITION
+00777: Index to Notes
+00778: Analysis of Financial Condition
+00779: Liquidity and Capital Resources
+00780: Capital Allocation
+00781: We follow a disciplined and balanced approach to capital allocation based on the following priorities, ranked in order of importance: first, we fully invest in opportunities to profitably grow our business, create sustainable long-term value, and maintain our current operations and assets; second, we maintain a competitive quarterly dividend and seek to grow it annually; and finally, we return any excess cash to shareholders by repurchasing shares within the limits of our credit rating goals.
+00782: Our cash and cash equivalents balance was $5.4 billion, $5.5 billion, and $4.3 billion as of August 1, 2026, January 31, 2026, and August 2, 2025, respectively. Our cash and cash equivalents balance includes short-term investments of $4.3 billion, $4.6 billion, and $3.3 billion as of August 1, 2026, January 31, 2026, and August 2, 2025, respectively. Our investment policy is designed to preserve principal and liquidity of our short-term investments. This policy allows investments in large money market funds or in highly-rated direct short-term instruments that mature in three months or less. We also place dollar limits on our investments in individual funds or instruments.
+00783: Operating Cash Flows
+00784: Cash flows provided by operating activities were $4.5 billion and $2.4 billion for the six months ended August 1, 2026, and August 2, 2025, respectively. The increase was primarily due to higher accounts payable leverage that more than offset increased inventory purchases to support sales growth, as well as higher net earnings.
+00785: Inventory
+00786: Inventory increased to $13.2 billion as of August 1, 2026, compared with $12.3 billion and $12.9 billion as of January 31, 2026, and August 2, 2025, in support of sales growth.
+00787: Investing Cash Flows
+00788: Cash used in investing activities increased to $2.4 billion for the six months ended August 1, 2026, compared to $1.9 billion for the six months ended August 2, 2025, due to higher capital expenditures.
+00789: Dividends
+00790: We paid dividends totaling $518 million ($1.14 per share) and $1,034 million ($2.28 per share) for the three and six months ended August 1, 2026, and $509 million ($1.12 per share) and $1,019 million ($2.24 per share) for the three and six months ended August 2, 2025, a per share increase of 1.8 percent. We declared dividends totaling $539 million ($1.16 per share) during the second quarter of 2026 and $529 million ($1.14 per share) during the second quarter of 2025, a per share increase of 1.8 percent. We have paid dividends every quarter since our 1967 initial public offering, and it is our intent to continue to do so in the future.
+00791: Share Repurchase
+00792: We did not repurchase any shares during the six months ended August 1, 2026. See Part II, Item 2, Unregistered Sales of Equity Securities and Use of Proceeds of this Quarterly Report on Form 10-Q and Note 10 to the Financial Statements for more information.
+00793: TARGET CORPORATION
+00794: Q2 2026 Form 10-Q
+00795: 22
+00796: MANAGEMENT'S DISCUSSION AND ANALYSIS
+00797: Table of Contents
+00798: ANALYSIS OF FINANCIAL CONDITION
+00799: Index to Notes
+00800: Financing
+00801: Our financing strategy is to ensure liquidity and access to capital markets, to maintain a balanced spectrum of debt maturities, and to manage our net exposure to floating interest rate volatility. Within these parameters, we seek to minimize our borrowing costs. Our ability to access the long-term debt and commercial paper markets has provided us with ample sources of liquidity. Our continued access to these markets depends on multiple factors, including the condition of debt capital markets, our operating performance, and maintaining strong credit ratings. As of August 1, 2026, our credit ratings were as follows:
+00802: Credit Ratings Moody’s
+00803: S&P
+00804: Long-term debt A2 A
+00805: Commercial paper P-1 A-1
+00806: If our credit ratings were lowered, our ability to access the debt markets, our cost of funds, and other terms for new debt issuances could be adversely impacted. Each of the credit rating agencies reviews its rating periodically, and there is no guarantee our current credit ratings will remain the same as described above.
+00807: We repaid $1.0 billion of unsecured debt in April 2026. Note 8 to the Financial Statements provides additional information.
+00808: We have the ability to obtain short-term financing from time to time under our commercial paper program and credit facilities. In August 2026, we obtained a committed $4.0 billion unsecured revolving credit facility that will expire in August 2031. This new facility replaced our $1.0 billion and $3.0 billion unsecured revolving credit facilities that were set to expire in October 2026 and October 2028, respectively. These credit facilities provide a liquidity backstop to our commercial paper program. No balances were outstanding under any credit facility or our commercial paper program at any time during 2026 or 2025. Note 8 to the Financial Statements provides additional information.
+00809: Most of our long-term debt obligations contain covenants related to secured debt levels. In addition to a secured debt level covenant, our credit facilities also contain a debt leverage covenant. We are, and expect to remain, in compliance with these covenants. Additionally, as of August 1, 2026, no notes or debentures contained provisions requiring acceleration of payment upon a credit rating downgrade, except that certain outstanding notes allow the note holders to put the notes to us if within a matter of months of each other we experience both (i) a change in control and (ii) our long-term credit ratings are either reduced and the resulting rating is non-investment grade, or our long-term credit ratings are placed on watch for possible reduction and those ratings are subsequently reduced and the resulting rating is non-investment grade.
+00810: We believe our sources of liquidity, namely operating cash flows, credit facility capacity, and access to capital markets, will continue to be adequate to meet our contractual obligations, working capital, and planned capital expenditures, finance anticipated expansion and strategic initiatives, fund debt maturities, pay dividends, and execute purchases under our share repurchase program for the foreseeable future.
+00811: New Accounting Pronouncements
+00812: We do not expect any recently issued accounting pronouncements to have a material effect on our financial statements.
+00813: TARGET CORPORATION
+00814: Q2 2026 Form 10-Q
+00815: 23
+00816: MANAGEMENT'S DISCUSSION AND ANALYSIS & SUPPLEMENTAL INFORMATION
+00817: Table of Contents
+00818: FORWARD-LOOKING STATEMENTS & CONTROLS AND PROCEDURES
+00819: Index to Notes
+00820: Forward-Looking Statements
+00821: This report contains forward-looking statements, which are based on our current assumptions and expectations. These statements are typically accompanied by the words "anticipate," "believe," "could," “expect,” “may,” “might,” “seek,” "will," “would,” or similar words. The principal forward-looking statements in this report include statements regarding: our future financial and operational performance, changes in the consumer landscape, evolution in tariffs and global trade policy, the availability, timing, and amount of any tariff refunds, the impacts of business transformation efforts, the adequacy of and costs associated with our sources of liquidity, the funding of debt maturities, the execution of our share repurchase program, our expected capital expenditures and new lease commitments, the expected compliance with debt covenants, the expected impact of new accounting pronouncements, our intentions regarding future dividends, the expected return on plan assets, the expected outcome of, and adequacy of our reserves for, claims, litigation, and the resolution of tax matters, and changes in our assumptions and expectations.
+00822: All such forward-looking statements are intended to enjoy the protection of the safe harbor for forward-looking statements contained in the Private Securities Litigation Reform Act of 1995, as amended. Although we believe there is a reasonable basis for the forward-looking statements, our actual results could be materially different. The most important factors which could cause our actual results to differ from our forward-looking statements are set forth in our description of risk factors included in Part I, Item 1A, Risk Factors of our Form 10-K for the fiscal year ended January 31, 2026, which should be read in conjunction with the forward-looking statements in this report. Forward-looking statements speak only as of the date they are made, and we do not undertake any obligation to update any forward-looking statement.
+00823: Item 3. Quantitative and Qualitative Disclosures About Market Risk
+00824: There have been no material changes in our primary risk exposures or management of market risks from those disclosed in Part II, Item 7A, Quantitative and Qualitative Disclosures About Market Risk of our Form 10-K for the fiscal year ended January 31, 2026.
+00825: Item 4. Controls and Procedures
+00826: Changes in Internal Control Over Financial Reporting
+00827: There were no changes during the most recent fiscal quarter that materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+00828: Evaluation of Disclosure Controls and Procedures
+00829: As of the end of the period covered by this quarterly report, we conducted an evaluation, under supervision and with the participation of management, including the chief executive officer and chief financial officer, of the effectiveness of the design and operation of our disclosure controls and procedures pursuant to Rules 13a-15 and 15d-15 of the Securities Exchange Act of 1934, as amended (Exchange Act). Based upon that evaluation, our chief executive officer and chief financial officer concluded that our disclosure controls and procedures are effective at a reasonable assurance level. Disclosure controls and procedures are defined by Rules 13a-15(e) and 15d-15(e) of the Exchange Act as controls and other procedures that are designed to ensure that information required to be disclosed by us in reports filed with the SEC under the Exchange Act is recorded, processed, summarized, and reported within the time periods specified in the SEC’s rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed by us in reports filed under the Exchange Act is accumulated and communicated to our management, including our principal executive and principal financial officers, or persons performing similar functions, as appropriate, to allow timely decisions regarding required disclosure.
+00830: TARGET CORPORATION
+00831: Q2 2026 Form 10-Q
+00832: 24
+00833: SUPPLEMENTAL INFORMATION
+00834: Table of Contents
+00835: Index to Notes
+00836: PART II. OTHER INFORMATION
+00837: Item 1. Legal Proceedings
+00838: For the quarterly period ended August 1, 2026, no response is required under Item 103 of Regulation S-K, nor have there been any material developments for any previously reported legal proceedings.
+00839: Item 1A. Risk Factors
+00840: In addition to the other information set forth in this report, you should carefully consider the risk factors discussed in in Part I, Item 1A, Risk Factors of our Form 10-K for the fiscal year ended January 31, 2026.
+00841: Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+00842: On August 11, 2021, our Board of Directors authorized a $15 billion share repurchase program with no stated expiration. Under the program, we have repurchased 34.8 million shares of common stock for a total investment of $6.7 billion. As of August 1, 2026, the dollar value of shares that may yet be purchased under the program is $8.3 billion. There were no Target common stock purchases made during the three months ended August 1, 2026, by Target or any "affiliated purchaser" of Target, as defined in Rule 10b-18(a)(3) under the Exchange Act.
+00843: Item 3. Defaults Upon Senior Securities
+00844: Not applicable.
+00845: Item 4. Mine Safety Disclosures
+00846: Not applicable.
+00847: Item 5. Other Information
+00848: Not applicable.
+00849: TARGET CORPORATION
+00850: Q2 2026 Form 10-Q
+00851: 25
+00852: SUPPLEMENTAL INFORMATION
+00853: Table of Contents
+00854: Index to Notes
+00855: Item 6. Exhibits
+00856: 3.1
+00857: Amended and Restated Articles of Incorporation of Target Corporation (as amended through June 9, 2010) (filed as Exhibit (3)A to Target's Current Report on Form 8-K on June 10, 2010 and incorporated herein by reference).
+00858: 3.2
+00859: Bylaws of Target Corporation (as amended and restated through January 15, 2025) (filed as Exhibit 3.2 to Target's Current Report on Form 8-K on January 17, 2025, and incorporated herein by reference).
+00860: 10.4.7
+00861: * **
+00862: Form of Restricted Stock Unit Agreement (Officer).
+00863: 10.27 *
+00864: Amended and Restated Target Corporation 2020 Long-Term Incentive Plan (filed as Exhibit 10.27 to Target's Current Report on Form 8-K on June 12, 2026 and incorporated herein by reference).
+00865: 31.1 **
+00866: Certification of the Chief Executive Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+00867: 31.2 **
+00868: Certification of the Chief Financial Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+00869: 32.1 ***
+00870: Certification of the Chief Executive Officer Pursuant to 18 U.S.C. Section 1350, As Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+00871: 32.2 ***
+00872: Certification of the Chief Financial Officer Pursuant to 18 U.S.C. Section 1350, As Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+00873: 101.INS ** Inline XBRL Instance Document
+00874: 101.SCH ** Inline XBRL Taxonomy Extension Schema Document
+00875: 101.CAL ** Inline XBRL Taxonomy Extension Calculation Linkbase Document
+00876: 101.DEF ** Inline XBRL Taxonomy Extension Definition Linkbase Document
+00877: 101.LAB ** Inline XBRL Taxonomy Extension Label Linkbase Document
+00878: 101.PRE ** Inline XBRL Taxonomy Extension Presentation Linkbase Document
+00879: 104 ** Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)
+00880: * Management contract or compensatory plan or arrangement.
+00881: **
+00882: Filed herewith.
+00883: ***
+00884: Furnished herewith.
+00885: TARGET CORPORATION
+00886: Q2 2026 Form 10-Q
+00887: 26
+00888: SUPPLEMENTAL INFORMATION
+00889: Table of Contents
+00890: Index to Notes
+00891: SIGNATURES
+00892: Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+00893: TARGET CORPORATION
+00894: Dated: August 28, 2026 By: /s/ Jim Lee
+00895: Jim Lee
+00896: Executive Vice President and
+00897: Chief Financial Officer
+00898: (Duly Authorized Officer and
+00899: Principal Financial Officer)
+00900: /s/ Matthew A. Liegel
+00901: Matthew A. Liegel
+00902: Senior Vice President, Chief Accounting Officer
+00903: and Controller
+00904: (Principal Accounting Officer)
+00905: TARGET CORPORATION
+00906: Q2 2026 Form 10-Q
+00907: 27

@@ -1,0 +1,17 @@
+{
+  "source": "SEC EDGAR submissions API and Archives",
+  "submissions_http_status": 200,
+  "document_http_status": 200,
+  "ticker": "COST",
+  "record": {
+    "form": "10-K",
+    "accessionNumber": "0000909832-26-000093",
+    "filingDate": "2026-10-07",
+    "reportDate": "2026-08-30",
+    "primaryDocument": "cost-20260830.htm",
+    "cik": "0000909832",
+    "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/cost-20260830.htm"
+  },
+  "document_bytes": 1456596,
+  "document_sha256": "79bd633964563c7c5826db591a370d0ff5236340e31ed3649cce020543c975ed"
+}

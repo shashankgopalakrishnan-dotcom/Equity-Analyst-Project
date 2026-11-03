@@ -1,0 +1,17 @@
+{
+  "task": "Revise only these failing report parts: ['Future Developments and Strategic Recommendations']. Feedback: [{'part': 'Future Developments and Strategic Recommendations', 'role': 'advisor', 'why': \"The 'Future Developments and Strategic Recommendations' section is missing from the advisor role output. It should outline anticipated strategic moves and future developments for Costco.\"}]",
+  "context": {
+    "prior_role_output": "{\n  \"markdown\": \"## Investment Thesis\\n\\nCostco demonstrates a strong investment profile based on its robust business model, consistent financial performance, and resilient competitive advantages. The company's membership-driven approach, combined with operational efficiency and low-cost strategies, supports sustained growth and profitability.\\n\\nKey strengths include high membership renewal rates (92.3%), strong employee retention (94% in U.S. and Canada), and a focus on private-label brands like Kirkland Signature that enhance margins. Financially, Costco shows solid performance with a 10% revenue growth to $303.15 billion, net income of $9.23 billion, and diluted EPS of $20.76 in fiscal year 2026. The company also maintains strong cash flow generation ($15.82 billion from operations) and a healthy balance sheet with a debt-to-equity ratio of 0.17.\\n\\nDespite some cyclical exposure due to seasonal trends and economic sensitivity, Costco's consistent execution across international expansion, e-commerce growth (11% of total sales), and membership fee increases positions it well for continued success.\\n\\n## Recommendation\\n**Buy**\\n\\n## Deciding Number\\nThe **Return on Average Equity (ROAE)** of 28.4% is the most driving metric, indicating strong profitability relative to shareholders' equity and reinforcing the company's efficient capital utilization and sustainable competitive advantages.\\n\\n## Confidence\\nHigh\",\n  \"recommendation\": \"Buy\"\n}",
+    "parts": [
+      {
+        "part": "Future Developments and Strategic Recommendations",
+        "role": "advisor",
+        "why": "The 'Future Developments and Strategic Recommendations' section is missing from the advisor role output. It should outline anticipated strategic moves and future developments for Costco."
+      }
+    ],
+    "source_context": {
+      "company": "COSTCO WHOLESALE CORP /NEW"
+    }
+  },
+  "expected_output": "JSON with revised markdown for each assigned report part only."
+}

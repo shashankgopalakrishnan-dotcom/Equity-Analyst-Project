@@ -1,0 +1,97 @@
+{
+  "model_output": "{\"marks\": [{\"claim\": \"The Company's long-term debt consists primarily of Senior Notes\", \"status\": \"correct\", \"reason\": \"The filing explicitly states that the Company's long-term debt consists primarily of Senior Notes, and provides details about these notes including their interest rates, maturity dates, and redemption features.\", \"correction\": \"\", \"source\": \"Note 4—Debt, 00977\", \"corrected_claim\": \"\"}, {\"claim\": \"The Company's effective tax rate in 2026 was 24.7%\", \"status\": \"correct\", \"reason\": \"The reconciliation table (01154-01171) clearly shows the effective tax rate for 2026 to be 24.7%.\", \"correction\": \"\", \"source\": \"Note 8—Taxes, 01154\", \"corrected_claim\": \"\"}, {\"claim\": \"The Company's diluted earnings per share for 2026 was $20.76\", \"status\": \"correct\", \"reason\": \"The calculation section (01237-01245) and the financial statement data confirm that the diluted EPS for 2026 was indeed $20.76.\", \"correction\": \"\", \"source\": \"Note 9—Net Income per Common and Common Equivalent Share, 01237\", \"corrected_claim\": \"\"}, {\"claim\": \"The Company's total revenue for 2026 was $303.154 billion\", \"status\": \"correct\", \"reason\": \"This figure is provided in the summary of financial highlights (00972) and confirmed in the segment reporting table (01287-01288).\", \"correction\": \"\", \"source\": \"Note 11—Segment Reporting, 01287\", \"corrected_claim\": \"\"}, {\"claim\": \"The Company's operating income for 2026 was $11.685 billion\", \"status\": \"correct\", \"reason\": \"This figure is directly stated in the segment reporting table (01287-01291) and also matches the summary data in the financial highlights.\", \"correction\": \"\", \"source\": \"Note 11—Segment Reporting, 01287\", \"corrected_claim\": \"\"}, {\"claim\": \"The Company's net income for 2026 was $9.226 billion\", \"status\": \"correct\", \"reason\": \"The financial highlights (00972) and the consolidated statements of income confirm this figure.\", \"correction\": \"\", \"source\": \"Note 1—Summary of Significant Accounting Policies, 00876\", \"corrected_claim\": \"\"}, {\"claim\": \"The Company's long-term debt as of August 30, 2026 was $3.914 billion\", \"status\": \"correct\", \"reason\": \"This is directly stated in the balance sheet data (00995) and confirmed in Note 4—Debt.\", \"correction\": \"\", \"source\": \"Note 4—Debt, 00995\", \"corrected_claim\": \"\"}, {\"claim\": \"The Company's current debt as of August 30, 2026 was $2.248 billion\", \"status\": \"correct\", \"reason\": \"This figure is clearly stated in the balance sheet data (00994) and confirmed in Note 4—Debt.\", \"correction\": \"\", \"source\": \"Note 4—Debt, 00994\", \"corrected_claim\": \"\"}, {\"claim\": \"The Company's cash from operations for 2026 was $15.817 billion\", \"status\": \"correct\", \"reason\": \"This figure is provided in the cash flow statement and confirmed in Note 1—Summary of Significant Accounting Policies.\", \"correction\": \"\", \"source\": \"Note 1—Summary of Significant Accounting Policies, 00900\", \"corrected_claim\": \"\"}, {\"claim\": \"The Company's capital expenditures for 2026 were $6.435 billion\", \"status\": \"correct\", \"reason\": \"This figure is provided in the cash flow statement and confirmed in Note 11—Segment Reporting.\", \"correction\": \"\", \"source\": \"Note 11—Segment Reporting, 01318\", \"corrected_claim\": \"\"}, {\"claim\": \"The Company's equity as of August 30, 2026 was $35.803 billion\", \"status\": \"correct\", \"reason\": \"This figure is provided in the balance sheet data (01240) and confirmed in Note 1—Summary of Significant Accounting Policies.\", \"correction\": \"\", \"source\": \"Note 1—Summary of Significant Accounting Policies, 00900\", \"corrected_claim\": \"\"}, {\"claim\": \"The Company's return on average equity for 2026 was 28.4%\", \"status\": \"correct\", \"reason\": \"This is a calculated figure based on net income and equity, which aligns with the provided data.\", \"correction\": \"\", \"source\": \"Calculations section\", \"corrected_claim\": \"\"}, {\"claim\": \"The Company's debt to equity ratio for 2026 was 0.172\", \"status\": \"correct\", \"reason\": \"This is a calculated figure based on long-term debt and equity, which aligns with the provided data.\", \"correction\": \"\", \"source\": \"Calculations section\", \"corrected_claim\": \"\"}, {\"claim\": \"The Company's free cash flow for 2026 was $9.382 billion\", \"status\": \"correct\", \"reason\": \"This is a calculated figure based on cash from operations and capital expenditures, which aligns with the provided data.\", \"correction\": \"\", \"source\": \"Calculations section\", \"corrected_claim\": \"\"}, {\"claim\": \"The Company's price-to-earnings ratio was 47.79\", \"status\": \"correct\", \"reason\": \"This is a calculated figure based on the share price and earnings per share, which aligns with the provided data.\", \"correction\": \"\", \"source\": \"Calculations section\", \"corrected_claim\": \"\"}]}",
+  "marks": [
+    {
+      "claim": "- **Latest-quarter Total Revenue**: $95,723 million [release line 00043]",
+      "status": "correct",
+      "reason": "The amount and citation match the step 6 release line and its stated unit.",
+      "correction": "",
+      "source": "release line 00043",
+      "replacement_claim": ""
+    },
+    {
+      "claim": "- **Latest-quarter Diluted EPS**: $6.75 [release line 00056]",
+      "status": "correct",
+      "reason": "The amount and citation match the step 6 release line and its stated unit.",
+      "correction": "",
+      "source": "release line 00056",
+      "replacement_claim": ""
+    },
+    {
+      "claim": "- **Latest-quarter Revenue Growth**: 11.10% [arithmetic: (95723 / 86156) - 1 = 0.111042759645] [release line 00043]",
+      "status": "correct",
+      "reason": "Quarter revenue growth matches the two amounts on the selected release line.",
+      "correction": "",
+      "source": "release line 00043",
+      "replacement_claim": ""
+    },
+    {
+      "claim": "| Annual Revenue Growth | 10.14% | [arithmetic: (303154000000 / 275235000000) - 1 = 0.101436953876] [10-K line 00625] |",
+      "status": "correct",
+      "reason": "The displayed ratio and its inputs match the saved facts and code calculation.",
+      "correction": "",
+      "source": "(303154000000 / 275235000000) - 1",
+      "replacement_claim": ""
+    },
+    {
+      "claim": "| Operating Margin | 3.85% | [arithmetic: 11685000000 / 303154000000 = 0.0385447660265] |",
+      "status": "correct",
+      "reason": "The displayed ratio and its inputs match the saved facts and code calculation.",
+      "correction": "",
+      "source": "11685000000 / 303154000000",
+      "replacement_claim": ""
+    },
+    {
+      "claim": "| Return on Average Equity | 28.40% | [arithmetic: 9226000000 / ((35803000000 + 29164000000) / 2) = 0.284021118414] |",
+      "status": "correct",
+      "reason": "The displayed ratio and its inputs match the saved facts and code calculation.",
+      "correction": "",
+      "source": "9226000000 / ((35803000000 + 29164000000) / 2)",
+      "replacement_claim": ""
+    },
+    {
+      "claim": "| Debt to Equity | 17.21% | [arithmetic: (3914000000 + 2248000000) / 35803000000 = 0.172108482529] |",
+      "status": "correct",
+      "reason": "The displayed ratio and its inputs match the saved facts and code calculation.",
+      "correction": "",
+      "source": "(3914000000 + 2248000000) / 35803000000",
+      "replacement_claim": ""
+    },
+    {
+      "claim": "| Free Cash Flow | $9382000000 | [arithmetic: 15817000000 - 6435000000 = 9382000000] |",
+      "status": "correct",
+      "reason": "The displayed ratio and its inputs match the saved facts and code calculation.",
+      "correction": "",
+      "source": "15817000000 - 6435000000",
+      "replacement_claim": ""
+    },
+    {
+      "claim": "| Revenue (current) | $303154000000 | USD | 0000909832-26-000093 | RevenueFromContractWithCustomerExcludingAssessedTax | 00625 | 2026-08-30 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (RevenueFromContractWithCustomerExcludingAssessedTax, 2026-08-30).",
+      "correction": "",
+      "source": "RevenueFromContractWithCustomerExcludingAssessedTax; 2026-08-30; 0000909832-26-000093"
+    },
+    {
+      "claim": "| Operating Income (current) | $11685000000 | USD | 0000909832-26-000093 | OperatingIncomeLoss | 00629 | 2026-08-30 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (OperatingIncomeLoss, 2026-08-30).",
+      "correction": "",
+      "source": "OperatingIncomeLoss; 2026-08-30; 0000909832-26-000093"
+    },
+    {
+      "claim": "| Net Income (current) | $9226000000 | USD | 0000909832-26-000093 | NetIncomeLoss | 00635 | 2026-08-30 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (NetIncomeLoss, 2026-08-30).",
+      "correction": "",
+      "source": "NetIncomeLoss; 2026-08-30; 0000909832-26-000093"
+    },
+    {
+      "claim": "| Diluted EPS (current) | $20.76 | USD/shares | 0000909832-26-000093 | EarningsPerShareDiluted | 00638 | 2026-08-30 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (EarningsPerShareDiluted, 2026-08-30).",
+      "correction": "",
+      "source": "EarningsPerShareDiluted; 2026-08-30; 0000909832-26-000093"
+    }
+  ]
+}

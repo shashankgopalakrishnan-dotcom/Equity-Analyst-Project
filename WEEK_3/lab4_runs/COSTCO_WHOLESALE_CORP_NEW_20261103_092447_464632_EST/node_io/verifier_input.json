@@ -1,0 +1,278 @@
+{
+  "task": "Check every sourced numeric claim outside the Investment Recommendation thesis. For each claim, mark correct, wrong, or unsupported. Check whether the cited line states the number for the stated period and definition. Propose a corrected claim and real citation for wrong or unsupported claims.",
+  "context": {
+    "compiled_report": "Filings read: 10-K 0000909832-26-000093 accepted not recorded; 10-Q 0000909832-26-000051 accepted not recorded; 8-K 0000909832-26-000084 accepted not recorded\nRun time: 2026-11-03T09:28:00-05:00\n\n# Overview\nCostco operates membership warehouses and e-commerce sites based on the concept of offering low prices on a limited selection of nationally-branded and private-label products [10-K line 00134]. This model aims to produce high sales volumes and rapid inventory turnover, which enables the company to operate profitably at significantly lower gross margins than most other retailers [10-K line 00134]. The company buys most merchandise directly from suppliers and routes it through cross-docking consolidation points or directly to warehouses [10-K line 00135]. Costco's business model also includes a membership format that encourages frequent shopping, with an annual fee of $65 in the U.S. [10-K line 00134, 00157].\n\n# Market Positioning and Growth Outlook\nCostco competes globally with a wide array of retailers including supermarkets, supercenters, online retailers, gasoline stations, hard discounters, department and specialty stores, and warehouse clubs such as Sam’s Club and BJ’s Wholesale Club [10-K line 00190]. The company holds a strong market presence in multiple countries including the U.S., Canada, Mexico, Japan, U.K., Korea, Australia, Taiwan, China, Spain, France, Sweden, Iceland, and New Zealand [10-K line 00131]. It differentiates itself through competitive pricing, quality merchandise, limited SKUs (less than 4,000 active SKUs per warehouse), and its private-label brand, Kirkland Signature [10-K line 00141, 00192]. Key catalysts driving Costco’s performance include strong comparable sales growth, increased membership fee revenue, expansion into new markets, and favorable conditions in e-commerce and digital sales [10-K line 00414-00423]. Notably, the company reported a 10% increase in net sales for 2026, driven by comparable sales growth and new warehouse openings [10-K line 00416]. Additionally, higher gasoline prices positively impacted net sales by $3,501 or 130 basis points [10-K line 00454]. The company also benefited from IEEPA tariff refunds, which reduced merchandise costs and were partially reinvested in member value [10-K line 00426].\n\n# Valuation Insights\n## Financial Analysis Report: COSTCO WHOLESALE CORP /NEW (COST)\n\n### Annual Facts\n\n| Metric | Value | Filing | XBRL Tag | Period |\n|--------|-------|--------|----------|--------|\n| Revenue | $303,154,000,000 | 0000909832-26-000093 | Revenues | CY2026 |\n| Operating Income | $11,685,000,000 | 0000909832-26-000093 | OperatingIncomeLoss | CY2026 |\n| Net Income | $9,226,000,000 | 0000909832-26-000093 | NetIncomeLoss | CY2026 |\n| Diluted EPS | $20.76 | 0000909832-26-000093 | EarningsPerShareDiluted | CY2026 |\n| Equity | $35,803,000,000 | 0000909832-26-000093 | StockholdersEquity | CY2026Q3I |\n| Long-term Debt | $3,914,000,000 | 0000909832-26-000093 | LongTermDebtNoncurrent | CY2026Q3I |\n| Current Debt | $2,248,000,000 | 0000909832-26-000093 | LongTermDebtCurrent | CY2026Q3I |\n| Cash from Operations | $15,817,000,000 | 0000909832-26-000093 | NetCashProvidedByUsedInOperatingActivities | CY2026 |\n| Capital Expenditures | $6,435,000,000 | 0000909832-26-000093 | PaymentsToAcquirePropertyPlantAndEquipment | CY2026 |\n\n### Calculator Results\n\n| Ratio | Value | Calculation |\n|-------|-------|-------------|\n| Revenue Growth | 10.14% | (303154000000 / 275235000000) - 1 = 0.10143695387577889 |\n| Operating Margin | 3.85% | 11685000000 / 303154000000 = 0.03854476602650798 |\n| Return on Average Equity | 28.40% | 9226000000 / ((35803000000 + 29164000000) / 2) = 0.284021118413964 |\n| Debt to Equity | 17.21% | (3914000000 + 2248000000) / 35803000000 = 0.17210848252939698 |\n| Free Cash Flow | $9,382,000,000 | 15817000000 - 6435000000 = 9382000000.0 |\n| P/E Ratio | 47.79 | 992.13 / 20.76 = 47.79046242774566 |\n\n### Latest-Quarter Revenue and Diluted EPS\n\n| Metric | Value | Filing | Period |\n|--------|-------|--------|--------|\n| Latest-Quarter Revenue | $93,873,000,000 | 00010 | CY2026Q3 |\n| Diluted EPS (Latest Quarter) | $6.75 | 00056 | CY2026Q3 |\n\n### Peer Margins\n\n| Company | Ticker | Operating Margin |\n|---------|--------|------------------|\n| Walmart Inc. | WMT | 4.18% |\n| TARGET CORP | TGT | 4.88% |\n| BJ's Wholesale Club Holdings, Inc. | BJ | 3.81% |\n\n# Future Developments and Strategic Recommendations\nLooking ahead, Costco is well-positioned for continued growth through strategic market expansion and operational enhancements. The company's plan to open new warehouses in key geographic markets will support long-term revenue growth. Additionally, investments in employee compensation and technology upgrades are expected to improve customer experience and operational efficiency. The company’s focus on sustainable business practices and supply chain optimization further strengthens its competitive advantage.\n\n# Investment Recommendation\n**Buy**\n\n## Deciding Reported Number\nThe **return on average equity (28.40%)** is the most critical driver behind this recommendation, as it reflects Costco’s exceptional efficiency in generating returns from shareholders' equity, which aligns with its strong financial performance and sustainable competitive advantages.\n\n## Confidence Level\nHigh\n",
+    "saved_filing_texts": {
+      "10k.txt": [
+        "00133: General",
+        "00134: We operate membership warehouses and e-commerce sites based on the concept that offering low prices on a limited selection of nationally-branded and private-label products in a wide range of categories will produce high sales volumes and rapid inventory turnover. When combined with the operating efficiencies achieved by volume purchasing, efficient distribution and reduced handling of merchandise in no-frills, self-service warehouse facilities, these volumes and turnover enable us to operate profitably at significantly lower gross margins (net sales less merchandise costs) than most other retailers. We often sell inventory before we are required to pay for it, even while taking advantage of early payment discounts.",
+        "00135: We buy most of our merchandise directly from suppliers and route it to cross-docking consolidation points (depots) or directly to our warehouses. Our depots receive large shipments from suppliers and quickly",
+        "00136: 3",
+        "00137: Table of Contents",
+        "00189: Competition",
+        "00190: Our industry is highly competitive, based on factors such as price, merchandise quality and selection, location, convenience, distribution strategy, and customer service. We compete on a worldwide basis with global, national, and regional wholesalers and retailers, including supermarkets, supercenters, online retailers, gasoline stations, hard discounters, department and specialty stores, and operators selling a single category or narrow range of merchandise. Walmart, Target, Kroger, and Amazon are among our significant general merchandise retail competitors in the U.S. We also compete with other warehouse clubs, including Walmart’s Sam’s Club and BJ’s Wholesale Club in the U.S. Many of the metropolitan areas in the U.S. and certain of our Other International locations have multiple competing clubs.",
+        "00191: Intellectual Property",
+        "00192: We believe that, to varying degrees, our trademarks, trade names, copyrights, proprietary processes, trade secrets, trade dress, domain names, and similar intellectual property add significant value to our business and are important to our success. We have invested significantly in the development and protection of our well-recognized brands, including the Costco Wholesale trademarks and our private-label brand, Kirkland Signature. We believe that Kirkland Signature products are high quality, offered at prices that are generally lower than national brands, and help lower costs, differentiate our merchandise offerings, and generally earn higher margins. We expect to continue to increase the sales penetration of our private-label items.",
+        "00130: Item 1—Business",
+        "00131: Costco Wholesale Corporation and its subsidiaries (Costco or the Company) began operations in 1983, in Seattle, Washington. We are principally engaged in the operation of membership warehouses in the United States (U.S.) and Puerto Rico, Canada, Mexico, Japan, the United Kingdom (U.K.), Korea, Australia, Taiwan, China, Spain, France, Sweden, Iceland, and New Zealand. Costco operated 939, 914, and 890 warehouses worldwide at August 30, 2026, August 31, 2025, and September 1, 2024. The Company operates e-commerce sites in the U.S., Canada, Mexico, the U.K., Korea, Taiwan, Japan, Australia, and China. Our common stock trades on the NASDAQ Global Select Market, under the symbol “COST.”",
+        "00132: We report on a 52/53-week fiscal year, consisting of thirteen four-week periods and ending on the Sunday nearest the end of August. The first three quarters consist of three periods each, and the fourth quarter consists of four periods (five weeks in the thirteenth period in a 53-week year). The material seasonal impact in our operations is increased net sales and earnings during the winter holiday season. References to 2026, 2025, and 2024 relate to the 52-week fiscal years ended August 30, 2026, August 31, 2025, and September 1, 2024.",
+        "00415: •We opened 28 new warehouses, including three relocations, for a total of 25 net new warehouses: 18 in the U.S., five in our Canadian segment, and two in our Other International segment, compared to 27 new warehouses, including three relocations, in 2025;",
+        "00416: •Net sales increased 10% to $297,247, driven by an increase in comparable sales and sales at new warehouses;",
+        "00417: •Higher gasoline prices positively impacted net sales by $3,501, or 130 basis points, and changes in foreign currencies positively impacted net sales by $1,332, or 49 basis points;",
+        "00418: •Membership fee revenue increased 11% to $5,907, driven by new member sign-ups, membership fee increases, and upgrades to Executive membership;",
+        "00453: Sales increased $17,136 or 8% in core merchandise categories, increasing in all categories. Sales in warehouse ancillary and other businesses increased $10,199, or 20%, led by gasoline and pharmacy.",
+        "00454: Higher gasoline prices positively impacted net sales by $3,501, or 130 basis points, with a 12% increase in the average price per gallon. The volume of gasoline sold increased 7%, positively impacting net sales by $1,913, or 71 basis points.",
+        "00455: Changes in foreign currencies relative to the U.S. dollar positively impacted net sales by $1,332, or 49 basis points, attributable to our Other International and Canadian operations.",
+        "00456: Membership Fees",
+        "00425: Beginning in February 2025, the United States imposed tariffs under the International Emergency Economic Powers Act (IEEPA) on certain goods, materials, and products imported into the United States. We paid the government approximately $500 in IEEPA tariffs. In February 2026, the U.S. Supreme Court ruled that the IEEPA tariffs were unlawful. Following this ruling, the government launched a program to administer IEEPA refunds.",
+        "00426: We applied the gain contingency model, in accordance with Accounting Standards Codification (ASC) 450-30, “Gain Contingencies,” recognizing recoveries in our consolidated statements of operations only as they were realized. During 2026, we began filing for refunds and received $184, made up of $174 in refunds, recorded as a reduction to merchandise costs, and $10 recorded as interest income. A portion of these refunds was invested in reducing prices for members. Subsequent to 2026, we received $155 in additional refunds and we intend to continue to invest the majority of the refunds in increased value for the member. For a small percentage of transactions where corrections are required, refunds may be delayed as the government continues to implement the IEEPA refund process.",
+        "00427: 25",
+        "00428: Table of Contents"
+      ]
+    },
+    "saved_facts": {
+      "ticker": "COST",
+      "cik": "0000909832",
+      "fiscal_end": "2026-08-30",
+      "values": {
+        "revenue": {
+          "current": {
+            "start": "2025-09-01",
+            "end": "2026-08-30",
+            "val": 303154000000,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2026"
+          },
+          "prior": {
+            "start": "2024-09-02",
+            "end": "2025-08-31",
+            "val": 275235000000,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2025"
+          }
+        },
+        "operating_income": {
+          "current": {
+            "start": "2025-09-01",
+            "end": "2026-08-30",
+            "val": 11685000000,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2026"
+          },
+          "prior": {
+            "start": "2024-09-02",
+            "end": "2025-08-31",
+            "val": 10383000000,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2025"
+          }
+        },
+        "net_income": {
+          "current": {
+            "start": "2025-09-01",
+            "end": "2026-08-30",
+            "val": 9226000000,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2026"
+          },
+          "prior": {
+            "start": "2024-09-02",
+            "end": "2025-08-31",
+            "val": 8099000000,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2025"
+          }
+        },
+        "diluted_eps": {
+          "current": {
+            "start": "2025-09-01",
+            "end": "2026-08-30",
+            "val": 20.76,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2026"
+          },
+          "prior": {
+            "start": "2024-09-02",
+            "end": "2025-08-31",
+            "val": 18.21,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2025"
+          }
+        },
+        "equity": {
+          "current": {
+            "end": "2026-08-30",
+            "val": 35803000000,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2026Q3I"
+          },
+          "prior": {
+            "end": "2025-08-31",
+            "val": 29164000000,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2025Q3I"
+          }
+        },
+        "long_term_debt": {
+          "current": {
+            "end": "2026-08-30",
+            "val": 3914000000,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2026Q3I"
+          },
+          "prior": {
+            "end": "2025-08-31",
+            "val": 5713000000,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2025Q3I"
+          }
+        },
+        "current_debt": {
+          "current": {
+            "end": "2026-08-30",
+            "val": 2248000000,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2026Q3I"
+          },
+          "prior": {
+            "end": "2025-08-31",
+            "val": 75000000,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2025Q3I"
+          }
+        },
+        "cash_from_operations": {
+          "current": {
+            "start": "2025-09-01",
+            "end": "2026-08-30",
+            "val": 15817000000,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2026"
+          },
+          "prior": {
+            "start": "2024-09-02",
+            "end": "2025-08-31",
+            "val": 13335000000,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2025"
+          }
+        },
+        "capex": {
+          "current": {
+            "start": "2025-09-01",
+            "end": "2026-08-30",
+            "val": 6435000000,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2026"
+          },
+          "prior": {
+            "start": "2024-09-02",
+            "end": "2025-08-31",
+            "val": 5498000000,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2025"
+          }
+        }
+      },
+      "tags": {
+        "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "operating_income": "OperatingIncomeLoss",
+        "net_income": "NetIncomeLoss",
+        "diluted_eps": "EarningsPerShareDiluted",
+        "equity": "StockholdersEquity",
+        "long_term_debt": "LongTermDebtNoncurrent",
+        "current_debt": "LongTermDebtCurrent",
+        "cash_from_operations": "NetCashProvidedByUsedInOperatingActivities",
+        "capex": "PaymentsToAcquirePropertyPlantAndEquipment"
+      },
+      "units": {
+        "revenue": "USD",
+        "operating_income": "USD",
+        "net_income": "USD",
+        "diluted_eps": "USD/shares",
+        "equity": "USD",
+        "long_term_debt": "USD",
+        "current_debt": "USD",
+        "cash_from_operations": "USD",
+        "capex": "USD"
+      },
+      "all_facts_path": "/Users/shashankgopalakrishnan/Documents/Courses/Mastering AI for finance/WEEK_3/lab4_runs/COSTCO_WHOLESALE_CORP_NEW_20261103_092447_464632_EST/COST_companyfacts.json",
+      "raw_companyfacts_files": [
+        "COST_companyfacts.json"
+      ]
+    }
+  },
+  "expected_output": "JSON with marks array: each item has claim, status, reason, correction, source. Also include corrected_report_markdown."
+}

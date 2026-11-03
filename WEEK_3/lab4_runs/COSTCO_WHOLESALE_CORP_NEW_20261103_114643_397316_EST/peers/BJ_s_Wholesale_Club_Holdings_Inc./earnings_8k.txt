@@ -1,0 +1,62 @@
+00001: bj-20260821
+00002: .
+00003: UNITED STATES
+00004: SECURITIES AND EXCHANGE COMMISSION
+00005: Washington, D.C. 20549
+00006: __________________________________
+00007: FORM 8-K
+00008: __________________________________
+00009: CURRENT REPORT
+00010: Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+00011: Date of Report (Date of earliest event reported) August 21, 2026
+00012: BJ’S WHOLESALE CLUB HOLDINGS, INC.
+00013: (Exact name of registrant as specified in its charter)
+00014: __________________________________
+00015: Delaware 001-38559 45-2936287
+00016: (State or other jurisdiction
+00017: of incorporation) (Commission
+00018: File Number) (IRS Employer
+00019: Identification No.)
+00020: 350 Campus Drive
+00021: Marlborough, Massachusetts
+00022: 01752
+00023: (Address of principal executive offices) (Zip Code)
+00024: (774) 512-7400
+00025: (Registrant’s telephone number, including area code)
+00026: N/A
+00027: (Former name, former address and former fiscal year, if changed since last report)
+00028: Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligations of the registrant under any of the following provisions:
+00029: ☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+00030: ☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+00031: ☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+00032: ☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+00033: Securities registered or to be registered pursuant to Section 12(b) of the Act:
+00034: Title of each class Trading Symbol(s) Name of each exchange on which registered
+00035: Common Stock, par value $0.01 BJ New York Stock Exchange
+00036: Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+00037: Emerging growth company ☐
+00038: If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+00039: .
+00040: .
+00041: Item 2.02 Results of Operations and Financial Condition.
+00042: On August 21, 2026, BJ’s Wholesale Club Holdings, Inc. (the “Company”) issued a press release announcing its financial results for the second quarter (thirteen weeks) and first two quarters (twenty-six weeks) of fiscal year 2026 ended August 1, 2026. The full text of the press release is furnished as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference.
+00043: The information in this Current Report on Form 8-K (including Exhibit 99.1) shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that Section, nor shall it be deemed to be incorporated by reference into any filing of the Company under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such filings.
+00044: Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+00045: On August 19, 2026, Paul Cichocki, Executive Vice President, Chief Commercial Officer of BJ’s Wholesale Club Holdings, Inc. (the “Company”), informed the Company of his intent to retire from his current position with the Company, effective August 21, 2026. Following the effective date of his resignation, Mr. Cichocki will serve as an Executive Advisor to the Company on a part-time basis through October 1, 2026, and on an on-call basis through April 1, 2027, when he will officially retire from the Company.
+00046: In connection with Mr. Cichocki’s transition, his annual base salary will be $500,000 effective August 21, 2026, and reduced to $100,000 effective October 1, 2026. Mr. Cichocki will remain eligible for an annual incentive award commensurate with his adjusted base salary and for equity grants vesting on April 1, 2027.
+00047: Item 9.01 Financial Statements and Exhibits.
+00048: (d) Exhibits
+00049: Exhibit No. Description
+00050: 99.1
+00051: Press Release of BJ's Wholesale Club Holdings, Inc. dated August 21, 2026
+00052: 104 Cover Page Interactive Data File (embedded within the Inline XBRL document)
+00053: .
+00054: .
+00055: SIGNATURES
+00056: Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+00057: Date: August 21, 2026
+00058: BJ’S WHOLESALE CLUB HOLDINGS, INC.
+00059: By: /s/ Laura Felice
+00060: Name: Laura Felice
+00061: Title: Executive Vice President and Chief Financial Officer
+00062: .

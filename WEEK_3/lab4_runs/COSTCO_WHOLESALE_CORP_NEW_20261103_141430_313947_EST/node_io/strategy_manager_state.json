@@ -1,0 +1,31 @@
+{
+  "failing_parts": [
+    {
+      "part": "Overview",
+      "role": "research",
+      "why": "The 'Overview' section is missing from the research role output. It should include a concise summary of the company's business model, competitive position, and key financial highlights."
+    },
+    {
+      "part": "Market Positioning and Growth Outlook",
+      "role": "research",
+      "why": "The 'Market Positioning and Growth Outlook' section is missing from the research role output. It should detail how Costco positions itself in the market and outline its growth drivers and future prospects."
+    },
+    {
+      "part": "Valuation Insights",
+      "role": "financial",
+      "why": "The 'Valuation Insights' section is missing from the financial role output. It should provide analysis of key valuation metrics such as P/E ratio, ROAE, and comparisons with peers."
+    },
+    {
+      "part": "Future Developments and Strategic Recommendations",
+      "role": "advisor",
+      "why": "The 'Future Developments and Strategic Recommendations' section is missing from the advisor role output. It should outline anticipated strategic moves and future developments for Costco."
+    }
+  ],
+  "revised_roles": [
+    "advisor",
+    "financial",
+    "research"
+  ],
+  "manager_calls": 2,
+  "missing_after_compile": []
+}

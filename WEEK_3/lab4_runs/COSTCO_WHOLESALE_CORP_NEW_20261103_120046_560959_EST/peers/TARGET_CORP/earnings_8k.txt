@@ -1,0 +1,43 @@
+00001: tgt-20260819
+00002: UNITED STATES
+00003: SECURITIES AND EXCHANGE COMMISSION
+00004: Washington, D.C. 20549
+00005: FORM 8-K
+00006: CURRENT REPORT
+00007: Pursuant to Section 13 or 15(d) of The Securities Exchange Act of 1934
+00008: Date of Report (Date of earliest event reported): August 19, 2026
+00009: Target Corporation
+00010: (Exact name of registrant as specified in its charter)
+00011: Minnesota 1-6049 41-0215170
+00012: (State or other jurisdiction of incorporation) (Commission File Number) (IRS Employer Identification No.)
+00013: 1000 Nicollet Mall, Minneapolis, Minnesota 55403
+00014: (Address of principal executive offices) (Zip Code)
+00015: Registrant’s telephone number, including area code: (612) 304-6073
+00016: Not Applicable
+00017: (Former name or former address, if changed since last report.)
+00018: Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+00019: ☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+00020: ☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+00021: ☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+00022: ☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+00023: Securities registered pursuant to Section 12(b) of the Act:
+00024: Title of each class Trading Symbol(s) Name of each exchange on which registered
+00025: Common stock, par value $0.0833 per share TGT New York Stock Exchange
+00026: Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+00027: Emerging growth company ☐
+00028: If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o
+00029: Item 2.02 Results of Operations and Financial Condition.
+00030: On August 19, 2026, Target Corporation issued a News Release containing its financial results for the three months ended August 1, 2026. The News Release is attached hereto as Exhibit 99.
+00031: Item 9.01 Financial Statements and Exhibits.
+00032: (d) Exhibits.
+00033: 99
+00034: Target Corporation’s News Release dated August 19, 2026, containing its financial results for the three months ended August 1, 2026.
+00035: 104 Cover Page Interactive Data File (formatted as inline XBRL).
+00036: 2
+00037: SIGNATURES
+00038: Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+00039: TARGET CORPORATION
+00040: Date: August 19, 2026 By: /s/ Jim Lee
+00041: Name: Jim Lee
+00042: Title: Executive Vice President and Chief Financial Officer
+00043: 3

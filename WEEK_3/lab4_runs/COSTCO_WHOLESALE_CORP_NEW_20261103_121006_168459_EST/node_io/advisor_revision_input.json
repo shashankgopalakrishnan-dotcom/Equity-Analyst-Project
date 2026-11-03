@@ -1,0 +1,17 @@
+{
+  "task": "Revise only these failing report parts: ['Investment Recommendation']. Feedback: [{'part': 'Investment Recommendation', 'role': 'advisor', 'why': \"Although Investment Recommendation is present in the advisor's markdown, it is not structured as a standalone section within the required five-part format. It appears embedded within the Investment Thesis and is not separated into its own clearly defined section.\"}]",
+  "context": {
+    "prior_role_output": "{\n  \"markdown\": \"## Investment Thesis\\n\\nCostco demonstrates strong financial performance and operational excellence, supported by consistent revenue growth, robust profitability, and a solid balance sheet. The company's business model, centered on low prices and high volume, continues to drive member loyalty and recurring fee revenue, which are key contributors to sustained profitability.\\n\\nKey strengths include:\\n- **Value**: Costco maintains a strong competitive advantage through its membership format, pricing authority, and private-label brand (Kirkland Signature), all of which contribute to customer retention and premium positioning.\\n- **Growth**: Revenue growth of 10.1% year-over-year in fiscal 2026, driven by new warehouse openings and increased e-commerce sales, reflects the company’s successful expansion strategy.\\n- **Business Quality**: High membership renewal rates, strong employee retention, and strategic investments in digital platforms enhance long-term business sustainability.\\n- **Financial Strength**: A return on average equity of 28.4% underscores excellent capital efficiency, while low debt-to-equity ratio (0.17) indicates a financially stable balance sheet.\\n- **Risk**: Despite material risks such as inflation and currency fluctuations, Costco’s model provides resilience due to its cost leadership and pricing power.\\n\\nThe most impactful figure driving this recommendation is the **net income increase of 14% to $9.226 billion in 2026**, which demonstrates strong operational performance and profitability amid macroeconomic headwinds.\\n\\n## Recommendation\\n**Buy**\\n\\nThis recommendation is based on Costco's consistent earnings growth, solid financial metrics, and strategic advantages that support long-term value creation.\",\n  \"recommendation\": \"Buy\",\n  \"deciding_number\": \"Net Income (fiscal year 2026): 9226000000\"\n}",
+    "parts": [
+      {
+        "part": "Investment Recommendation",
+        "role": "advisor",
+        "why": "Although Investment Recommendation is present in the advisor's markdown, it is not structured as a standalone section within the required five-part format. It appears embedded within the Investment Thesis and is not separated into its own clearly defined section."
+      }
+    ],
+    "source_context": {
+      "company": "COSTCO WHOLESALE CORP /NEW"
+    }
+  },
+  "expected_output": "JSON with revised markdown for each assigned report part only."
+}

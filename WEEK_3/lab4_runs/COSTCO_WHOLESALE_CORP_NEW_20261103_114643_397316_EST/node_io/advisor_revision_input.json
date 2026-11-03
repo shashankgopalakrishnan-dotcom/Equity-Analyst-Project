@@ -1,0 +1,22 @@
+{
+  "task": "Revise only these failing report parts: ['Future Developments and Strategic Recommendations', 'Investment Recommendation']. Feedback: [{'part': 'Future Developments and Strategic Recommendations', 'role': 'advisor', 'why': \"The advisor output discusses the investment thesis, key driver (ROE), and risk considerations but does not clearly articulate future developments or strategic recommendations. The 'Future Developments' aspect is implied through the investment stance, but a formal section on planned initiatives or strategic outlook is missing.\"}, {'part': 'Investment Recommendation', 'role': 'advisor', 'why': \"Although the advisor output includes a clear 'Buy' recommendation and justification based on ROE, it does not present the recommendation in a structured format as would be expected in an 'Investment Recommendation' section. It is more of a summary statement rather than a formalized conclusion.\"}]",
+  "context": {
+    "prior_role_output": "{\n  \"markdown\": \"## Investment Thesis\\nCostco demonstrates strong financial performance and operational efficiency, with consistent revenue growth, high return on equity, and a robust business model centered on membership fees and low-cost merchandise. The company's ability to maintain a loyal customer base through its membership format, combined with its focus on private-label products and efficient distribution, supports continued growth. Financially, Costco shows strong profitability with a 14% increase in net income and a return on average equity of 28.40%, while maintaining a low debt-to-equity ratio of 0.172, indicating financial strength.\\n\\n## Recommendation\\n**Buy**\\n\\n## Key Driver\\nThe **return on average equity (ROE) of 28.40%** is the most significant factor driving this recommendation, reflecting Costco's exceptional ability to generate returns for shareholders relative to its equity base. This metric underscores the company’s high business quality and financial strength, supporting a long-term buy stance.\\n\\n## Risk Considerations\\nWhile Costco has strong fundamentals, it faces material risks including economic sensitivity, currency fluctuations in international markets, rising employee costs, and competitive pressures from e-commerce players. However, its operational efficiency and member loyalty provide a buffer against these challenges.\",\n  \"recommendation\": \"Buy\"\n}",
+    "parts": [
+      {
+        "part": "Future Developments and Strategic Recommendations",
+        "role": "advisor",
+        "why": "The advisor output discusses the investment thesis, key driver (ROE), and risk considerations but does not clearly articulate future developments or strategic recommendations. The 'Future Developments' aspect is implied through the investment stance, but a formal section on planned initiatives or strategic outlook is missing."
+      },
+      {
+        "part": "Investment Recommendation",
+        "role": "advisor",
+        "why": "Although the advisor output includes a clear 'Buy' recommendation and justification based on ROE, it does not present the recommendation in a structured format as would be expected in an 'Investment Recommendation' section. It is more of a summary statement rather than a formalized conclusion."
+      }
+    ],
+    "source_context": {
+      "company": "COSTCO WHOLESALE CORP /NEW"
+    }
+  },
+  "expected_output": "JSON with revised markdown for each assigned report part only."
+}

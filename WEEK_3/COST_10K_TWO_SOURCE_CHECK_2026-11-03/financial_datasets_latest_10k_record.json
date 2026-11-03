@@ -1,0 +1,14 @@
+{
+  "source": "Financial Datasets API",
+  "request_endpoint": "https://api.financialdatasets.ai/filings/?ticker=COST&limit=25&filing_type=10-K",
+  "http_status": 200,
+  "ticker": "COST",
+  "record": {
+    "accession_number": "0000909832-26-000093",
+    "filing_type": "10-K",
+    "report_date": "2026-08-30",
+    "filing_date": "2026-10-07",
+    "ticker": "COST",
+    "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/cost-20260830.htm"
+  }
+}

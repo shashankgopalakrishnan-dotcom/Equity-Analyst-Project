@@ -1,0 +1,1215 @@
+{
+  "task": "Revise only these failing report parts: ['Valuation Insights']. Feedback: [{'part': 'Valuation Insights', 'role': 'financial', 'why': \"The 'financial' role output includes key financial metrics such as P/E ratio, ROE, debt-to-equity, and others, but does not explicitly organize these into a dedicated 'Valuation Insights' section. The required structure is missing.\"}]",
+  "context": {
+    "prior_role_output": "{\n  \"markdown\": \"- **Revenue (fiscal year 2026)**: 303154000000 [filing accession: 0000909832-26-000093, tag: Revenues, period-end: 2026-08-30]\\n- **Operating Income (fiscal year 2026)**: 11685000000 [filing accession: 0000909832-26-000093, tag: OperatingIncomeLoss, period-end: 2026-08-30]\\n- **Net Income (fiscal year 2026)**: 9226000000 [filing accession: 0000909832-26-000093, tag: NetIncomeLoss, period-end: 2026-08-30]\\n- **Diluted EPS (fiscal year 2026)**: 20.76 [filing accession: 0000909832-26-000093, tag: EarningsPerShareDiluted, period-end: 2026-08-30]\\n- **Equity (fiscal year 2026)**: 35803000000 [filing accession: 0000909832-26-000093, tag: StockholdersEquity, period-end: 2026-08-30]\\n- **Long-term Debt (fiscal year 2026)**: 3914000000 [filing accession: 0000909832-26-000093, tag: LongTermDebtNoncurrent, period-end: 2026-08-30]\\n- **Current Debt (fiscal year 2026)**: 2248000000 [filing accession: 0000909832-26-000093, tag: LongTermDebtCurrent, period-end: 2026-08-30]\\n- **Cash from Operations (fiscal year 2026)**: 15817000000 [filing accession: 0000909832-26-000093, tag: NetCashProvidedByUsedInOperatingActivities, period-end: 2026-08-30]\\n- **Capital Expenditures (fiscal year 2026)**: 6435000000 [filing accession: 0000909832-26-000093, tag: PaymentsToAcquirePropertyPlantAndEquipment, period-end: 2026-08-30]\\n- **Revenue Growth**: 0.10143695387577889 [release line 00043]\\n- **Operating Margin**: 0.03854476602650798 [release line 00043]\\n- **Return on Average Equity**: 0.284021118413964 [release line 00043]\\n- **Debt to Equity**: 0.17210848252939698 [release line 00043]\\n- **Free Cash Flow**: 9382000000.0 [release line 00043]\\n- **P/E Ratio**: 47.79046242774566 [release line 00056]\\n- **Latest-quarter Total Revenue**: 303154000000 [release line 00043]\\n- **Latest-quarter Diluted EPS**: 20.76 [release line 00056]\\n\\n**Peer Margins**:\\n- **Walmart Inc. (fiscal year 2026)**: Operating Margin = 0.041820733829433104 [filing accession: 0000104169-26-000055, tag: OperatingIncomeLoss, period-end: 2026-01-31]\\n- **Target Corp. (fiscal year 2026)**: Operating Margin = 0.048835655659477 [filing accession: 0000027419-26-000016, tag: OperatingIncomeLoss, period-end: 2026-01-31]\\n- **BJ's Wholesale Club Holdings, Inc. (fiscal year 2026)**: Operating Margin = 0.03805721080879146 [filing accession: 0001531152-26-000007, tag: OperatingIncomeLoss, period-end: 2026-01-31]\",\n  \"claims\": [\n    {\n      \"metric\": \"Revenue\",\n      \"value\": 303154000000,\n      \"filing_accession\": \"0000909832-26-000093\",\n      \"tag\": \"Revenues\",\n      \"period_end\": \"2026-08-30\",\n      \"unit\": \"USD\"\n    },\n    {\n      \"metric\": \"Operating Income\",\n      \"value\": 11685000000,\n      \"filing_accession\": \"0000909832-26-000093\",\n      \"tag\": \"OperatingIncomeLoss\",\n      \"period_end\": \"2026-08-30\",\n      \"unit\": \"USD\"\n    },\n    {\n      \"metric\": \"Net Income\",\n      \"value\": 9226000000,\n      \"filing_accession\": \"0000909832-26-000093\",\n      \"tag\": \"NetIncomeLoss\",\n      \"period_end\": \"2026-08-30\",\n      \"unit\": \"USD\"\n    },\n    {\n      \"metric\": \"Diluted EPS\",\n      \"value\": 20.76,\n      \"filing_accession\": \"0000909832-26-000093\",\n      \"tag\": \"EarningsPerShareDiluted\",\n      \"period_end\": \"2026-08-30\",\n      \"unit\": \"USD/shares\"\n    },\n    {\n      \"metric\": \"Equity\",\n      \"value\": 35803000000,\n      \"filing_accession\": \"0000909832-26-000093\",\n      \"tag\": \"StockholdersEquity\",\n      \"period_end\": \"2026-08-30\",\n      \"unit\": \"USD\"\n    },\n    {\n      \"metric\": \"Long-term Debt\",\n      \"value\": 3914000000,\n      \"filing_accession\": \"0000909832-26-000093\",\n      \"tag\": \"LongTermDebtNoncurrent\",\n      \"period_end\": \"2026-08-30\",\n      \"unit\": \"USD\"\n    },\n    {\n      \"metric\": \"Current Debt\",\n      \"value\": 2248000000,\n      \"filing_accession\": \"0000909832-26-000093\",\n      \"tag\": \"LongTermDebtCurrent\",\n      \"period_end\": \"2026-08-30\",\n      \"unit\": \"USD\"\n    },\n    {\n      \"metric\": \"Cash from Operations\",\n      \"value\": 15817000000,\n      \"filing_accession\": \"0000909832-26-000093\",\n      \"tag\": \"NetCashProvidedByUsedInOperatingActivities\",\n      \"period_end\": \"2026-08-30\",\n      \"unit\": \"USD\"\n    },\n    {\n      \"metric\": \"Capital Expenditures\",\n      \"value\": 6435000000,\n      \"filing_accession\": \"0000909832-26-000093\",\n      \"tag\": \"PaymentsToAcquirePropertyPlantAndEquipment\",\n      \"period_end\": \"2026-08-30\",\n      \"unit\": \"USD\"\n    },\n    {\n      \"metric\": \"Revenue Growth\",\n      \"value\": 0.10143695387577889,\n      \"source_line\": \"00043\"\n    },\n    {\n      \"metric\": \"Operating Margin\",\n      \"value\": 0.03854476602650798,\n      \"source_line\": \"00043\"\n    },\n    {\n      \"metric\": \"Return on Average Equity\",\n      \"value\": 0.284021118413964,\n      \"source_line\": \"00043\"\n    },\n    {\n      \"metric\": \"Debt to Equity\",\n      \"value\": 0.17210848252939698,\n      \"source_line\": \"00043\"\n    },\n    {\n      \"metric\": \"Free Cash Flow\",\n      \"value\": 9382000000.0,\n      \"source_line\": \"00043\"\n    },\n    {\n      \"metric\": \"P/E Ratio\",\n      \"value\": 47.79046242774566,\n      \"source_line\": \"00056\"\n    },\n    {\n      \"metric\": \"Latest-quarter Total Revenue\",\n      \"value\": 303154000000,\n      \"source_line\": \"00043\"\n    },\n    {\n      \"metric\": \"Latest-quarter Diluted EPS\",\n      \"value\": 20.76,\n      \"source_line\": \"00056\"\n    },\n    {\n      \"metric\": \"Walmart Inc. Operating Margin\",\n      \"value\": 0.041820733829433104,\n      \"filing_accession\": \"0000104169-26-000055\",\n      \"tag\": \"OperatingIncomeLoss\",\n      \"period_end\": \"2026-01-31\",\n      \"unit\": \"USD\"\n    },\n    {\n      \"metric\": \"Target Corp. Operating Margin\",\n      \"value\": 0.048835655659477,\n      \"filing_accession\": \"0000027419-26-000016\",\n      \"tag\": \"OperatingIncomeLoss\",\n      \"period_end\": \"2026-01-31\",\n      \"unit\": \"USD\"\n    },\n    {\n      \"metric\": \"BJ's Wholesale Club Holdings, Inc. Operating Margin\",\n      \"value\": 0.03805721080879146,\n      \"filing_accession\": \"0001531152-26-000007\",\n      \"tag\": \"OperatingIncomeLoss\",\n      \"period_end\": \"2026-01-31\",\n      \"unit\": \"USD\"\n    }\n  ]\n}",
+    "parts": [
+      {
+        "part": "Valuation Insights",
+        "role": "financial",
+        "why": "The 'financial' role output includes key financial metrics such as P/E ratio, ROE, debt-to-equity, and others, but does not explicitly organize these into a dedicated 'Valuation Insights' section. The required structure is missing."
+      }
+    ],
+    "source_context": {
+      "ticker": "COST",
+      "company": "COSTCO WHOLESALE CORP /NEW",
+      "facts": {
+        "revenue": {
+          "current": {
+            "start": "2025-09-01",
+            "end": "2026-08-30",
+            "val": 303154000000,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2026"
+          },
+          "prior": {
+            "start": "2024-09-02",
+            "end": "2025-08-31",
+            "val": 275235000000,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2025"
+          }
+        },
+        "operating_income": {
+          "current": {
+            "start": "2025-09-01",
+            "end": "2026-08-30",
+            "val": 11685000000,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2026"
+          },
+          "prior": {
+            "start": "2024-09-02",
+            "end": "2025-08-31",
+            "val": 10383000000,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2025"
+          }
+        },
+        "net_income": {
+          "current": {
+            "start": "2025-09-01",
+            "end": "2026-08-30",
+            "val": 9226000000,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2026"
+          },
+          "prior": {
+            "start": "2024-09-02",
+            "end": "2025-08-31",
+            "val": 8099000000,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2025"
+          }
+        },
+        "diluted_eps": {
+          "current": {
+            "start": "2025-09-01",
+            "end": "2026-08-30",
+            "val": 20.76,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2026"
+          },
+          "prior": {
+            "start": "2024-09-02",
+            "end": "2025-08-31",
+            "val": 18.21,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2025"
+          }
+        },
+        "equity": {
+          "current": {
+            "end": "2026-08-30",
+            "val": 35803000000,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2026Q3I"
+          },
+          "prior": {
+            "end": "2025-08-31",
+            "val": 29164000000,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2025Q3I"
+          }
+        },
+        "long_term_debt": {
+          "current": {
+            "end": "2026-08-30",
+            "val": 3914000000,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2026Q3I"
+          },
+          "prior": {
+            "end": "2025-08-31",
+            "val": 5713000000,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2025Q3I"
+          }
+        },
+        "current_debt": {
+          "current": {
+            "end": "2026-08-30",
+            "val": 2248000000,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2026Q3I"
+          },
+          "prior": {
+            "end": "2025-08-31",
+            "val": 75000000,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2025Q3I"
+          }
+        },
+        "cash_from_operations": {
+          "current": {
+            "start": "2025-09-01",
+            "end": "2026-08-30",
+            "val": 15817000000,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2026"
+          },
+          "prior": {
+            "start": "2024-09-02",
+            "end": "2025-08-31",
+            "val": 13335000000,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2025"
+          }
+        },
+        "capex": {
+          "current": {
+            "start": "2025-09-01",
+            "end": "2026-08-30",
+            "val": 6435000000,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2026"
+          },
+          "prior": {
+            "start": "2024-09-02",
+            "end": "2025-08-31",
+            "val": 5498000000,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2025"
+          }
+        }
+      },
+      "tags": {
+        "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "operating_income": "OperatingIncomeLoss",
+        "net_income": "NetIncomeLoss",
+        "diluted_eps": "EarningsPerShareDiluted",
+        "equity": "StockholdersEquity",
+        "long_term_debt": "LongTermDebtNoncurrent",
+        "current_debt": "LongTermDebtCurrent",
+        "cash_from_operations": "NetCashProvidedByUsedInOperatingActivities",
+        "capex": "PaymentsToAcquirePropertyPlantAndEquipment"
+      },
+      "units": {
+        "revenue": "USD",
+        "operating_income": "USD",
+        "net_income": "USD",
+        "diluted_eps": "USD/shares",
+        "equity": "USD",
+        "long_term_debt": "USD",
+        "current_debt": "USD",
+        "cash_from_operations": "USD",
+        "capex": "USD"
+      },
+      "fiscal_end": "2026-08-30",
+      "calculations": {
+        "revenue_growth": 0.10143695387577889,
+        "operating_margin": 0.03854476602650798,
+        "return_on_average_equity": 0.284021118413964,
+        "debt_to_equity": 0.17210848252939698,
+        "free_cash_flow": 9382000000.0,
+        "pe": 47.79046242774566
+      },
+      "calculation_arithmetic": [
+        "Revenue growth = (303154000000 / 275235000000) - 1 = 0.10143695387577889",
+        "Operating margin = 11685000000 / 303154000000 = 0.03854476602650798",
+        "Return on average equity = 9226000000 / ((35803000000 + 29164000000) / 2) = 0.284021118413964",
+        "Debt/equity = (3914000000 + 2248000000) / 35803000000 = 0.17210848252939698",
+        "Free cash flow = 15817000000 - 6435000000 = 9382000000.0",
+        "P/E = 992.13 / 20.76 = 47.79046242774566"
+      ],
+      "release_lines": [
+        "00043: Total revenue 95,723 86,156 303,154 275,235",
+        "00056: Diluted $ 6.75 $ 5.87 $ 20.76 $ 18.21"
+      ],
+      "peers": [
+        {
+          "ticker": "WMT",
+          "company": "Walmart Inc.",
+          "facts": {
+            "revenue": {
+              "current": {
+                "start": "2025-02-01",
+                "end": "2026-01-31",
+                "val": 713163000000,
+                "accn": "0000104169-26-000055",
+                "fy": 2026,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-13",
+                "frame": "CY2025"
+              },
+              "prior": {
+                "start": "2024-02-01",
+                "end": "2025-01-31",
+                "val": 680985000000,
+                "accn": "0000104169-26-000055",
+                "fy": 2026,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-13",
+                "frame": "CY2024"
+              }
+            },
+            "operating_income": {
+              "current": {
+                "start": "2025-02-01",
+                "end": "2026-01-31",
+                "val": 29825000000,
+                "accn": "0000104169-26-000055",
+                "fy": 2026,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-13",
+                "frame": "CY2025"
+              },
+              "prior": {
+                "start": "2024-02-01",
+                "end": "2025-01-31",
+                "val": 29348000000,
+                "accn": "0000104169-26-000055",
+                "fy": 2026,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-13",
+                "frame": "CY2024"
+              }
+            },
+            "net_income": {
+              "current": {
+                "start": "2025-02-01",
+                "end": "2026-01-31",
+                "val": 21893000000,
+                "accn": "0000104169-26-000055",
+                "fy": 2026,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-13"
+              },
+              "prior": {
+                "start": "2024-02-01",
+                "end": "2025-01-31",
+                "val": 19436000000,
+                "accn": "0000104169-26-000055",
+                "fy": 2026,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-13"
+              }
+            },
+            "diluted_eps": {
+              "current": {
+                "start": "2025-02-01",
+                "end": "2026-01-31",
+                "val": 2.73,
+                "accn": "0000104169-26-000055",
+                "fy": 2026,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-13",
+                "frame": "CY2025"
+              },
+              "prior": {
+                "start": "2024-02-01",
+                "end": "2025-01-31",
+                "val": 2.41,
+                "accn": "0000104169-26-000055",
+                "fy": 2026,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-13",
+                "frame": "CY2024"
+              }
+            },
+            "equity": {
+              "current": {
+                "end": "2026-01-31",
+                "val": 99617000000,
+                "accn": "0000104169-26-000055",
+                "fy": 2026,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-13"
+              },
+              "prior": {
+                "end": "2025-01-31",
+                "val": 91013000000,
+                "accn": "0000104169-26-000055",
+                "fy": 2026,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-13",
+                "frame": "CY2024Q4I"
+              }
+            },
+            "long_term_debt": {
+              "current": {
+                "end": "2026-01-31",
+                "val": 34624000000,
+                "accn": "0000104169-26-000055",
+                "fy": 2026,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-13"
+              },
+              "prior": {
+                "end": "2025-01-31",
+                "val": 33401000000,
+                "accn": "0000104169-26-000055",
+                "fy": 2026,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-13",
+                "frame": "CY2024Q4I"
+              }
+            },
+            "current_debt": {
+              "current": {
+                "end": "2026-01-31",
+                "val": 3542000000,
+                "accn": "0000104169-26-000055",
+                "fy": 2026,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-13"
+              },
+              "prior": {
+                "end": "2025-01-31",
+                "val": 2598000000,
+                "accn": "0000104169-26-000055",
+                "fy": 2026,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-13",
+                "frame": "CY2024Q4I"
+              }
+            },
+            "cash_from_operations": {
+              "current": {
+                "start": "2025-02-01",
+                "end": "2026-01-31",
+                "val": 41565000000,
+                "accn": "0000104169-26-000055",
+                "fy": 2026,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-13",
+                "frame": "CY2025"
+              },
+              "prior": {
+                "start": "2024-02-01",
+                "end": "2025-01-31",
+                "val": 36443000000,
+                "accn": "0000104169-26-000055",
+                "fy": 2026,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-13",
+                "frame": "CY2024"
+              }
+            },
+            "capex": {
+              "current": {
+                "start": "2025-02-01",
+                "end": "2026-01-31",
+                "val": 26642000000,
+                "accn": "0000104169-26-000055",
+                "fy": 2026,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-13",
+                "frame": "CY2025"
+              },
+              "prior": {
+                "start": "2024-02-01",
+                "end": "2025-01-31",
+                "val": 23783000000,
+                "accn": "0000104169-26-000055",
+                "fy": 2026,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-13",
+                "frame": "CY2024"
+              }
+            }
+          },
+          "tags": {
+            "revenue": "Revenues",
+            "operating_income": "OperatingIncomeLoss",
+            "net_income": "NetIncomeLoss",
+            "diluted_eps": "EarningsPerShareDiluted",
+            "equity": "StockholdersEquity",
+            "long_term_debt": "LongTermDebtNoncurrent",
+            "current_debt": "LongTermDebtCurrent",
+            "cash_from_operations": "NetCashProvidedByUsedInOperatingActivities",
+            "capex": "PaymentsToAcquirePropertyPlantAndEquipment"
+          },
+          "units": {
+            "revenue": "USD",
+            "operating_income": "USD",
+            "net_income": "USD",
+            "diluted_eps": "USD/shares",
+            "equity": "USD",
+            "long_term_debt": "USD",
+            "current_debt": "USD",
+            "cash_from_operations": "USD",
+            "capex": "USD"
+          },
+          "fiscal_end": "2026-01-31",
+          "operating_margin": 0.041820733829433104,
+          "filings": {
+            "10k": {
+              "accessionNumber": "0000104169-26-000055",
+              "filingDate": "2026-03-13",
+              "reportDate": "2026-01-31",
+              "acceptanceDateTime": "2026-03-13T20:06:24.000Z",
+              "act": "34",
+              "form": "10-K",
+              "fileNumber": "001-06991",
+              "filmNumber": "26752440",
+              "items": "",
+              "core_type": "XBRL",
+              "size": 13080322,
+              "isXBRL": 1,
+              "isInlineXBRL": 1,
+              "isXBRLNumeric": null,
+              "primaryDocument": "wmt-20260131.htm",
+              "primaryDocDescription": "10-K",
+              "accepted": "2026-03-13 16:06:24"
+            },
+            "10q": {
+              "accessionNumber": "0000104169-26-000154",
+              "filingDate": "2026-08-28",
+              "reportDate": "2026-07-31",
+              "acceptanceDateTime": "2026-08-28T20:11:28.000Z",
+              "act": "34",
+              "form": "10-Q",
+              "fileNumber": "001-06991",
+              "filmNumber": "261340128",
+              "items": "",
+              "core_type": "XBRL",
+              "size": 6311331,
+              "isXBRL": 1,
+              "isInlineXBRL": 1,
+              "isXBRLNumeric": 1,
+              "primaryDocument": "wmt-20260731.htm",
+              "primaryDocDescription": "10-Q",
+              "accepted": "2026-08-28 16:11:28"
+            },
+            "earnings_8k": {
+              "accessionNumber": "0000104169-26-000145",
+              "filingDate": "2026-08-20",
+              "reportDate": "2026-08-20",
+              "acceptanceDateTime": "2026-08-20T10:59:01.000Z",
+              "act": "34",
+              "form": "8-K",
+              "fileNumber": "001-06991",
+              "filmNumber": "261297202",
+              "items": "2.02,9.01",
+              "core_type": "XBRL",
+              "size": 20985471,
+              "isXBRL": 1,
+              "isInlineXBRL": 1,
+              "isXBRLNumeric": 0,
+              "primaryDocument": "wmt-20260820.htm",
+              "primaryDocDescription": "8-K",
+              "accepted": "2026-08-20 06:59:01"
+            }
+          }
+        },
+        {
+          "ticker": "TGT",
+          "company": "TARGET CORP",
+          "facts": {
+            "revenue": {
+              "current": {
+                "start": "2025-02-02",
+                "end": "2026-01-31",
+                "val": 104780000000,
+                "accn": "0000027419-26-000016",
+                "fy": 2025,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-11",
+                "frame": "CY2025"
+              },
+              "prior": {
+                "start": "2024-02-04",
+                "end": "2025-02-01",
+                "val": 106566000000,
+                "accn": "0000027419-26-000016",
+                "fy": 2025,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-11",
+                "frame": "CY2024"
+              }
+            },
+            "operating_income": {
+              "current": {
+                "start": "2025-02-02",
+                "end": "2026-01-31",
+                "val": 5117000000,
+                "accn": "0000027419-26-000016",
+                "fy": 2025,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-11",
+                "frame": "CY2025"
+              },
+              "prior": {
+                "start": "2024-02-04",
+                "end": "2025-02-01",
+                "val": 5566000000,
+                "accn": "0000027419-26-000016",
+                "fy": 2025,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-11",
+                "frame": "CY2024"
+              }
+            },
+            "net_income": {
+              "current": {
+                "start": "2025-02-02",
+                "end": "2026-01-31",
+                "val": 3705000000,
+                "accn": "0000027419-26-000016",
+                "fy": 2025,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-11"
+              },
+              "prior": {
+                "start": "2024-02-04",
+                "end": "2025-02-01",
+                "val": 4091000000,
+                "accn": "0000027419-26-000016",
+                "fy": 2025,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-11"
+              }
+            },
+            "diluted_eps": {
+              "current": {
+                "start": "2025-02-02",
+                "end": "2026-01-31",
+                "val": 8.13,
+                "accn": "0000027419-26-000016",
+                "fy": 2025,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-11",
+                "frame": "CY2025"
+              },
+              "prior": {
+                "start": "2024-02-04",
+                "end": "2025-02-01",
+                "val": 8.86,
+                "accn": "0000027419-26-000016",
+                "fy": 2025,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-11",
+                "frame": "CY2024"
+              }
+            },
+            "equity": {
+              "current": {
+                "end": "2026-01-31",
+                "val": 16165000000,
+                "accn": "0000027419-26-000016",
+                "fy": 2025,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-11"
+              },
+              "prior": {
+                "end": "2025-02-01",
+                "val": 14666000000,
+                "accn": "0000027419-26-000016",
+                "fy": 2025,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-11"
+              }
+            },
+            "long_term_debt": {
+              "current": {
+                "end": "2026-01-31",
+                "val": 14398000000,
+                "accn": "0000027419-26-000016",
+                "fy": 2025,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-11",
+                "frame": "CY2025Q4I"
+              },
+              "prior": {
+                "end": "2025-02-01",
+                "val": 13904000000,
+                "accn": "0000027419-26-000016",
+                "fy": 2025,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-11",
+                "frame": "CY2024Q4I"
+              }
+            },
+            "current_debt": {
+              "current": {
+                "end": "2026-01-31",
+                "val": 2130000000,
+                "accn": "0000027419-26-000016",
+                "fy": 2025,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-11"
+              },
+              "prior": {
+                "end": "2025-02-01",
+                "val": 1636000000,
+                "accn": "0000027419-26-000016",
+                "fy": 2025,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-11",
+                "frame": "CY2024Q4I"
+              }
+            },
+            "cash_from_operations": {
+              "current": {
+                "start": "2025-02-02",
+                "end": "2026-01-31",
+                "val": 6562000000,
+                "accn": "0000027419-26-000016",
+                "fy": 2025,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-11",
+                "frame": "CY2025"
+              },
+              "prior": {
+                "start": "2024-02-04",
+                "end": "2025-02-01",
+                "val": 7367000000,
+                "accn": "0000027419-26-000016",
+                "fy": 2025,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-11",
+                "frame": "CY2024"
+              }
+            },
+            "capex": {
+              "current": {
+                "start": "2025-02-02",
+                "end": "2026-01-31",
+                "val": 3727000000,
+                "accn": "0000027419-26-000016",
+                "fy": 2025,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-11",
+                "frame": "CY2025"
+              },
+              "prior": {
+                "start": "2024-02-04",
+                "end": "2025-02-01",
+                "val": 2891000000,
+                "accn": "0000027419-26-000016",
+                "fy": 2025,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-11",
+                "frame": "CY2024"
+              }
+            }
+          },
+          "tags": {
+            "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+            "operating_income": "OperatingIncomeLoss",
+            "net_income": "NetIncomeLoss",
+            "diluted_eps": "EarningsPerShareDiluted",
+            "equity": "StockholdersEquity",
+            "long_term_debt": "LongTermDebt",
+            "current_debt": "LongTermDebtAndCapitalLeaseObligationsCurrent",
+            "cash_from_operations": "NetCashProvidedByUsedInOperatingActivities",
+            "capex": "PaymentsToAcquirePropertyPlantAndEquipment"
+          },
+          "units": {
+            "revenue": "USD",
+            "operating_income": "USD",
+            "net_income": "USD",
+            "diluted_eps": "USD/shares",
+            "equity": "USD",
+            "long_term_debt": "USD",
+            "current_debt": "USD",
+            "cash_from_operations": "USD",
+            "capex": "USD"
+          },
+          "fiscal_end": "2026-01-31",
+          "operating_margin": 0.048835655659477,
+          "filings": {
+            "10k": {
+              "accessionNumber": "0000027419-26-000016",
+              "filingDate": "2026-03-11",
+              "reportDate": "2026-01-31",
+              "acceptanceDateTime": "2026-03-11T20:42:00.000Z",
+              "act": "34",
+              "form": "10-K",
+              "fileNumber": "001-06049",
+              "filmNumber": "26744038",
+              "items": "",
+              "core_type": "XBRL",
+              "size": 12723909,
+              "isXBRL": 1,
+              "isInlineXBRL": 1,
+              "isXBRLNumeric": null,
+              "primaryDocument": "tgt-20260131.htm",
+              "primaryDocDescription": "10-K",
+              "accepted": "2026-03-11 16:42:00"
+            },
+            "10q": {
+              "accessionNumber": "0000027419-26-000042",
+              "filingDate": "2026-08-28",
+              "reportDate": "2026-08-01",
+              "acceptanceDateTime": "2026-08-28T17:53:59.000Z",
+              "act": "34",
+              "form": "10-Q",
+              "fileNumber": "001-06049",
+              "filmNumber": "261338135",
+              "items": "",
+              "core_type": "XBRL",
+              "size": 5327307,
+              "isXBRL": 1,
+              "isInlineXBRL": 1,
+              "isXBRLNumeric": 1,
+              "primaryDocument": "tgt-20260801.htm",
+              "primaryDocDescription": "10-Q",
+              "accepted": "2026-08-28 13:53:59"
+            },
+            "earnings_8k": {
+              "accessionNumber": "0000027419-26-000034",
+              "filingDate": "2026-08-19",
+              "reportDate": "2026-08-19",
+              "acceptanceDateTime": "2026-08-19T11:51:13.000Z",
+              "act": "34",
+              "form": "8-K",
+              "fileNumber": "001-06049",
+              "filmNumber": "261292907",
+              "items": "2.02,9.01",
+              "core_type": "XBRL",
+              "size": 625210,
+              "isXBRL": 1,
+              "isInlineXBRL": 1,
+              "isXBRLNumeric": 0,
+              "primaryDocument": "tgt-20260819.htm",
+              "primaryDocDescription": "8-K",
+              "accepted": "2026-08-19 07:51:13"
+            }
+          }
+        },
+        {
+          "ticker": "BJ",
+          "company": "BJ's Wholesale Club Holdings, Inc.",
+          "facts": {
+            "revenue": {
+              "current": {
+                "start": "2025-02-02",
+                "end": "2026-01-31",
+                "val": 21457274000,
+                "accn": "0001531152-26-000007",
+                "fy": 2025,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-12",
+                "frame": "CY2025"
+              },
+              "prior": {
+                "start": "2024-02-04",
+                "end": "2025-02-01",
+                "val": 20501804000,
+                "accn": "0001531152-26-000007",
+                "fy": 2025,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-12",
+                "frame": "CY2024"
+              }
+            },
+            "operating_income": {
+              "current": {
+                "start": "2025-02-02",
+                "end": "2026-01-31",
+                "val": 816604000,
+                "accn": "0001531152-26-000007",
+                "fy": 2025,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-12",
+                "frame": "CY2025"
+              },
+              "prior": {
+                "start": "2024-02-04",
+                "end": "2025-02-01",
+                "val": 772206000,
+                "accn": "0001531152-26-000007",
+                "fy": 2025,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-12",
+                "frame": "CY2024"
+              }
+            },
+            "net_income": {
+              "current": {
+                "start": "2025-02-02",
+                "end": "2026-01-31",
+                "val": 578377000,
+                "accn": "0001531152-26-000007",
+                "fy": 2025,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-12"
+              },
+              "prior": {
+                "start": "2024-02-04",
+                "end": "2025-02-01",
+                "val": 534417000,
+                "accn": "0001531152-26-000007",
+                "fy": 2025,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-12"
+              }
+            },
+            "diluted_eps": {
+              "current": {
+                "start": "2025-02-02",
+                "end": "2026-01-31",
+                "val": 4.38,
+                "accn": "0001531152-26-000007",
+                "fy": 2025,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-12",
+                "frame": "CY2025"
+              },
+              "prior": {
+                "start": "2024-02-04",
+                "end": "2025-02-01",
+                "val": 4,
+                "accn": "0001531152-26-000007",
+                "fy": 2025,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-12",
+                "frame": "CY2024"
+              }
+            },
+            "equity": {
+              "current": {
+                "end": "2026-01-31",
+                "val": 2197659000,
+                "accn": "0001531152-26-000007",
+                "fy": 2025,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-12"
+              },
+              "prior": {
+                "end": "2025-02-01",
+                "val": 1847454000,
+                "accn": "0001531152-26-000007",
+                "fy": 2025,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-12"
+              }
+            },
+            "long_term_debt": {
+              "current": {
+                "end": "2026-01-31",
+                "val": 399099000,
+                "accn": "0001531152-26-000007",
+                "fy": 2025,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-12"
+              },
+              "prior": {
+                "end": "2025-02-01",
+                "val": 398807000,
+                "accn": "0001531152-26-000007",
+                "fy": 2025,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-12",
+                "frame": "CY2024Q4I"
+              }
+            },
+            "current_debt": {
+              "current": {
+                "end": "2026-01-31",
+                "val": 120000000,
+                "accn": "0001531152-26-000007",
+                "fy": 2025,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-12"
+              },
+              "prior": {
+                "end": "2025-02-01",
+                "val": 175000000,
+                "accn": "0001531152-26-000007",
+                "fy": 2025,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-12",
+                "frame": "CY2024Q4I"
+              }
+            },
+            "cash_from_operations": {
+              "current": {
+                "start": "2025-02-02",
+                "end": "2026-01-31",
+                "val": 1030056000,
+                "accn": "0001531152-26-000007",
+                "fy": 2025,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-12",
+                "frame": "CY2025"
+              },
+              "prior": {
+                "start": "2024-02-04",
+                "end": "2025-02-01",
+                "val": 900872000,
+                "accn": "0001531152-26-000007",
+                "fy": 2025,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-12",
+                "frame": "CY2024"
+              }
+            },
+            "capex": {
+              "current": {
+                "start": "2025-02-02",
+                "end": "2026-01-31",
+                "val": 702048000,
+                "accn": "0001531152-26-000007",
+                "fy": 2025,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-12",
+                "frame": "CY2025"
+              },
+              "prior": {
+                "start": "2024-02-04",
+                "end": "2025-02-01",
+                "val": 587983000,
+                "accn": "0001531152-26-000007",
+                "fy": 2025,
+                "fp": "FY",
+                "form": "10-K",
+                "filed": "2026-03-12",
+                "frame": "CY2024"
+              }
+            }
+          },
+          "tags": {
+            "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+            "operating_income": "OperatingIncomeLoss",
+            "net_income": "NetIncomeLoss",
+            "diluted_eps": "EarningsPerShareDiluted",
+            "equity": "StockholdersEquity",
+            "long_term_debt": "LongTermDebtNoncurrent",
+            "current_debt": "LongTermDebtCurrent",
+            "cash_from_operations": "NetCashProvidedByUsedInOperatingActivities",
+            "capex": "PaymentsToAcquirePropertyPlantAndEquipment"
+          },
+          "units": {
+            "revenue": "USD",
+            "operating_income": "USD",
+            "net_income": "USD",
+            "diluted_eps": "USD/shares",
+            "equity": "USD",
+            "long_term_debt": "USD",
+            "current_debt": "USD",
+            "cash_from_operations": "USD",
+            "capex": "USD"
+          },
+          "fiscal_end": "2026-01-31",
+          "operating_margin": 0.03805721080879146,
+          "filings": {
+            "10k": {
+              "accessionNumber": "0001531152-26-000007",
+              "filingDate": "2026-03-12",
+              "reportDate": "2026-01-31",
+              "acceptanceDateTime": "2026-03-12T20:15:55.000Z",
+              "act": "34",
+              "form": "10-K",
+              "fileNumber": "001-38559",
+              "filmNumber": "26747944",
+              "items": "",
+              "core_type": "XBRL",
+              "size": 10695688,
+              "isXBRL": 1,
+              "isInlineXBRL": 1,
+              "isXBRLNumeric": null,
+              "primaryDocument": "bj-20260131.htm",
+              "primaryDocDescription": "10-K",
+              "accepted": "2026-03-12 16:15:55"
+            },
+            "10q": {
+              "accessionNumber": "0001531152-26-000057",
+              "filingDate": "2026-08-25",
+              "reportDate": "2026-08-01",
+              "acceptanceDateTime": "2026-08-25T20:32:14.000Z",
+              "act": "34",
+              "form": "10-Q",
+              "fileNumber": "001-38559",
+              "filmNumber": "261316276",
+              "items": "",
+              "core_type": "XBRL",
+              "size": 5229316,
+              "isXBRL": 1,
+              "isInlineXBRL": 1,
+              "isXBRLNumeric": 1,
+              "primaryDocument": "bj-20260801.htm",
+              "primaryDocDescription": "10-Q",
+              "accepted": "2026-08-25 16:32:14"
+            },
+            "earnings_8k": {
+              "accessionNumber": "0001531152-26-000053",
+              "filingDate": "2026-08-21",
+              "reportDate": "2026-08-21",
+              "acceptanceDateTime": "2026-08-21T11:03:32.000Z",
+              "act": "34",
+              "form": "8-K",
+              "fileNumber": "001-38559",
+              "filmNumber": "261301661",
+              "items": "2.02,5.02,9.01",
+              "core_type": "XBRL",
+              "size": 448190,
+              "isXBRL": 1,
+              "isInlineXBRL": 1,
+              "isXBRLNumeric": 0,
+              "primaryDocument": "bj-20260821.htm",
+              "primaryDocDescription": "8-K",
+              "accepted": "2026-08-21 07:03:32"
+            }
+          }
+        }
+      ],
+      "filings": {
+        "10k": {
+          "accessionNumber": "0000909832-26-000093",
+          "filingDate": "2026-10-07",
+          "reportDate": "2026-08-30",
+          "acceptanceDateTime": "2026-10-07T01:13:15.000Z",
+          "act": "34",
+          "form": "10-K",
+          "fileNumber": "000-20355",
+          "filmNumber": "261445309",
+          "items": "",
+          "core_type": "XBRL",
+          "size": 8831787,
+          "isXBRL": 1,
+          "isInlineXBRL": 1,
+          "isXBRLNumeric": 1,
+          "primaryDocument": "cost-20260830.htm",
+          "primaryDocDescription": "10-K",
+          "accepted": "2026-10-06 21:13:15"
+        },
+        "10q": {
+          "accessionNumber": "0000909832-26-000051",
+          "filingDate": "2026-06-03",
+          "reportDate": "2026-05-10",
+          "acceptanceDateTime": "2026-06-03T20:43:00.000Z",
+          "act": "34",
+          "form": "10-Q",
+          "fileNumber": "000-20355",
+          "filmNumber": "261061471",
+          "items": "",
+          "core_type": "XBRL",
+          "size": 5058262,
+          "isXBRL": 1,
+          "isInlineXBRL": 1,
+          "isXBRLNumeric": 1,
+          "primaryDocument": "cost-20260510.htm",
+          "primaryDocDescription": "10-Q",
+          "accepted": "2026-06-03 16:43:00"
+        },
+        "earnings_8k": {
+          "accessionNumber": "0000909832-26-000084",
+          "filingDate": "2026-09-24",
+          "reportDate": "2026-09-24",
+          "acceptanceDateTime": "2026-09-24T20:17:37.000Z",
+          "act": "34",
+          "form": "8-K",
+          "fileNumber": "000-20355",
+          "filmNumber": "261404969",
+          "items": "2.02,9.01",
+          "core_type": "XBRL",
+          "size": 1811381,
+          "isXBRL": 1,
+          "isInlineXBRL": 1,
+          "isXBRLNumeric": 0,
+          "primaryDocument": "cost-20260924.htm",
+          "primaryDocDescription": "8-K",
+          "accepted": "2026-09-24 16:17:37"
+        }
+      }
+    }
+  },
+  "expected_output": "JSON with revised markdown for each assigned report part only."
+}

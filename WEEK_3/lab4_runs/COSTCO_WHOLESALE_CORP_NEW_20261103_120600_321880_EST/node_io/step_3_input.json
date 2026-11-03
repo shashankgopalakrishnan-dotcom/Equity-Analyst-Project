@@ -1,0 +1,10 @@
+{
+  "ticker": "COST",
+  "peers": [
+    "WMT",
+    "TGT",
+    "BJ"
+  ],
+  "price": 992.13,
+  "step": 3
+}

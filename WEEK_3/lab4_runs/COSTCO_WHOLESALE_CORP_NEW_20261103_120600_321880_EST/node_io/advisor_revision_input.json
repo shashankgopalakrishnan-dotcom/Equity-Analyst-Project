@@ -1,0 +1,17 @@
+{
+  "task": "Revise only these failing report parts: ['Investment Recommendation']. Feedback: [{'part': 'Investment Recommendation', 'role': 'advisor', 'why': \"While the advisor provides a recommendation, it is embedded within a larger markdown block that includes 'Thesis', 'Recommendation', and 'Deciding Number'. The formal 'Investment Recommendation' section is not clearly separated as required.\"}]",
+  "context": {
+    "prior_role_output": "{\n  \"markdown\": \"**Thesis**\\n\\nCostco demonstrates strong financial performance and business quality, with consistent revenue growth, robust net income, and a solid return on equity. The company's membership model, private-label products, and operational efficiency underpin its competitive advantage and profitability. Key drivers include increased comparable sales, new warehouse openings, and digital sales expansion. Despite some cyclical exposure and competitive pressures, Costco’s low-margin model and stable fee revenue provide resilience. The company also shows strong cash flow generation and a manageable debt-to-equity ratio.\\n\\n**Recommendation**\\n\\n**Buy**\\n\\n**Deciding Number**\\n\\nReturn on Average Equity (ROE): 0.284021118413964 (28.40%)\",\n  \"recommendation\": \"Buy\"\n}",
+    "parts": [
+      {
+        "part": "Investment Recommendation",
+        "role": "advisor",
+        "why": "While the advisor provides a recommendation, it is embedded within a larger markdown block that includes 'Thesis', 'Recommendation', and 'Deciding Number'. The formal 'Investment Recommendation' section is not clearly separated as required."
+      }
+    ],
+    "source_context": {
+      "company": "COSTCO WHOLESALE CORP /NEW"
+    }
+  },
+  "expected_output": "JSON with revised markdown for each assigned report part only."
+}

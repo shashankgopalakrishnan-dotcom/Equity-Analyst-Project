@@ -1,0 +1,845 @@
+00001: bj-20260801
+00002: UNITED STATES
+00003: SECURITIES AND EXCHANGE COMMISSION
+00004: WASHINGTON, D.C. 20549
+00005: _______________________________
+00006: FORM 10-Q
+00007: _______________________________
+00008: ☒ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+00009: For the quarterly period ended August 1, 2026
+00010: OR
+00011: ☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+00012: For the transition period from to
+00013: Commission File Number: 001-38559
+00014: _______________________________
+00015: BJ’S WHOLESALE CLUB HOLDINGS, INC.
+00016: (Exact name of registrant as specified in its charter)
+00017: _______________________________
+00018: Delaware 45-2936287
+00019: (State or other jurisdiction of
+00020: incorporation or organization) (I.R.S. Employer
+00021: Identification No.)
+00022: 350 Campus Drive
+00023: Marlborough, Massachusetts
+00024: 01752
+00025: (Address of principal executive offices) (Zip Code)
+00026: (774) 512-7400
+00027: (Registrant’s telephone number, including area code)
+00028: N/A
+00029: (Former name, former address and former fiscal year, if changed since last report)
+00030: Securities registered pursuant to Section 12(b) of the Act:
+00031: Title of each class Trading symbol(s) Name of each exchange on which registered
+00032: Common Stock, par value $0.01 BJ New York Stock Exchange
+00033: Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒ No ☐
+00034: Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒ No ☐
+00035: Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+00036: Large accelerated filer ☒ Accelerated filer ☐
+00037: Non-accelerated filer ☐ Smaller reporting company ☐
+00038: Emerging growth company ☐
+00039: If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+00040: Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐ No ☒
+00041: As of August 20, 2026, the registrant had 126,314,692 shares of common stock, $0.01 par value per share, outstanding.
+00042: Table of Contents
+00043: Page
+00044: PART I.
+00045: FINANCIAL INFORMATION
+00046: 4
+00047: Item 1.
+00048: Financial Statements (Unaudited)
+00049: 4
+00050: Condensed Consolidated Balance Sheets
+00051: 4
+00052: Condensed Consolidated Statements of Operations and Comprehensive Income
+00053: 5
+00054: Condensed Consolidated Statements of Stockholders’ Equity
+00055: 7
+00056: Condensed Consolidated Statements of Cash Flows
+00057: 9
+00058: Notes to Unaudited Condensed Consolidated Financial Statements
+00059: 10
+00060: Item 2.
+00061: Management’s Discussion and Analysis of Financial Condition and Results of Operations
+00062: 21
+00063: Item 3.
+00064: Quantitative and Qualitative Disclosures About Market Risk
+00065: 30
+00066: Item 4.
+00067: Controls and Procedures
+00068: 30
+00069: PART II.
+00070: OTHER INFORMATION
+00071: 31
+00072: Item 1.
+00073: Legal Proceedings
+00074: 31
+00075: Item 1A.
+00076: Risk Factors
+00077: 31
+00078: Item 2.
+00079: Unregistered Sales of Equity Securities and Use of Proceeds
+00080: 31
+00081: Item 3.
+00082: Defaults Upon Senior Securities
+00083: 32
+00084: Item 4.
+00085: Mine Safety Disclosures
+00086: 32
+00087: Item 5.
+00088: Other Information
+00089: 32
+00090: Item 6.
+00091: Exhibits
+00092: 33
+00093: Signature
+00094: 34
+00095: 2
+00096: TRADEMARKS
+00097: BJ’s Wholesale Club®, BJ’s®, Wellsley Farms®, Berkley Jensen®, My BJ’s Perks®, BJ’s Easy Renewal®, BJ’s Gas®, BJ's One®, BJ's One+®, BJ’s Perks Elite®, BJ’s Perks Plus®, Inner Circle®, Same-Day-Select®, ExpressPay® and BJ’s Perks Rewards® are all registered trademarks of BJ’s Wholesale Club, Inc. Other trademarks, trade names and service marks appearing in this Quarterly Report on Form 10-Q are the property of their respective owners. We do not intend our use or display of those other parties’ trademarks, trade names or service marks to imply, and such use or display should not be construed to imply, a relationship with, or endorsement or sponsorship of us by, these other parties. Solely for convenience, trademarks, trade names and service marks referred to in this Quarterly Report on Form 10-Q may appear without the ®, ™ or SM symbols, but such references are not intended to indicate, in any way, that we will not assert, to the fullest extent under applicable law, our rights or the right of the applicable licensor to these trademarks, trade names and service marks.
+00098: DEFINED TERMS
+00099: As used in this Quarterly Report on Form 10-Q, unless the context otherwise requires:
+00100: •“The Company”, “BJ’s”, “we”, “us” and “our” mean BJ’s Wholesale Club Holdings, Inc. and, unless the context otherwise requires, its consolidated subsidiaries;
+00101: •“ABL Revolving Facility” means the Company's revolving credit facility entered into on July 28, 2022;
+00102: •“ABL Revolving Commitment” means the aggregate committed amount of $1.20 billion under the ABL Revolving Facility;
+00103: •“Consolidated statements of operations” means the Company’s condensed consolidated statements of operations and comprehensive income;
+00104: •“First Lien Term Loan” means the Company’s senior secured first lien term loan facility that was amended on November 4, 2024;
+00105: •“Fifth Amendment” means the Company's fifth amendment to the First Lien Term Loan that was entered into on November 4, 2024;
+00106: •“fiscal year 2025” means the 52 weeks ended January 31, 2026;
+00107: •“fiscal year 2026” means the 52 weeks ending January 30, 2027;
+00108: •“GAAP” means generally accepted accounting principles in the United States of America;
+00109: •“ESPP” means the Company's Employee Stock Purchase Plan; and
+00110: •“SOFR” means the Secured Overnight Financing Rate.
+00111: 3
+00112: PART I—FINANCIAL INFORMATION
+00113: Item 1. Financial Statements.
+00114: BJ’S WHOLESALE CLUB HOLDINGS, INC.
+00115: CONDENSED CONSOLIDATED BALANCE SHEETS
+00116: (Amounts in thousands, except par value)
+00117: (Unaudited)
+00118: August 1, 2026 January 31, 2026 August 2, 2025
+00119: ASSETS
+00120: Current assets:
+00121: Cash and cash equivalents $ 29,982 $ 46,245 $ 47,273
+00122: Accounts receivable, net 308,605 252,789 270,905
+00123: Merchandise inventories 1,617,034 1,555,471 1,520,684
+00124: Prepaid expenses and other current assets 215,080 135,584 90,096
+00125: Total current assets 2,170,701 1,990,089 1,928,958
+00126: Operating lease right-of-use assets, net 2,061,412 1,976,013 2,054,621
+00127: Property and equipment, net 2,589,472 2,364,552 2,068,193
+00128: Goodwill 1,008,816 1,008,816 1,008,816
+00129: Intangibles, net 93,015 95,462 98,285
+00130: Deferred income taxes 4,167 4,427 5,804
+00131: Other assets 64,203 71,116 67,095
+00132: Total assets $ 7,991,786 $ 7,510,475 $ 7,231,772
+00133: LIABILITIES
+00134: Current liabilities:
+00135: Short-term debt $ 230,000 $ 120,000 $ 105,000
+00136: Current portion of operating lease liabilities 187,865 209,249 173,521
+00137: Accounts payable 1,427,905 1,307,405 1,264,208
+00138: Accrued expenses and other current liabilities 1,126,778 1,033,579 891,507
+00139: Total current liabilities 2,972,548 2,670,233 2,434,236
+00140: Long-term operating lease liabilities 1,956,213 1,880,383 1,959,378
+00141: Long-term debt 399,245 399,099 398,953
+00142: Deferred income taxes 72,826 64,889 68,065
+00143: Other non-current liabilities 393,522 298,212 272,046
+00144: Total liabilities 5,794,354 5,312,816 5,132,678
+00145: Commitments and contingencies (see Note 5)
+00146: STOCKHOLDERS’ EQUITY
+00147: Preferred stock; par value $0.01; 5,000 shares authorized, and no shares issued
+00148: — — —
+00149: Common stock, par value $0.01; 300,000 shares authorized, 126,452 shares issued and outstanding at August 1, 2026; 129,638 shares issued and outstanding at January 31, 2026; and 149,820 shares issued and 131,749 outstanding at August 2, 2025
+00150: 1,265 1,296 1,498
+00151: Additional paid-in capital 678,294 995,083 1,113,498
+00152: Retained earnings 1,517,800 1,201,207 2,003,121
+00153: Accumulated other comprehensive income 73 73 231
+00154: Treasury stock, at cost, no shares at August 1, 2026 and January 31, 2026; and 18,071 shares at August 2, 2025
+00155: — — (1,019,254)
+00156: Total stockholders’ equity 2,197,432 2,197,659 2,099,094
+00157: Total liabilities and stockholders’ equity $ 7,991,786 $ 7,510,475 $ 7,231,772
+00158: The accompanying notes are an integral part of the condensed consolidated financial statements.
+00159: 4
+00160: BJ’S WHOLESALE CLUB HOLDINGS, INC.
+00161: CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE INCOME
+00162: (Amounts in thousands, except per share amounts)
+00163: (Unaudited)
+00164: Thirteen Weeks Ended
+00165: August 1, 2026 August 2, 2025
+00166: Net sales $ 6,090,975 $ 5,256,907
+00167: Membership fee income 135,604 123,333
+00168: Total revenues 6,226,579 5,380,240
+00169: Cost of sales 5,116,580 4,374,065
+00170: Selling, general and administrative expenses 851,206 786,358
+00171: Pre-opening expenses 6,436 3,287
+00172: Operating income 252,357 216,530
+00173: Interest expense, net 13,083 10,393
+00174: Income before income taxes 239,274 206,137
+00175: Provision for income taxes 65,407 55,432
+00176: Net income $ 173,867 $ 150,705
+00177: Income per share attributable to common stockholders—basic: $ 1.37 $ 1.14
+00178: Income per share attributable to common stockholders—diluted: $ 1.36 $ 1.14
+00179: Weighted-average shares of common stock outstanding:
+00180: Basic 127,208 131,799
+00181: Diluted 127,738 132,517
+00182: Other comprehensive income:
+00183: Total other comprehensive income — —
+00184: Total comprehensive income $ 173,867 $ 150,705
+00185: The accompanying notes are an integral part of the condensed consolidated financial statements.
+00186: 5
+00187: BJ’S WHOLESALE CLUB HOLDINGS, INC.
+00188: CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE INCOME
+00189: (Amounts in thousands, except per share amounts)
+00190: (Unaudited)
+00191: Twenty-six Weeks Ended
+00192: August 1, 2026 August 2, 2025
+00193: Net sales $ 11,620,120 $ 10,290,001
+00194: Membership fee income 267,959 243,722
+00195: Total revenues 11,888,079 10,533,723
+00196: Cost of sales 9,750,179 8,558,049
+00197: Selling, general and administrative expenses 1,657,216 1,547,238
+00198: Pre-opening expenses 20,414 8,261
+00199: Operating income 460,270 420,175
+00200: Interest expense, net 25,450 21,492
+00201: Income before income taxes 434,820 398,683
+00202: Provision for income taxes 118,227 98,210
+00203: Net income $ 316,593 $ 300,473
+00204: Income per share attributable to common stockholders—basic: $ 2.47 $ 2.28
+00205: Income per share attributable to common stockholders—diluted: $ 2.46 $ 2.27
+00206: Weighted-average shares of common stock outstanding:
+00207: Basic 127,929 131,684
+00208: Diluted 128,561 132,633
+00209: Other comprehensive income:
+00210: Total other comprehensive income — —
+00211: Total comprehensive income $ 316,593 $ 300,473
+00212: The accompanying notes are an integral part of the condensed consolidated financial statements.
+00213: 6
+00214: BJ’S WHOLESALE CLUB HOLDINGS, INC.
+00215: CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY
+00216: (Amounts in thousands)
+00217: (Unaudited)
+00218: Common Stock Additional
+00219: Paid-in
+00220: Capital Retained Earnings Accumulated
+00221: Other
+00222: Comprehensive
+00223: Income Treasury Stock Total
+00224: Stockholders’
+00225: Equity
+00226: Shares Amount Shares Amount
+00227: Balance, January 31, 2026 129,638 $ 1,296 $ 995,083 $ 1,201,207 $ 73 — $ — $ 2,197,659
+00228: Net income — — — 142,726 — — — 142,726
+00229: Common stock issued under stock incentive plans 390 4 (4) — — — — —
+00230: Stock-based compensation expense — — 13,280 — — — — 13,280
+00231: Exercise of stock options — — 125 — — — — 125
+00232: Acquisition of treasury stock — — — — — (2,335) (227,531) (227,531)
+00233: Retirement of treasury stock (2,335) (23) (227,508) — — 2,335 227,531 —
+00234: Balance, May 2, 2026 127,693 $ 1,277 $ 780,976 $ 1,343,933 $ 73 — $ — $ 2,126,259
+00235: Net income — — — 173,867 — — — 173,867
+00236: Common stock issued under stock incentive plans 79 1 (1) — — — — —
+00237: Common stock issued under ESPP 66 1 4,873 — — — — 4,874
+00238: Stock-based compensation expense — — 15,460 — — — — 15,460
+00239: Exercise of stock options — — 1,241 — — — — 1,241
+00240: Acquisition of treasury stock — — — — — (1,386) (124,269) (124,269)
+00241: Retirement of treasury stock (1,386) (14) (124,255) — — 1,386 124,269 —
+00242: Balance, August 1, 2026 126,452 1,265 678,294 1,517,800 73 — — 2,197,432
+00243: The accompanying notes are an integral part of the condensed consolidated financial statements.
+00244: 7
+00245: Common Stock Additional
+00246: Paid-in
+00247: Capital Retained
+00248: Earnings Accumulated
+00249: Other
+00250: Comprehensive
+00251: Income Treasury Stock Total
+00252: Stockholders’
+00253: Equity
+00254: Shares Amount Shares Amount
+00255: Balance, February 1, 2025 148,965 $ 1,489 $ 1,079,445 $ 1,702,648 $ 231 (17,327) $ (936,359) $ 1,847,454
+00256: Net income — — — 149,768 — — — 149,768
+00257: Common stock issued under stock incentive plans 778 8 (8) — — — — —
+00258: Stock-based compensation expense — — 10,654 — — — — 10,654
+00259: Exercise of stock options — — 5,014 — — — — 5,014
+00260: Acquisition of treasury stock — — — — — (365) (41,305) (41,305)
+00261: Balance, May 3, 2025 149,743 $ 1,497 $ 1,095,105 $ 1,852,416 $ 231 (17,692) $ (977,664) $ 1,971,585
+00262: Net income — — — 150,705 — — — 150,705
+00263: Common stock issued under stock incentive plans 18 — — — — — — —
+00264: Common stock issued under ESPP 59 1 4,448 — — — — 4,449
+00265: Stock-based compensation expense — — 13,945 — — — — 13,945
+00266: Acquisition of treasury stock — — — — — (379) (41,590) (41,590)
+00267: Balance, August 2, 2025 149,820 $ 1,498 $ 1,113,498 $ 2,003,121 $ 231 (18,071) $ (1,019,254) $ 2,099,094
+00268: The accompanying notes are an integral part of the condensed consolidated financial statements.
+00269: 8
+00270: BJ’S WHOLESALE CLUB HOLDINGS, INC.
+00271: CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+00272: (Amounts in thousands)
+00273: (Unaudited)
+00274: Twenty-six Weeks Ended
+00275: August 1, 2026 August 2, 2025
+00276: CASH FLOWS FROM OPERATING ACTIVITIES
+00277: Net income $ 316,593 $ 300,473
+00278: Adjustments to reconcile net income to net cash provided by operating activities:
+00279: Depreciation and amortization 155,335 141,598
+00280: Amortization of debt issuance costs and accretion of original issue discount 546 546
+00281: Stock-based compensation expense 28,740 24,599
+00282: Deferred income tax provision 8,197 9,577
+00283: Changes in operating leases and other non-cash items (41,065) (22,178)
+00284: Increase (decrease) in cash due to changes in:
+00285: Accounts receivable, net (40,219) 12,243
+00286: Merchandise inventories (61,563) (11,696)
+00287: Prepaid expenses and other current assets (30,292) (18,589)
+00288: Other assets 2,895 (1,158)
+00289: Accounts payable 120,500 10,696
+00290: Accrued expenses and other current liabilities 80,018 (9,107)
+00291: Other non-current liabilities 1,754 20,953
+00292: Net cash provided by operating activities 541,439 457,957
+00293: CASH FLOWS FROM INVESTING ACTIVITIES
+00294: Additions to property and equipment, net of disposals (359,339) (306,065)
+00295: Proceeds from sale-leaseback transactions — 2,995
+00296: Proceeds from assignment of purchase option (see Note 12)
+00297: 122,100 —
+00298: Payment upon exercise of purchase option (see Note 12)
+00299: (80,718) —
+00300: Other investing activities (3,782) (3,086)
+00301: Net cash used in investing activities (321,739) (306,156)
+00302: CASH FLOWS FROM FINANCING ACTIVITIES
+00303: Proceeds from revolving lines of credit 496,000 131,000
+00304: Payments on revolving lines of credit (386,000) (201,000)
+00305: Net cash received from stock option exercises 1,366 5,014
+00306: Net cash received from ESPP 4,874 4,449
+00307: Acquisition of treasury stock (348,761) (82,895)
+00308: Net proceeds from financing obligations 2,894 14,804
+00309: Other financing activities (6,336) (4,172)
+00310: Net cash used in financing activities (235,963) (132,800)
+00311: Net (decrease) increase in cash and cash equivalents (16,263) 19,001
+00312: Cash and cash equivalents at beginning of period 46,245 28,272
+00313: Cash and cash equivalents at end of period $ 29,982 $ 47,273
+00314: Supplemental cash flow information:
+00315: Interest paid $ 13,272 $ 16,921
+00316: Income taxes paid 131,969 104,626
+00317: Operating lease liabilities arising from obtaining right-of-use assets and other non-cash lease-related operating items 189,012 52,886
+00318: Non-cash financing and investing activities:
+00319: Finance lease liabilities arising from obtaining right-of-use assets 81,444 4,431
+00320: Receivables arising from failed sale-leaseback financing obligations 15,847 5,822
+00321: Property additions included in accrued expenses 61,462 42,098
+00322: Treasury stock acquisitions included in accrued expenses 3,039 53
+00323: The accompanying notes are an integral part of the condensed consolidated financial statements.
+00324: 9
+00325: NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+00326: 1. Description of Business
+00327: BJ’s Wholesale Club Holdings, Inc. and its wholly-owned subsidiaries (the “Company” or “BJ’s”) is a leading operator of membership warehouse clubs concentrated primarily in the eastern half of the United States. The Company provides a curated assortment focused on groceries, fresh foods, general merchandise, gasoline, and other ancillary services to deliver a differentiated shopping experience that is further enhanced by the Company's digital capabilities. As of August 1, 2026, BJ's operated 267 warehouse clubs and 206 gas stations in 22 states.
+00328: 2. Summary of Significant Accounting Policies
+00329: (a) Basis of Presentation
+00330: The accompanying interim financial statements of BJ’s Wholesale Club Holdings, Inc. are unaudited and, in the opinion of management, reflect all normal recurring adjustments considered necessary for a fair statement of the Company’s financial statements in accordance with GAAP.
+00331: The condensed consolidated balance sheet as of January 31, 2026 is derived from the audited consolidated balance sheet as of that date. The Company’s business, as is common with the business of retailers generally, is subject to some seasonality. The Company’s net sales and cash flows have typically been highest in the fourth quarter holiday season and lowest in the first quarter of each fiscal year.
+00332: These unaudited condensed consolidated financial statements should be read in conjunction with the audited consolidated financial statements and footnotes thereto included in our Annual Report on Form 10-K for fiscal year 2025, as filed with the Securities and Exchange Commission on March 12, 2026.
+00333: (b) Fiscal Year
+00334: The Company follows the National Retail Federation’s fiscal calendar and reports financial information on a 52- or 53-week year ending on the Saturday closest to January 31. The thirteen-week periods ended August 1, 2026 and August 2, 2025 are referred to herein as the “second quarter of fiscal year 2026” and the “second quarter of fiscal year 2025,” respectively. The twenty-six week periods ended August 1, 2026 and August 2, 2025 are referred to herein as the “twenty-six weeks ended August 1, 2026” and the “twenty-six weeks ended August 2, 2025,” respectively. Operating results for the twenty-six week period ended August 1, 2026 are not necessarily indicative of the results that may be expected for the 52-week fiscal year ending January 30, 2027.
+00335: (c) Recently Issued Accounting Pronouncements and Policies
+00336: The Company’s accounting policies are set forth in the audited financial statements included in the Company’s Annual Report on Form 10-K for fiscal year 2025. There have been no material changes to these accounting policies and no accounting pronouncements adopted that had a material impact on the Company’s financial statements aside from those identified herein.
+00337: In November 2024, the Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update (“ASU”) 2024-03, Income Statement – Reporting Comprehensive Income – Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses. ASU 2024-03 requires disclosure of certain costs and expenses on an interim and annual basis in the notes to the financial statements. ASU 2024-03 is effective for fiscal years beginning after December 15, 2026, and interim periods within fiscal years beginning after December 15, 2027. Early adoption is permitted. The disclosures required under the guidance can be applied either prospectively to financial statements issued for reporting periods after the effective date or retrospectively to any or all periods presented in the financial statements. The Company is currently evaluating the impact of this guidance on the notes to its financial statements, and does not expect ASU 2024-03 to affect its consolidated financial statements.
+00338: In September 2025, the FASB issued ASU 2025-06, Intangibles – Goodwill and Other – Internal-Use Software (Subtopic 350-40): Targeted Improvements to the Accounting for Internal-Use Software. ASU 2025-06 modernizes the accounting for internal-use software costs by increasing the operability of the recognition guidance considering different methods of software development, and removing the previous “development stage” model to determine when costs are able to be capitalized. ASU 2025-06 is effective for fiscal years beginning after December 15, 2027 and interim periods within those annual reporting
+00339: 10
+00340: periods. Early adoption is permitted. The Company may apply the guidance prospectively, retrospectively, or via a modified prospective transition method. The Company is currently evaluating the impact that this guidance will have on its consolidated financial statements and disclosures.
+00341: (d) Recently Adopted Accounting Pronouncements and Policies
+00342: In December 2025, the FASB issued ASU No. 2025-12, Codification Improvements which serves to clarify, correct errors, or make minor improvements to various topics within the Codification. Generally, the amendments in this ASU are not intended to result in significant changes to current accounting principles. ASU 2025-12 is effective for fiscal years beginning after December 15, 2026 and interim periods within those annual reporting periods. Early adoption is permitted, and entities may elect to adopt the amendments on an issue-by-issue basis.
+00343: The Company adopted ASU 2025-12 during the first quarter of fiscal year 2026, which changes the accounting for treasury share retirements. Under the new guidance, the Company elected to recognize the excess of the repurchase price over par value entirely as a reduction from additional paid-in-capital (“APIC”), provided that APIC remains positive. This policy change is reflected within the condensed consolidated balance sheets, statements of stockholders’ equity, and “Note 7. Treasury Shares and Share Repurchase Program.” The adoption did not impact the consolidated statements of operations and comprehensive income or the statements of cash flows.
+00344: 3. Revenue Recognition
+00345: Net sales
+00346: The Company recognizes net sales at clubs and gas stations when the customer takes possession of the goods and tenders payment. Revenue is recorded at the point-of-sale based on the transaction price, net of any applicable discounts, sales tax, and expected refunds. For digitally-enabled sales, including buy-online-pickup-in-club (“BOPIC”), curbside delivery, and same-day delivery, the Company generally recognizes revenue when the customer takes possession of the merchandise. For ship-to-home sales, the Company recognizes revenue when control of the merchandise is transferred to the customer, which is typically at the time of shipment.
+00347: In the ordinary course of business, sales tax is collected at the time of purchase on items that are taxable in the respective jurisdiction. Sales tax is not included within net sales in the consolidated statements of operations and comprehensive income. Sales tax is recorded as a liability at the point-of-sale and subsequently remitted to the appropriate taxing authority.
+00348: Rewards programs
+00349: The Company’s Club+ program allows participating members to earn 2% cash back, up to a maximum of $500 per year, on qualified purchases made in BJ’s clubs, on bjs.com, or in the BJ’s mobile app, a 5-cent per gallon discount at BJ’s gas locations, and two free same-day deliveries. Cash back is in the form of electronic rewards issued to each member once $10 in rewards have been earned.
+00350: The Company’s co-branded credit card program, known as the BJ’s One and BJ’s One+ program, allows cardholders the opportunity to earn up to 5% cash back on purchases made in BJ’s clubs, on bjs.com, or in the BJ’s mobile app, and up to a 15-cent per gallon discount on gasoline when paying with a BJ’s One or BJ’s One+ Mastercard at BJ’s gas locations. BJ’s One+ Mastercard cardholders also receive two free same-day deliveries if such benefit has not already been received under the Club+ program. Cash back is in the form of electronic rewards issued to each member monthly on the credit card statement date. Earned rewards on each of the Club+ and co-branded credit card programs do not expire.
+00351: 11
+00352: The Company accounts for these transactions as multiple-element arrangements and allocates the transaction price to separate performance obligations using their relative fair values. The Company includes the fair value of rewards in deferred revenue at the time the rewards are earned. Earned rewards may be redeemed on future purchases made at BJ’s. The Company recognizes revenue related to earned rewards when customers redeem such rewards as part of a purchase at one of the Company’s clubs, on bjs.com, or in the BJ’s mobile app. While the Company continues to honor all rewards presented for redemption, the likelihood of redemption is deemed to be remote for certain rewards due to historical experience, including after long periods of inactivity, and rewards being linked to expired or canceled memberships. In these circumstances, the Company recognizes revenue, or breakage, from unredeemed rewards. The Company earns monthly royalties under the BJ’s One and BJ’s One+ credit card programs related to the use of the BJ’s trade name and the issuance of rewards and gasoline discounts to cardholders. Royalty revenue is recognized based upon actual customer activities, such as reward redemptions, in the period in which the underlying activity occurs.
+00353: Membership
+00354: The Company charges a membership fee to its customers, which allows customers to shop in the Company’s clubs, on bjs.com, or in the BJ’s mobile app, and purchase gasoline at the Company’s gas stations for the duration of the membership, which is generally twelve months. In addition, members have access to other ancillary services, coupons, and promotions. As the Company has the obligation to provide access to its clubs, website, mobile app, and gas stations for the duration of the membership term, the Company recognizes membership fees on a straight-line basis over the life of the membership. All membership fees and related membership revenues are recorded as membership fee income in the condensed consolidated statements of operations and comprehensive income.
+00355: Gift Card Program
+00356: The Company sells BJ’s gift cards that allow customers to redeem the cards for future purchases equal to the loaded value of the gift card. Revenue from gift card sales is recognized upon redemption of the gift cards and control of the purchased goods or services is transferred to the customer.
+00357: Contract Balances
+00358: Current and long-term deferred revenue balances are included within accrued expenses and other current liabilities and other non-current liabilities, respectively, in the condensed consolidated balance sheets.
+00359: The following table summarizes the Company’s deferred revenue balance related to outstanding performance obligations for contracts with customers, excluding earned rewards which are noted below (in thousands):
+00360: August 1, 2026 January 31, 2026 August 2, 2025
+00361: Current:
+00362: Rewards programs:
+00363: Royalty revenue $ 6,870 $ 10,572 $ 7,297
+00364: Co-brand initiatives 2,349 2,910 3,143
+00365: Total rewards programs 9,219 13,482 10,440
+00366: Membership 291,015 240,643 267,382
+00367: Gift card program 17,162 18,252 16,274
+00368: E-commerce sales 9,718 9,059 6,623
+00369: Long-term:
+00370: Rewards programs:
+00371: Co-brand initiatives 1,959 2,324 2,154
+00372: Total deferred revenue $ 329,073 $ 283,760 $ 302,873
+00373: The following table presents deferred revenue activity related to earned rewards (in thousands):
+00374: 12
+00375: Twenty-six Weeks Ended
+00376: August 1, 2026 August 2, 2025
+00377: Earned rewards balance, beginning of period $ 71,427 $ 57,474
+00378: Rewards earned 192,992 182,567
+00379: Revenue recognized on rewards (188,196) (174,522)
+00380: Earned rewards balance, end of period $ 76,223 $ 65,519
+00381: Earned rewards are combined in one homogeneous pool and are not separately identifiable. Revenue recognized on rewards consists of rewards that were included in the deferred revenue balance at the beginning of the period as well as rewards that were earned during the period.
+00382: The following table summarizes the Company’s revenue recognized during the period that was included in the opening deferred balance, excluding earned rewards, as of January 31, 2026 and February 1, 2025 (in thousands):
+00383: Twenty-six Weeks Ended
+00384: August 1, 2026 August 2, 2025
+00385: Rewards programs:
+00386: Royalty revenue $ 10,572 $ 9,972
+00387: Co-brand initiatives 1,747 1,924
+00388: Total rewards programs 12,319 11,896
+00389: Membership 184,148 184,185
+00390: Gift card program 3,860 3,743
+00391: E-commerce sales 9,059 7,839
+00392: Total revenue $ 209,386 $ 207,663
+00393: Performance obligations related to royalty revenue, membership fees, and e-commerce sales are typically satisfied over a period of twelve months or less. Funds received related to marketing and other integration costs in connection with our co-brand credit card program are recognized as performance obligations are satisfied. The timing and recognition of earned rewards and gift card redemptions varies depending on consumer behavior and spending patterns.
+00394: Disaggregation of Revenue
+00395: The following table summarizes the Company’s percentage of net sales disaggregated by category:
+00396: Thirteen Weeks Ended Twenty-six Weeks Ended
+00397: August 1, 2026 August 2, 2025 August 1, 2026 August 2, 2025
+00398: Perishables, Grocery, and Sundries 65 % 71 % 67 % 72 %
+00399: General Merchandise and Services 10 % 11 % 10 % 10 %
+00400: Gasoline and Other 25 % 18 % 23 % 18 %
+00401: 4. Debt and Credit Arrangements
+00402: The following table summarizes the Company’s debt (in thousands):
+00403: August 1, 2026 January 31, 2026 August 2, 2025
+00404: ABL Revolving Facility $ 230,000 $ 120,000 $ 105,000
+00405: First Lien Term Loan 400,000 400,000 400,000
+00406: Unamortized original issue discount and debt issuance costs (755) (901) (1,047)
+00407: Less: Short-term debt (230,000) (120,000) (105,000)
+00408: Long-term debt $ 399,245 $ 399,099 $ 398,953
+00409: 13
+00410: ABL Revolving Facility
+00411: On July 28, 2022, the Company entered into the ABL Revolving Facility with an ABL Revolving Commitment of $1.20 billion pursuant to that certain credit agreement (the “Credit Agreement”) with Bank of America, N.A., as administrative agent and collateral agent, and the other lenders party thereto. The maturity date of the ABL Revolving Facility is July 28, 2027.
+00412: Revolving loans under the ABL Revolving Facility are available in an aggregate amount equal to the lesser of the aggregate ABL Revolving Commitment or a borrowing base based on the value of certain inventory and accounts and credit card receivables, subject to specified advance rebates and reserves as set forth in the Credit Agreement. Indebtedness under the ABL Revolving Facility is secured by substantially all of the assets (other than real estate) of the Company and its subsidiaries, subject to customary exceptions. As amended, interest on the ABL Revolving Facility is calculated either at SOFR plus a range of 100 to 125 basis points or a base rate plus 0 to 25 basis points, based on excess availability. The Company will also pay an unused commitment fee of 20 basis points per annum on the unused ABL Revolving Commitment. Each borrowing is for a period of one, three, or six months, as selected by the Company, or for such other period that is twelve months or less requested by the Company and consented to by the lenders and administrative agent.
+00413: The ABL Revolving Facility places certain restrictions (i.e., covenants) upon the Borrower’s, and its subsidiaries’, ability to, among other things, incur additional indebtedness, pay dividends, and make certain loans, investments, and divestitures. The ABL Revolving Facility contains customary events of default (including payment defaults, cross-defaults to certain of our other indebtedness, breach of representations and covenants and change of control). The occurrence of an event of default under the ABL Revolving Facility would permit the lenders to accelerate the indebtedness and terminate the ABL Revolving Facility.
+00414: As of August 1, 2026, there was $230.0 million outstanding in loans under the ABL Revolving Facility and $7.7 million in outstanding letters of credit. The interest rate on the ABL Revolving Facility was 4.83% and unused capacity was $962.3 million. As of January 31, 2026 and August 2, 2025, the interest rate on the ABL Revolving Facility was 4.77% and 5.45%, respectively.
+00415: First Lien Term Loan
+00416: On November 4, 2024, the Company entered into an amendment (the “Fifth Amendment”) to the First Lien Term Loan Credit Agreement, with Nomura Corporate Funding Americas, LLC, as administrative agent and collateral agent, and the lenders party thereto.
+00417: The Fifth Amendment, among other things, provided for a new tranche of term loans in an aggregate principal amount of $400.0 million, which refinanced and replaced in full the existing Tranche B term loans outstanding under the First Lien Term Loan Credit Agreement immediately prior to the effectiveness of the Fifth Amendment. In addition, the Fifth Amendment reduced applicable margin in respect of the interest rate from SOFR plus 200 basis points per annum to SOFR plus 175 basis points per annum. The maturity date of the First Lien Term Loan is February 3, 2029.
+00418: Voluntary prepayments are permitted. Principal payments must be made on the First Lien Term Loan pursuant to an annual excess cash flow calculation when the net leverage ratio exceeds 3.50 to 1.00. As of August 1, 2026, the Company's net leverage ratio did not exceed 3.50 to 1.00, and therefore, no incremental principal payments were required. The First Lien Term Loan is subject to certain affirmative and negative covenants but no financial covenants. It is secured on a senior basis by certain “fixed assets” of the Company and on a junior basis by certain “liquid” assets of the Company.
+00419: There was $400.0 million outstanding under the First Lien Term Loan as of each of August 1, 2026, January 31, 2026, and August 2, 2025. The interest rate on the First Lien Term Loan was 5.41%, 5.43%, and 5.88% at August 1, 2026, January 31, 2026, and August 2, 2025, respectively.
+00420: 5. Commitments and Contingencies
+00421: The Company is involved in various legal proceedings that are typical of a retail business. In accordance with applicable accounting guidance, an accrual will be established for legal proceedings if and when those matters present loss contingencies that are both probable and estimable. The Company does not believe the resolution of any current proceedings will result in a material impact to the condensed consolidated financial statements. Gain contingencies are recognized when they are realized or realizable.
+00422: 14
+00423: 6. Stock Incentive Plans
+00424: On June 13, 2018, the Company’s board of directors adopted, and its stockholders approved, the BJ’s Wholesale Club Holdings, Inc. 2018 Incentive Award Plan (the “2018 Plan”). The 2018 Plan provides for, among other types of awards, the grant of restricted stock, restricted stock units, and performance shares.
+00425: The 2018 Plan authorizes the issuance of 13,148,058 shares and allows for most shares that are forfeited, expire, or are settled in cash to be reissued for new grants that may be awarded. For further details on the 2018 Plan, refer to “Note 11. Stock Incentive Plans” included in our Annual Report on Form 10-K for fiscal year 2025, as filed with the Securities and Exchange Commission on March 12, 2026.
+00426: As of August 1, 2026, there were 4,004,018 shares available for future issuance under the 2018 Plan.
+00427: The following table summarizes the Company’s stock award activity during the twenty-six weeks ended August 1, 2026 (shares in thousands):
+00428: Stock Options Restricted Stock Restricted Stock Units Performance Stock Units
+00429: Shares Weighted-
+00430: Average
+00431: Exercise
+00432: Price Shares Weighted-
+00433: Average
+00434: Grant
+00435: Date Fair
+00436: Value Shares Weighted-
+00437: Average
+00438: Grant
+00439: Date Fair
+00440: Value
+00441: Shares(a)
+00442: Weighted-
+00443: Average
+00444: Grant
+00445: Date Fair
+00446: Value
+00447: Outstanding, January 31, 2026 522 $ 20.52 93 $ 78.15 480 $ 95.76 507 $ 84.56
+00448: Granted (b)
+00449: — — — — 345 93.21 250 94.27
+00450: Forfeited/canceled (c)
+00451: — — (1) 76.07 (19) 97.18 (14) 79.97
+00452: Exercised/vested (78) 17.52 (81) 76.07 (193) 92.62 (211) 64.58
+00453: Outstanding, August 1, 2026 444 $ 21.04 11 $ 92.95 613 $ 95.27 532 $ 93.63
+00454: (a) Shares outstanding reflect a 100% payout. However, the actual payout for the remaining performance stock unit awards granted in fiscal year 2021 is expected to be 200%, and the actual payout for performance stock unit awards granted in fiscal year 2023, which vested in the first quarter of fiscal year 2026, was 92%. Actual payout for the performance stock unit awards granted in each of fiscal years 2024, 2025, and 2026, which vest in fiscal years 2027, 2028, and 2029, respectively, could be below 100% or up to 300%.
+00455: (b) Includes 38 incremental performance stock units granted in fiscal year 2021 with a weighted-average grant date fair value of $44.04, that vested in fiscal year 2026 at greater than 100% of target payout based on performance.
+00456: (c) Includes 12 performance stock units granted in fiscal year 2023 with a weighted-average grant date fair value of $76.07, that vested in fiscal year 2026 at less than 100% of target payout based on performance.
+00457: Stock-based compensation expense was $15.5 million and $13.9 million for the thirteen weeks ended August 1, 2026 and August 2, 2025, respectively, and $28.7 million and $24.6 million for the twenty-six weeks ended August 1, 2026 and August 2, 2025, respectively.
+00458: On June 14, 2018, the Company’s board of directors adopted, and its stockholders approved, the ESPP, which became effective July 1, 2018. The aggregate number of shares of common stock reserved for issuance under the ESPP is equal to the sum of (i) 973,014 shares and (ii) an annual increase on the first day of each calendar year beginning in 2019 and ending in 2028 equal to the lesser of (A) 486,507 shares, (B) 0.5% of the shares outstanding (on an as converted basis) on the last day of the immediately preceding fiscal year and (C) such smaller number of shares as determined by the Company’s board of directors. The amount of expense recognized related to the ESPP was $0.5 million and $0.4 million for the thirteen weeks ended August 1, 2026 and August 2, 2025, respectively, and $1.1 million and $1.0 million for the twenty-six weeks ended August 1, 2026 and August 2, 2025, respectively. As of August 1, 2026, there were 3,578,686 shares available for issuance under the ESPP.
+00459: 15
+00460: 7. Treasury Shares and Share Repurchase Program
+00461: Treasury Shares Acquired on Stock-Based Awards
+00462: The Company acquired 1,278 shares for $0.1 million and 3,670 shares for $0.4 million in the thirteen weeks ended August 1, 2026 and August 2, 2025, respectively, to satisfy employees’ tax withholding obligations upon the vesting of restricted stock awards, which was recorded as treasury stock.
+00463: The Company acquired 222,350 shares for $21.1 million and 313,772 shares for $35.5 million in the twenty-six weeks ended August 1, 2026 and August 2, 2025, respectively, to satisfy employees’ tax withholding obligations upon the vesting of restricted stock and performance stock awards, which was recorded as treasury stock.
+00464: Share Repurchase Program
+00465: On November 18, 2024, the Company’s board of directors approved a share repurchase program (the “2024 Repurchase Program”) that allows the Company to repurchase up to $1.00 billion of its outstanding common stock from time to time as market conditions warrant. The 2024 Repurchase Program was effective on February 1, 2025 and expires in January 2029. The timing and actual number of shares repurchased will depend on a variety of factors including price, corporate requirements, market conditions, and other corporate liquidity requirements and priorities. The Company initiated the 2024 Repurchase Program to mitigate potentially dilutive effects of stock awards granted by the Company, in addition to enhancing shareholder value.
+00466: The Company repurchased 1,384,278 shares for $124.1 million and 375,000 shares for $41.2 million under the 2024 Repurchase Program during the thirteen weeks ended August 1, 2026 and August 2, 2025, respectively. The Company repurchased 3,498,278 shares for $330.7 million and 430,000 shares for $47.4 million under the 2024 Repurchase Program during the twenty-six weeks ended August 1, 2026 and August 2, 2025, respectively. The Company accounts for treasury stock under the cost method based on the fair market value of the shares on the dates of repurchase plus any direct costs incurred.
+00467: As of August 1, 2026, $422.1 million remained available to purchase under the 2024 Repurchase Program.
+00468: Retirement of Treasury Shares
+00469: During the second quarter and first six months of fiscal 2026, the Company retired 1,385,556 and 3,720,628 shares of treasury stock, respectively, which represented the cumulative number of shares held in the Company’s treasury due to acquisitions during the applicable period. The retirement of these shares resulted in decreases in each of treasury stock and APIC of $124.3 million for the second quarter and $351.8 million for the first six months of fiscal 2026. There were no share retirements during the second quarter and first six months of fiscal year 2025.
+00470: 8. Income Taxes
+00471: The Company projects the estimated annual effective tax rate for fiscal year 2026 to be 27.8%, excluding the tax effect of discrete events, such as excess tax benefits from stock-based compensation, changes in tax legislation, settlements of tax audits and changes in uncertain tax positions, among others.
+00472: The Company’s effective income tax rate was 27.3% and 26.9% for the thirteen weeks ended August 1, 2026 and August 2, 2025, respectively. The increase in the effective tax rate for the thirteen-week period was primarily attributable to lower tax gains on transferable tax credits, partially offset by higher tax benefits from stock-based compensation in the current year period.
+00473: For the twenty-six weeks ended August 1, 2026 and August 2, 2025, the Company's effective tax rate was 27.2% and 24.6%, respectively. The increase compared to the prior year period was primarily attributable to lower tax benefits from stock-based compensation compared to the prior year period.
+00474: Cash taxes paid as presented in the supplemental cash flow information section of the condensed consolidated statements of cash flows includes $98.0 million paid for transferable credits during the twenty-six weeks ended August 1, 2026.
+00475: 16
+00476: The Company is subject to taxation in the U.S. federal and various state taxing jurisdictions. The Company’s tax years from 2021 forward remain open and subject to examination by the Internal Revenue Service and various state taxing authorities.
+00477: On July 4, 2025, new legislation, commonly known as the One Big Beautiful Bill Act (the “Act”), was signed into law. Among other provisions, the Act reestablished and made permanent 100% initial-year bonus depreciation on qualifying property, as well as the immediate deduction for domestic research and development expenses. The Company has quantified the impact of the Act to our financial statements and has reflected the effects within the consolidated financial statements as of and for the thirteen and twenty-six weeks ended August 1, 2026.
+00478: 9. Fair Value Measurements
+00479: Certain assets and liabilities are required to be carried at fair value in accordance with GAAP. Fair value is defined as the exchange price that would be received for an asset or paid to transfer a liability (an exit price) in the principal or most advantageous market for the asset or liability in an orderly transaction between market participants on the measurement date.
+00480: The Company uses a three-level hierarchy that prioritizes the inputs used to measure fair value. This hierarchy requires entities to maximize the use of observable inputs and minimize the use of unobservable inputs. Financial assets and liabilities carried at fair value are to be classified and disclosed in one of the following three levels of the fair value hierarchy, of which the first two are considered observable and the last is considered unobservable:
+00481: Level 1: Quoted market prices in active markets for identical assets or liabilities.
+00482: Level 2: Observable inputs other than quoted market prices included in Level 1 such as quoted market prices for markets that are not active or other inputs that are observable or can be corroborated by observable market data.
+00483: Level 3: Unobservable inputs that are supported by little or no market activity and that are significant to the fair value of the assets or liabilities, including certain pricing models, discounted cash flow methodologies and similar techniques that use significant unobservable inputs.
+00484: Financial Assets and Liabilities
+00485: The fair value of the Company’s long-term debt is estimated based on current market rates for our specific debt instrument. Judgment is required to develop these estimates. As such, the estimated fair value of long-term debt is classified within Level 2, as defined under GAAP.
+00486: The gross carrying amount and fair value of the Company’s debt at August 1, 2026 are as follows (in thousands):
+00487: Carrying Amount Fair Value
+00488: ABL Revolving Facility $ 230,000 $ 230,000
+00489: First Lien Term Loan 400,000 401,332
+00490: Total Debt $ 630,000 $ 631,332
+00491: The gross carrying amount and fair value of the Company’s debt at January 31, 2026 are as follows (in thousands):
+00492: Carrying Amount Fair Value
+00493: ABL Revolving Facility $ 120,000 $ 120,000
+00494: First Lien Term Loan 400,000 404,252
+00495: Total Debt $ 520,000 $ 524,252
+00496: 17
+00497: The gross carrying amount and fair value of the Company’s debt at August 2, 2025 are as follows (in thousands):
+00498: Carrying Amount Fair Value
+00499: ABL Revolving Facility $ 105,000 $ 105,000
+00500: First Lien Term Loan 400,000 402,000
+00501: Total Debt $ 505,000 $ 507,000
+00502: Assets and Liabilities Measured at Fair Value on a Non-Recurring Basis
+00503: The Company believes that the carrying amounts of its other financial instruments, including cash, accounts receivable, and accounts payable, approximate their fair values due to the short-term maturities of these instruments.
+00504: 10. Earnings Per Share
+00505: The table below reconciles basic weighted-average shares of common stock outstanding to diluted weighted-average shares of common stock outstanding for the thirteen and twenty-six weeks ended August 1, 2026 and August 2, 2025 (in thousands):
+00506: Thirteen Weeks Ended Twenty-six Weeks Ended
+00507: August 1, 2026 August 2, 2025 August 1, 2026 August 2, 2025
+00508: Weighted-average shares of common stock outstanding, used for basic computation 127,208 131,799 127,929 131,684
+00509: Plus: Incremental shares of potentially dilutive securities 530 718 632 949
+00510: Weighted-average shares of common stock and dilutive potential shares of common stock outstanding 127,738 132,517 128,561 132,633
+00511: The table below summarizes awards that were excluded from the computation of diluted earnings for the thirteen and twenty-six weeks ended August 1, 2026 and August 2, 2025, as their inclusion would have been anti-dilutive (in thousands):
+00512: Thirteen Weeks Ended Twenty-six Weeks Ended
+00513: August 1, 2026 August 2, 2025 August 1, 2026 August 2, 2025
+00514: Stock-based awards 263 168 255 128
+00515: 11. Segment Reporting
+00516: The Company’s operations are primarily retail club and other sales procured from clubs and distribution centers, representing one operating segment. All of the Company’s identifiable assets are located in the United States. The Company does not have significant sales outside the United States, nor does any customer represent more than 10% of total revenues for any period presented.
+00517: The chief operating decision maker (“CODM”) is the Company’s chairman and chief executive officer. The CODM uses net income, as reported in the condensed consolidated statements of operations and comprehensive income, in evaluating performance of the retail operations segment and determining how to allocate resources of the Company as a whole, including investing in clubs, stockholder return programs, and other strategies. The CODM does not review assets when evaluating the results of the segment, and therefore, such information is not presented.
+00518: 18
+00519: The following table provides the operating financial results of our reportable segment (in thousands):
+00520: Thirteen Weeks Ended Twenty-six Weeks Ended
+00521: August 1, 2026 August 2, 2025 August 1, 2026 August 2, 2025
+00522: Total revenues $ 6,226,579 $ 5,380,240 $ 11,888,079 $ 10,533,723
+00523: Less: significant and other segment expenses
+00524: Merchandise cost of sales (a)
+00525: 3,763,786 3,528,423 7,283,989 6,892,208
+00526: Selling, general and administrative expenses (b)
+00527: 857,642 789,645 1,677,630 1,555,499
+00528: Other segment expenses (c)
+00529: 1,431,284 911,467 2,609,867 1,785,543
+00530: Net income $ 173,867 $ 150,705 $ 316,593 $ 300,473
+00531: (a)
+00532: Merchandise cost of sales represents those expenses related to the sales of merchandise including inventory costs and distribution costs, and excludes costs related to gasoline and membership fee income.
+00533: (b)
+00534: Selling, general and administrative expenses is inclusive of pre-opening expenses, stock-based compensation, and other corporate expenses.
+00535: (c)
+00536: Other segment expenses primarily consists of other costs of revenues, including gas, as well as interest expense and income tax expense.
+00537: 12. Leases
+00538: Distribution Center Sale-Leaseback
+00539: In July 2026, the Company exercised its fixed-price purchase option under an existing lease to purchase the underlying land and building for the Company’s new ambient distribution center in Ohio. The Company concurrently assigned its rights under the resulting purchase and sale agreement to an unrelated third party (the “Buyer”) for total cash consideration of $122.1 million. The transaction met the criteria for sale accounting and was executed at market terms. The Company recognized a gain of $10.6 million which represented the excess of sale proceeds, net of transaction costs, over the net carrying values of the derecognized assets and liabilities. The gain was recognized as a reduction of selling, general, and administrative expenses in the consolidated statements of operations for the thirteen and twenty-six weeks ended August 1, 2026.
+00540: The Company executed a lease with the Buyer, which has an initial term of 25 years and four five-year renewal options that were excluded from the lease term as they are not reasonably certain to be exercised. At commencement, the Company recorded an operating lease right-of-use asset and corresponding operating lease liability of $93.6 million.
+00541: Assets Held for Sale
+00542: In July 2026, the Company executed a letter of intent for the sale and leaseback of two of the Company’s owned retail properties. The Company expects the transaction to close in the second half of fiscal year 2026 for cash consideration and determined the underlying assets meet the held-for-sale criteria. The Company reclassified the net carrying value of property and equipment totaling $44.9 million to prepaid expenses and other current assets in the condensed consolidated balance sheet as of August 1, 2026. Assets held for sale are recorded at the lower of their carrying value or fair value less costs to sell, are reassessed at each reporting date, and are no longer depreciated. No impairment loss was recognized upon reclassification. The Company expects the leases to be classified as operating leases at commencement.
+00543: 19
+00544: FORWARD-LOOKING STATEMENTS
+00545: This Quarterly Report on Form 10-Q contains forward-looking statements. We intend such forward-looking statements to be covered by the safe harbor provisions for forward-looking statements contained in Section 27A of the Securities Act of 1933, as amended (the “Securities Act”), and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”). All statements other than statements of historical facts contained in this Quarterly Report on Form 10-Q should be considered forward-looking statements, including, without limitation, statements regarding our future results of operations and financial position, business strategy, transformation, strategic priorities and future progress, including expectations regarding deferred revenue, lease commencement dates, impact of infrastructure investments on our operating model and selling, general and administrative expenses, sales of gasoline and gross profit margin rates, share repurchases, and new club and gas station openings, as well as statements that include terms such as “may,” “might,” “will,” “should,” “expect,” “plan,” “anticipate,” “can,” “could,” “intend,” “confident,” “project,” “believe,” “estimate,” “predict,” “continue,” “forecast,” “would,” or the negative of these terms or other similar expressions. The forward-looking statements in this Quarterly Report on Form 10-Q are only predictions. We have based these forward-looking statements largely on our current expectations and projections about future events and financial trends that we believe may affect our business, financial condition and results of operations. These statements involve known and unknown risks, uncertainties and other important factors that may cause our actual results, performance or achievements to be materially different from any future results, performance or achievements expressed or implied by the forward-looking statements, including, but not limited to:
+00546: • uncertainties in the financial markets including, without limitation, as a result of disruptions and instability in the banking and financial services industries, wars and global political conflicts, and the effect of certain economic conditions or events on consumer and small business spending patterns and debt levels;
+00547: • risks related to our dependence on having a large and loyal membership;
+00548: • domestic and international economic conditions, including volatility in inflation or interest rates, supply chain disruptions, construction delays, tariffs, and exchange rates;
+00549: • our ability to procure the merchandise we sell at the best possible prices;
+00550: • the effects of competition in, and regulation of, the retail industry;
+00551: • our dependence on vendors to supply us with quality merchandise at the right time and at the right price;
+00552: • risks related to our indebtedness;
+00553: • changes in laws related to, or the government’s administration of, the Supplemental Nutrition Assistance Program (“SNAP”) or its electronic benefit transfer systems;
+00554: • the risks and uncertainties related to the impact of any pandemic, epidemic or outbreak of any other highly infectious disease on the U.S., regional and global economies and on our business, financial condition and results of operations;
+00555: • risks related to climate change and natural disasters, including hurricanes;
+00556: • our ability to identify and respond effectively to consumer trends, including our ability to successfully maintain a relevant digital experience for our members;
+00557: • risks related to cybersecurity, which may be heightened due to our e-commerce business, including our ability to protect the privacy of member or business information and the security of payment card information;
+00558: • risks relating to our ability to attract and retain a qualified management team and other team members;
+00559: • risks relating to our ability to implement our growth strategy by opening new clubs, and gasoline stations; and
+00560: • the other risk factors identified in our filings with the Securities and Exchange Commission (the “SEC”), including in particular those set forth under “Risk Factors” in our Annual Report on Form 10-K for the fiscal year ended January 31, 2026 (the “Annual Report on Form 10-K for fiscal year 2025”) and our other filings with the SEC.
+00561: Given these uncertainties, you should not place undue reliance on any forward-looking statements. Except as required by applicable law, we assume no obligation to update these forward-looking statements, even if new information becomes available in the future, and you should not rely upon these forward-looking statements after the date of this Quarterly Report on Form 10-Q.
+00562: 20
+00563: Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+00564: The following discussion and analysis is intended to promote an understanding of the results of operations and financial condition of the Company and is provided as a supplement to, and should be read in conjunction with, our unaudited condensed consolidated financial statements and related notes thereto included elsewhere in this Quarterly Report on Form 10-Q, as well as the audited consolidated financial statements and the related notes thereto in our Annual Report on Form 10-K for fiscal year 2025. The following discussion may contain forward-looking statements that reflect our plans, estimates and assumptions. Our actual results could differ materially from those discussed in the forward-looking statements. Factors that could cause such differences are discussed in the sections of this Quarterly Report on Form 10-Q titled “Forward-Looking Statements” and in Part I. “Item 1A. Risk Factors” in our Annual Report on Form 10-K for fiscal year 2025 and subsequent filings with the SEC.
+00565: We report on the basis of a 52- or 53-week fiscal year, which ends on the Saturday closest to January 31. Accordingly, references herein to “fiscal year 2026” relate to the 52 weeks ending January 30, 2027, and references herein to “fiscal year 2025” relate to the 52 weeks ended January 31, 2026. The second quarter of fiscal year 2026 ended on August 1, 2026, and the second quarter of fiscal year 2025 ended on August 2, 2025, and both included thirteen weeks.
+00566: Overview
+00567: BJ’s Wholesale Club is a leading operator of membership warehouse clubs concentrated primarily in the eastern half of the United States. We deliver significant value to our members, consistently offering up to 25% savings on a representative basket of manufacturer-branded groceries compared to traditional supermarket competitors. We provide a curated assortment focused on groceries, fresh foods, general merchandise, gasoline, and other ancillary services to deliver a differentiated shopping experience that is further enhanced by our digital capabilities. Additionally, we provide access to coupons and promotions to deliver further value to our members.
+00568: Since pioneering the warehouse club model in New England in 1984, we have grown our footprint to 267 large-format, high-volume warehouse clubs and 206 gas stations spanning 22 states as of the date of this filing. In our originating New England market, which has high population density and generates a disproportionate part of U.S. gross domestic product (“GDP”), we operate nearly three times the number of clubs compared to the next largest warehouse club competitor. In addition to shopping in our clubs, members are able to shop when and how they want through our website, bjs.com, and our highly rated mobile app, which allows them to use our BOPIC service, curbside delivery, same-day delivery or traditional ship-to-home service, as well as through the DoorDash and Instacart marketplaces. We also offer Same-Day Select, which offers BJ’s members the ability to pay a one-time fee for unlimited same-day deliveries over a one-year period. Additionally, members may use ExpressPay® to skip checkout lines when they shop in club and pay via their mobile devices.
+00569: Our goal is to offer our members significant value and a meaningful return in savings on their annual membership fee. We have approximately 8.5 million members paying annual fees to gain access to savings on groceries, general merchandise, services, and gasoline. The annual membership fee for our Club membership is generally $60, and the annual membership fee for our Club+ membership, which offers additional value-enhancing features, is generally $120. Prior to January 1, 2025, the Club and Club+ membership fees were $55 and $110 per year, respectively. We believe that members can save over ten times their $60 Club membership fee versus what they would otherwise pay at traditional supermarket competitors when they spend $2,500 or more per year at BJ’s on manufacturer-branded groceries. In addition to providing significant savings on a representative basket of manufacturer-branded groceries, we accept all manufacturer coupons and also carry our own exclusive brands that enable members to save on price without compromising on quality. Our two private label brands, Wellsley Farms® and Berkley Jensen®, represented approximately 27% of our total net sales, excluding gasoline, for fiscal year 2025. Our customers recognize the relevance of our value proposition across economic environments, as demonstrated by over 25 consecutive years of membership fee income growth. Our membership fee income was $524.0 million for the trailing twelve-months ended August 1, 2026.
+00570: Our business is subject to some seasonality. Historically, our business has generally realized a slightly higher portion of net sales and cash flows from operations in the second and fourth fiscal quarters, attributable primarily to the impact of the summer and year-end holiday season, respectively. Our quarterly results have been, and will continue to be, affected by the timing of new club openings and their associated pre-opening expenses. As a result of these factors, our financial results for any single quarter or for periods of less than a year are not necessarily indicative of the results that may be achieved for a full fiscal year.
+00571: 21
+00572: Factors Affecting Our Business
+00573: Overall economic trends
+00574: The overall economic environment and related changes in consumer behavior have a significant impact on our business. In general, positive conditions in the broader economy promote customer spending in our clubs, while economic weakness, which generally results in a reduction of customer spending, may have a different or more extreme effect on spending at our clubs. Macroeconomic factors that can affect customer spending patterns, and thereby our results of operations, include, among others, employment rates, changes to the SNAP, government stimulus programs, tax legislation, business conditions, changes in the housing market, the availability of credit, interest rates and inflation, tariffs, tax rates, and fuel and energy costs. In addition, unemployment rates and benefits may cause us to experience higher labor costs.
+00575: Size and loyalty of membership base
+00576: The membership model is a critical element of our business. Members drive our results of operations through their membership fee income and their purchases. The majority of members renew within six months following their renewal date. Therefore, our renewal rate is a trailing calculation that captures renewals during the period seven to eighteen months prior to the reporting date. We have grown our membership fee income each year for over 25 consecutive years and the quality of our membership mix is strong as evidenced by our higher tier penetration growth in the first twenty-six weeks of fiscal year 2026. Our tenured membership renewal rate, a key indicator of membership engagement, satisfaction and loyalty, was 90% at the end of fiscal year 2025.
+00577: Effective sourcing and distribution of products and consumer demands
+00578: Our net sales and gross profit are affected by our ability to purchase our products in sufficient quantities at competitive prices. Further, our ability to maintain our appeal to existing customers and attract new customers primarily depends on our ability to originate, develop, and offer a compelling product assortment responsive to customer preferences. As a result, our level of net sales could be adversely affected due to constraints in our supply chain, including our inability to procure and stock sufficient quantities of some merchandise in a manner that is able to match market demand from our customers.
+00579: Infrastructure investment
+00580: Our historical operating results reflect the impact of our ongoing investments to support our growth. We have made significant investments in our business that we believe have laid the foundation for continued profitable growth. We believe that expanding our club footprint, bringing substantially all of our end-to-end perishable supply chain in-house, enhancing our information systems, including our distribution center and transportation management systems, and investing in hardware, software, and digitally enabled shopping capabilities for convenience, such as BOPIC, curbside pickup, same-day delivery, ExpressPay, and a digital coupon gallery will enable us to replicate our profitable club format and provide a differentiated shopping experience. We expect these infrastructure investments to support our successful operating model across our club operations.
+00581: Gasoline prices
+00582: The market price of gasoline impacts our net sales and comparable club sales, and large fluctuations in the price of gasoline have a short-term impact on our sales and margins. Retail gasoline prices are driven by daily crude oil and wholesale commodity market changes and are volatile, as they are influenced by factors that include changes in demand and supply of oil and refined products, global geopolitical events, regional market conditions, and supply interruptions caused by severe weather conditions. The change in crude oil prices impacts the purchase price of wholesale petroleum fuel products, which in turn impacts retail gasoline prices at the pump. During times when prices are particularly volatile, differences in pricing and procurement strategies between the Company and its competitors lead to temporary margin contraction or expansion, depending on whether prices are rising or falling, and this impact affects our overall results for a fiscal quarter.
+00583: In addition, the relative level of gasoline prices from period to period leads to differences in our net sales between those periods. Further, because we generally attempt to maintain a fairly stable gross profit per gallon on an absolute dollar basis, this variance in net sales, which may be substantial, may or may not have a significant impact on our operating income.
+00584: Inflation and deflation trends
+00585: Our financial results can be directly impacted by substantial changes in product costs due to commodity cost fluctuations or general inflation, disinflation, or deflation, which could lead to a reduction in our sales, as well as greater margin pressure, as
+00586: 22
+00587: costs may not be able to be passed on to consumers. Changes in commodity prices and changes in inflation rates have impacted several categories of our business and may continue to do so. Inflationary volatility can be attributed to macroeconomic factors including supply chain disruptions, government stimulus, interest rates, tariffs, and other factors. In response to general inflationary volatility, we seek to minimize the impact of such events by sourcing our merchandise from different vendors, changing our product mix, or increasing our pricing when necessary.
+00588: Results of Operations
+00589: The following table summarizes key components of our results of operations for the periods indicated:
+00590: Statement of Operations Data Thirteen Weeks Ended Twenty-six Weeks Ended
+00591: (dollars in thousands, except per share amounts) August 1, 2026 August 2, 2025 August 1, 2026 August 2, 2025
+00592: Net sales $ 6,090,975 $ 5,256,907 $ 11,620,120 $ 10,290,001
+00593: Membership fee income 135,604 123,333 267,959 243,722
+00594: Total revenues 6,226,579 5,380,240 11,888,079 10,533,723
+00595: Cost of sales 5,116,580 4,374,065 9,750,179 8,558,049
+00596: Selling, general and administrative expenses 851,206 786,358 1,657,216 1,547,238
+00597: Pre-opening expenses 6,436 3,287 20,414 8,261
+00598: Operating income 252,357 216,530 460,270 420,175
+00599: Interest expense, net 13,083 10,393 25,450 21,492
+00600: Income before income taxes 239,274 206,137 434,820 398,683
+00601: Provision for income taxes 65,407 55,432 118,227 98,210
+00602: Net income $ 173,867 $ 150,705 $ 316,593 $ 300,473
+00603: Weighted-average shares outstanding—basic 127,208 131,799 127,929 131,684
+00604: Basic EPS(a)
+00605: $ 1.37 $ 1.14 $ 2.47 $ 2.28
+00606: Weighted-average shares outstanding—diluted 127,738 132,517 128,561 132,633
+00607: Diluted EPS(a)
+00608: $ 1.36 $ 1.14 $ 2.46 $ 2.27
+00609: Operational Data:
+00610: Total clubs at end of period 267 255 267 255
+00611: Comparable club sales (b)
+00612: 11.9%
+00613: (0.3)%
+00614: 9.2%
+00615: 0.6%
+00616: Merchandise comparable club sales (b)
+00617: 3.1%
+00618: 2.3%
+00619: 2.3%
+00620: 3.1%
+00621: Adjusted net income (b)
+00622: $ 173,867 $ 151,456 $ 316,593 $ 302,331
+00623: Adjusted EPS (b)
+00624: 1.36 1.14 2.46 2.28
+00625: Adjusted EBITDA (b)
+00626: 347,196 303,861 645,266 589,697
+00627: Net cash provided by operating activities 401,481 249,864 541,439 457,957
+00628: Adjusted free cash flow (b)
+00629: 265,528 87,291 223,482 154,887
+00630: (a) Basic and diluted EPS are calculated using net income.
+00631: (b) See “Non-GAAP Financial Measures” and “Liquidity and Capital Resources” within Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations for definitions.
+00632: 23
+00633: Net Sales
+00634: Net sales are derived from direct retail sales to our customers, net of merchandise returns and discounts. Fluctuations in net sales are impacted by opening new clubs and gas stations and comparable club sales.
+00635: Net sales for the second quarter of fiscal year 2026 were $6.09 billion, a 15.9% increase from net sales reported for the second quarter of fiscal year 2025 of $5.26 billion.
+00636: Net sales for the first six months of fiscal year 2026 were $11.62 billion, a 12.9% increase from net sales reported for the first six months of fiscal year 2025 of $10.29 billion.
+00637: The increase for both comparative periods was due primarily to growth in traffic and ticket in each of the general merchandise and services division and the perishables, grocery, and sundries division, as well as a net increase of twelve clubs from the prior year period. Additionally, net sales for both comparative periods were positively impacted by an increase in the average retail price-per-gallon of gasoline sold compared to the second quarter and first six months of fiscal year 2025, as well as an increase in comparable gallons sold.
+00638: Comparable Club Sales and Merchandise Comparable Club Sales
+00639: We believe net sales are an important driver of our profitability, particularly comparable club sales. Comparable club sales, a key performance indicator, also known as same-store sales in the retail industry, includes all clubs that were open for at least 13 months at the beginning of the period and were in operation during the entirety of both periods being compared, including relocated clubs and expansions. Comparable club sales allow us to evaluate how our club base is performing by measuring the change in period-over-period net sales in clubs that have been open for the applicable period.
+00640: Various factors affect comparable club sales, including customer preferences and trends, product sourcing, promotional offerings and pricing, shopping frequency from new and existing members and the amount they spend on each visit, weather, and holiday shopping period timing and length. Sales comparisons can be influenced by certain factors that are beyond our control such as changes in the cost of gasoline and macro-economic factors such as inflation. The higher comparable club sales, the more we can leverage certain of our selling, general and administrative (“SG&A”) expenses, reducing them as a percentage of sales and enhancing profitability.
+00641: Thirteen Weeks Ended Twenty-six Weeks Ended
+00642: August 1, 2026 August 1, 2026
+00643: Merchandise comparable club sales 3.1 % 2.3 %
+00644: Gasoline comparable sales 8.8 % 6.9 %
+00645: Comparable club sales 11.9 % 9.2 %
+00646: Merchandise comparable club sales represents comparable club sales from all merchandise other than our gasoline operations for the applicable period. Merchandise comparable club sales increased 3.1% and 2.3% in the second quarter and the first six months of fiscal year 2026, respectively, compared to the same periods in fiscal year 2025. The general merchandise and services division generated a sales increase of 5.3% and 6.1% for the second quarter and the first six months of fiscal year 2026, while sales in the perishables, grocery, and sundries division increased by 2.8% and 1.8%, respectively.
+00647: General merchandise and services exhibited growth in each of the second quarter and the first six months of fiscal year 2026 compared to the prior year periods, primarily due to strength in consumer electronics and home categories.
+00648: In the perishables, grocery, and sundries division, growth was led by beverages and active nutrition, candy, and snack categories as well as fresh meat and produce compared to the second quarter and the first six months of fiscal year 2025. Growth in both periods was partially offset by a decrease in dairy, primarily driven by continued deflation in the price of eggs.
+00649: The impact of gasoline sales is a result of an increase in retail prices year-over-year, as well as an increase in comparable gallons sold for both comparative periods.
+00650: Membership fee income
+00651: Membership fee income was $135.6 million in the second quarter of fiscal year 2026 compared to $123.3 million in the second quarter of fiscal year 2025, a 9.9% increase.
+00652: 24
+00653: Membership fee income was $268.0 million in the first six months of fiscal year 2026 compared to $243.7 million in the first six months of fiscal year 2025, a 9.9% increase.
+00654: The increase for both comparative periods was primarily driven by strength in membership acquisition, retention and higher-tier membership penetration across both new and existing clubs.
+00655: Cost of sales
+00656: Cost of sales consists primarily of the direct cost of merchandise and gasoline sold at our clubs, including costs associated with operating our distribution centers, including payroll, payroll benefits, occupancy costs, and depreciation; freight expenses associated with moving merchandise from vendors to our distribution centers and from distribution centers to our clubs; and vendor allowances, rebates, and cash discounts.
+00657: Cost of sales was $5.12 billion, or 84.0% of net sales, in the second quarter of fiscal year 2026 compared to $4.37 billion, or 83.2% of net sales, in the second quarter of fiscal year 2025. Merchandise gross margin rate, which excludes gasoline sales and membership fee income, decreased by approximately 20 basis points compared to the prior year period.
+00658: Cost of sales was $9.75 billion, or 83.9% of net sales, in the first six months of fiscal year 2026 compared to $8.56 billion, or 83.2% of net sales, in the first six months of fiscal year 2025. Merchandise gross margin rate, which excludes gasoline sales and membership fee income, decreased by approximately 10 basis points compared to the first six months of fiscal year 2025.
+00659: The decrease in merchandise gross margin rate for both comparative periods was primarily driven by the Company’s continued investments in pricing partially offset by tariff refunds recognized.
+00660: Selling, general and administrative expenses
+00661: SG&A consists of various expenses related to supporting and facilitating the sale of merchandise in our clubs, including the following: payroll and payroll benefits for team members; rent, depreciation, and other occupancy costs for retail and corporate locations; share-based compensation, advertising expenses; tender costs, including credit and debit card fees; amortization of intangible assets; and consulting, legal, insurance, restructuring charges, and other professional services expenses.
+00662: SG&A includes both fixed and variable components and, therefore, is not directly correlated with net sales. We expect that our SG&A will increase in future periods due to investments to drive comparable club sales growth and our expanding footprint as we open new clubs and distribution centers. In addition, any future increases in wages or stock-based grants or modifications will increase our SG&A.
+00663: SG&A increased by 8.2% to $851.2 million in the second quarter of fiscal year 2026 from $786.4 million in the second quarter of fiscal year 2025.
+00664: SG&A increased by 7.1% to $1.66 billion in the first six months of fiscal year 2026 from $1.55 billion in the first six months of fiscal year 2025.
+00665: The increase in SG&A for both comparative periods was primarily driven by increased labor, occupancy, and operational costs mainly as a result of new club and gas station openings. Additionally, an increase in the number of owned clubs has resulted in increased depreciation expense year-over-year. These increases were partially offset by a gain recognized in connection with a sale-leaseback transaction in the second quarter of fiscal year 2026.
+00666: Pre-opening expenses
+00667: Pre-opening expenses include startup costs for new clubs and distribution centers and costs for relocated clubs. Expenses will vary based on the number of club openings, geography of the club, whether the club is owned or leased, and timing of the opening relative to our period end.
+00668: Pre-opening expenses were $6.4 million in the second quarter of fiscal year 2026 compared to $3.3 million in the second quarter of fiscal year 2025.
+00669: 25
+00670: Pre-opening expenses were $20.4 million in the first six months of fiscal year 2026 compared to $8.3 million in the first six months of fiscal year 2025.
+00671: Pre-opening expenses fluctuated due to timing of spend and the number of club openings year-over-year.
+00672: Interest expense, net
+00673: Interest expense, net was $13.1 million in the second quarter of fiscal year 2026 compared to $10.4 million in the second quarter of fiscal year 2025.
+00674: Interest expense, net was $25.5 million in the first six months of fiscal year 2026 compared to $21.5 million in the first six months of fiscal year 2025.
+00675: The increase for both comparative periods was primarily due to incremental interest expense on finance leases and higher outstanding borrowings on our ABL Revolving Facility, partially offset by lower interest rates year-over-year.
+00676: Provision for income taxes
+00677: The effective income tax rate was 27.3% and 26.9% for the second quarter of fiscal years 2026 and 2025, respectively. The increase in the effective tax rate was primarily attributable to lower tax gains on transferable tax credits, partially offset by higher tax benefits from stock-based compensation in the current year period.
+00678: The effective income tax rate was 27.2% and 24.6% for the first six months of fiscal years 2026 and 2025, respectively. The increase compared to the prior year period was primarily attributable to lower tax benefits from stock-based compensation compared to the prior year period.
+00679: Non-GAAP Financial Measures
+00680: The accompanying condensed consolidated financial statements, including the related notes, are presented in accordance with GAAP. In addition to relevant GAAP measures we also provide non-GAAP measures, including adjusted net income, adjusted net income per diluted share (“adjusted EPS”), adjusted EBITDA, adjusted free cash flow, and other key performance indicators, including comparable club sales, because management believes these metrics are useful to investors and analysts by excluding items that we do not believe are indicative of our core operating performance. These measures are customary for our industry and commonly used by competitors. These non-GAAP financial measures should not be reviewed in isolation or considered as an alternative to any other performance measure derived in accordance with GAAP and should not be construed as an inference that our future results will be unaffected by unusual or non-recurring items. In addition, adjusted net income, adjusted EPS, adjusted EBITDA, adjusted free cash flow, and comparable club sales may not be comparable to similarly titled measures used by other companies in our industry or across different industries. See Results of Operations above for our comparable club sales and merchandise comparable club sales results. Adjusted free cash flow is discussed within the Liquidity and Capital Resources section below.
+00681: Adjusted Net Income and Adjusted EPS
+00682: The adjusted net income and adjusted EPS metrics are important measures used by management to compare the performance of core operating results between periods. We define adjusted net income as net income as reported, adjusted for non-recurring, infrequent, or unusual charges, including restructuring charges, and other adjustments that the Company believes appropriate, net of the tax impact of such adjustments. We define adjusted EPS as adjusted net income divided by the weighted-average diluted shares outstanding.
+00683: We believe adjusted net income and adjusted EPS are useful metrics to investors and analysts because they present more accurate year-over-year comparisons for our net income and net income per diluted share because adjusted items are not the result of our normal operations. We also use adjusted EPS in connection with establishing long-term incentive compensation.
+00684: 26
+00685: Thirteen Weeks Ended Twenty-six Weeks Ended
+00686: (in thousands, except per share amounts) August 1, 2026 August 2, 2025 August 1, 2026 August 2, 2025
+00687: Net income as reported $ 173,867 $ 150,705 $ 316,593 $ 300,473
+00688: Adjustments:
+00689: Restructuring (a)
+00690: — 1,043 — 2,580
+00691: Tax impact of adjustments to net income (b)
+00692: — (292) — (722)
+00693: Adjusted net income $ 173,867 $ 151,456 $ 316,593 $ 302,331
+00694: Weighted-average diluted shares outstanding 127,738 132,517 128,561 132,633
+00695: Adjusted EPS (c)
+00696: $ 1.36 $ 1.14 $ 2.46 $ 2.28
+00697: (a)Represents charges related to the restructuring of certain corporate and club functions, including costs for severance, retention, outplacement, consulting fees, and other third-party fees.
+00698: (b)Represents the tax effect of the above adjustments at a statutory tax rate of approximately 28%.
+00699: (c)Adjusted EPS is measured using weighted-average diluted shares outstanding.
+00700: Adjusted EBITDA
+00701: Adjusted EBITDA is defined as net income before interest expense, net, provision for income taxes, and depreciation and amortization, adjusted for the impact of certain other items, including stock-based compensation expense, restructuring, and other adjustments.
+00702: We believe that adjusted EBITDA is helpful in highlighting trends in our core operating performance compared to other measures, which can differ significantly depending on long-term strategic decisions regarding capital structure, the tax jurisdictions in which companies operate and capital investments. We use adjusted EBITDA to supplement GAAP measures of performance in the evaluation of the effectiveness of our business strategies; to make budgeting decisions; and to compare our performance against that of other peer companies using similar measures. We also use adjusted EBITDA in connection with establishing annual incentive compensation.
+00703: The following is a reconciliation of our net income to adjusted EBITDA for the periods presented:
+00704: Thirteen Weeks Ended Twenty-six Weeks Ended
+00705: (in thousands) August 1, 2026 August 2, 2025 August 1, 2026 August 2, 2025
+00706: Net income $ 173,867 $ 150,705 $ 316,593 $ 300,473
+00707: Interest expense, net 13,083 10,393 25,450 21,492
+00708: Provision for income taxes 65,407 55,432 118,227 98,210
+00709: Depreciation and amortization 78,883 71,933 155,335 141,598
+00710: Stock-based compensation expense 15,460 13,945 28,740 24,599
+00711: Restructuring (a)
+00712: — 1,043 — 2,580
+00713: Other adjustments (b)
+00714: 496 410 921 745
+00715: Adjusted EBITDA $ 347,196 $ 303,861 $ 645,266 $ 589,697
+00716: (a) Represents charges related to the restructuring of certain corporate and club functions, including costs for severance, retention, outplacement, consulting fees, and other third-party fees.
+00717: (b) Other non-cash items, including non-cash accretion on asset retirement obligations and obligations associated with our post-retirement medical plan.
+00718: Liquidity and Capital Resources
+00719: Our primary sources of liquidity are cash flows generated from club operations and borrowings from our ABL Revolving Facility. As of August 1, 2026, cash and cash equivalents totaled $30.0 million and we had $962.3 million of unused capacity under our ABL Revolving Facility. Our principal liquidity needs for the next twelve months and beyond are to fund normal
+00720: 27
+00721: recurring operational expenses and anticipated capital expenditures, fund share repurchases, and meet debt service and principal repayment obligations. We believe that our current resources, together with anticipated cash flows from operations and borrowing capacity under our ABL Revolving Facility, will be sufficient to finance our operations for at least the next twelve months.
+00722: During the twenty-six weeks ended August 1, 2026, we repurchased 3,498,278 shares under the 2024 Repurchase Program for a total purchase price of $330.7 million, inclusive of associated costs. We continue to prioritize disciplined capital allocation, balancing reinvestment in growth, and returns to shareholders through share repurchases.
+00723: We do not have any off-balance sheet arrangements that have, or are, in the opinion of management, reasonably likely to have, a current or future material effect on our results of operations or financial position. We do, however, enter into letters of credit and purchase obligations in the normal course of our operations.
+00724: Summary of Cash Flows
+00725: A summary of our cash flows from operating, investing and financing activities is presented in the following table:
+00726: Twenty-six Weeks Ended
+00727: (in thousands) August 1, 2026 August 2, 2025
+00728: Net cash provided by operating activities $ 541,439 $ 457,957
+00729: Net cash used in investing activities (321,739) (306,156)
+00730: Net cash used in financing activities (235,963) (132,800)
+00731: Net (decrease) increase in cash and cash equivalents $ (16,263) $ 19,001
+00732: Net Operating Cash Flows
+00733: Net cash provided by operating activities was $541.4 million for the twenty-six weeks ended August 1, 2026 compared to $458.0 million for the twenty-six weeks ended August 2, 2025. The increase was primarily due to a $16.1 million increase in net income, inclusive of a $13.7 million increase in depreciation and amortization. Also positively impacting net operating cash flows were fluctuations in working capital including $109.8 million related to accounts payable as a result of timing and volume of inventory purchases and vendor payments, $89.1 million related to accrued expenses, primarily driven by accruals for vendor invoices and the timing of membership payments. These positive working capital fluctuations were partially offset by $52.5 million related to accounts receivable due to timing of vendor, customer, and other cash receipts, and $49.9 million related to merchandise inventories, primarily driven by an increase in the number of clubs, and gas inventory due primarily to increased cost per gallon and an increase in the number of gas stations.
+00734: Our net cash from operating activities can fluctuate from period to period due to several factors, including: the timing and mix of sales, the timing and volume of inventory purchases as the Company prepares for holiday seasons, lease-related activity, income tax and other payments.
+00735: Net Investing Cash Flows
+00736: Net cash used in investing activities was $321.7 million for the twenty-six weeks ended August 1, 2026 compared to $306.2 million for the twenty-six weeks ended August 2, 2025. This fluctuation is primarily driven by an increase in capital spending of $53.3 million, partially offset by $41.4 million of net proceeds from the assignment of a purchase option and related sale-leaseback of our new ambient distribution center in Ohio. The increase in capital spend reflects our continued investment in new club openings and enhancements across our distribution network, including a new ambient distribution center.
+00737: Net Financing Cash Flows
+00738: Net cash used in financing activities for the twenty-six weeks ended August 1, 2026 was $236.0 million compared to $132.8 million used in financing activities for the twenty-six weeks ended August 2, 2025. The increase in cash used is primarily due to a $265.9 million increase in the acquisition of treasury stock compared to the prior year period, partially offset by $110.0 million of net borrowings on our ABL Revolving Facility for the twenty-six weeks ended August 1, 2026 compared to net payments of $70.0 million in the twenty-six weeks ended August 2, 2025.
+00739: 28
+00740: Adjusted Free Cash Flow
+00741: We present adjusted free cash flow, a non-GAAP measure, because we believe it assists investors and analysts in evaluating our liquidity. Adjusted free cash flow should not be considered as an alternative to cash flows from operations as a liquidity measure. We define adjusted free cash flow as net cash provided by operating activities less additions to property and equipment, net of disposals, plus proceeds from sale-leaseback transactions.
+00742: The following is a reconciliation of our net cash provided by operating activities to adjusted free cash flow for the periods presented:
+00743: Thirteen Weeks Ended Twenty-six Weeks Ended
+00744: (in thousands) August 1, 2026 August 2, 2025 August 1, 2026 August 2, 2025
+00745: Net cash provided by operating activities $ 401,481 $ 249,864 $ 541,439 $ 457,957
+00746: Less: Additions to property and equipment, net of disposals (177,335) (165,568) (359,339) (306,065)
+00747: Plus: Proceeds from sale-leaseback transactions — 2,995 — 2,995
+00748: Plus: Proceeds from assignment of purchase option 122,100 — 122,100 —
+00749: Less: Payment upon exercise of purchase option (80,718) — (80,718) —
+00750: Adjusted free cash flow $ 265,528 $ 87,291 $ 223,482 $ 154,887
+00751: Adjusted free cash flow increased to $265.5 million during the second quarter of fiscal year 2026 compared to $87.3 million for the second quarter of fiscal year 2025.
+00752: Adjusted free cash flow increased to $223.5 million for the first six months of fiscal year 2026 compared to $154.9 million for the first six months of fiscal year 2025.
+00753: The increase for both periods is primarily the result of higher cash flows from operating activities driven by higher net income and net proceeds from the assignment of a purchase option and related sale-leaseback of our new ambient distribution center in Ohio.
+00754: Debt and Borrowing Capacity
+00755: Our primary source of borrowing capacity is the ABL Revolving Facility, which is further discussed in “Note 4. Debt and Credit Arrangements,” included in this Quarterly Report on Form 10-Q.
+00756: On July 28, 2022, we entered into the ABL Revolving Facility with an aggregate ABL Revolving Commitment of $1.20 billion pursuant to that certain credit agreement with Bank of America, N.A., as administrative agent and collateral agent, and other lenders party thereto. The maturity date of the ABL Revolving Facility is July 28, 2027.
+00757: On November 4, 2024, we entered into the Fifth Amendment of the First Lien Term Loan with Nomura Corporate Funding Americas, LLC, as administrative agent and collateral agent, and the lenders party thereto.
+00758: The Fifth Amendment, among other things, provided for a new tranche of term loans in an aggregate principal amount of $400.0 million, which refinanced and replaced in full the existing Tranche B term loans outstanding under the First Lien Term Loan Credit Agreement immediately prior to the effectiveness of the Fifth Amendment. In addition, the Fifth Amendment reduced applicable margin in respect of the interest rate from SOFR plus 200 basis points per annum to SOFR plus 175 basis points per annum. The maturity date of the First Lien Term Loan is February 3, 2029.
+00759: At August 1, 2026, there was $230.0 million outstanding in loans under the ABL Revolving Facility and $7.7 million in outstanding letters of credit. The interest rate on the revolving credit facility was 4.83% and unused capacity was $962.3 million.
+00760: At August 1, 2026, the interest rate for the First Lien Term Loan was 5.41% and there was $400.0 million outstanding.
+00761: 29
+00762: Material Cash Commitments
+00763: Our material cash commitments consist primarily of debt obligations, interest payments, leases, and purchase orders for merchandise inventory, agreements for capital items, gasoline, products and services used in our business, information technology, executive employment, transferable tax credits, and other agreements. These material cash commitments impact our short-term and long-term liquidity and capital needs. As of August 1, 2026, other than cash commitments of approximately $93 million, the majority of which is expected to be paid in the first quarter of fiscal year 2027, related to the purchase of transferable tax credits, and those items related to the ordinary course of operations of our business such as inventory purchases, agreements for capital items, and new leases and lease amendments, there were no material changes to our material cash commitments from those described in our Annual Report on Form 10-K for fiscal year 2025.
+00764: Critical Accounting Policies and Use of Estimates
+00765: This discussion and analysis of our financial condition and results of operations is based on our condensed consolidated financial statements, which we have prepared in accordance with GAAP. The preparation of our financial statements and related disclosures requires us to make estimates, assumptions and judgments that affect the reported amount of assets, liabilities, revenue, costs and expenses, and related disclosures. There were no material changes in critical accounting policies and estimates during the period covered by this Quarterly Report on Form 10-Q. Refer to “Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations— Critical Accounting Policies and Estimates,” in our Annual Report on Form 10-K for fiscal year 2025 for a complete list of our Critical Accounting Policies and Estimates.
+00766: Recent Accounting Pronouncements
+00767: Our accounting policies are set forth in the audited financial statements included in the Company’s Annual Report on Form 10-K for fiscal year 2025. There have been no material changes to these accounting policies and no accounting pronouncements adopted that had a material impact on the Company’s financial statements aside from the adoption of ASU 2025-12, which impacts the accounting for treasury shares upon retirement.
+00768: Refer to “Note 2. Summary of Significant Accounting Policies” included in this Quarterly Report on Form 10-Q for additional information regarding recently issued and recently adopted accounting pronouncements.
+00769: Item 3. Quantitative and Qualitative Disclosures About Market Risk.
+00770: The primary market risk we are exposed to is interest rate risk and changes in rates will impact our net interest expense and our cash flow from operations. Substantially all of our borrowings carry variable interest rates, and we expect that some of our future outstanding debt will have variable interest rates. Accordingly, we seek to limit the impact of interest rate changes on earnings and cash flows and to lower our overall borrowing costs and may use interest rate caps and/or swap agreements in the future to manage our interest rate risks relating to such variable rate debt. Increases in interest rates can result in increased interest expense under our variable rate debt as well as when any of our fixed rate debt matures and needs to be refinanced and an increase in interest rates could have a material impact on our cash flow.
+00771: As of August 1, 2026, our total debt outstanding was $630.0 million, which included $230.0 million under our ABL Revolving Facility and $400.0 million under our First Lien Term Loan at interest rates of 4.83% and 5.41%, respectively. See “Note 4. Debt and Credit Arrangements” of our condensed consolidated financial statements included in this Quarterly Report on Form 10-Q for additional information. A 100 basis point change in prevailing market rates would cause annual interest costs to change by approximately $6.3 million.
+00772: Item 4. Controls and Procedures.
+00773: Limitations on Effectiveness of Controls and Procedures
+00774: In designing and evaluating our disclosure controls and procedures, management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving the desired control objectives. In addition, the design of disclosure controls and procedures must reflect the fact that there are resource constraints and that management is required to apply judgment in evaluating the benefits of possible controls and procedures relative to their costs.
+00775: 30
+00776: Evaluation of Disclosure Controls and Procedures
+00777: Our management, with the participation of our Chief Executive Officer and Chief Financial Officer, evaluated, as of the end of the period covered by this Quarterly Report on Form 10-Q, the effectiveness of our disclosure controls and procedures, as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act. Based on that evaluation, our Chief Executive Officer and Chief Financial Officer concluded that our disclosure controls and procedures were effective at the reasonable assurance level as of August 1, 2026.
+00778: Changes in Internal Control
+00779: There were no changes in our internal control over financial reporting identified in management’s evaluation pursuant to Rules 13a-15 or 15d-15 of the Exchange Act during the most recently completed fiscal quarter that materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+00780: PART II—OTHER INFORMATION
+00781: Item 1. Legal Proceedings.
+00782: We are subject to various litigation, claims and other proceedings that arise from time to time in the ordinary course of business. We believe these actions are routine and incidental to the business. While the outcome of these actions cannot be predicted with certainty, we do not believe that any will have a material adverse impact on our business, financial condition or results of operations.
+00783: Item 1A. Risk Factors.
+00784: There have been no material changes to the risk factors relating to the Company set forth under the caption “Item 1A. Risk Factors” in our Annual Report on Form 10-K for fiscal year 2025.
+00785: Item 2. Unregistered Sales of Equity Securities and Use of Proceeds.
+00786: The following table sets forth information regarding our purchases of shares of our common stock during the second quarter of fiscal year 2026.
+00787: Period
+00788: Total Number of Shares
+00789: Purchased (a)
+00790: Average Price Paid per Share(b)
+00791: Total Number of Shares
+00792: Purchased as Part of Publicly
+00793: Announced Plans or
+00794: Programs
+00795: Approximate Dollar Value
+00796: of Shares that May Yet Be
+00797: Purchased Under the Plans or
+00798: Programs (c)
+00799: (in thousands)
+00800: May 3, 2026 to May 30, 2026
+00801: 181,278 $ 85.26 180,000 $ 529,646
+00802: May 31, 2026 to July 4, 2026
+00803: 405,000 87.13 405,000 494,358
+00804: July 5, 2026 to August 1, 2026
+00805: 799,278 90.42 799,278 422,084
+00806: Total 1,385,556 1,384,278
+00807: (a)Includes 1,278 shares of common stock for the period May 3, 2026 to May 30, 2026 surrendered to the Company by employees to satisfy their tax withholding obligations in connection with the vesting of restricted stock awards. See “Note 7. Treasury Shares and Share Repurchase Program” of our condensed consolidated financial statements included in this Quarterly Report on Form 10-Q for additional information.
+00808: (b)Excludes the impact of excise tax imposed on share repurchases pursuant to the Inflation Reduction Act.
+00809: (c)On November 18, 2024, the Company’s board of directors approved the 2024 Share Repurchase Program. The authorization allows the Company to repurchase up to $1.00 billion of its outstanding common stock and will expire in January 2029.
+00810: 31
+00811: Item 3. Defaults Upon Senior Securities.
+00812: None.
+00813: Item 4. Mine Safety Disclosures.
+00814: Not applicable.
+00815: 32
+00816: Item 5. Other Information.
+00817: 10b5-1 Trading Plans
+00818: None of our directors or “officers,” as defined in Rule 16a-1(f) under the Securities Exchange Act of 1934, adopted or terminated a Rule 10b5-1 trading plan or arrangement or a non-Rule 10b5-1 trading plan or arrangement, as defined in Item 408(c) of Regulation S-K, during the fiscal quarter covered by this report.
+00819: Item 6. Exhibits.
+00820: Exhibit Number Exhibit Description
+00821: 31.1
+00822: Certification of Principal Executive Officer Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 (filed herewith).
+00823: 31.2
+00824: Certification of Principal Financial Officer Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 (filed herewith).
+00825: 32.1
+00826: Certification of Principal Executive Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (furnished herewith).
+00827: 32.2
+00828: Certification of Principal Financial Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (furnished herewith).
+00829: 101.INS Inline XBRL Instance Document (filed herewith)
+00830: 101.SCH Inline XBRL Taxonomy Extension Schema Document (filed herewith)
+00831: 101.CAL Inline XBRL Taxonomy Extension Calculation Linkbase Document (filed herewith)
+00832: 101.DEF Inline XBRL Taxonomy Extension Definition Linkbase Document (filed herewith)
+00833: 101.LAB Inline XBRL Taxonomy Extension Label Linkbase Document (filed herewith)
+00834: 101.PRE Inline XBRL Taxonomy Extension Linkbase Document (filed herewith)
+00835: 104 Cover Page Interactive Data File (formatted as inline XBRL with applicable taxonomy extension information contained in Exhibits 101.*) (filed herewith)
+00836: 33
+00837: SIGNATURE
+00838: Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+00839: BJ’S WHOLESALE CLUB HOLDINGS, INC.
+00840: Date: August 25, 2026 By: /s/ Laura L. Felice
+00841: Laura L. Felice
+00842: Executive Vice President, Chief Financial Officer
+00843: (Principal Financial Officer and
+00844: Authorized Signatory)
+00845: 34

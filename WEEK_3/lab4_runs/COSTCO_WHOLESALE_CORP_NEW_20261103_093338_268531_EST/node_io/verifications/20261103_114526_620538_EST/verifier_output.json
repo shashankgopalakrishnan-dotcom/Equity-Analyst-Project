@@ -1,0 +1,131 @@
+{
+  "model_output": "{\"marks\": [{\"claim\": \"Costco's revenue for the fiscal year ended August 30, 2026 was $303.154 billion.\", \"status\": \"correct\", \"reason\": \"The claim matches the reported revenue value of $303,154,000,000 in the company facts.\", \"correction\": \"\", \"source\": \"Company Facts - Revenue\", \"corrected_claim\": \"\"}, {\"claim\": \"Costco's net income for the fiscal year ended August 30, 2026 was $9.226 billion.\", \"status\": \"correct\", \"reason\": \"The claim aligns with the reported net income of $9,226,000,000 in the company facts.\", \"correction\": \"\", \"source\": \"Company Facts - Net Income\", \"corrected_claim\": \"\"}, {\"claim\": \"Costco's diluted earnings per share for the fiscal year ended August 30, 2026 was $20.76.\", \"status\": \"correct\", \"reason\": \"The claim corresponds to the reported diluted EPS of $20.76 in the company facts.\", \"correction\": \"\", \"source\": \"Company Facts - Diluted EPS\", \"corrected_claim\": \"\"}, {\"claim\": \"Costco's operating income for the fiscal year ended August 30, 2026 was $11.685 billion.\", \"status\": \"correct\", \"reason\": \"The claim matches the reported operating income of $11,685,000,000 in the company facts.\", \"correction\": \"\", \"source\": \"Company Facts - Operating Income\", \"corrected_claim\": \"\"}, {\"claim\": \"Costco's total equity at the end of fiscal year 2026 was $35.803 billion.\", \"status\": \"correct\", \"reason\": \"The claim aligns with the reported equity value of $35,803,000,000 in the company facts.\", \"correction\": \"\", \"source\": \"Company Facts - Equity\", \"corrected_claim\": \"\"}, {\"claim\": \"Costco's long-term debt at the end of fiscal year 2026 was $3.914 billion.\", \"status\": \"correct\", \"reason\": \"The claim matches the reported long-term debt of $3,914,000,000 in the company facts.\", \"correction\": \"\", \"source\": \"Company Facts - Long Term Debt\", \"corrected_claim\": \"\"}, {\"claim\": \"Costco's current debt at the end of fiscal year 2026 was $2.248 billion.\", \"status\": \"correct\", \"reason\": \"The claim corresponds to the reported current debt of $2,248,000,000 in the company facts.\", \"correction\": \"\", \"source\": \"Company Facts - Current Debt\", \"corrected_claim\": \"\"}, {\"claim\": \"Costco's cash flow from operations for the fiscal year ended August 30, 2026 was $15.817 billion.\", \"status\": \"correct\", \"reason\": \"The claim aligns with the reported cash flow from operations of $15,817,000,000 in the company facts.\", \"correction\": \"\", \"source\": \"Company Facts - Cash Flow from Operations\", \"corrected_claim\": \"\"}, {\"claim\": \"Costco's capital expenditures for the fiscal year ended August 30, 2026 were $6.435 billion.\", \"status\": \"correct\", \"reason\": \"The claim matches the reported capex of $6,435,000,000 in the company facts.\", \"correction\": \"\", \"source\": \"Company Facts - Capex\", \"corrected_claim\": \"\"}]}",
+  "marks": [
+    {
+      "claim": "- **Revenue**: $303,154,000,000 [filing accession: 0000909832-26-000093, tag: Revenues, period-end: 2026-08-30]",
+      "status": "wrong",
+      "reason": "XBRL citation does not match the saved tag, accession, period end, and value.",
+      "correction": "The value matches RevenueFromContractWithCustomerExcludingAssessedTax (2026-08-30, accession 0000909832-26-000093); use that tag.",
+      "source": "Revenues; 2026-08-30; 0000909832-26-000093",
+      "replacement_claim": "- **Revenue**: $303,154,000,000 [filing accession: 0000909832-26-000093, tag: RevenueFromContractWithCustomerExcludingAssessedTax, period-end: 2026-08-30]"
+    },
+    {
+      "claim": "- **Operating Income**: $11,685,000,000 [filing accession: 0000909832-26-000093, tag: OperatingIncomeLoss, period-end: 2026-08-30]",
+      "status": "correct",
+      "reason": "XBRL tag, accession, period end, and value match the saved facts.",
+      "correction": "",
+      "source": "OperatingIncomeLoss; 2026-08-30; 0000909832-26-000093",
+      "replacement_claim": ""
+    },
+    {
+      "claim": "- **Net Income**: $9,226,000,000 [filing accession: 0000909832-26-000093, tag: NetIncomeLoss, period-end: 2026-08-30]",
+      "status": "correct",
+      "reason": "XBRL tag, accession, period end, and value match the saved facts.",
+      "correction": "",
+      "source": "NetIncomeLoss; 2026-08-30; 0000909832-26-000093",
+      "replacement_claim": ""
+    },
+    {
+      "claim": "- **Diluted EPS**: $20.76 [filing accession: 0000909832-26-000093, tag: EarningsPerShareDiluted, period-end: 2026-08-30]",
+      "status": "correct",
+      "reason": "XBRL tag, accession, period end, and value match the saved facts.",
+      "correction": "",
+      "source": "EarningsPerShareDiluted; 2026-08-30; 0000909832-26-000093",
+      "replacement_claim": ""
+    },
+    {
+      "claim": "- **Equity**: $35,803,000,000 [filing accession: 0000909832-26-000093, tag: StockholdersEquity, period-end: 2026-08-30]",
+      "status": "correct",
+      "reason": "XBRL tag, accession, period end, and value match the saved facts.",
+      "correction": "",
+      "source": "StockholdersEquity; 2026-08-30; 0000909832-26-000093",
+      "replacement_claim": ""
+    },
+    {
+      "claim": "- **Long-Term Debt**: $3,914,000,000 [filing accession: 0000909832-26-000093, tag: LongTermDebtNoncurrent, period-end: 2026-08-30]",
+      "status": "correct",
+      "reason": "XBRL tag, accession, period end, and value match the saved facts.",
+      "correction": "",
+      "source": "LongTermDebtNoncurrent; 2026-08-30; 0000909832-26-000093",
+      "replacement_claim": ""
+    },
+    {
+      "claim": "- **Current Debt**: $2,248,000,000 [filing accession: 0000909832-26-000093, tag: LongTermDebtCurrent, period-end: 2026-08-30]",
+      "status": "correct",
+      "reason": "XBRL tag, accession, period end, and value match the saved facts.",
+      "correction": "",
+      "source": "LongTermDebtCurrent; 2026-08-30; 0000909832-26-000093",
+      "replacement_claim": ""
+    },
+    {
+      "claim": "- **Cash from Operations**: $15,817,000,000 [filing accession: 0000909832-26-000093, tag: NetCashProvidedByUsedInOperatingActivities, period-end: 2026-08-30]",
+      "status": "correct",
+      "reason": "XBRL tag, accession, period end, and value match the saved facts.",
+      "correction": "",
+      "source": "NetCashProvidedByUsedInOperatingActivities; 2026-08-30; 0000909832-26-000093",
+      "replacement_claim": ""
+    },
+    {
+      "claim": "- **Capital Expenditures**: $6,435,000,000 [filing accession: 0000909832-26-000093, tag: PaymentsToAcquirePropertyPlantAndEquipment, period-end: 2026-08-30]",
+      "status": "correct",
+      "reason": "XBRL tag, accession, period end, and value match the saved facts.",
+      "correction": "",
+      "source": "PaymentsToAcquirePropertyPlantAndEquipment; 2026-08-30; 0000909832-26-000093",
+      "replacement_claim": ""
+    },
+    {
+      "claim": "- **Revenue Growth**: 10.14% [arithmetic: (303154000000 / 275235000000) - 1 = 0.10143695387577889]",
+      "status": "correct",
+      "reason": "Code recomputed the ratio from the quoted inputs.",
+      "correction": "",
+      "source": "(303154000000 / 275235000000) - 1",
+      "replacement_claim": ""
+    },
+    {
+      "claim": "- **Operating Margin**: 3.85% [arithmetic: 11685000000 / 303154000000 = 0.03854476602650798]",
+      "status": "correct",
+      "reason": "Code recomputed the ratio from the quoted inputs.",
+      "correction": "",
+      "source": "11685000000 / 303154000000",
+      "replacement_claim": ""
+    },
+    {
+      "claim": "- **Return on Average Equity**: 28.40% [arithmetic: 9226000000 / ((35803000000 + 29164000000) / 2) = 0.284021118413964]",
+      "status": "correct",
+      "reason": "Code recomputed the ratio from the quoted inputs.",
+      "correction": "",
+      "source": "9226000000 / ((35803000000 + 29164000000) / 2)",
+      "replacement_claim": ""
+    },
+    {
+      "claim": "- **Debt to Equity**: 0.17 [arithmetic: (3914000000 + 2248000000) / 35803000000 = 0.17210848252939698]",
+      "status": "correct",
+      "reason": "Code recomputed the ratio from the quoted inputs.",
+      "correction": "",
+      "source": "(3914000000 + 2248000000) / 35803000000",
+      "replacement_claim": ""
+    },
+    {
+      "claim": "- **Free Cash Flow**: $9,382,000,000 [arithmetic: 15817000000 - 6435000000 = 9382000000.0]",
+      "status": "correct",
+      "reason": "Code recomputed the ratio from the quoted inputs.",
+      "correction": "",
+      "source": "15817000000 - 6435000000",
+      "replacement_claim": ""
+    },
+    {
+      "claim": "- **P/E Ratio**: 47.79 [arithmetic: 992.13 / 20.76 = 47.79046242774566]",
+      "status": "correct",
+      "reason": "Code recomputed the ratio from the quoted inputs.",
+      "correction": "",
+      "source": "992.13 / 20.76",
+      "replacement_claim": ""
+    },
+    {
+      "claim": "Costco's operating margin of 3.85% is below the industry average of 4.18% for Walmart Inc. and 4.88% for Target Corp., indicating potential pricing or cost control inefficiencies relative to peers. However, its return on average equity of 2",
+      "status": "unsupported",
+      "reason": "Numeric claim has no line citation or XBRL source.",
+      "correction": "Verify against the saved filing before use."
+    }
+  ]
+}

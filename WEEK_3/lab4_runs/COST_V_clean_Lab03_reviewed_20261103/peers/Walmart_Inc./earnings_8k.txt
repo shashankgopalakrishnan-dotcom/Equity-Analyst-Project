@@ -1,0 +1,60 @@
+00001: wmt-20260820
+00002: UNITED STATES
+00003: SECURITIES AND EXCHANGE COMMISSION
+00004: WASHINGTON, DC 20549
+00005: ________________________
+00006: FORM 8-K
+00007: CURRENT REPORT
+00008: PURSUANT TO SECTION 13 or 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+00009: Date of Report (date of earliest event reported)
+00010: August 20, 2026
+00011: WALMART INC.
+00012: (Exact name of registrant as specified in its charter)
+00013: DE
+00014: 001-06991
+00015: 71-0415188
+00016: (State or other jurisdiction of incorporation or organization)
+00017: (Commission File Number)
+00018: (I.R.S. Employer Identification No.)
+00019: 1 Customer Drive
+00020: Bentonville, AR 72716
+00021: (Address of Principal Executive Offices) (Zip code)
+00022: Registrant's telephone number, including area code: (479) 273-4000
+00023: Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+00024: ☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+00025: ☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+00026: ☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+00027: ☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+00028: Securities registered pursuant to Section 12(b) of the Act:
+00029: Title of each class Trading Symbol(s) Name of each exchange on which registered
+00030: Common Stock, par value $0.10 per share WMT The Nasdaq Stock Market LLC
+00031: 1.050% Notes due 2026 WMT26A The Nasdaq Stock Market LLC
+00032: 1.500% Notes due 2028 WMT28C The Nasdaq Stock Market LLC
+00033: 4.875% Notes due 2029 WMT29B The Nasdaq Stock Market LLC
+00034: 5.750% Notes due 2030 WMT30B The Nasdaq Stock Market LLC
+00035: 1.800% Notes due 2031 WMT31A The Nasdaq Stock Market LLC
+00036: 5.625% Notes due 2034 WMT34 The Nasdaq Stock Market LLC
+00037: 5.250% Notes due 2035 WMT35A The Nasdaq Stock Market LLC
+00038: 4.875% Notes due 2039 WMT39 The Nasdaq Stock Market LLC
+00039: Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+00040: Emerging growth company ☐
+00041: If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+00042: Item 2.02. Results of Operations and Financial Condition.
+00043: In accordance with Item 2.02 of Form 8-K of the Securities and Exchange Commission (the "SEC"), Walmart Inc., a Delaware corporation (the "Company"), is furnishing to the SEC a press release that the Company will issue on August 20, 2026 (the "Press Release") and a financial presentation that will be first posted by the Company on the Company’s website at http://stock.walmart.com on August 20, 2026 (the "Financial Presentation"). The Press Release and the Financial Presentation will disclose information regarding the Company's results of operations and cash flows for the three and six months ended July 31, 2026 and financial condition as of July 31, 2026.
+00044: In accordance with General Instruction B.2 of Form 8-K, the information in this Item 2.02 of this Current Report on Form 8-K, including Exhibits 99.1 and 99.2 hereto, which are furnished herewith pursuant to and relate to this Item 2.02, shall not be deemed "filed" for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the "Exchange Act"), or otherwise be subject to the liabilities of Section 18 of the Exchange Act. The information in this Item 2.02 of this Current Report on Form 8-K and Exhibits 99.1 and 99.2 hereto shall not be incorporated by reference into any filing or other document filed by the Company with the SEC pursuant to the Securities Act of 1933, as amended, the rules and regulations of the SEC thereunder, the Exchange Act, or the rules and regulations of the SEC thereunder except as shall be expressly set forth by specific reference in such filing or document.
+00045: Item 9.01. Financial Statements and Exhibits.
+00046: (d) Exhibits
+00047: The following documents are furnished as exhibits to this Current Report on Form 8-K:
+00048: 99.1
+00049: Press Release
+00050: 99.2
+00051: Financial Presentation
+00052: Exhibit 104 Cover Page Interactive Data File (formatted as Inline XBRL).
+00053: SIGNATURES
+00054: Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+00055: Dated: August 20, 2026
+00056: WALMART INC.
+00057: By: /s/ John David Rainey
+00058: Name: John David Rainey
+00059: Title: Executive Vice President and
+00060: Chief Financial Officer

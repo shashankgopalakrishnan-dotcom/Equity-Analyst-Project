@@ -1,0 +1,107 @@
+{
+  "model_output": "{\"marks\": [{\"claim\": \"Costco's revenue for fiscal year 2026 was $303.154 billion.\", \"status\": \"correct\", \"reason\": \"The saved facts confirm that the revenue for the fiscal year ending August 30, 2026, is $303,154,000,000.\", \"correction\": \"\", \"source\": \"saved_facts\", \"corrected_claim\": \"\"}, {\"claim\": \"Costco's net income for fiscal year 2026 was $9.226 billion.\", \"status\": \"correct\", \"reason\": \"The saved facts confirm that the net income for the fiscal year ending August 30, 2026, is $9,226,000,000.\", \"correction\": \"\", \"source\": \"saved_facts\", \"corrected_claim\": \"\"}, {\"claim\": \"Costco's operating income for fiscal year 2026 was $11.685 billion.\", \"status\": \"correct\", \"reason\": \"The saved facts confirm that the operating income for the fiscal year ending August 30, 2026, is $11,685,000,000.\", \"correction\": \"\", \"source\": \"saved_facts\", \"corrected_claim\": \"\"}, {\"claim\": \"Costco's diluted earnings per share for fiscal year 2026 was $20.76.\", \"status\": \"correct\", \"reason\": \"The saved facts confirm that the diluted earnings per share for the fiscal year ending August 30, 2026, is $20.76.\", \"correction\": \"\", \"source\": \"saved_facts\", \"corrected_claim\": \"\"}, {\"claim\": \"Costco's total equity at the end of fiscal year 2026 was $35.803 billion.\", \"status\": \"correct\", \"reason\": \"The saved facts confirm that the total equity at the end of the fiscal year ending August 30, 2026, is $35,803,000,000.\", \"correction\": \"\", \"source\": \"saved_facts\", \"corrected_claim\": \"\"}, {\"claim\": \"Costco's long-term debt at the end of fiscal year 2026 was $3.914 billion.\", \"status\": \"correct\", \"reason\": \"The saved facts confirm that the long-term debt at the end of the fiscal year ending August 30, 2026, is $3,914,000,000.\", \"correction\": \"\", \"source\": \"saved_facts\", \"corrected_claim\": \"\"}, {\"claim\": \"Costco's current debt at the end of fiscal year 2026 was $2.248 billion.\", \"status\": \"correct\", \"reason\": \"The saved facts confirm that the current debt at the end of the fiscal year ending August 30, 2026, is $2,248,000,000.\", \"correction\": \"\", \"source\": \"saved_facts\", \"corrected_claim\": \"\"}, {\"claim\": \"Costco's cash flow from operations for fiscal year 2026 was $15.817 billion.\", \"status\": \"correct\", \"reason\": \"The saved facts confirm that the cash flow from operations for the fiscal year ending August 30, 2026, is $15,817,000,000.\", \"correction\": \"\", \"source\": \"saved_facts\", \"corrected_claim\": \"\"}, {\"claim\": \"Costco's capital expenditures for fiscal year 2026 were $6.435 billion.\", \"status\": \"correct\", \"reason\": \"The saved facts confirm that the capital expenditures for the fiscal year ending August 30, 2026, are $6,435,000,000.\", \"correction\": \"\", \"source\": \"saved_facts\", \"corrected_claim\": \"\"}]}",
+  "marks": [
+    {
+      "claim": "  - Filing Accession: 0000909832-26-000093",
+      "status": "unsupported",
+      "reason": "Numeric claim has no line citation or XBRL source.",
+      "correction": "Verify against the saved filing before use. Removed the claim from the verified body because saved evidence did not support it."
+    },
+    {
+      "claim": "  - Filing Accession: 0000909832-26-000093",
+      "status": "unsupported",
+      "reason": "Numeric claim has no line citation or XBRL source.",
+      "correction": "Verify against the saved filing before use. Removed the claim from the verified body because saved evidence did not support it."
+    },
+    {
+      "claim": "  - Filing Accession: 0000909832-26-000093",
+      "status": "unsupported",
+      "reason": "Numeric claim has no line citation or XBRL source.",
+      "correction": "Verify against the saved filing before use. Removed the claim from the verified body because saved evidence did not support it."
+    },
+    {
+      "claim": "  - Filing Accession: 0000909832-26-000093",
+      "status": "unsupported",
+      "reason": "Numeric claim has no line citation or XBRL source.",
+      "correction": "Verify against the saved filing before use. Removed the claim from the verified body because saved evidence did not support it."
+    },
+    {
+      "claim": "- **Revenue Growth**: 10.14% [calculated from (303154000000 / 275235000000) - 1]",
+      "status": "unsupported",
+      "reason": "Numeric claim has no line citation or XBRL source.",
+      "correction": "Verify against the saved filing before use. Removed the claim from the verified body because saved evidence did not support it."
+    },
+    {
+      "claim": "- **Operating Margin**: 3.85% [calculated from 11685000000 / 303154000000]",
+      "status": "unsupported",
+      "reason": "Numeric claim has no line citation or XBRL source.",
+      "correction": "Verify against the saved filing before use. Removed the claim from the verified body because saved evidence did not support it."
+    },
+    {
+      "claim": "- **Return on Average Equity**: 28.40% [calculated from 9226000000 / ((35803000000 + 29164000000) / 2)]",
+      "status": "unsupported",
+      "reason": "Numeric claim has no line citation or XBRL source.",
+      "correction": "Verify against the saved filing before use. Removed the claim from the verified body because saved evidence did not support it."
+    },
+    {
+      "claim": "- **Debt to Equity Ratio**: 0.172 [calculated from (3914000000 + 2248000000) / 35803000000]",
+      "status": "unsupported",
+      "reason": "Numeric claim has no line citation or XBRL source.",
+      "correction": "Verify against the saved filing before use. Removed the claim from the verified body because saved evidence did not support it."
+    },
+    {
+      "claim": "- **Free Cash Flow**: $9,382,000,000 [calculated from 15817000000 - 6435000000]",
+      "status": "unsupported",
+      "reason": "Numeric claim has no line citation or XBRL source.",
+      "correction": "Verify against the saved filing before use. Removed the claim from the verified body because saved evidence did not support it."
+    },
+    {
+      "claim": "- **P/E Ratio**: 47.79 [calculated from 992.13 / 20.76]",
+      "status": "unsupported",
+      "reason": "Numeric claim has no line citation or XBRL source.",
+      "correction": "Verify against the saved filing before use. Removed the claim from the verified body because saved evidence did not support it."
+    },
+    {
+      "claim": "- Operating Margin: 4.18% [calculated from 29825000000 / 713163000000]",
+      "status": "unsupported",
+      "reason": "Numeric claim has no line citation or XBRL source.",
+      "correction": "Verify against the saved filing before use. Removed the claim from the verified body because saved evidence did not support it."
+    },
+    {
+      "claim": "- Filing Accession: 0000104169-26-000055",
+      "status": "unsupported",
+      "reason": "Numeric claim has no line citation or XBRL source.",
+      "correction": "Verify against the saved filing before use. Removed the claim from the verified body because saved evidence did not support it."
+    },
+    {
+      "claim": "- Operating Margin: 4.88% [calculated from 5117000000 / 10478000000]",
+      "status": "unsupported",
+      "reason": "Numeric claim has no line citation or XBRL source.",
+      "correction": "Verify against the saved filing before use. Removed the claim from the verified body because saved evidence did not support it."
+    },
+    {
+      "claim": "- Filing Accession: 0000027419-26-000016",
+      "status": "unsupported",
+      "reason": "Numeric claim has no line citation or XBRL source.",
+      "correction": "Verify against the saved filing before use. Removed the claim from the verified body because saved evidence did not support it."
+    },
+    {
+      "claim": "- Operating Margin: 3.81% [calculated from 816604000 / 21457274000]",
+      "status": "unsupported",
+      "reason": "Numeric claim has no line citation or XBRL source.",
+      "correction": "Verify against the saved filing before use. Removed the claim from the verified body because saved evidence did not support it."
+    },
+    {
+      "claim": "- Filing Accession: 0001531152-26-000007",
+      "status": "unsupported",
+      "reason": "Numeric claim has no line citation or XBRL source.",
+      "correction": "Verify against the saved filing before use. Removed the claim from the verified body because saved evidence did not support it."
+    },
+    {
+      "claim": "Costco's P/E ratio of 47.79 is significantly higher than its peers, suggesting a premium valuation. While Costco demonstrates strong financials with high returns on equity (28.4%) and low leverage (debt-to-equity ratio of 0.172), the elevat",
+      "status": "unsupported",
+      "reason": "Numeric claim has no line citation or XBRL source.",
+      "correction": "Verify against the saved filing before use. Removed the claim from the verified body because saved evidence did not support it."
+    }
+  ]
+}

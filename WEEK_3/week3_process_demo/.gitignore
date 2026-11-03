@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+lib/
+.DS_Store
+.crewai/
+output/
+process_demo_flow.html

@@ -1,0 +1,44 @@
+00001: cost-20260924
+00002: UNITED STATES
+00003: SECURITIES AND EXCHANGE COMMISSION
+00004: Washington, D.C. 20549
+00005: FORM 8-K
+00006: CURRENT REPORT
+00007: Pursuant to Section 13 or 15(d)
+00008: of the Securities Exchange Act of 1934
+00009: Date of Report (Date of Earliest Event Reported): September 24, 2026
+00010: COSTCO WHOLESALE CORPORATION
+00011: (Exact name of registrant as specified in its charter)
+00012: Washington 0-20355 91-1223280
+00013: (State or other jurisdiction
+00014: of incorporation) (Commission
+00015: File No.) (I.R.S. Employer
+00016: Identification No.)
+00017: 999 Lake Drive
+00018: Issaquah, WA 98027
+00019: (Address of principal executive offices and zip code)
+00020: Registrant’s telephone number, including area code: 425-313-8100
+00021: Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+00022: ☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+00023: ☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+00024: ☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+00025: ☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+00026: Securities registered pursuant to Section 12(b) of the Act:
+00027: Title of each class Trading Symbol(s) Name of each exchange on which registered
+00028: Common Stock, par value $.005 per share COST NASDAQ
+00029: Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR §240.12b-2).
+00030: Emerging growth company ☐
+00031: If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+00032: Item 2.02. Results of Operations and Financial Condition
+00033: On September 24, 2026, the Company issued a press release containing its operating results for the 16-week fourth quarter and the 52-week fiscal year, ended August 30, 2026. A copy of the press release is attached as Exhibit 99.1. In addition, a copy of the Company's earnings release supplement for the fourth quarter of fiscal 2026 is attached as Exhibit 99.2.
+00034: Item 9.01. Financial Statements and Exhibits
+00035: (d) Exhibits.
+00036: 99.1. Press release dated September 24, 2026.
+00037: 99.2. Fourth quarter fiscal 2026 supplemental information.
+00038: 104 Cover Page Interactive Data File (embedded within the Inline XBRL document).
+00039: SIGNATURE
+00040: Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+00041: COSTCO WHOLESALE CORPORATION
+00042: Dated: September 24, 2026 By: /s/ Gary Millerchip
+00043: Gary Millerchip
+00044: Executive Vice President and Chief Financial Officer
