@@ -35,7 +35,7 @@ Filing reviews were prepared with AI support for all seven reports on 2026-11-02
 - AAPL corrected draft: `WEEK_2/runs/Apple_Inc._20261027_093055_EDT/AAPL_lab03_reviewed_draft_20261102.md`
 - MSFT corrected draft: `WEEK_2/runs/MICROSOFT_CORP_20261029_000818_EDT/MSFT_lab03_reviewed_draft_20261102.md`
 
-The COST review found eight correct and three missing core claims. It corrected the missing-quarter metrics and invalid P/E-to-margin comparison in a separate draft. The CMG review found the `$11,925.6B` revenue and `$666.3B` capex displays are each 1,000x too high and corrected units and arithmetic in a separate draft. The other five audit findings and corrections are listed above. The user has verified and agrees with these filing-review findings. The user explained the written reflection to the partner on 2026-11-02. The partner's two-claim check remains to be confirmed and recorded.
+The COST review found eight correct and three missing core claims. It corrected the missing-quarter metrics and invalid P/E-to-margin comparison in a separate draft. The CMG review found the `$11,925.6B` revenue and `$666.3B` capex displays are each 1,000x too high and corrected units and arithmetic in a separate draft. The other five audit findings and corrections are listed above. The user has verified and agrees with these filing-review findings. The user explained the written reflection to the partner on 2026-11-02. The user confirmed that the partner's two Lab 02 marks and two CMG claim checks are complete; they are recorded in `AUDIT_TEMPLATE.md`.
 
 The other five reports also received filing reviews against the saved run filings on 2026-11-02. Their audit notes are saved beside the reports:
 
@@ -51,9 +51,6 @@ Student verification of the seven report reviews and the CMG worksheet is comple
 
 Still pending:
 
-- Record the partner's two Lab 2 marks and two CMG report-claim checks in `AUDIT_TEMPLATE.md`. A peer-check note has been received; confirm the partner's final marks and complete the worksheet fields.
-- Record the partner's final Lab 2 and Lab 3 marks in `AUDIT_TEMPLATE.md`.
-- Partner-selected company: CMG. The data run, filing review, and student verification are complete. Record the partner's check of two claims.
 - Submit Checkpoint 1 in Brightspace. Use a commit link the grader can access.
 
 ## Run details

@@ -2,7 +2,7 @@
 
 This worksheet records the filing review and the student's verification status.
 
-> **Student verification: complete on 2026-11-02.** The user confirms they reviewed and agree with the filing-review findings and corrected drafts for all seven reports, and with the CMG Lab 02 and Lab 03 checks recorded here. This confirms the user's review; it does not change the recorded errors or missing claims in the original model reports. The older Lab 02 extractor did not provide current debt or debt/equity, so those two original data-pull checks remain incorrect. The reviewed Lab 03 draft calculates 0.00x from the 10-K's no-borrowings disclosure; leases are excluded. The CMG peer statement-line check is complete: the latest 10-K text for MCD, YUM, and CAVA is saved in the CMG run folder and the revenue, operating income, periods, and margins are checked below. The written reflection was explained to the partner on 2026-11-02. Partner-check recording and Brightspace submission remain open.
+> **Student verification: complete on 2026-11-02. Partner verification: complete on 2026-11-02.** The user confirms the partner checked the two COST Lab 02 marks and two CMG Lab 03 claims against the filings. The marks and source lines are recorded below. The partner's original note is preserved in `PEER_REPORT_FROM_PARTNER.md`. This does not change the recorded errors or missing claims in the original reports. The written Lab 03 reflection was explained to the partner on 2026-11-02. Brightspace submission remains open.
 
 **Audited run:** `WEEK_2/runs/CHIPOTLE_MEXICAN_GRILL_INC_20261101_101158_EST/`
 **Report:** `CMG_lab03_report_20261101_101604.md` (model `qwen3:8b`)
@@ -20,7 +20,7 @@ This worksheet records the filing review and the student's verification status.
 | 6 | Latest-quarter total revenue and diluted GAAP EPS match the release | ✓ |  | Release line 70: total revenue $3,293,162K vs $3,003,444K (+9.65%, release says 9.6%). Line 88: diluted EPS $0.27 vs $0.29. The numbers are right; the *report* leaves out the EPS (see claim 11). |
 | 7 | Peer facts and operating margin use the same definition | ✓ |  | **Verified against each latest 10-K statement.** MCD FY2025: total revenue $26,885m (line 00808); operating income $12,393m (line 00821); margin `$12,393m / $26,885m = 46.10%`. YUM FY2025: total revenue $8,214m (line 01083); operating profit $2,574m (line 01092); margin `$2,574m / $8,214m = 31.34%`. CAVA FY2025: revenue $1,179,664 thousand (line 01156); income from operations $55,285 thousand (line 01170); margin `$55,285k / $1,179,664k = 4.69%`. Each revenue and operating-income pair has the same fiscal period and uses GAAP totals. See [`CMG_LAB02_STEP7_PEER_CHECK.md`](CMG_LAB02_STEP7_PEER_CHECK.md) and the saved peer `10k.txt` files. |
 
-Partner checks: claim/step 1: ____________________  claim/step 2: ____________________
+**Partner Lab 02 check (confirmed 2026-11-02):** Step 5 COST — right for the arithmetic; price date/source caveat remains. Costco 10-K lines 625, 629, 635, 638, 687, 691, 704, 766, 768. Step 6 COST — right; Q4 revenue $95,723 million and diluted EPS $6.75. Exhibit 99.1 lines 43 and 56. Full marks and calculations: `PEER_REPORT_FROM_PARTNER.md`.
 
 ## Lab 03: eleven core claims
 
@@ -97,19 +97,19 @@ The report says **Buy**, driven by 9.6% Q3 revenue growth. The sourced evidence 
 - [x] Review and agree with the seven Lab 02 checks recorded above. Step 4 and Step 5 remain marked incorrect for the original run because current debt was null and debt/equity was unavailable. The CMG Step 7 peer figures and source lines are recorded above and in `CMG_LAB02_STEP7_PEER_CHECK.md`.
 - [x] CMG: all eleven core claims, other material numbers, citations and the recommendation checked against the filings. User confirmed the findings on 2026-11-02. The original Buy is not supported; the reviewed Hold is.
 - [x] Review and agree with the filing-review findings and corrected drafts for COST, WMT, TGT, BJ, AAPL, and MSFT. User confirmed on 2026-11-02. See `LAB03_ALL_TICKERS_RUN_STATUS.md` for report-specific findings.
-- [ ] Ask your partner to check two Lab 02 marks and two CMG report claims. Record the source lines for the claims.
+- [x] Partner checked two Lab 02 marks and two CMG report claims against filings. User confirmed completion on 2026-11-02; marks and sources are recorded above and below.
 - [x] Explain the written reflection to your partner. Done 2026-11-02.
 - [ ] Submit Checkpoint 1 in Brightspace with a commit link the grader can open.
 
 Partner-selected company: Chipotle Mexican Grill, Inc.  Ticker: CMG  Reported this month: Oct 28, 2026 (Q3 2026 release)
 
-Partner checked two claims: ____________________ / ____________________
+**Partner Lab 03 check (confirmed 2026-11-02):** CMG Claim 1 — wrong, 10-K lines 727 and 732. CMG Claim 11 — missing, Exhibit 99.1 line 22. Full notes: `PEER_REPORT_FROM_PARTNER.md`.
 
 Student verification completed: **Yes — 2026-11-02**
 
 ## Lab 03 reflection
 
-**Written response:** Complete on 2026-11-02. **Partner discussion:** Not confirmed.
+**Written response and partner discussion:** Complete on 2026-11-02.
 
 ### 1. Which error would a reader trust most, and why?
 
