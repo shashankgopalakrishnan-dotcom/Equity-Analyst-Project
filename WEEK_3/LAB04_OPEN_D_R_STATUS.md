@@ -1,7 +1,7 @@
 # Lab 04 status
 
 **Checked:** 2026-11-03  
-**Scope:** Open, D, R, I, and V. Reflect and partner work remain outstanding.
+**Scope:** Open, D, R, I, V, and written Reflect answers. The partner discussion and citation check remain outstanding.
 
 ## Open, D, and R
 
@@ -26,8 +26,9 @@
 - The latest verified report is `WEEK_3/lab4_runs/COSTCO_WHOLESALE_CORP_NEW_20261103_142427_181525_EST/COST_verified_report_20261103_142702_458468_EST.md`. The Verifier marked 85 claims correct, 0 wrong, and 0 unsupported. It omits the Investment Advisor section from its input and preserves that section in the report.
 - The installed Financial Researcher skill informed the role instructions and the value, growth, quality, cash-flow, leverage, and risk lenses. The fixed course graph remains unchanged. The code does not add investor agents or unconfigured MCP data services.
 - The skill-aligned prompt is `PROMPT_LIBRARY/LAB04_RECONSTRUCTED_PROMPT_SKILL_ALIGNED.md`. The original reconstructed prompt remains unchanged.
-- No files were pushed to GitHub. `.env` remains ignored and private.
+- The Week 3 files were pushed to GitHub in commit `19eaa5e` before the written Reflect answers were added. The new response file and this status update are local and are not pushed yet. `.env` remains ignored and private.
 - Lab 04 V is complete. The seeded EPS error was marked wrong and corrected to `$20.76` from 10-K line `00638`. The invented `14.14%` annual growth claim was marked wrong and corrected to `10.14%` from `$303,154 million` and `$275,235 million`. The clean report copy passed all eleven core claim areas; its 12 detailed marks were all correct. The skip test found no verifier bypass flag. See `WEEK_3/LAB04_V_TEST_RESULTS.md`. The normal run remains a course-audit draft, and the partner citation check is still separate.
+- The Orchestrator/Evaluator answers and Reflect discussion script are saved in `WEEK_3/LAB04_ORCHESTRATOR_EVALUATOR_REFLECTION.md`. The script is prepared, but the partner discussion itself is not verified as complete.
 - I did not run CrewAI AMP evaluation. The logged-out project still has `main.py` set to the earlier sequential/hierarchical demo, so its default evaluation would grade that demo rather than this Lab 4 command. The separate local Lab 4 command and live run were checked instead.
 
 ## Commands
@@ -45,4 +46,4 @@ The price is the one used in the saved Lab 03 COST report.
 ## Still required for Lab 04
 
 1. Have the partner check one Costco filing citation.
-2. Complete the Orchestrator/Evaluator questions and Reflect discussion.
+2. Explain the prepared Reflect answers to the partner. The written Orchestrator/Evaluator questions and answer script are complete.

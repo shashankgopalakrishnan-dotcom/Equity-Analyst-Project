@@ -13,12 +13,12 @@
 - The run folder stores all three filing texts, the Exhibit 99.1 release text, Company Facts, peer data, and node inputs and outputs.
 - Lab 04 V is complete. The seeded EPS error was marked wrong and corrected with 10-K line `00638`; the invented growth claim was marked wrong and corrected to `10.14%` with the arithmetic and 10-K source; the clean copy passed all eleven core claim areas with 12 correct detailed marks and no wrong or unsupported marks. The skip test found no verifier bypass flag. Full results: `WEEK_3/LAB04_V_TEST_RESULTS.md`.
 - One XBRL gap item was worked in a separate AI agent conversation while COST ran. The computer-use tool could not open a visible browser chat tab.
-- `.env` remains ignored by Git. No key was printed or copied. No commit or push was made.
+- `.env` remains ignored by Git. No key was printed or copied. The Week 3 files were pushed in commit `19eaa5e`; the Orchestrator/Evaluator and Reflect response file was added afterward and remains local.
 
 ## Still pending for class
 
 1. Have the partner check one Costco filing citation.
-2. Complete the Orchestrator/Evaluator questions and the Reflect discussion.
+2. Explain the prepared Reflect answers to the partner. The written answers are in `WEEK_3/LAB04_ORCHESTRATOR_EVALUATOR_REFLECTION.md`.
 3. Confirm the Checkpoint 1 Brightspace submission. It is not verified here.
 
 ## Resume command
