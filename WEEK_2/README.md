@@ -11,7 +11,7 @@
 - **Repository facts:** The full SEC Company Facts files for Costco and Walmart are now included in those two run folders and pushed. `.gitignore` continues to ignore new fact exports by default; those two course files were explicitly included.
 - **Course audit:** The user confirmed their review of the filing findings and corrected drafts for all seven reports, and the CMG Lab 02 and Lab 03 checks, on November 2, 2026. The original run still has the errors listed in the worksheet; the corrected draft addresses them.
 - **Lab 03 reports:** On November 1, 2026, the app completed sequential runs for COST, WMT, TGT, BJ, AAPL, and MSFT using the `qwen3:8b` override. CMG was the partner-selected ticker. The audit findings and corrected-draft paths are in [`LAB03_ALL_TICKERS_RUN_STATUS.md`](LAB03_ALL_TICKERS_RUN_STATUS.md).
-- **Partner and Brightspace work:** The partner's peer-check note is saved in the repository. Confirm and record the partner's final marks in [`AUDIT_TEMPLATE.md`](AUDIT_TEMPLATE.md), complete the partner reflection, then submit Checkpoint 1 in Brightspace with a commit link the grader can access.
+- **Partner and Brightspace work:** The partner's peer-check note is saved in the repository. The user explained the Lab 03 reflection to the partner on November 2, 2026. Confirm and record the partner's final marks in [`AUDIT_TEMPLATE.md`](AUDIT_TEMPLATE.md), then submit Checkpoint 1 in Brightspace with a commit link the grader can access.
 - **Current repository status:** Public repository; student verification status pushed in commit `3473464`. Keep `.env`, the supplied PDFs, `.vscode/`, and `CONVERSATION.md` out of the repository.
 
 ## Lab 02 evidence
@@ -89,7 +89,7 @@ Official instructions: [Lab 03 — The App](https://cinderzhang.github.io/FIN671
 3. Costco's Lab 03 four-role report was generated. The original model output is `COST_lab03_model_draft.md`; the corrected review draft is `COST_lab03_report.md`.
 4. **Student verification:** complete. The user confirms they reviewed the CMG audit and agrees with the findings recorded in [`AUDIT_TEMPLATE.md`](AUDIT_TEMPLATE.md).
 5. The partner selected CMG. The report and audit are complete. Record the partner's two claim checks and the two Lab 02 marks in [`AUDIT_TEMPLATE.md`](AUDIT_TEMPLATE.md).
-6. Complete the partner reflection and submit Checkpoint 1 in Brightspace with a commit link the grader can access. Confirm the grader can open the repository.
+6. The partner reflection discussion is complete. Submit Checkpoint 1 in Brightspace with a commit link the grader can access. Confirm the grader can open the repository.
 
 ### Definition checks
 

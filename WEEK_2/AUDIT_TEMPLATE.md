@@ -2,7 +2,7 @@
 
 This worksheet records the filing review and the student's verification status.
 
-> **Student verification: complete on 2026-11-02.** The user confirms they reviewed and agree with the filing-review findings and corrected drafts for all seven reports, and with the CMG Lab 02 and Lab 03 checks recorded here. This confirms the user's review; it does not change the recorded errors or missing claims in the original model reports. The older Lab 02 extractor did not provide current debt or debt/equity, so those two original data-pull checks remain incorrect. The reviewed Lab 03 draft calculates 0.00x from the 10-K's no-borrowings disclosure; leases are excluded. The CMG peer statement-line check is complete: the latest 10-K text for MCD, YUM, and CAVA is saved in the CMG run folder and the revenue, operating income, periods, and margins are checked below. Partner checks, reflection, and Brightspace fields remain open.
+> **Student verification: complete on 2026-11-02.** The user confirms they reviewed and agree with the filing-review findings and corrected drafts for all seven reports, and with the CMG Lab 02 and Lab 03 checks recorded here. This confirms the user's review; it does not change the recorded errors or missing claims in the original model reports. The older Lab 02 extractor did not provide current debt or debt/equity, so those two original data-pull checks remain incorrect. The reviewed Lab 03 draft calculates 0.00x from the 10-K's no-borrowings disclosure; leases are excluded. The CMG peer statement-line check is complete: the latest 10-K text for MCD, YUM, and CAVA is saved in the CMG run folder and the revenue, operating income, periods, and margins are checked below. The written reflection was explained to the partner on 2026-11-02. Partner-check recording and Brightspace submission remain open.
 
 **Audited run:** `WEEK_2/runs/CHIPOTLE_MEXICAN_GRILL_INC_20261101_101158_EST/`
 **Report:** `CMG_lab03_report_20261101_101604.md` (model `qwen3:8b`)
@@ -98,10 +98,27 @@ The report says **Buy**, driven by 9.6% Q3 revenue growth. The sourced evidence 
 - [x] CMG: all eleven core claims, other material numbers, citations and the recommendation checked against the filings. User confirmed the findings on 2026-11-02. The original Buy is not supported; the reviewed Hold is.
 - [x] Review and agree with the filing-review findings and corrected drafts for COST, WMT, TGT, BJ, AAPL, and MSFT. User confirmed on 2026-11-02. See `LAB03_ALL_TICKERS_RUN_STATUS.md` for report-specific findings.
 - [ ] Ask your partner to check two Lab 02 marks and two CMG report claims. Record the source lines for the claims.
-- [ ] Complete the partner reflection and submit Checkpoint 1 in Brightspace with a commit link the grader can open.
+- [x] Explain the written reflection to your partner. Done 2026-11-02.
+- [ ] Submit Checkpoint 1 in Brightspace with a commit link the grader can open.
 
 Partner-selected company: Chipotle Mexican Grill, Inc.  Ticker: CMG  Reported this month: Oct 28, 2026 (Q3 2026 release)
 
 Partner checked two claims: ____________________ / ____________________
 
-Student verification completed: **Yes — 2026-11-02**  Partner reflection completed: ________  Brightspace Checkpoint 1 submitted: ________  Commit permalink: ____________________
+Student verification completed: **Yes — 2026-11-02**
+
+## Lab 03 reflection
+
+**Written response:** Complete on 2026-11-02. **Partner discussion:** Not confirmed.
+
+### 1. Which error would a reader trust most, and why?
+
+Looking at the Chipotle and Costco reports, I think readers may trust errors that sound reasonable and cite real filings. The Chipotle report described a 4.5% increase in food cost dollars as food inflation. The filing reports 0.4% inflation. The Costco report described a $10.2 billion increase in ancillary business revenue as e-commerce and travel revenue. In both cases, the numbers were real, but the reports gave them the wrong meaning. A reader may trust these claims because they sound reasonable and include filing citations.
+
+### 2. Which role would you change first, and what would you tell it to do?
+
+I would change the Financial Analyst first because it extracts and interprets financial data. I would tell it to check the units, use the definitions in the filings, and include every required metric. I would also improve the Strategy Manager's final review. It should check for missing information, unrealistic numbers, and unsupported recommendations before it completes the report.
+
+This exercise showed me that AI can use real financial data and cite sources, but still interpret the data incorrectly. I must check both the numbers and what they represent before I use them to make financial decisions.
+
+Partner reflection explained: **Yes — 2026-11-02**  Brightspace Checkpoint 1 submitted: ________  Commit permalink: ____________________
