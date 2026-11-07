@@ -1,0 +1,10 @@
+{
+  "ticker": "CMG",
+  "peers": [
+    "MCD",
+    "YUM",
+    "CAVA"
+  ],
+  "price": null,
+  "step": 6
+}

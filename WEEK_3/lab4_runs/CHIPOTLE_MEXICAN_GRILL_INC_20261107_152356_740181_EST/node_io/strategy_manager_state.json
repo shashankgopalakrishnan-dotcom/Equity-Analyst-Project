@@ -1,0 +1,30 @@
+{
+  "failing_parts": [
+    {
+      "part": "Overview",
+      "role": "research",
+      "why": "Return exactly one Insight line; found 0.",
+      "deterministic": true
+    },
+    {
+      "part": "Investment Recommendation",
+      "role": "advisor",
+      "why": "Insight repeats the Financial's claim or reported figure. Select a different claim already supported in the analyst outputs, with its exact numbered filing line.",
+      "deterministic": true
+    }
+  ],
+  "revised_roles": [
+    "advisor",
+    "research"
+  ],
+  "manager_calls": 2,
+  "missing_after_compile": [],
+  "unresolved_after_one_revision": [],
+  "insight_fallbacks": [
+    {
+      "role": "advisor",
+      "claim": "Insight: ** The company reports strong operating cash flow of $2.1 billion, exceeding net income of $1.5 billion, indicating solid cash generation [10-K line 00818].",
+      "reason": "The revised Advisor Insight was missing or duplicated; this distinct claim was copied from an already cited analyst output."
+    }
+  ]
+}

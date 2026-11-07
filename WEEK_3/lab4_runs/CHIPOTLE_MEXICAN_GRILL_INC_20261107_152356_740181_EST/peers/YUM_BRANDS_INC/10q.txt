@@ -1,0 +1,1406 @@
+00001: yum-20260930
+00002: UNITED STATES
+00003: SECURITIES AND EXCHANGE COMMISSION
+00004: Washington, D. C. 20549
+00005: FORM 10-Q
+00006: (Mark One)
+00007: ☒ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+00008: EXCHANGE ACT OF 1934 for the quarterly period ended
+00009: September 30, 2026
+00010: OR
+00011: ☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+00012: EXCHANGE ACT OF 1934
+00013: For the transition period from ____________ to _________________
+00014: Commission file number 1-13163
+00015: ________________________
+00016: YUM! BRANDS, INC.
+00017: (Exact name of registrant as specified in its charter)
+00018: North Carolina 13-3951308
+00019: (State or other jurisdiction of (I.R.S. Employer
+00020: incorporation or organization) Identification No.)
+00021: 1441 Gardiner Lane, Louisville, Kentucky 40213
+00022: (Address of principal executive offices) (Zip Code)
+00023: Registrant’s telephone number, including area code: (502) 874-8300
+00024: Securities registered pursuant to Section 12(b) of the Act
+00025: Title of Each Class Trading Symbol(s) Name of Each Exchange on Which Registered
+00026: Common Stock, no par value YUM New York Stock Exchange
+00027: Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒ No ☐
+00028: Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒ No ☐
+00029: Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer”, “accelerated filer”, “smaller reporting company”, and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+00030: Large Accelerated Filer
+00031: ☒
+00032: Accelerated Filer
+00033: ☐
+00034: Non-accelerated Filer
+00035: ☐
+00036: Smaller Reporting Company
+00037: ☐
+00038: Emerging Growth Company
+00039: ☐
+00040: If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+00041: Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐ No x
+00042: The number of shares outstanding of the registrant’s Common Stock as of October 30, 2026, was 268,258,657 shares.
+00043: YUM! BRANDS, INC.
+00044: INDEX
+00045: Page
+00046: No.
+00047: Part I. Financial Information
+00048: Item 1 - Financial Statements
+00049: Condensed Consolidated Statements of Income
+00050: 4
+00051: Condensed Consolidated Statements of Comprehensive Income
+00052: 5
+00053: Condensed Consolidated Statements of Cash Flows
+00054: 6
+00055: Condensed Consolidated Balance Sheets
+00056: 7
+00057: Condensed Consolidated Statements of Shareholders' Deficit
+00058: 8
+00059: Notes to Condensed Consolidated Financial Statements
+00060: 9
+00061: Item 2 - Management’s Discussion and Analysis of Financial Condition
+00062: and Results of Operations
+00063: 28
+00064: Item 3 - Quantitative and Qualitative Disclosures About Market Risk
+00065: 46
+00066: Item 4 - Controls and Procedures
+00067: 46
+00068: Report of Independent Registered Public Accounting Firm
+00069: 48
+00070: Part II. Other Information and Signatures
+00071: Item 1 - Legal Proceedings
+00072: 49
+00073: Item 1A - Risk Factors
+00074: 49
+00075: Item 2 - Unregistered Sales of Equity Securities and Use of Proceeds
+00076: 49
+00077: Item 5 - Other Information
+00078: 49
+00079: Item 6 - Exhibits
+00080: 50
+00081: Signatures
+00082: 51
+00083: 2
+00084: PART I - FINANCIAL INFORMATION
+00085: Item 1.Financial Statements
+00086: 3
+00087: CONDENSED CONSOLIDATED STATEMENTS OF INCOME (Unaudited)
+00088: YUM! BRANDS, INC. AND SUBSIDIARIES
+00089: (in millions, except per share data)
+00090: Quarter ended Year to date
+00091: Revenues 9/30/2026 9/30/2025 9/30/2026 9/30/2025
+00092: Company sales $ 784 $ 697 $ 2,406 $ 1,974
+00093: Franchise and property revenues 854 857 2,605 2,476
+00094: Franchise contributions for advertising and other services 415 426 1,271 1,249
+00095: Total revenues 2,054 1,979 6,282 5,699
+00096: Costs and Expenses, Net
+00097: Company restaurant expenses 679 587 2,057 1,668
+00098: General and administrative expenses 305 282 950 885
+00099: Franchise and property expenses 51 35 136 107
+00100: Franchise advertising and other services expense 413 427 1,276 1,251
+00101: Refranchising (gain) loss (22) (17) (24) (33)
+00102: Other (income) expense (7) (1) (46) (15)
+00103: Total costs and expenses, net 1,419 1,313 4,349 3,863
+00104: Gain on Pizza Hut divestitures 1,683 — 1,683 —
+00105: Operating Profit 2,317 666 3,616 1,836
+00106: Investment (income) expense, net — — (6) (1)
+00107: Other pension (income) expense 2 1 2 —
+00108: Interest expense, net 120 124 377 368
+00109: Income Before Income Taxes 2,195 541 3,243 1,470
+00110: Income tax provision 572 144 335 446
+00111: Net Income $ 1,623 $ 397 $ 2,908 $ 1,024
+00112: Basic Earnings Per Common Share $ 5.96 $ 1.42 $ 10.58 $ 3.67
+00113: Diluted Earnings Per Common Share $ 5.92 $ 1.41 $ 10.51 $ 3.64
+00114: Dividends Declared Per Common Share $ 0.75 $ 0.71 $ 2.25 $ 2.13
+00115: See accompanying Notes to Condensed Consolidated Financial Statements.
+00116: 4
+00117: CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (Unaudited)
+00118: YUM! BRANDS, INC. AND SUBSIDIARIES
+00119: (in millions)
+00120: Quarter ended Year to date
+00121: 9/30/2026 9/30/2025 9/30/2026 9/30/2025
+00122: Net Income $ 1,623 $ 397 $ 2,908 $ 1,024
+00123: Other comprehensive income (loss), net of tax
+00124: Translation adjustments and gains (losses) from intra-entity transactions of a long-term investment nature
+00125: Adjustments and gains (losses) arising during the period
+00126: 7 (6) 5 71
+00127: Reclassification of adjustments and (gains) losses into Net Income 42 — 42 —
+00128: 49 (6) 47 71
+00129: Tax (expense) benefit
+00130: — — — —
+00131: 49 (6) 47 71
+00132: Changes in pension and post-retirement benefits
+00133: Unrealized gains (losses) arising during the period
+00134: — — — —
+00135: Reclassification of (gains) losses into Net Income
+00136: — 3 2 5
+00137: — 3 2 5
+00138: Tax (expense) benefit
+00139: — (1) (1) (1)
+00140: — 3 1 4
+00141: Changes in derivative instruments
+00142: Unrealized gains (losses) arising during the period
+00143: 11 5 32 8
+00144: Reclassification of (gains) losses into Net Income
+00145: (1) (4) (3) (15)
+00146: 10 1 29 (6)
+00147: Tax (expense) benefit
+00148: (2) — (7) 2
+00149: 8 1 22 (5)
+00150: Other comprehensive income (loss), net of tax
+00151: 57 (2) 70 71
+00152: Comprehensive Income $ 1,680 $ 394 $ 2,978 $ 1,095
+00153: See accompanying Notes to Condensed Consolidated Financial Statements.
+00154: 5
+00155: CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (Unaudited)
+00156: YUM! BRANDS, INC. AND SUBSIDIARIES
+00157: (in millions)
+00158: Year to date
+00159: 9/30/2026 9/30/2025
+00160: Cash Flows – Operating Activities
+00161: Net Income $ 2,908 $ 1,024
+00162: Depreciation and amortization 177 139
+00163: Refranchising (gain) loss (24) (33)
+00164: Gain on Pizza Hut divestitures (1,683) —
+00165: Deferred income taxes 62 175
+00166: Share-based compensation expense 51 54
+00167: Changes in accounts and notes receivable 18 51
+00168: Changes in prepaid expenses and other current assets (52) (8)
+00169: Changes in accounts payable and other current liabilities (6) (42)
+00170: Changes in income taxes payable (44) (31)
+00171: Other, net (9) 64
+00172: Net Cash Provided by Operating Activities 1,398 1,393
+00173: Cash Flows – Investing Activities
+00174: Capital spending (262) (236)
+00175: Acquisitions of franchise restaurants
+00176: (5) (100)
+00177: Proceeds from refranchising of restaurants 32 53
+00178: Maturities (purchases) of Short-term investments, net — 91
+00179: Proceeds from Pizza Hut divestitures 2,380 —
+00180: Other, net 10 (16)
+00181: Net Cash Provided by (Used in) Investing Activities 2,155 (208)
+00182: Cash Flows – Financing Activities
+00183: Proceeds from long-term debt — 1,493
+00184: Repayments of long-term debt (27) (957)
+00185: Revolving credit facility, three months or less, net (300) (350)
+00186: Repurchase shares of Common Stock (1,202) (374)
+00187: Dividends paid on Common Stock (616) (592)
+00188: Other, net (35) (42)
+00189: Net Cash Used in Financing Activities
+00190: (2,180) (822)
+00191: Effect of Exchange Rates on Cash and Cash Equivalents 3 29
+00192: Net Increase in Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents 1,376 393
+00193: Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents - Beginning of Period 923 807
+00194: Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents - End of Period $ 2,299 $ 1,200
+00195: See accompanying Notes to Condensed Consolidated Financial Statements.
+00196: 6
+00197: CONDENSED CONSOLIDATED BALANCE SHEETS (Unaudited)
+00198: YUM! BRANDS, INC. AND SUBSIDIARIES
+00199: (in millions)
+00200: 9/30/2026
+00201: 12/31/2025
+00202: ASSETS
+00203: Current Assets
+00204: Cash and cash equivalents $ 2,108 $ 709
+00205: Accounts and notes receivable, net 639 841
+00206: Prepaid expenses and other current assets 558 490
+00207: Total Current Assets 3,305 2,040
+00208: Property, plant and equipment, net 1,638 1,605
+00209: Goodwill 718 969
+00210: Intangible assets, net 803 909
+00211: Other assets 1,620 1,708
+00212: Deferred income taxes 685 965
+00213: Total Assets $ 8,769 $ 8,197
+00214: LIABILITIES AND SHAREHOLDERS’ DEFICIT
+00215: Current Liabilities
+00216: Accounts payable and other current liabilities $ 1,271 $ 1,433
+00217: Income taxes payable 20 46
+00218: Short-term borrowings 2,141 38
+00219: Total Current Liabilities 3,431 1,516
+00220: Long-term debt 9,459 11,872
+00221: Other liabilities and deferred credits 2,043 2,133
+00222: Total Liabilities 14,933 15,521
+00223: Shareholders’ Deficit
+00224: Common Stock, no par value, 750 shares authorized; 269 shares issued in 2026 and 277 shares issued in 2025
+00225: — —
+00226: Accumulated deficit (5,924) (7,014)
+00227: Accumulated other comprehensive loss (241) (311)
+00228: Total Shareholders’ Deficit (6,165) (7,325)
+00229: Total Liabilities and Shareholders’ Deficit $ 8,769 $ 8,197
+00230: See accompanying Notes to Condensed Consolidated Financial Statements.
+00231: 7
+00232: CONDENSED CONSOLIDATED STATEMENTS OF SHAREHOLDERS' DEFICIT (Unaudited)
+00233: YUM! BRANDS, INC. AND SUBSIDIARIES
+00234: Quarters and years to date ended September 30, 2026 and 2025
+00235: (in millions)
+00236: Yum! Brands, Inc.
+00237: Issued Common Stock Accumulated Deficit
+00238: Accumulated Other Comprehensive Loss
+00239: Total Shareholders' Deficit
+00240: Shares Amount
+00241: Balance at June 30, 2026 273 $ — $ (6,809) $ (298) $ (7,107)
+00242: Net Income 1,623 1,623
+00243: Translation adjustments and gains (losses) from intra-entity transactions of a long-term investment nature 7 7
+00244: Reclassification of translation adjustments into net income 42 42
+00245: Pension and post-retirement benefit plans — —
+00246: Derivative instruments (net of tax impact of $2 million)
+00247: 8 8
+00248: Comprehensive Income 1,680
+00249: Dividends declared (203) (203)
+00250: Repurchase of shares of Common Stock(1)
+00251: (4) (13) (535) (548)
+00252: Employee share-based award exercises (4) (4)
+00253: Share-based compensation events 17 17
+00254: Balance at September 30, 2026
+00255: 269 $ — $ (5,924) $ (241) $ (6,165)
+00256: Balance at December 31, 2025
+00257: 277 $ — $ (7,014) $ (311) $ (7,325)
+00258: Net Income 2,908 2,908
+00259: Translation adjustments and gains (losses) from intra-entity transactions of a long-term investment nature 5 5
+00260: Reclassification of translation adjustments into net income 42 42
+00261: Pension and post-retirement benefit plans (net of tax impact of $1 million)
+00262: 1 1
+00263: Derivative instruments (net of tax impact of $7 million)
+00264: 22 22
+00265: Comprehensive Income 2,978
+00266: Dividends declared (617) (617)
+00267: Repurchase of shares of Common Stock(1)
+00268: (8) (24) (1,200) (1,224)
+00269: Employee share-based award exercises 1 (33) (33)
+00270: Share-based compensation events 57 57
+00271: Balance at September 30, 2026
+00272: 269 $ — $ (5,924) $ (241) $ (6,165)
+00273: Balance at June 30, 2025 278 $ — $ (7,361) $ (319) $ (7,680)
+00274: Net Income 397 397
+00275: Translation adjustments and gains (losses) from intra-entity transactions of a long-term investment nature (6) (6)
+00276: Pension and post-retirement benefit plans (net of tax impact of $1 million)
+00277: 3 3
+00278: Derivative instruments 1 1
+00279: Comprehensive Income 394
+00280: Dividends declared (197) (197)
+00281: Repurchase of shares of Common Stock(1)
+00282: — (16) (20) (36)
+00283: Employee share-based award exercises — (2) — (2)
+00284: Share-based compensation events 19 19
+00285: Balance at September 30, 2025
+00286: 278 $ — $ (7,183) $ (322) $ (7,505)
+00287: Balance at December 31, 2024
+00288: 279 $ — $ (7,256) $ (392) $ (7,648)
+00289: Net Income 1,024 1,024
+00290: Translation adjustments and gains (losses) from intra-entity transactions of a long-term investment nature 71 71
+00291: Pension and post-retirement benefit plans
+00292: 4 4
+00293: Derivative instruments (net of tax impact of $2 million)
+00294: (5) (5)
+00295: Comprehensive Income 1,095
+00296: Dividends declared (594) (594)
+00297: Repurchase of shares of Common Stock(1)
+00298: (3) (20) (354) (374)
+00299: Employee share-based award exercises 1 (41) (3) (44)
+00300: Share-based compensation events 62 62
+00301: Balance at September 30, 2025
+00302: 278 $ — $ (7,183) $ (322) $ (7,505)
+00303: (1)Includes excise tax on share repurchases
+00304: See accompanying Notes to Condensed Consolidated Financial Statements.
+00305: 8
+00306: NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Unaudited)
+00307: (Tabular amounts in millions, except per share data)
+00308: Note 1 - Financial Statement Presentation
+00309: We have prepared our accompanying unaudited Condensed Consolidated Financial Statements (“Financial Statements”) in accordance with the rules and regulations of the Securities and Exchange Commission (“SEC”) for interim financial information. Accordingly, they do not include all of the information and footnotes required by Generally Accepted Accounting Principles in the United States (“GAAP”) for complete financial statements. Therefore, we suggest that the accompanying Financial Statements be read in conjunction with the Consolidated Financial Statements included in our Annual Report on Form 10-K for the fiscal year ended December 31, 2025 (“2025 Form 10-K”).
+00310: As of September 30, 2026, Yum! Brands, Inc. and its Subsidiaries (collectively referred to herein as the “Company,” “YUM,” “we,” “us” or “our”) franchise or operate a system of over 44,000 restaurants in more than 150 countries and territories, with 97% of these restaurants owned and operated by franchisees. The Company’s KFC and Taco Bell brands are global leaders of the chicken and Mexican-inspired food categories, respectively. The Habit Burger & Grill is a fast-casual restaurant concept specializing in made-to-order chargrilled burgers, sandwiches and more.
+00311: As of September 30, 2026, YUM consisted of three operating segments:
+00312: •The KFC Division which includes our worldwide operations of the KFC concept
+00313: •The Taco Bell Division which includes our worldwide operations of the Taco Bell concept
+00314: •The Habit Burger & Grill Division which includes our worldwide operations of the Habit Burger & Grill concept
+00315: In 2025, we began a review of strategic options for the Pizza Hut brand. The objective of the review was to create value for YUM, Pizza Hut and its franchisees by determining the optimal approach to best capitalize on Pizza Hut's structural advantages — strong brand equity, experienced franchise partners and meaningful scale — in the highly fragmented pizza market. As a result of this strategic review, during the quarter ended September 30, 2026, we sold the business in two separate transactions with Pizza Hut in mainland China being sold to Yum China Holdings, Inc. ("Yum China"), on August 7, 2026 and Pizza Hut, excluding mainland China, being sold to LongRange Capital, on September 1, 2026. The amounts reported within our Condensed Consolidated Financial Statements and notes thereto in the quarter and year to date ended September 30, 2026 include the operations of Pizza Hut prior to these sale dates and in the quarter and year to date ended September 30, 2025 include the operations of Pizza Hut for the entirety of those periods. Yum China will remain YUM's master franchisee for KFC and Taco Bell in mainland China.
+00316: As of September 1, 2026, the Company determined it has three reportable segments on a prospective basis as a result of the sales of the Pizza Hut business. The Company has included the results of our divested segment, Pizza Hut Division, through the sale dates in the accompanying Notes for comparability purposes.
+00317: YUM's fiscal year begins on January 1 and ends December 31 of each year, with each quarter comprised of three months. The majority of our U.S. subsidiaries and certain international subsidiaries operate on a weekly periodic calendar where the first three quarters of each fiscal year consist of 12 weeks and the fourth quarter consists of 16 weeks in fiscal years with 52 weeks and 17 weeks in fiscal years with 53 weeks. Our remaining international subsidiaries operate on a monthly calendar similar to that on which YUM operates.
+00318: Our preparation of the accompanying Financial Statements in conformity with GAAP requires us to make estimates and assumptions that affect reported amounts of assets and liabilities, disclosure of contingent assets and liabilities at the date of the Financial Statements and the reported amounts of revenues and expenses during the reporting period. Actual results could differ from these estimates.
+00319: The accompanying Financial Statements include all normal and recurring adjustments considered necessary to present fairly, when read in conjunction with our 2025 Form 10-K, the results of the interim periods presented. Our results of operations, comprehensive income, cash flows and changes in shareholders' deficit for these interim periods are not necessarily indicative of the results to be expected for the full year. Amounts presented in the Financial Statements and in the tabular presentations in these Notes are rounded to the nearest underlying whole number in millions in all instances. As a result, some totals and percentages may not recompute based on rounded figures as presented within the Financial Statements and these Notes.
+00320: Our significant interim accounting policies include the recognition of advertising and marketing costs, generally in proportion to revenue, and the recognition of income taxes using an estimated annual effective tax rate.
+00321: 9
+00322: We have reclassified certain items in the Financial Statements for the prior periods to be comparable with the classifications for the quarter and year to date ended September 30, 2026. These reclassifications had no effect on previously reported Net Income.
+00323: Note 2 - Restaurant Acquisitions
+00324: During 2026 and throughout 2025, we completed various restaurant acquisitions from franchisees, the most significant of which was the Taco Bell Southeast U.S. restaurant acquisition referenced below. In each transaction, the acquisition was accounted for as a business combination using the acquisition method of accounting. The allocation of the purchase price for each acquisition was based on management's analysis, which may have included analysis performed by third party valuation specialists, as of the respective acquisition dates.
+00325: The financial results of all acquired restaurants have been included in our Condensed Consolidated Financial Statements since the respective dates of the acquisitions, which individually and in the aggregate, did not materially impact our results for the quarters and years to date ended September 30, 2026 and 2025, respectively. Pro forma financial information for the periods prior to acquisition is not presented due to the immaterial impact of the restaurant acquisitions on our Condensed Consolidated Financial Statements for both the 2026 and 2025 reporting periods.
+00326: Taco Bell Southeast U.S. Restaurant Acquisition
+00327: During the fourth quarter of 2025, we completed the acquisition of 128 Taco Bell restaurants across the Southeast U.S. from a franchisee. The acquisition provided YUM with an opportunity to improve and accelerate Taco Bell profitability, expand strategic leadership within the Taco Bell system and unlock significant unit development in the region. The purchase price to be allocated for accounting purposes was $666 million, which consisted of cash in the amount of $667 million, offset by the settlement of a net liability of $1 million related to our preexisting contractual relationship with the franchisee.
+00328: During the quarter ended June 30, 2026, we finalized our preliminary estimate of the fair value of identifiable net assets acquired. The cumulative adjustments to the preliminary estimate of identifiable net assets acquired (as recorded in the December 31, 2025 quarter of acquisition) were not significant.
+00329: Note 3 - Pizza Hut Divestitures
+00330: On August 7, 2026, we completed the sale of Pizza Hut in mainland China to Yum China, for $1.2 billion of proceeds. The Pizza Hut in mainland China sale resulted in a pre-tax gain of $1.1 billion, which represented the amount of consideration received over the carrying value of the net assets. Yum China will remain YUM’s master franchisee for KFC and Taco Bell in mainland China.
+00331: On September 1, 2026, we completed the sale of Pizza Hut excluding mainland China (“Pizza Hut Ex-China”) to LongRange Capital, a private equity firm, for $1.2 billion of net proceeds resulting in a pre-tax gain of $0.6 billion, which represented the amount of net consideration received over the carrying value of the net assets. Additionally, YUM has the opportunity to receive an earn-out from LongRange Capital of $75 million by 2030 based on future performance. We continue to provide Byte by Yum!, our proprietary technology platform, to Pizza Hut Ex-China subsequent to the sale. Additionally, following the closing of the transaction, we continue to provide certain enterprise technology and finance services to Pizza Hut Ex-China under a transition services agreement.
+00332: The total $1.7 billion pre-tax gain was recorded to Gain on Pizza Hut divestitures in our Condensed Consolidated Statement of Income in the quarter ended September 30, 2026.
+00333: The sale of Pizza Hut did not represent a strategic shift that will have a major effect on YUM’s operations and financial results and, therefore, did not qualify for presentation as a discontinued operation. We suspended certain depreciation and amortization on Pizza Hut assets while they were held for sale, the impact of which was not significant during the quarter and year to date ended September 30, 2026.
+00334: 10
+00335: Note 4 - Earnings Per Common Share (“EPS”)
+00336: Quarter ended Year to date
+00337: 2026 2025 2026 2025
+00338: Net Income $ 1,623 $ 397 $ 2,908 $ 1,024
+00339: Weighted-average common shares outstanding (for basic calculation) 272 278 275 279
+00340: Effect of dilutive share-based employee compensation 2 3 2 2
+00341: Weighted-average common and dilutive potential common shares outstanding (for diluted calculation) 274 281 277 281
+00342: Basic EPS $ 5.96 $ 1.42 $ 10.58 $ 3.67
+00343: Diluted EPS $ 5.92 $ 1.41 $ 10.51 $ 3.64
+00344: Unexercised employee SARs, RSUs, PSUs and stock options (in millions) excluded from the diluted EPS computation(a)
+00345: 1.1 1.2 1.1 1.4
+00346: (a)These unexercised employee stock appreciation rights (“SARs”), restricted stock units (“RSUs”), performance share units (“PSUs”) and stock options were not included in the computation of diluted EPS because to do so would have been antidilutive for the periods presented.
+00347: Note 5 - Shareholders' Deficit
+00348: Under the authority of our Board of Directors, we repurchased shares of our Common Stock during the years to date ended September 30, 2026 and 2025 as indicated below. All amounts exclude applicable transaction fees and excise taxes on share repurchases.
+00349: Shares Repurchased
+00350: (thousands) Dollar Value of Shares
+00351: Repurchased Remaining Dollar Value of Shares that may be Repurchased
+00352: Authorization Date 2026 2025 2026 2025
+00353: 2026
+00354: May 2024
+00355: 6,961 2,540 $ 1,059 $ 372 $ —
+00356: June 2026 1,110 — 154 — 3,846
+00357: Total 8,070
+00358: (a)
+00359: 2,540
+00360: $ 1,213
+00361: (a)
+00362: $ 372
+00363: $ 3,846
+00364: (a) Includes the effect of $15 million in share repurchases (0.1 million shares) with trade dates on, or prior to, September 30, 2026, but cash settlement dates subsequent to September 30, 2026.
+00365: In June 2026, our Board of Directors authorized share repurchases of up to $4 billion (excluding applicable transaction fees and excise taxes) of our outstanding Common Stock through June 30, 2028. The new authorization took effect during the quarter ended September 30, 2026 upon the exhaustion of a prior authorization approved in May 2024. As of September 30, 2026, we have remaining capacity to repurchase up to $3.8 billion of Common Stock under the June 2026 authorization.
+00366: 11
+00367: Changes in Accumulated other comprehensive loss (“AOCI”) are presented below.
+00368: Translation Adjustments and Gains (Losses) From Intra-Entity Transactions of a Long-Term Investment Nature Pension and Post-Retirement Benefits Derivative Instruments Total
+00369: Balance at June 30, 2026, net of tax $ (163) $ (131) $ (4) $ (298)
+00370: OCI, net of tax
+00371: Gains (losses) arising during the period classified into AOCI, net of tax
+00372: 7 — 9 16
+00373: (Gains) losses reclassified from AOCI, net of tax
+00374: 42 — (1) 41
+00375: 49 — 8 57
+00376: Balance at September 30, 2026, net of tax
+00377: $ (114) $ (131) $ 4 $ (241)
+00378: Balance at December 31, 2025, net of tax
+00379: $ (161) $ (132) $ (18) $ (311)
+00380: OCI, net of tax
+00381: Gains (losses) arising during the period classified into AOCI, net of tax
+00382: 5 (1) 24 28
+00383: (Gains) losses reclassified from AOCI, net of tax
+00384: 42 2 (2) 42
+00385: 47 1 22 70
+00386: Balance at September 30, 2026, net of tax $ (114) $ (131) $ 4 $ (241)
+00387: Note 6 - Other (Income) Expense
+00388: Quarter ended Year to date
+00389: 9/30/2026 9/30/2025 9/30/2026 9/30/2025
+00390: Foreign exchange net (gain) loss $ (1) $ 2 $ 4 $ (5)
+00391: Impairment and closure expense 1 — 11 2
+00392: Other(a)
+00393: (7) (3) (60) (11)
+00394: Other (income) expense (7) (1) (46) (15)
+00395: (a) The year to date ended September 30, 2026, includes income of approximately $44 million related to a credit card interchange fee litigation settlement, net of legal expenses, in which we were a plaintiff. This settlement was recorded to Unallocated Other income.
+00396: 12
+00397: Note 7 - Supplemental Balance Sheet Information
+00398: Accounts and Notes Receivable, net
+00399: The Company’s receivables are primarily generated from ongoing business relationships with our franchisees as a result of franchise and lease agreements. Trade receivables consisting of royalties from franchisees are generally due within 30 days of the period in which the corresponding sales occur and are classified as Accounts and notes receivable, net in our Condensed Consolidated Balance Sheets. Accounts and notes receivable, net also includes receivables generated from advertising cooperatives that we consolidate.
+00400: 9/30/2026 12/31/2025
+00401: Accounts and notes receivable, gross $ 693 $ 901
+00402: Allowance for doubtful accounts (54) (60)
+00403: Accounts and notes receivable, net $ 639 $ 841
+00404: Prepaid Expenses and Other Current Assets
+00405: 9/30/2026 12/31/2025
+00406: Income tax receivable
+00407: $ 129 $ 114
+00408: Restricted cash
+00409: 187 192
+00410: Prepaid expenses
+00411: 133 119
+00412: Other current assets
+00413: 111 65
+00414: Prepaid expenses and other current assets
+00415: $ 558 $ 490
+00416: Property, Plant and Equipment, net
+00417: 9/30/2026 12/31/2025
+00418: Property, plant and equipment, gross $ 3,169 $ 3,091
+00419: Accumulated depreciation and amortization (1,531) (1,485)
+00420: Property, plant and equipment, net $ 1,638 $ 1,605
+00421: Other Assets 9/30/2026 12/31/2025
+00422: Operating lease right-of-use assets(a)
+00423: $ 1,197 $ 1,213
+00424: Franchise incentives 172 209
+00425: Other 252 286
+00426: Other assets $ 1,620 $ 1,708
+00427: (a) Non-current operating lease liabilities of $1,154 million and $1,174 million as of September 30, 2026 and December 31, 2025, respectively, are included in Other liabilities and deferred credits in our Condensed Consolidated Balance Sheets.
+00428: During the quarter ended September 30, 2026, we entered into an operating lease that has not yet commenced with estimated future nominal lease payments of approximately $165 million related to the relocation of our Taco Bell and Habit Burger & Grill headquarters. The lease is expected to commence in 2027 with a lease term, excluding renewals, through 2043.
+00429: Reconciliation of Cash and Cash Equivalents for Condensed Consolidated Statements of Cash Flows
+00430: 9/30/2026 12/31/2025
+00431: Cash and cash equivalents as presented in Condensed Consolidated Balance Sheets $ 2,108 $ 709
+00432: Restricted cash included in Prepaid expenses and other current assets(a)
+00433: 187 192
+00434: Restricted cash and restricted cash equivalents included in Other assets(b)
+00435: 4 23
+00436: Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents as presented in Condensed Consolidated Statements of Cash Flows $ 2,299 $ 923
+00437: 13
+00438: (a) Restricted cash within Prepaid expenses and other current assets reflects the cash related to advertising cooperatives which we consolidate that can only be used to settle obligations of the respective cooperatives and cash held in reserve for Taco Bell Securitization interest payments.
+00439: (b) Primarily trust accounts related to our self-insurance program.
+00440: Note 8 - Income Taxes
+00441: Quarter ended Year to date
+00442: 2026 2025 2026 2025
+00443: Income tax provision $ 572 $ 144 $ 335 $ 446
+00444: Effective tax rate 26.1 % 26.7 % 10.3 % 30.3 %
+00445: Our third quarter 2026 effective tax rate was unfavorably impacted by $466 million of tax expense recorded upon the divestitures of the Pizza Hut business. The year to date 2026 effective tax rate also reflected the following favorable factors:
+00446: •A net deferred tax benefit of $359 million recorded in the quarter ended June 30, 2026, reflecting the recognition of certain tax basis in entities that were expected to be sold with the Pizza Hut business. Such recognition was triggered upon entering into definitive agreements during the quarter ended June 30, 2026 to sell Pizza Hut.
+00447: •Tax benefits of $113 million in the year to date ended September 30, 2026, associated with the internal reorganization to consolidate the Pizza Hut legal entities and assets into two isolated ownership structures by aligning the legal ownership, simplifying the organizational footprint and consolidating the Pizza Hut domestic and international businesses. The tax benefits were the result of establishing deferred tax assets associated with a step-up in amortizable tax basis in intellectual property rights that were transferred from subsidiaries in the US to international subsidiaries as well as releasing valuation allowances against tax attributes which will be utilized to partially offset the taxable gains recognized in such transfers.
+00448: •Favorable impacts from newly effective provisions of the One Big Beautiful Bill Act ("OBBBA").
+00449: Our third quarter and year to date 2025 effective tax rate was impacted by the following factors:
+00450: •The impact of recording $3 million and $105 million in the quarter and year to date ended September 30, 2025, respectively, related to a reserve associated with a Mexican subsidiary's ability to utilize certain losses to offset recapture gains triggered by a tax deconsolidation in Mexico in 2009. During the quarter ended March 31, 2025, a Mexican court ruled that such losses could not be utilized to offset the recapture gain. As such, the Company recorded the reserve and continues to record the ongoing foreign exchange and inflationary adjustments associated with the reserve. The Company is appealing the decision and does not expect resolution of this matter within twelve months.
+00451: •As a result of the enactment of the OBBBA, during the quarter ended September 30, 2025 we recorded $90 million of tax expense primarily associated with a change in management's judgment regarding our ability to utilize U.S. foreign tax credit related deferred tax assets prior to their expiration. Of this amount, $76 million related to taxable events and related positions prior to enactment with the remaining $14 million attributable to the post-enactment period.
+00452: •The above unfavorable factors were partially offset by the favorable impact of recognizing $63 million in tax benefit in the quarter ended September 30, 2025, associated with releasing reserves due to the favorable resolution of an audit.
+00453: 14
+00454: Note 9 - Revenue Recognition
+00455: Disaggregation of Total Revenues
+00456: The following tables disaggregate revenue by Concept, for our two most significant markets based on Operating Profit and for all other markets. We believe this disaggregation best reflects the extent to which the nature, amount, timing and uncertainty of our revenues and cash flows are impacted by economic factors.
+00457: Quarter ended 9/30/2026
+00458: KFC Division Taco Bell Division Pizza Hut Division
+00459: Habit Burger & Grill Division
+00460: Total
+00461: U.S.
+00462: Company sales $ 26 $ 350 $ 12 $ 130 $ 518
+00463: Franchise revenues 42 219 51 2 314
+00464: Property revenues 3 8 1 1 12
+00465: Franchise contributions for advertising and other services 11 165 57 1 234
+00466: China
+00467: Franchise revenues 81 — 8 — 90
+00468: Other
+00469: Company sales 248 4 14 — 266
+00470: Franchise revenues 358 19 48 — 426
+00471: Property revenues 12 — — — 12
+00472: Franchise contributions for advertising and other services 165 6 10 — 181
+00473: $ 948 $ 770 $ 202 $ 134 $ 2,054
+00474: Quarter ended 9/30/2025
+00475: KFC Division Taco Bell Division Pizza Hut Division
+00476: Habit Burger & Grill Division
+00477: Total
+00478: U.S.
+00479: Company sales $ 26 $ 296 $ 9 $ 130 $ 461
+00480: Franchise revenues 46 229 59 2 335
+00481: Property revenues 3 8 1 1 13
+00482: Franchise contributions for advertising and other services 11 174 67 1 254
+00483: China
+00484: Franchise revenues 74 — 19 — 93
+00485: Other
+00486: Company sales 234 2 — — 235
+00487: Franchise revenues 325 17 67 — 408
+00488: Property revenues 11 — — — 11
+00489: Franchise contributions for advertising and other services 150 4 18 — 172
+00490: $ 879 $ 730 $ 240 $ 134 $ 1,983
+00491: (a)
+00492: (a) Does not include a charge of $4 million to Unallocated Franchise revenues during the quarter ended September 30, 2025.
+00493: 15
+00494: Year to date 9/30/2026
+00495: KFC Division Taco Bell Division Pizza Hut Division
+00496: Habit Burger & Grill Division
+00497: Total
+00498: U.S.
+00499: Company sales $ 80 $ 1,112 $ 37 $ 390 $ 1,619
+00500: Franchise revenues 127 690 166 6 989
+00501: Property revenues 9 23 3 3 38
+00502: Franchise contributions for advertising and other services 34 515 186 3 739
+00503: China
+00504: Franchise revenues 231 — 46 — 278
+00505: Other
+00506: Company sales 725 11 51 — 787
+00507: Franchise revenues 1,032 53 179 — 1,264
+00508: Property revenues 36 — 1 — 37
+00509: Franchise contributions for advertising and other services 477 15 40 — 532
+00510: $ 2,750 $ 2,420 $ 709 $ 403 $ 6,282
+00511: Year to date 9/30/2025
+00512: KFC Division Taco Bell Division Pizza Hut Division
+00513: Habit Burger & Grill Division
+00514: Total
+00515: U.S.
+00516: Company sales $ 72 $ 843 $ 20 $ 385 $ 1,320
+00517: Franchise revenues 130 664 185 5 985
+00518: Property revenues 9 25 3 2 40
+00519: Franchise contributions for advertising and other services 31 504 203 2 741
+00520: China
+00521: Franchise revenues 209 — 52 — 261
+00522: Other
+00523: Company sales 648 6 — — 654
+00524: Franchise revenues 923 45 195 — 1,163
+00525: Property revenues 32 — 1 — 33
+00526: Franchise contributions for advertising and other services 447 10 51 — 508
+00527: $ 2,501 $ 2,098 $ 710 $ 395 $ 5,704
+00528: (a)
+00529: (a) Does not include a charge of $5 million to Unallocated Franchise revenues during the year to date ended September 30, 2025.
+00530: 16
+00531: Contract Liabilities
+00532: Our contract liabilities are comprised of unamortized upfront fees received from franchisees and are presented within Accounts payable and other current liabilities and Other liabilities and deferred credits in our Condensed Consolidated Balance Sheets. A summary of significant changes to the contract liability balance during 2026 is presented below.
+00533: Deferred Franchise Fees
+00534: Balance at December 31, 2025
+00535: $ 443
+00536: Revenue recognized that was included in unamortized upfront fees received from franchisees at the beginning of the period (62)
+00537: Increase for upfront fees associated with contracts that became effective during the period, net of amounts recognized as revenue during the period 42
+00538: Deferred franchise fees related to Pizza Hut divestitures (see Note 3) (59)
+00539: Balance at September 30, 2026
+00540: $ 363
+00541: We expect to recognize contract liabilities as revenue over the remaining term of the associated franchise agreement as follows:
+00542: Less than 1 year $ 61
+00543: 1 - 2 years 55
+00544: 2 - 3 years 48
+00545: 3 - 4 years 43
+00546: 4 - 5 years 38
+00547: Thereafter 118
+00548: Total $ 363
+00549: 17
+00550: Note 10 - Reportable Operating Segments
+00551: The Company's operating segments maintain separate financial information, and our Chief Operating Decision Maker (“CODM”), the Company's Chief Executive Officer, evaluates the operating segments' operating results on a regular basis in deciding how to allocate resources among the segments and in assessing segment performance. The CODM evaluates the performance of the Company's segments based on Divisional Operating Profit and is involved in determining and reviewing forecasted Divisional Operating Profit as part of the annual plan process. Throughout the year, the CODM considers forecast to actual results and variances on a monthly and quarterly basis to allocate resources for the segments' operations. The CODM also considers this information in determining how to prioritize capital allocation, including investments in restaurant development, technology and human capital, while maintaining a strong and flexible balance sheet, offering a competitive dividend and returning excess cash to shareholders. Our CODM manages assets on a consolidated basis. Accordingly, segment assets are not reported to our CODM or used in his decisions to allocate resources or assess performance of the segments. Therefore, total segment assets and long-lived assets have not been disclosed. The significant expense categories and amounts presented in the tables below align with the segment-level information that is regularly provided to the CODM.
+00552: Quarter ended 9/30/2026
+00553: KFC Division Taco Bell Division Pizza Hut Division Habit Burger & Grill Division Total
+00554: Company Sales
+00555: $ 274 $ 354 $ 26 $ 130 $ 784
+00556: Franchise and property revenues
+00557: 497 245 109 3 854
+00558: Franchise contributions for advertising and other services
+00559: 177 171 67 1 415
+00560: 948 770 202 134 2,054
+00561: Less:
+00562: Company restaurant expenses 240 283 24 122 668
+00563: General and administrative expenses 90 52 43 12 197
+00564: Franchise and property expenses 21 11 18 1 51
+00565: Franchise advertising and other services expense 174 169 69 1 413
+00566: Other (income) expense (2) — (2) — (4)
+00567: Division Operating Profit (Loss)
+00568: $ 425 $ 255 $ 50 $ (1) $ 729
+00569: Unallocated amounts:(a)
+00570: Corporate and unallocated G&A expenses(b)
+00571: $ (108)
+00572: Unallocated Company restaurant expenses(c)
+00573: (11)
+00574: Unallocated Refranchising gain (loss) 22
+00575: Gain on Pizza Hut divestitures 1,683
+00576: Unallocated Other income (expense) 3
+00577: Consolidated Operating Profit 2,317
+00578: Investment income (expense), net —
+00579: Other pension income (expense) (2)
+00580: Interest expense, net (120)
+00581: Income before income taxes $ 2,195
+00582: 18
+00583: Other Segment Disclosures
+00584: KFC Division Taco Bell Division Pizza Hut Division Habit Burger & Grill Division Corporate and Unallocated Total
+00585: Depreciation and Amortization(e)
+00586: $ 13 $ 30 $ 1 $ 7 $ 5 $ 57
+00587: Capital Spending 25 24 2 19 16 87
+00588: Quarter ended 9/30/2025
+00589: KFC Division Taco Bell Division Pizza Hut Division Habit Burger & Grill Division Total
+00590: Company Sales
+00591: $ 259 $ 298 $ 9 $ 130 $ 697
+00592: Franchise and property revenues
+00593: 459 254 146 3 861
+00594: Franchise contributions for advertising and other services
+00595: 161 178 85 1 426
+00596: 879 730 240 134 1,983
+00597: Less:
+00598: Company restaurant expenses 224 227 10 121 583
+00599: General and administrative expenses 92 50 50 13 205
+00600: Franchise and property expenses 15 8 11 1 35
+00601: Franchise advertising and other services expense 160 177 89 1 427
+00602: Other (income) expense — — (4) — (3)
+00603: Division Operating Profit (Loss)
+00604: $ 388 $ 267 $ 84 $ (2) $ 737
+00605: Unallocated amounts:(a)
+00606: Corporate and unallocated G&A expenses(b)
+00607: $ (77)
+00608: Unallocated Company restaurant expenses(c)
+00609: (4)
+00610: Unallocated Franchise and property revenues
+00611: (4)
+00612: Unallocated Refranchising gain (loss) 17
+00613: Unallocated Other income (expense)
+00614: (3)
+00615: Consolidated Operating Profit 666
+00616: Investment income (expense), net
+00617: —
+00618: Other pension income (expense) (1)
+00619: Interest expense, net (124)
+00620: Income before income taxes $ 541
+00621: Other Segment Disclosures
+00622: KFC Division Taco Bell Division Pizza Hut Division Habit Burger & Grill Division Corporate and Unallocated Total
+00623: Depreciation and Amortization(e)
+00624: $ 14 $ 17 $ 6 $ 7 $ 8 $ 50
+00625: Capital Spending
+00626: 34 26 8 14 12 94
+00627: 19
+00628: Year to Date 9/30/2026
+00629: KFC Division Taco Bell Division Pizza Hut Division Habit Burger & Grill Division Total
+00630: Company Sales
+00631: $ 804 $ 1,122 $ 89 $ 390 $ 2,406
+00632: Franchise and property revenues
+00633: 1,435 767 394 9 2,605
+00634: Franchise contributions for advertising and other services
+00635: 511 530 226 3 1,271
+00636: 2,750 2,420 709 403 6,282
+00637: Less:
+00638: Company restaurant expenses 711 860 85 364 2,021
+00639: General and administrative expenses 264 158 159 37 618
+00640: Franchise and property expenses 57 27 49 3 136
+00641: Franchise advertising and other services expense 503 529 240 3 1,276
+00642: Other (income) expense (4) — (8) 8 (4)
+00643: Division Operating Profit (Loss) $ 1,217 $ 846 $ 184 $ (12) $ 2,236
+00644: Unallocated amounts:(a)
+00645: Corporate and unallocated G&A expenses(b)
+00646: $ (332)
+00647: Unallocated Company restaurant expenses(c)
+00648: (36)
+00649: Unallocated Refranchising gain (loss) 24
+00650: Gain on Pizza Hut divestitures 1,683
+00651: Unallocated Other income (expense)(d)
+00652: 42
+00653: Consolidated Operating Profit 3,616
+00654: Investment income (expense), net 6
+00655: Other pension income (expense) (2)
+00656: Interest expense, net (377)
+00657: Income before income taxes $ 3,243
+00658: Other Segment Disclosures
+00659: KFC Division Taco Bell Division Pizza Hut Division Habit Burger & Grill Division Corporate and Unallocated Total
+00660: Depreciation and Amortization(e)
+00661: $ 39 $ 86 $ 12 $ 22 $ 17 $ 177
+00662: Capital Spending 75 85 6 54 41 262
+00663: 20
+00664: Year to Date 9/30/2025
+00665: KFC Division Taco Bell Division Pizza Hut Division Habit Burger & Grill Division Total
+00666: Company Sales
+00667: $ 721 $ 848 $ 20 $ 385 $ 1,974
+00668: Franchise and property revenues
+00669: 1,303 735 436 8 2,482
+00670: Franchise contributions for advertising and other services
+00671: 478 514 255 2 1,249
+00672: 2,501 2,098 710 395 5,704
+00673: Less:
+00674: Company restaurant expenses 635 649 21 352 1,657
+00675: General and administrative expenses 261 148 159 39 607
+00676: Franchise and property expenses 51 22 32 3 107
+00677: Franchise advertising and other services expense 472 510 268 2 1,251
+00678: Other (income) expense 1 — (9) 1 (8)
+00679: Division Operating Profit (Loss)
+00680: $ 1,082 $ 770 $ 239 $ — $ 2,090
+00681: Unallocated amounts:(a)
+00682: Corporate and unallocated G&A expenses(b)
+00683: $ (279)
+00684: Unallocated Company restaurant expenses(c)
+00685: (11)
+00686: Unallocated Franchise and property revenues
+00687: (5)
+00688: Unallocated Refranchising gain (loss) 33
+00689: Unallocated Other income (expense)
+00690: 8
+00691: Consolidated Operating Profit 1,836
+00692: Investment income (expense), net 1
+00693: Other pension income (expense) —
+00694: Interest expense, net (368)
+00695: Income before income taxes $ 1,470
+00696: Other Segment Disclosures
+00697: KFC Division Taco Bell Division Pizza Hut Division Habit Burger & Grill Division Corporate and Unallocated Total
+00698: Depreciation and Amortization(e)
+00699: $ 35 $ 49 $ 15 $ 20 $ 22 $ 139
+00700: Capital Spending
+00701: 71 75 23 32 35 236
+00702: 21
+00703: Revenues by Country(f)
+00704: Quarter ended Year to date
+00705: 2026 2025 2026 2025
+00706: United States $ 1,078 $ 1,063 $ 3,385 $ 3,085
+00707: United Kingdom 264 245 787 683
+00708: Other 712 672 2,110 1,931
+00709: $ 2,054 $ 1,979 $ 6,282 $ 5,699
+00710: (a)Amounts have not been allocated to any segment for performance reporting purposes.
+00711: (b)Corporate and unallocated G&A expenses include charges of $26 million and $107 million in the quarter and year to date ended September 30, 2026, respectively, and $8 million in both the quarter and year to date ended September 30, 2025, related to our Pizza Hut strategic options review. Corporate and unallocated G&A expenses include charges of $5 million and $37 million in the quarter and year to date ended September 30, 2025, respectively, related to our resource optimization program and charges of $3 million during the quarter ended September 30, 2025 and $1 million and $20 million for the years to date ended September 30, 2026 and 2025, respectively, related to our brand headquarters consolidation.
+00712: (c)Unallocated Company restaurant expenses include amortization of reacquired franchise rights.
+00713: (d)Unallocated Other income (expense) includes income of $44 million, net of legal expenses, in the year to date ended September 30, 2026, related to a credit card interchange fee litigation settlement in which we were a plaintiff.
+00714: (e)The amounts of depreciation and amortization disclosed by reportable segment are primarily included within the segment expense captions of Company restaurant expenses and G&A expenses.
+00715: (f)The United States and United Kingdom represented 10% or more of our total revenues for all periods presented.
+00716: 22
+00717: Note 11 - Pension Benefits
+00718: We sponsor qualified and supplemental (non-qualified) noncontributory defined benefit pension plans covering certain full-time salaried and hourly U.S. employees. The most significant of these plans, the YUM Retirement Plan (the “Plan”), is funded. We fund our other U.S. plans as benefits are paid. Our two significant U.S. plans, including the Plan and a supplemental plan, were previously amended such that any salaried employee hired or rehired by YUM after September 30, 2001, is not eligible to participate in those plans. Additionally, these two plans in the U.S. are currently closed to new hourly participants.
+00719: The components of net periodic benefit cost associated with our U.S. pension plans are as follows:
+00720: Quarter ended Year to date
+00721: 2026 2025 2026 2025
+00722: Service cost $ 1 $ 1 $ 3 $ 3
+00723: Interest cost 11 11 32 33
+00724: Expected return on plan assets (13) (13) (37) (40)
+00725: Amortization of net (gain) / loss 1 — 2 1
+00726: Amortization of prior service costs 1 — 1 1
+00727: Net periodic benefit cost (income)
+00728: $ 1 $ (1) $ 1 $ (2)
+00729: Additional loss recognized due to settlements(a)
+00730: $ — $ 2 $ — $ 3
+00731: Special termination benefits $ 2 $ — $ 2 $ —
+00732: (a)Loss is a result of settlement transactions which exceeded the sum of annual service and interest costs for the applicable plan. This loss was recorded in Other pension (income) expense.
+00733: Note 12 - Short-term Borrowings and Long-term Debt
+00734: Short-term Borrowings 9/30/2026 12/31/2025
+00735: Current maturities of long-term debt $ 2,146 $ 39
+00736: Other
+00737: — 2
+00738: 2,146 41
+00739: Less current portion of debt issuance costs and discounts (5) (3)
+00740: Short-term borrowings $ 2,141 $ 38
+00741: Long-term Debt
+00742: Securitization Notes $ 4,306 $ 4,306
+00743: Subsidiary Senior Unsecured Notes 750 750
+00744: Revolving Facility — 300
+00745: Term Loan A Facility 484 494
+00746: Term Loan B Facility 1,418 1,429
+00747: YUM Senior Unsecured Notes 4,550 4,550
+00748: Finance lease obligations 144 148
+00749: $ 11,653 $ 11,976
+00750: Less long-term portion of debt issuance costs and discounts (48) (66)
+00751: Less current maturities of long-term debt (2,146) (39)
+00752: Long-term debt $ 9,459 $ 11,872
+00753: The Term Loan A Facility and the Revolving Facility will mature on the earliest of (i) April 26, 2029, (ii) the date that is 91 days prior to the March 15, 2028 maturity of the existing Term Loan B Facility if more than $250 million of such Term Loan B remains outstanding as of such date or (iii) the date that is 91 days prior to the June 1, 2027 maturity of the existing Subsidiary Senior Unsecured Notes if more than $250 million of such Subsidiary Senior Unsecured Notes remain outstanding as of such date. Given the $750 million in Subsidiary Senior Unsecured Notes outstanding at September 30, 2026, the maturity date of the
+00754: 23
+00755: Term Loan A Facility and Revolving Facility will occur less than 12 months from the balance sheet date of these Condensed Consolidated Financial Statements if the Company has not paid nor refinanced at least $500 million of the Subsidiary Senior Unsecured Notes 91 days prior to June 1, 2027. As such, the outstanding borrowings of the Term Loan A Facility and the Revolving Facility have been classified as Short-term borrowings in the Condensed Consolidated Balance Sheets as of September 30, 2026.
+00756: Details of our Short-term borrowings and Long-term debt as of December 31, 2025 can be found within our 2025 Form 10-K.
+00757: Cash paid for interest during the years to date ended September 30, 2026 and 2025, was $375 million and $364 million, respectively.
+00758: Note 13 - Derivative Instruments
+00759: We use derivative instruments to manage certain of our market risks related to fluctuations in foreign currency exchange rates, interest rates and deferred compensation liabilities. As a result of the use of derivative instruments, the Company is exposed to risk that the counterparties will fail to meet their contractual obligations. To mitigate the counterparty credit risk, we only enter into contracts with major financial institutions carefully selected based upon their credit ratings and other factors, and continually assess the creditworthiness of counterparties. At September 30, 2026, all of the counterparties to our derivative instruments had investment grade ratings according to the three major ratings agencies. To date, all counterparties have performed in accordance with their contractual obligations.
+00760: Foreign Currency Contracts
+00761: We utilized foreign currency forward contracts with a U.S. dollar notional amount of approximately $75 million to reduce the foreign currency exposure relating to our net investment in certain Indian rupee functional currency operations during the quarter ended September 30, 2026. These forward contracts are designated as a net investment hedge and the related mark-to-market adjustments are being recorded as a cumulative translation adjustment within AOCI. These foreign currency forward contracts did not have a material impact on our Condensed Consolidated Financial Statements for the quarter or year to date ended September 30, 2026.
+00762: Interest Rate Swaps
+00763: We have utilized interest rate swaps to fix the interest rate on $1.5 billion of borrowings, primarily under our Term Loan B Facility, through March 2028. The interest rate swaps have been designated as a cash flow hedge and to date have been highly effective. The current rate on the swapped portion of the Term Loan B Facility (excluding debt issuance costs) is 5.09%.
+00764: Gains or losses on the interest rate swaps are reported as a component of AOCI and reclassified into Interest expense, net in our Condensed Consolidated Statements of Income in the same period or periods during which the related hedged interest payments affect earnings.
+00765: Gains and losses on these interest rate swaps recognized in OCI and reclassifications from AOCI into Net Income were as follows:
+00766: Quarter ended Year to date
+00767: Gains/(Losses) Recognized in OCI (Gains)/Losses Reclassified from AOCI into Net Income Gains/(Losses) Recognized in OCI (Gains)/Losses Reclassified from AOCI into Net Income
+00768: 2026 2025 2026 2025 2026 2025 2026 2025
+00769: Interest rate swaps $ 12 $ 1 $ (1) $ (4) $ 32 $ 7 $ (4) $ (12)
+00770: Income tax benefit/(expense) (3) — — 1 (8) (2) 1 3
+00771: As of September 30, 2026, the estimated net gain included in AOCI related to our interest rate swaps that will be reclassified into earnings in the next 12 months is $15 million, based on current Secured Overnight Financing (“SOFR”) interest rates.
+00772: 24
+00773: Total Return Swaps
+00774: We have entered into total return swap derivative contracts, with the objective of reducing our exposure to market-driven changes in certain of the liabilities associated with compensation deferrals into our Executive Income Deferral (“EID”) plan. While these total return swaps represent economic hedges, we have not designated them as hedges for accounting purposes. As a result, the changes in the fair value of these derivatives are recognized immediately in earnings within General and administrative expenses in our Condensed Consolidated Statements of Income largely offsetting the changes in the associated EID liabilities. The fair value associated with the total return swaps as of both September 30, 2026 and December 31, 2025, was not significant.
+00775: See Note 14 for the fair value of our derivative assets and liabilities.
+00776: Note 14 - Fair Value Disclosures
+00777: As of September 30, 2026, the carrying values of cash and cash equivalents, restricted cash, accounts receivable, short-term borrowings and accounts payable approximated their fair values because of the short-term nature of these instruments. The fair value of our notes receivable, net of allowances, and lease guarantees, less reserves for expected losses, approximates their carrying value. The following table presents the carrying value and estimated fair value of the Company’s debt obligations:
+00778: 9/30/2026 12/31/2025
+00779: Carrying Value Fair Value (Level 2) Carrying Value Fair Value (Level 2)
+00780: Securitization Notes(a)
+00781: $ 4,306 $ 4,134 $ 4,306 $ 4,160
+00782: Subsidiary Senior Unsecured Notes(b)
+00783: 750 756 750 753
+00784: Term Loan A Facility(b)
+00785: 484 483 494 492
+00786: Term Loan B Facility(b)
+00787: 1,418 1,424 1,429 1,440
+00788: YUM Senior Unsecured Notes(b)
+00789: 4,550 4,300 4,550 4,581
+00790: (a) We estimated the fair value of the Securitization Notes using market quotes and calculations. The markets in which the Securitization Notes trade are not considered active markets.
+00791: (b) We estimated the fair value of the YUM and Subsidiary Senior Unsecured Notes, Term Loan A Facility and Term Loan B Facility using market quotes and calculations based on market rates.
+00792: Recurring Fair Value Measurements
+00793: The Company has interest rate swaps which are required to be measured at fair value on a recurring basis (see Note 13 for discussion regarding derivative instruments). The following table presents the fair values for those interest rate swaps measured at fair value on a recurring basis and the level within the fair value hierarchy in which the measurements fall.
+00794: Fair Value
+00795: Condensed Consolidated Balance Sheet Level 9/30/2026 12/31/2025
+00796: Assets
+00797: Interest Rate Swaps Prepaid expenses and other current assets 2 $ 15 $ 1
+00798: Interest Rate Swaps Other assets 2 11 —
+00799: Liabilities
+00800: Interest Rate Swaps Other liabilities and deferred credits 2 — (3)
+00801: The fair value of the Company's interest rate swaps was determined based on the present value of expected future cash flows considering the risks involved, including nonperformance risk, and using discount rates appropriate for the duration based on observable inputs.
+00802: 25
+00803: Note 15 - Contingencies
+00804: Internal Revenue Service Proposed Adjustment
+00805: Following an Internal Revenue Service (“IRS”) audit for the 2013 to 2015 fiscal years, we were unable to resolve underpayments of tax that the IRS proposed resulting from that audit using the IRS Appeals process, a pre-litigation, alternative dispute resolution tool. The IRS asserts an underpayment of tax of approximately $2.1 billion plus $418 million in penalties for fiscal year 2014. Both amounts are subject to interest, with interest of approximately $2.4 billion accruing through September 30, 2026. Those amounts relate primarily to a series of reorganizations that we undertook in 2014 in connection with the business realignment of our corporate and management reporting structure along brand lines. The IRS asserts that these transactions resulted in taxable distributions of approximately $6.0 billion.
+00806: We disagree with the IRS’s position and are contesting that position vigorously. On June 4, 2025, we filed a petition in the United States Tax Court disputing the IRS's position as set forth in a Notice of Deficiency. The IRS filed its Answer on September 12, 2025. The litigation is ongoing.
+00807: The Company does not expect resolution of this matter within twelve months and cannot predict with certainty the timing of such resolution. The Company believes that it is more likely than not the Company’s tax position will be sustained; therefore, no reserve is recorded with respect to this matter.
+00808: An unfavorable resolution of this matter could have a material, adverse impact on our Condensed Consolidated Financial Statements in future periods.
+00809: Lease Guarantees
+00810: As a result of having assigned our interest in obligations under real estate leases as a condition to the refranchising of certain Company-owned restaurants, and guaranteeing certain other leases, we are frequently secondarily liable on lease agreements. These leases have varying terms, the latest of which expires in 2065. As of September 30, 2026, the potential amount of undiscounted payments we could be required to make in the event of non-payment by the primary lessee was approximately $300 million. The present value of these potential payments discounted at our pre-tax cost of debt at September 30, 2026, was approximately $250 million. Our franchisees are the primary lessees under the vast majority of these leases. We generally have cross-default provisions with these franchisees that would put them in default of their franchise agreement in the event of non-payment under the lease. We believe these cross-default provisions significantly reduce the risk that we will be required to make payments under these leases, although such risk may not be reduced in the context of a bankruptcy or other similar restructuring of a large franchisee or group of franchisees. The liability recorded for our expected losses under such leases as of September 30, 2026, was not material.
+00811: Legal Proceedings
+00812: We are subject to various claims and contingencies related to lawsuits, real estate, environmental and other matters arising in the normal course of business. An accrual is recorded with respect to claims or contingencies for which a loss is determined to be probable and reasonably estimable.
+00813: India Regulatory Matter
+00814: Yum! Restaurants India Private Limited (“YRIPL”), a YUM subsidiary that operates KFC restaurants in India and which operated Pizza Hut restaurants in India prior to YUM's divestiture of the Pizza Hut business, is the subject of a regulatory enforcement action in India (the “Action”). The Action alleges, among other things, that certain KFC and Pizza Hut subsidiaries failed to satisfy certain conditions imposed by the Secretariat for Industrial Approval in 1993 and 1994 when those companies were granted permission for foreign investment and operation in India. The conditions at issue include an alleged minimum investment commitment and store build requirements as well as limitations on the remittance of fees outside of India.
+00815: The Action originated with a complaint and show cause notice filed in 2009 against YRIPL by the Deputy Director of the Directorate of Enforcement (“DOE”) of the Indian Ministry of Finance following an income tax audit for the years 2002 and 2003. The matter was argued at various hearings in 2015, but no order was issued. Following a change in the incumbent official holding the position of Special Director of DOE (the “Special Director”), the matter resumed in 2018 and several additional hearings were conducted.
+00816: 26
+00817: On January 29, 2020, the Special Director issued an order imposing a penalty on YRIPL and certain former directors of approximately Indian Rupee 11 billion, or approximately $115 million. Of this amount, $110 million relates to the alleged failure to invest a total of $80 million in India within an initial seven-year period. We have been advised by external counsel that the order is flawed and have filed a writ petition with the Delhi High Court, which granted an interim stay of the penalty order on March 5, 2020. In November 2022, YRIPL was notified that an administrative tribunal bench had been constituted to hear an appeal by DOE of certain findings of the January 2020 order, including claims that certain charges had been wrongly dropped and that an insufficient amount of penalty had been imposed. Hearings before an administrative tribunal as well as the Delhi High Court have been continued and rescheduled, and the stay order remains in effect. We deny liability and intend to continue vigorously defending this matter. We do not consider the risk of any significant loss arising from this order to be probable.
+00818: Other Matters
+00819: We are currently engaged in various other legal proceedings and have certain unresolved claims pending, the ultimate liability for which, if any, cannot be determined at this time. However, based upon consultation with legal counsel, we are of the opinion that such proceedings and claims are not expected to have a material adverse effect, individually or in the aggregate, on our Condensed Consolidated Financial Statements.
+00820: 27
+00821: Item 2.Management’s Discussion and Analysis of Financial Condition and Results of Operations
+00822: Introduction and Overview
+00823: The following Management's Discussion and Analysis (“MD&A”), should be read in conjunction with the unaudited Condensed Consolidated Financial Statements (“Financial Statements”), the Forward-Looking Statements and our Annual Report on Form 10-K for the fiscal year ended December 31, 2025, (“2025 Form 10-K”). All Note references herein refer to the Notes to the Financial Statements. Tabular amounts are displayed in millions of U.S. dollars except per share and unit count amounts, or as otherwise specifically identified. Amounts presented in the Financial Statements, notes thereto and in the tabular presentations in this MD&A are rounded to the nearest underlying whole number in millions in all instances. As a result, some totals and percentages may not recompute based on rounded figures as presented within this MD&A.
+00824: As of September 30, 2026, Yum! Brands, Inc. and its Subsidiaries (collectively referred to herein as the “Company,” “YUM,” “we,” “us” or “our”) franchise or operate a system of over 44,000 restaurants in more than 150 countries and territories, under the concepts of KFC, Taco Bell and The Habit Burger & Grill (collectively, the “Concepts”). The Company’s KFC and Taco Bell brands are global leaders of the chicken and Mexican-inspired food categories, respectively. The Habit Burger & Grill is a fast-casual restaurant concept specializing in made-to-order chargrilled burgers, sandwiches and more. Of the over 44,000 restaurants, 97% are operated by franchisees.
+00825: YUM currently consists of three operating segments:
+00826: •The KFC Division which includes our worldwide operations of the KFC concept
+00827: •The Taco Bell Division which includes our worldwide operations of the Taco Bell concept
+00828: •The Habit Burger & Grill Division which includes our worldwide operations of the Habit Burger & Grill concept
+00829: In 2025, we began a review of strategic options for the Pizza Hut brand. The objective of the review was to create value for YUM, Pizza Hut and its franchisees by determining the optimal approach to best capitalize on Pizza Hut's structural advantages — strong brand equity, experienced franchise partners and meaningful scale — in the highly fragmented pizza market. As a result of this strategic review, during the quarter ended September 30, 2026, we sold the business in two separate transactions with Pizza Hut in mainland China being sold to Yum China Holdings, Inc. ("Yum China"), on August 7, 2026 and Pizza Hut, excluding mainland China ("Pizza Hut Ex-China"), being sold to LongRange Capital, on September 1, 2026. The amounts reported within this MD&A in the quarter and year to date ended September 30, 2026 include the operations of Pizza Hut prior to these sale dates and in the quarter and year to date ended September 30, 2025 include the operations of Pizza Hut for the entirety of those periods.
+00830: As of September 1, 2026, the Company determined it has three reportable segments on a prospective basis as a result of the sale of the Pizza Hut business. The Company has included the results of our divested segment, Pizza Hut Division, through the sale dates in the accompanying Financial Statements, notes thereto and this MD&A for comparability purposes.
+00831: Through our Recipe for Good Growth, our mission is to grow iconic restaurant brands globally that are loved, trusted and connected:
+00832: Loved: We grow by delighting customers with craveable food and a distinctive experience.
+00833: Trusted: We operate responsibly with consistency and efficiency in our restaurants, across our system and in our communities. This includes a commitment to our priorities for social responsibility, risk management and sustainable stewardship of resources.
+00834: Connected: We use our teamwork, technology and global scale to serve every customer, everywhere, anytime.
+00835: In 2026 and beyond, we intend to drive the next chapter of growth for YUM by Raising the B.A.R. through three clear priorities that reflect bold aspirations and a commitment to industry-leading performance:
+00836: •Battle for the future consumer by staying relentlessly focused on their needs and wants.
+00837: •Accelerate restaurant unit economics for our franchisees and maximize performance of every restaurant, serving as a catalyst for new unit development and keeping our franchise system healthy.
+00838: •Reach the full potential of Byte by Yum! by effectively operating, innovating and expanding our connected platform built by restaurant operators for restaurant operators to unlock its full potential for our franchise partners and our business.
+00839: 28
+00840: Key to our success fueling brand performance and franchise success is our unrivaled culture and talent and leading with smart, heart and courage.
+00841: We intend to drive long-term growth and shareholder returns primarily through consistent same-store sales growth and new unit development across all of our Concepts. We intend to support this growth and development through a capital and operating structure that:
+00842: •Invests capital in a manner consistent with an asset light, franchisor model;
+00843: •Allocates G&A in an efficient manner that provides leverage to operating profit growth while at the same time opportunistically investing in strategic growth initiatives;
+00844: •Targets a consolidated net leverage ratio that balances shareholder returns, cost of capital and flexibility against various risk factors; and
+00845: •Maximizes shareholder return through a combination of paying a competitive dividend and returning excess cash flow through share repurchases.
+00846: We intend for this MD&A to provide the reader with information that will assist in understanding our results of operations, including performance metrics that management uses to assess the Company's performance. Throughout this MD&A, we commonly discuss the following performance metrics. Performance metrics presented herein include only amounts related to KFC, Taco Bell and Habit Burger & Grill and do not include any amounts related to Pizza Hut due to the divestitures of the business.
+00847: •Same-store sales growth is the estimated percentage change in system sales of all restaurants that have been open and in the YUM system for one year or more, including those temporarily closed. From time-to-time restaurants may be temporarily closed due to remodeling or image enhancement, rebuilding, natural disasters, health epidemic or pandemic, landlord disputes, boycotts, social or civil unrest or other issues. The system sales of restaurants we deem temporarily closed remain in our base for purposes of determining same-store sales growth and the restaurants remain in our unit count (see below). We believe same-store sales growth is useful to investors because our results are heavily dependent on the results of our Concepts' existing store base. Additionally, same-store sales growth is reflective of the strength of our Brands, the effectiveness of our operational and advertising initiatives and local economic and consumer trends.
+00848: •Gross unit openings reflects new openings by us and our franchisees. Net new unit growth reflects gross unit openings offset by permanent store closures, by us and our franchisees. To determine whether a restaurant meets the definition of a unit we consider whether the restaurant has operations that are ongoing and independent from another YUM unit, serves the primary product of one of our Concepts, operates under a separate franchise agreement (if operated by a franchisee) and has substantial and sustainable sales. We believe gross unit openings and net new unit growth are useful to investors because we depend on new units for a significant portion of our growth. Additionally, gross unit openings and net new unit growth are generally reflective of the economic returns to us and our franchisees from opening and operating our Concept restaurants.
+00849: •System sales and System sales excluding the impacts of foreign currency translation (“FX”) reflect the results of all restaurants regardless of ownership, including Company-owned and franchise restaurants. Sales at franchise restaurants typically generate ongoing franchise and license fees for the Company at a rate of 3% to 6% of sales. Increasingly, customers are paying a fee to a third party to deliver or facilitate the ordering of our Concepts' products. We also include in System sales any portion of the amount customers pay these third parties for which the third party is obligated to pay us a license fee as a percentage of such amount. Franchise restaurant sales and fees paid by customers to third parties to deliver or facilitate the ordering of our Concepts' products are not included in Company sales on the Condensed Consolidated Statements of Income; however, any resulting franchise and license fees we receive are included in the Company's revenues. We believe System sales growth is useful to investors as a significant indicator of the overall strength of our business as it incorporates our primary revenue drivers, Company and franchise same-store sales as well as net new unit growth.
+00850: In addition to the results provided in accordance with Generally Accepted Accounting Principles in the United States of America (“GAAP”), the Company provides the following non-GAAP measurements:
+00851: •Diluted Earnings Per Share excluding Special Items (as defined below);
+00852: 29
+00853: •Effective Tax Rate excluding Special Items;
+00854: •Core Operating Profit. Core Operating Profit excludes Special Items and FX and we use Core Operating Profit for the purposes of evaluating performance internally;
+00855: •Net Income excluding Special Items;
+00856: •Company restaurant profit and Company restaurant margin as a percentage of sales (as defined below).
+00857: These non-GAAP measurements are not intended to replace the presentation of our financial results in accordance with GAAP. Rather, the Company believes that the presentation of these non-GAAP measurements provide additional information to investors to facilitate the comparison of past and present operations.
+00858: Special Items are not included in any of our Division segment results as the Company does not believe they are indicative of our ongoing operations due to their size and/or nature. Our chief operating decision maker does not consider the impact of Special Items when assessing segment performance.
+00859: Company restaurant profit is defined as Company sales less Company restaurant expenses, both of which appear on the face of our Condensed Consolidated Statements of Income. Company restaurant expenses include those expenses incurred directly by our Company-owned restaurants in generating Company sales, including cost of food and paper, cost of restaurant-level labor, rent, depreciation and amortization of restaurant-level assets and advertising expenses incurred by and on behalf of that Company restaurant. Company restaurant margin as a percentage of sales (“Company restaurant margin %”) is defined as Company restaurant profit divided by Company sales. We use Company restaurant profit for the purposes of internally evaluating the performance of our Company-owned restaurants and we believe Company restaurant profit provides useful information to investors as to the profitability of our Company-owned restaurants. In calculating Company restaurant profit, the Company excludes revenues and expenses directly associated with our franchise operations as well as non-restaurant-level costs included in General and administrative expenses, some of which may support Company-owned restaurant operations. The Company also excludes restaurant-level asset impairment and closures expenses, which have historically not been significant, from the determination of Company restaurant profit as such expenses are not believed to be indicative of ongoing operations. Further, while we generally include depreciation and amortization of restaurant-level assets within Divisional Company restaurant expenses used to derive Divisional Company restaurant profit, we record amortization of reacquired franchise rights arising from acquisition accounting within Corporate and unallocated Company restaurant expenses as such amortization is not believed to be indicative of ongoing Divisional results as well as to enhance comparability of acquired stores' margins with those of existing restaurants. Company restaurant profit and Company restaurant margin % as presented may not be comparable to other similarly titled measures of other companies in the industry.
+00860: Certain performance metrics and non-GAAP measurements are presented excluding the impact of FX. These amounts are derived by translating current year results at prior year average exchange rates. We believe the elimination of the FX impact provides better year-to-year comparability without the distortion of foreign currency fluctuations.
+00861: Certain General and administrative expenses allocations between KFC Division and Corporate and Unallocated for the prior periods have been restated to be comparable with the allocations for the quarter and year to date ended September 30, 2026.
+00862: 30
+00863: Results of Operations
+00864: Summary
+00865: All comparisons within this summary are versus the same period a year ago.
+00866: Performance Metrics (excluding Pizza Hut):
+00867: Performance Metrics Third-Quarter % Change Year-to-Date % Change
+00868: System Sales, ex FX Same-Store Sales Units System Sales, ex FX Same-Store Sales Units
+00869: KFC Division +6 +1 +7 +6 +2 +7
+00870: Taco Bell Division (2) (4) +3 +6 +4 +3
+00871: Worldwide +3 Even +7 +6 +2 +7
+00872: Additionally:
+00873: •Gross unit openings for the quarter were 955 units resulting in 732 net new units.
+00874: ◦Gross unit openings for the year to date were 2,359 units resulting in 1,602 net new units.
+00875: Operating Results:
+00876: Reported Results Third-Quarter % Change Year-to-Date % Change
+00877: GAAP Operating Profit Core Operating Profit GAAP Operating Profit Core Operating Profit
+00878: KFC Division +9 +8 +13 +8
+00879: Taco Bell Division (5) (4) +10 +10
+00880: Pizza Hut Division (41) (41) (23) (24)
+00881: Worldwide +248 (4) +97 +2
+00882: Additionally:
+00883: •Foreign currency translation favorably impacted Divisional Operating Profit by $7 million and $48 million for the quarter and year to date ended September 30, 2026, respectively.
+00884: •Excluding the results of Pizza Hut for both 2026 and 2025, Core Operating Profit grew 1% and 6% for the quarter and year to date ended September 30, 2026, respectively.
+00885: •2026 GAAP Operating Profit figures reflect a pre-tax gain of approximately $1.7 billion related to the sales of Pizza Hut.
+00886: Third Quarter Year to date
+00887: 2026 2025 % Change 2026 2025 % Change
+00888: GAAP EPS $5.92 $1.41 +319 $10.51 $3.64 +188
+00889: Less Special Items EPS
+00890: $4.36 $(0.16) NM $5.83 $(0.67) NM
+00891: EPS Excluding Special Items $1.56 $1.58 (1) $4.68 $4.32 +8
+00892: 31
+00893: Worldwide
+00894: GAAP Results
+00895: Quarter ended Year to date
+00896: 2026 2025 % B/(W) 2026 2025 % B/(W)
+00897: Company sales $ 784 $ 697 13 $ 2,406 $ 1,974 22
+00898: Franchise and property revenues 854 857 — 2,605 2,476 5
+00899: Franchise contributions for advertising and other services 415 426 (3) 1,271 1,249 2
+00900: Total revenues 2,054 1,979 4 6,282 5,699 10
+00901: Company restaurant expenses 679 587 (16) 2,057 1,668 (23)
+00902: G&A expenses 305 282 (8) 950 885 (7)
+00903: Franchise and property expenses 51 35 (48) 136 107 (27)
+00904: Franchise advertising and other services expense 413 427 3 1,276 1,251 (2)
+00905: Refranchising (gain) loss (22) (17) 29 (24) (33) (27)
+00906: Other (income) expense (7) (1) NM (46) (15) NM
+00907: Total costs and expenses, net 1,419 1,313 (8) 4,349 3,863 (13)
+00908: Gain on Pizza Hut divestitures 1,683 — N/A 1,683 — N/A
+00909: Operating Profit 2,317 666 248 3,616 1,836 97
+00910: Investment (income) expense, net — — NM (6) (1) NM
+00911: Other pension (income) expense 2 1 (121) 2 — (563)
+00912: Interest expense, net 120 124 4 377 368 (3)
+00913: Income before income taxes 2,195 541 306 3,243 1,470 121
+00914: Income tax provision 572 144 (296) 335 446 25
+00915: Net Income $ 1,623 $ 397 309 $ 2,908 $ 1,024 184
+00916: Diluted EPS(a)
+00917: $ 5.92 $ 1.41 319 $ 10.51 $ 3.64 188
+00918: Effective tax rate 26.1 % 26.7 % 0.6 ppts. 10.3 % 30.3 % 20.0 ppts.
+00919: (a)See Note 4 for the number of shares used in this calculation.
+00920: Performance Metrics (excluding Pizza Hut)
+00921: Unit Count 9/30/2026 9/30/2025 % Increase (Decrease)
+00922: Franchise 43,413 40,826 6
+00923: Company-owned 1,500 1,318 14
+00924: Total 44,913 42,144 7
+00925: Quarter ended Year to date
+00926: 2026 2025 2026 2025
+00927: Same-store Sales Growth % Even 4 2 4
+00928: System Sales Growth %, reported 5 8 8 6
+00929: System Sales Growth %, excluding FX 3 7 6 6
+00930: 32
+00931: Our system sales breakdown by Company and franchise sales was as follows:
+00932: Quarter ended Year to date
+00933: 2026 2025 2026 2025
+00934: Total Divisional
+00935: Company sales(a)
+00936: $ 759 $ 688 $ 2,317 $ 1,954
+00937: Franchise sales 13,750 13,187 40,500 37,557
+00938: System sales 14,508 13,874 42,817 39,511
+00939: Negative (Positive) Foreign Currency Impact(b)
+00940: (190) N/A (1,000) N/A
+00941: System sales, excluding FX $ 14,318 $ 13,874 $ 41,817 $ 39,511
+00942: KFC Division
+00943: Company sales(a)
+00944: $ 274 $ 259 $ 804 $ 721
+00945: Franchise sales 9,772 9,081 28,136 25,681
+00946: System sales 10,046 9,340 28,941 26,401
+00947: Negative (Positive) Foreign Currency Impact(b)
+00948: (191) N/A (980) N/A
+00949: System sales, excluding FX $ 9,855 $ 9,340 $ 27,961 $ 26,401
+00950: Taco Bell Division
+00951: Company sales(a)
+00952: $ 354 $ 298 $ 1,122 $ 848
+00953: Franchise sales 3,938 4,070 12,241 11,775
+00954: System sales 4,292 4,368 13,363 12,623
+00955: Negative (Positive) Foreign Currency Impact(b)
+00956: 1 N/A (20) N/A
+00957: System sales, excluding FX $ 4,293 $ 4,368 $ 13,343 $ 12,623
+00958: Habit Burger & Grill Division
+00959: Company sales(a)
+00960: $ 130 $ 130 $ 390 $ 385
+00961: Franchise sales 40 36 123 101
+00962: System sales 170 166 513 486
+00963: Negative (Positive) Foreign Currency Impact(b)
+00964: — N/A — N/A
+00965: System sales, excluding FX $ 170 $ 166 $ 513 $ 486
+00966: (a)Company sales represents sales from our Company-operated stores as presented on our Condensed Consolidated Statements of Income.
+00967: (b) The foreign currency impact on System sales is presented in relation only to the immediately preceding year presented. When determining applicable System sales growth percentages, the System sales excluding FX for the current year should be compared to the prior year System sales.
+00968: Non-GAAP Items
+00969: Non-GAAP Items, along with the reconciliation to the most comparable GAAP financial measure, as presented below.
+00970: Quarter ended Year to date
+00971: 2026 2025 2026 2025
+00972: Core Operating Profit Growth (Decline) % (4) 7 2 6
+00973: Diluted EPS Growth (Decline) %, excluding Special Items (1) 15 8 11
+00974: Effective Tax Rate excluding Special Items 20.9 % 20.8 % 20.5 % 21.4 %
+00975: Company restaurant profit $ 105 $ 110 $ 349 $ 306
+00976: Company restaurant margin % 13.4 % 15.8 % 14.5 % 15.5 %
+00977: 33
+00978: Reconciliation of GAAP Operating Profit to Core Operating Profit Quarter ended Year to date
+00979: 2026 2025 2026 2025
+00980: Consolidated
+00981: GAAP Operating Profit $ 2,317 $ 666 $ 3,616 $ 1,836
+00982: Detail of Special Items:
+00983: Charges associated with Pizza Hut Strategic Options Review(a)
+00984: 26 8 107 8
+00985: Gain on Pizza Hut divestitures(b)
+00986: (1,683) — (1,683) —
+00987: Charges associated with Brand HQ Consolidation(c)
+00988: — 3 1 20
+00989: Charges associated with Resource Optimization
+00990: — 5 — 37
+00991: Income from Litigation Settlement(d)
+00992: — — (44) —
+00993: German acquisition and Turkey termination-related costs — 1 — 8
+00994: Special Items (Income) Expense - Operating Profit (1,656) 18 (1,618) 73
+00995: Positive Foreign Currency Impact on Division Operating Profit
+00996: (7) N/A (48) N/A
+00997: Core Operating Profit $ 654 $ 684 $ 1,950 $ 1,909
+00998: Special Items as shown above were recorded to the financial statement line items identified below.
+00999: Condensed Consolidated Statements of Income Line Item
+01000: Decrease in Franchise and property revenues
+01001: $ — $ 4 $ — $ 5
+01002: Increase in General and administrative expenses
+01003: 26 14 109 71
+01004: Increase in Gain on Pizza Hut divestitures (1,683) — (1,683) —
+01005: Increase in Other (income) expense
+01006: — — (44) (3)
+01007: Special Items (Income) Expense - Operating Profit $ (1,656) $ 18 $ (1,618) $ 73
+01008: KFC Division
+01009: GAAP Operating Profit $ 425 $ 388 $ 1,217 $ 1,082
+01010: Negative (Positive) Foreign Currency Impact
+01011: (7) N/A (44) N/A
+01012: Core Operating Profit $ 418 $ 388 $ 1,174 $ 1,082
+01013: Taco Bell Division
+01014: GAAP Operating Profit $ 255 $ 267 $ 846 $ 770
+01015: Negative (Positive) Foreign Currency Impact
+01016: — N/A (1) N/A
+01017: Core Operating Profit $ 255 $ 267 $ 846 $ 770
+01018: Pizza Hut Division
+01019: GAAP Operating Profit $ 50 $ 84 $ 184 $ 239
+01020: Negative (Positive) Foreign Currency Impact
+01021: — N/A (4) N/A
+01022: Core Operating Profit $ 50 $ 84 $ 181 $ 239
+01023: Habit Burger & Grill Division
+01024: GAAP Operating Profit (Loss)
+01025: $ (1) $ (2) $ (12) $ —
+01026: Negative (Positive) Foreign Currency Impact
+01027: — N/A — N/A
+01028: Core Operating Profit (Loss) $ (1) $ (2) $ (12) $ —
+01029: Reconciliation of GAAP Net Income to Net Income excluding Special Items
+01030: GAAP Net Income $ 1,623 $ 397 $ 2,908 $ 1,024
+01031: Special Items (Income) Expense - Operating Profit (1,656) 18 (1,618) 73
+01032: Special Items Expense - Other pension (income) expense(b)
+01033: 2 — 2 —
+01034: Special Items Tax Expense(e)
+01035: 459 28 2 116
+01036: Net Income excluding Special Items $ 427 $ 442 $ 1,294 $ 1,214
+01037: 34
+01038: Quarter ended
+01039: Year to date
+01040: 2026 2025 2026 2025
+01041: Reconciliation of Diluted EPS to Diluted EPS excluding Special Items
+01042: Diluted EPS $ 5.92 $ 1.41 $ 10.51 $ 3.64
+01043: Less Special Items Diluted EPS 4.36 (0.16) 5.83 (0.67)
+01044: Diluted EPS excluding Special Items $ 1.56 $ 1.58 $ 4.68 $ 4.32
+01045: Reconciliation of GAAP Effective Tax Rate to Effective Tax Rate excluding Special Items
+01046: GAAP Effective Tax Rate 26.1 % 26.7 % 10.3 % 30.3 %
+01047: Impact on Tax Rate as a result of Special Items 5.2 % 5.9 % (10.2) % 8.9 %
+01048: Effective Tax Rate excluding Special Items 20.9 % 20.8 % 20.5 % 21.4 %
+01049: (a) In 2025, we began a review of strategic options for the Pizza Hut brand which culminated in the quarter ended September 30, 2026 with two separate transactions for the sale of the brand. We recorded charges of $26 million and $107 million during the quarter and year to date ended September 30, 2026, respectively, and charges of $4 million in both the quarter and year to date ended September 30, 2025, to Corporate and unallocated General and administrative expenses, which primarily included third-party advising costs associated with this strategic options review. Additionally in 2025, we wrote off approximately $4 million of franchise incentive assets associated with rationalizing the Pizza Hut estate in preparation for a potential transaction. Given the significance of the costs incurred through the course of this strategic options review, we have reflected such amounts as Special Items.
+01050: (b)During the quarter ended September 30, 2026, we completed the divestiture of the Pizza Hut brand in two transactions. On August 7, 2026, we completed the sale of Pizza Hut in mainland China to Yum China for $1.2 billion in proceeds. On September 1, 2026, we completed the sale of Pizza Hut excluding mainland China to LongRange Capital, a private equity firm, for $1.2 billion of net proceeds. The Pizza Hut divestitures resulted in a pre-tax gain of $1.7 billion, which represented the amount of net consideration received over the carrying value of the net assets and was recorded to Gain on Pizza Hut divestitures in the quarter ended September 30, 2026. Additionally, we incurred charges of $2 million within Other Pension (income) expense associated with an option for certain Pizza Hut employees to voluntarily elect an early payout of their pension benefits in connection with the sales. Due to the nature and size of the divestitures, we have reflected such amounts as Special Items.
+01051: (c)In 2025, we decided to designate two brand headquarters in the U.S., located in Plano, Texas and Irvine, California, to foster greater collaboration among brands and employees. This involved relocating the KFC U.S. corporate office to the KFC Global headquarters and requiring the majority of our U.S.-based remote employees to relocate to an appropriate headquarter office. We also decided to relocate our YUM Corporate headquarters to a new space in Louisville, Kentucky and accordingly, donated our existing space. Costs incurred to date primarily include severance for the employees who chose not to relocate and consultant fees. As a result of these decisions, we recorded charges of approximately $3 million during the quarter ended September 30, 2025, and approximately $1 million and $20 million for the years to date ended September 30, 2026 and 2025, respectively to Corporate and unallocated General and administrative expenses. Due to their scope and size, these charges have been reflected as Special Items.
+01052: (d)During the quarter ended March 31, 2026, we received approximately $44 million, net of legal expenses, related to a credit card interchange fee litigation settlement in which we were a plaintiff. This settlement was recorded to Unallocated Other (income) expense. Due to the nature and size of the settlement, including the years to which the litigation related, it has been reflected as a Special Item within Other income.
+01053: 35
+01054: (e)The below table includes the detail of Special Items Tax (Benefit) Expense:
+01055: Quarter ended Year to date
+01056: 9/30/2026 9/30/2025 9/30/2026 9/30/2025
+01057: Tax (Benefit) on Special Items Expense - Operating Profit $ (7) $ (4) $ (16) $ (18)
+01058: Tax Expense - Income tax impacts from Gain on Pizza Hut divestitures 466 — 107 —
+01059: Tax (Benefit) - Intra-entity transfers and valuations of intellectual property — — (101) —
+01060: Tax Expense - U.S. OBBBA — 76 — 76
+01061: Tax (Benefit) - Tax audit — (47) — (47)
+01062: Tax Expense - Other Income tax impacts recorded as Special
+01063: — — 13 —
+01064: Tax Expense - Foreign tax reserve — 3 — 105
+01065: Special Items Tax Expense $ 459 $ 28 $ 2 $ 116
+01066: Tax (Benefit) on Special Items Expense - Operating Profit was determined by assessing the tax impact of each individual component within Special Items, other than the income tax impacts from Gain on Pizza Hut divestitures which is shown separately, based upon the nature of the item and jurisdictional tax law.
+01067: Tax Expense - Income tax impacts from Gain on Pizza Hut divestitures in the quarter ended September 30, 2026, reflects $466 million of tax expense recorded upon the sales of the Pizza Hut business. The year to date ended September 30, 2026 also reflects a $359 million net deferred tax benefit, reflecting the recognition of certain tax basis in entities expected to be sold with the Pizza Hut business upon entering into definitive agreements during the quarter ended June 30, 2026.
+01068: Tax (Benefit) - Intra-entity transfers and valuations of intellectual property in the year to date ended September 30, 2026, reflects tax benefits of $113 million resulting from an internal reorganization to consolidate our Pizza Hut legal entities and assets into two isolated ownership structures by aligning the legal ownership, simplifying the organizational footprint and consolidating the Pizza Hut domestic and international businesses. As part of this reorganization, certain Pizza Hut intellectual property ("IP") rights from subsidiaries in the U.S. were transferred to international subsidiaries resulting in a step-up in amortizable tax basis of those IP rights. This reorganization began in the fourth quarter of 2025 in connection with our Pizza Hut strategic options review.
+01069: Additionally, Tax (Benefit) - Intra-entity transfers and valuations of intellectual property in the year to date ended September 30, 2026, includes $12 million of tax expense representing an adjustment to the valuation allowance on tax credits previously granted by local Swiss tax authorities in connection with transferred IP rights in Switzerland. Previously recorded impacts associated with this IP transfer were recorded as Special Items.
+01070: Tax Expense - U.S. OBBBA in the quarter and year to date ended September 30, 2025, reflects the tax expense recorded upon the July 4, 2025, enactment of H.R.1, commonly known as the One Big Beautiful Bill Act (“OBBBA”) in the United States. The tax expense was primarily associated with a change in management's judgment regarding our ability to utilize U.S. foreign tax credit related deferred tax assets that existed at the date of enactment and has been reflected as a Special Item due to the size of the non-recurring adjustment necessary upon enactment of the legislation.
+01071: Tax (Benefit) - Tax audit in the quarter and year to date ended September 30, 2025, reflects the benefit associated with the reversal of a reserve due to a favorable audit resolution. Such reserve was established in prior years and was originally recorded as a Special Item.
+01072: Tax Expense - Other Income tax impacts recorded as Special in the year to date ended September 30, 2026, includes a $13 million adjustment to tax expense associated with our decision to exit Russia. Consistent with previously recorded impacts associated with our decision to exit Russia, this adjustment was recorded as a Special Item.
+01073: Tax Expense - Foreign tax reserve in the quarter and year to date ended September 30, 2025, is associated with a reserve, and the related ongoing foreign exchange and inflationary adjustments, associated with a change in management's judgment around a Mexican subsidiary's ability to utilize losses to offset recapture gains triggered by a historical tax deconsolidation in Mexico. This expense was reflected as a Special Item due to its size and the time elapsed since the years to which the reserve relates.
+01074: 36
+01075: Reconciliation of GAAP Operating Profit to Company Restaurant Profit
+01076: Quarter ended 9/30/2026
+01077: KFC Division Taco Bell Division Pizza Hut Division
+01078: Habit Burger & Grill Division
+01079: Corporate and Unallocated Consolidated
+01080: GAAP Operating Profit (Loss) $ 425 $ 255 $ 50 $ (1) $ 1,589 $ 2,317
+01081: Less:
+01082: Franchise and property revenues 497 245 109 3 — 854
+01083: Franchise contributions for advertising and other services 177 171 67 1 — 415
+01084: Gain on Pizza Hut divestitures — — — — 1,683 1,683
+01085: Add:
+01086: General and administrative expenses 90 52 43 12 108 305
+01087: Franchise and property expenses 21 11 18 1 — 51
+01088: Franchise advertising and other services expense 174 169 69 1 — 413
+01089: Refranchising (gain) loss — — — — (22) (22)
+01090: Other (income) expense (2) — (2) — (3) (7)
+01091: Company restaurant profit (loss)
+01092: $ 34 $ 72 $ 2 $ 9 $ (11) $ 105
+01093: Company sales $ 274 $ 354 $ 26 $ 130 $ — $ 784
+01094: Company restaurant margin % 12.3 % 20.2 % 8.4 % 6.6 % N/A 13.4 %
+01095: Quarter ended 9/30/2025
+01096: KFC Division Taco Bell Division Pizza Hut Division
+01097: Habit Burger & Grill Division
+01098: Corporate and Unallocated Consolidated
+01099: GAAP Operating Profit (Loss) $ 388 $ 267 $ 84 $ (2) $ (71) $ 666
+01100: Less:
+01101: Franchise and property revenues 459 254 146 3 (4) 857
+01102: Franchise contributions for advertising and other services 161 178 85 1 — 426
+01103: Add:
+01104: General and administrative expenses 92 50 50 13 77 282
+01105: Franchise and property expenses 15 8 11 1 — 35
+01106: Franchise advertising and other services expense 160 177 89 1 — 427
+01107: Refranchising (gain) loss — — — — (17) (17)
+01108: Other (income) expense — — (4) — 3 (1)
+01109: Company restaurant profit (loss)
+01110: $ 36 $ 71 $ (1) $ 9 $ (4) $ 110
+01111: Company sales $ 259 $ 298 $ 9 $ 130 $ — $ 697
+01112: Company restaurant margin % 13.7 % 23.7 % (12.2) % 7.0 % N/A 15.8 %
+01113: 37
+01114: Year to date 9/30/2026
+01115: KFC Division Taco Bell Division Pizza Hut Division
+01116: Habit Burger & Grill Division
+01117: Corporate and Unallocated Consolidated
+01118: GAAP Operating Profit (Loss) $ 1,217 $ 846 $ 184 $ (12) $ 1,380 $ 3,616
+01119: Less:
+01120: Franchise and property revenues 1,435 767 394 9 — 2,605
+01121: Franchise contributions for advertising and other services 511 530 226 3 — 1,271
+01122: Gain on Pizza Hut divestitures — — — — 1,683 1,683
+01123: Add:
+01124: General and administrative expenses 264 158 159 37 332 950
+01125: Franchise and property expenses 57 27 49 3 — 136
+01126: Franchise advertising and other services expense 503 529 240 3 — 1,276
+01127: Refranchising (gain) loss — — — — (24) (24)
+01128: Other (income) expense (4) — (8) 8 (42) (46)
+01129: Company restaurant profit (loss)
+01130: $ 93 $ 262 $ 3 $ 26 $ (36) $ 349
+01131: Company sales $ 804 $ 1,122 $ 89 $ 390 $ — $ 2,406
+01132: Company restaurant margin % 11.6 % 23.4 % 3.9 % 6.8 % N/A 14.5 %
+01133: Year to date 9/30/2025
+01134: KFC Division Taco Bell Division Pizza Hut Division
+01135: Habit Burger & Grill Division
+01136: Corporate and Unallocated Consolidated
+01137: GAAP Operating Profit (Loss) $ 1,082 $ 770 $ 239 $ — $ (254) $ 1,836
+01138: Less:
+01139: Franchise and property revenues 1,303 735 436 8 (5) 2,476
+01140: Franchise contributions for advertising and other services 478 514 255 2 — 1,249
+01141: Add:
+01142: General and administrative expenses 261 148 159 39 279 885
+01143: Franchise and property expenses 51 22 32 3 — 107
+01144: Franchise advertising and other services expense 472 510 268 2 — 1,251
+01145: Refranchising (gain) loss — — — — (33) (33)
+01146: Other (income) expense 1 — (9) 1 (8) (15)
+01147: Company restaurant profit (loss)
+01148: $ 85 $ 199 $ (2) $ 34 $ (11) $ 306
+01149: Company sales $ 721 $ 848 $ 20 $ 385 $ — $ 1,974
+01150: Company restaurant margin % 11.9 % 23.5 % (9.2) % 8.7 % N/A 15.5 %
+01151: 38
+01152: Items Impacting Reported Results and Reasonably Likely to Impact Future Results
+01153: The following items impacted reported results in 2026 and/or 2025 and/or are reasonably likely to impact future results. See also the Detail of Special Items in this MD&A for other items impacting results in 2026 or 2025.
+01154: Public Health Issue
+01155: Sales at Taco Bell U.S. were negatively impacted in the quarter ended September 30, 2026 by an industry-wide food safety issue. This impact resulted in U.S. same store sales for the quarter of (-4%) and Company restaurant margins in the U.S. of 20.5%. From the low point in July, Taco Bell U.S. same-store sales strengthened week after week, and since the end of September, the brand has returned to outperforming the U.S. quick-service restaurant industry on same-store sales growth. More recently, same-store sales growth for the trailing four weeks ended October 30, 2026 was approximately 3%. Given current sales trends and our projections, we currently expect Taco Bell Division Company restaurant margins for the quarter ended December 31, 2026 in the range of 21.5% to 23.5%.
+01156: Pizza Hut Strategic Options Review & Divestitures
+01157: In 2025, we began a review of strategic options for the Pizza Hut brand. The objective of the review was to create value for YUM, Pizza Hut and its franchisees by determining the optimal approach to best capitalize on Pizza Hut's structural advantages — strong brand equity, experienced franchise partners and meaningful scale — in the highly fragmented pizza market. We incurred certain costs during the quarters and years to date ended September 30, 2026 and 2025 associated with this strategic review (see Detail of Special Items section of this MD&A).
+01158: Additionally, in January 2026, we launched the Hut Forward program that represented a bridge to a longer-term acceleration of the Pizza Hut brand. This program included alignment on a vibrant marketing plan, modernization of certain technology and franchise agreements and a YUM contribution to marketing support, along with the approval of some targeted closures of underperforming units. The YUM contribution for incremental marketing in the quarter ended March 31, 2026 was recognized as advertising expense in the Pizza Hut Division through September 1, 2026.
+01159: On August 7, 2026 and September 1, 2026, we completed the divestitures of Pizza Hut (see Detail of Special Items section of this MD&A).
+01160: 39
+01161: KFC Division
+01162: The KFC Division has 35,421 units, 90% of which are located outside the U.S. Additionally, 99% of the KFC Division units were operated by franchisees as of September 30, 2026.
+01163: Quarter ended Year to date
+01164: % B/(W) % B/(W)
+01165: 2026 2025 Reported Ex FX 2026 2025 Reported Ex FX
+01166: System Sales $ 10,046 $ 9,340 8 6 $ 28,941 $ 26,401 10 6
+01167: Same-Store Sales Growth (Decline) % 1 3 N/A N/A 2 2 N/A N/A
+01168: Company sales $ 274 $ 259 6 4 $ 804 $ 721 12 7
+01169: Franchise and property revenues 497 459 8 7 1,435 1,303 10 7
+01170: Franchise contributions for advertising and other services 177 161 9 8 511 478 7 3
+01171: Total revenues $ 948 $ 879 8 6 $ 2,750 $ 2,501 10 6
+01172: Company restaurant profit $ 34 $ 36 (5) (8) $ 93 $ 85 9 3
+01173: Company restaurant margin % 12.3 % 13.7 % (1.4) ppts. (1.5) ppts. 11.6 % 11.9 % (0.3) ppts. (0.5) ppts.
+01174: G&A expenses $ 90 $ 92 2 2 $ 264 $ 261 (1) 1
+01175: Franchise and property expenses 21 15 (39) (40) 57 51 (12) (10)
+01176: Franchise advertising and other services expense 174 160 (8) (7) 503 472 (7) (2)
+01177: Operating Profit $ 425 $ 388 9 8 $ 1,217 $ 1,082 13 8
+01178: % Increase (Decrease)
+01179: Unit Count 9/30/2026 9/30/2025
+01180: Franchise 34,906 32,463 8
+01181: Company-owned 515 488 6
+01182: Total 35,421 32,951 7
+01183: Company sales and Company restaurant margin %
+01184: The quarterly increase in Company sales, excluding the impacts of foreign currency translation, was driven by unit growth, acquisitions of restaurant from franchisees and Company same-store sales growth of 1%.
+01185: The year to date increase in Company sales, excluding the impacts of foreign currency translation, was driven by Company same-store sales growth of 3%, unit growth and acquisitions of restaurants from franchisees.
+01186: The quarterly and year to date decreases in Company restaurant margin percentage were driven by higher restaurant operating costs and lower margins associated with new builds including Saucy branded restaurants inside the U.S., partially offset by Company same-store sales growth.
+01187: 40
+01188: Franchise and property revenues
+01189: The quarterly and year to date increases in Franchise and property revenues, excluding the impacts of foreign currency translation, were driven by unit growth and franchise same-store sales growth of 1% and 2% for the quarter and year to date, respectively.
+01190: G&A
+01191: The quarterly decrease in G&A, excluding the impacts of foreign currency translation, was driven by lower professional fees.
+01192: The year to date decrease in G&A, excluding the impacts of foreign currency translation, was driven by lower expenses related to our annual incentive compensation programs and lower professional fees, partially offset by higher headcount and salaries.
+01193: Operating Profit
+01194: The quarterly and year to date increases in Operating Profit, excluding the impacts of foreign currency translation, were driven by same-store sales growth and unit growth, partially offset by higher restaurant operating costs and higher bad debt expense.
+01195: Taco Bell Division
+01196: The Taco Bell Division has 9,102 units, 86% of which are in the U.S. The Company owned 8% of the Taco Bell Division units in the U.S. as of September 30, 2026.
+01197: Quarter ended Year to date
+01198: % B/(W) % B/(W)
+01199: 2026 2025 Reported Ex FX 2026 2025 Reported Ex FX
+01200: System Sales $ 4,292 $ 4,368 (2) (2) $ 13,363 $ 12,623 6 6
+01201: Same-Store Sales Growth % (4) 7 N/A N/A 4 7 N/A N/A
+01202: Company sales $ 354 $ 298 19 19 $ 1,122 $ 848 32 32
+01203: Franchise and property revenues 245 254 (3) (3) 767 735 4 4
+01204: Franchise contributions for advertising and other services 171 178 (4) (4) 530 514 3 3
+01205: Total revenues $ 770 $ 730 5 5 $ 2,420 $ 2,098 15 15
+01206: Company restaurant profit $ 72 $ 71 1 1 $ 262 $ 199 31 31
+01207: Company restaurant margin % 20.2 % 23.7 % (3.5)
+01208: ppts.
+01209: (3.5)
+01210: ppts.
+01211: 23.4 % 23.5 % (0.1)
+01212: ppts.
+01213: (0.1)
+01214: ppts.
+01215: G&A expenses $ 52 $ 50 (4) (4) $ 158 $ 148 (7) (7)
+01216: Franchise and property expenses 11 8 (39) (38) 27 22 (23) (22)
+01217: Franchise advertising and other services expense 169 177 5 5 529 510 (4) (4)
+01218: Operating Profit $ 255 $ 267 (5) (4) $ 846 $ 770 10 10
+01219: 41
+01220: % Increase (Decrease)
+01221: Unit Count 9/30/2026 9/30/2025
+01222: Franchise 8,424 8,288 2
+01223: Company-owned 678 528 28
+01224: Total 9,102 8,816 3
+01225: Company sales and Company restaurant margin %
+01226: The quarterly increase in Company sales was driven by acquisitions of restaurants from franchisees and unit growth, offset by a company same-store sales decline of 7%.
+01227: The year to date increase in Company sales was driven by acquisitions of restaurants from franchisees, unit growth and company same-store sales growth of 1%.
+01228: The quarterly restaurant margin percentage decrease was driven by higher labor, higher other restaurant operating costs, commodity inflation (primarily beef) and a same store sales decline, partially offset by the margin percentages of restaurants acquired from franchisees.
+01229: The year to date restaurant margin percentage decrease was driven by higher labor, higher other restaurant operating costs and commodity inflation (primarily beef), partially offset by same store sales growth and the margin percentages of restaurants acquired from franchisees.
+01230: Franchise and property revenues
+01231: The quarterly decrease in Franchise and property revenues was driven by a franchise same-store sales decline of 3% and the impact of our acquisition of restaurants from franchisees, partially offset by unit growth.
+01232: The year to date increase in Franchise and property revenues was driven by franchise same-store sales growth of 4% and unit growth, partially offset by the impact of our acquisition of restaurants from franchisees.
+01233: G&A
+01234: The quarterly increase in G&A was driven by higher legal and professional fees and higher headcounts including headcount associated with operating restaurants acquired from franchisees, partially offset by lower expenses related to our annual incentive compensation programs.
+01235: The year to date increase in G&A was driven by higher headcounts including headcount associated with operating restaurants acquired from franchisees, higher legal and professional fees and higher digital and technology expenses, partially offset by lower expenses related to our annual incentive compensation programs.
+01236: Operating Profit
+01237: The quarterly decrease in Operating Profit was driven by a same store sales decline and higher restaurant operating costs, partially offset by the impact of restaurants acquired from franchisees and unit growth.
+01238: The year to date increase in Operating Profit was driven by same store sales growth, the impact of restaurants acquired from franchisees and unit growth, partially offset by higher restaurant operating costs and higher G&A.
+01239: 42
+01240: Pizza Hut Division
+01241: Quarter ended Year to date
+01242: % B/(W) % B/(W)
+01243: 2026 2025 Reported Ex FX 2026 2025 Reported Ex FX
+01244: Company sales $ 26 $ 9 177 177 $ 89 $ 20 350 343
+01245: Franchise and property revenues 109 146 (25) (25) 394 436 (10) (11)
+01246: Franchise contributions for advertising and other services 67 85 (21) (21) 226 255 (11) (11)
+01247: Total revenues $ 202 $ 240 (16) (16) $ 709 $ 710 — (1)
+01248: Company restaurant profit (loss)
+01249: $ 2 $ (1) 291 290 $ 3 $ (2) 290 287
+01250: Company restaurant margin % 8.4 % (12.2) % 20.6 ppts. 20.6 ppts. 3.9 % (9.2) % 13.1 ppts. 13.1 ppts.
+01251: G&A expenses $ 43 $ 50 14 14 $ 159 $ 159 — 1
+01252: Franchise and property expenses 18 11 (72) (72) 49 32 (53) (52)
+01253: Franchise advertising and other services expense 69 89 22 22 240 268 10 10
+01254: Operating Profit $ 50 $ 84 (41) (41) $ 184 $ 239 (23) (24)
+01255: Pizza Hut Results
+01256: Other than the impact on the quarter and year to date ended September 30, 2026 from only including the operations of Pizza Hut within our results prior to the dates of the divestitures of the business, significant factors impacting the comparability of above results include:
+01257: •Higher Company sales and G&A expenses due to operating restaurants acquired from franchisees.
+01258: •Higher Franchise and property expenses driven by advertising costs associated with the Pizza Hut U.S. Hut Forward program and increased bad debt expense.
+01259: Habit Burger & Grill Division
+01260: The Habit Burger & Grill Division has 390 units, all of which are in the U.S. The Company owned 79% of the Habit Burger & Grill Division units as of September 30, 2026.
+01261: Quarter ended Year to date
+01262: % B/(W) % B/(W)
+01263: 2026 2025 Reported 2026 2025 Reported
+01264: System Sales $ 170 $ 166 3 $ 513 $ 486 5
+01265: Same-Store Sales Growth (Decline) %
+01266: Even 1 N/A 3 (2) N/A
+01267: Total revenues $ 134 $ 134 — $ 403 $ 395 2
+01268: Operating Profit (Loss) $ (1) $ (2) 48 $ (12) $ — NM
+01269: 43
+01270: Unit Count 9/30/2026 9/30/2025 % Increase (Decrease)
+01271: Franchise 83 75 11
+01272: Company-owned 307 302 2
+01273: Total 390 377 3
+01274: Corporate & Unallocated
+01275: Quarter ended Year to date
+01276: (Expense) / Income 2026 2025 % B/(W) 2026 2025 % B/(W)
+01277: Corporate and unallocated G&A $ (108) $ (77) (41) $ (332) $ (279) (19)
+01278: Unallocated Company restaurant expenses
+01279: (11) (4) (146) (36) (11) (225)
+01280: Unallocated Franchise and property revenues
+01281: — (4) NM — (5) NM
+01282: Unallocated Refranchising gain (loss) 22 17 29 24 33 (27)
+01283: Gain on Pizza Hut divestitures (See Note 3) 1,683 — NM 1,683 — NM
+01284: Unallocated Other income (expense) (See Note 6) 3 (3) NM 42 8 NM
+01285: Investment income (expense), net
+01286: — — NM 6 1 NM
+01287: Other pension income (expense)
+01288: (2) (1) (121) (2) — (563)
+01289: Interest expense, net (120) (124) 4 (377) (368) (3)
+01290: Income tax (provision) (See Note 8) (572) (144) (296) (335) (446) 25
+01291: Effective tax rate (See Note 8) 26.1 % 26.7 % 0.6 ppts. 10.3 % 30.3 % 20.0 ppts.
+01292: Corporate and unallocated G&A
+01293: The quarterly and year to date increases in Corporate and Unallocated G&A expense were driven by costs associated with the Pizza Hut Strategic Options Review, partially offset by lapping costs associated with our Resource Optimization Program and Brand Headquarters Consolidation.
+01294: Unallocated Company restaurant expenses
+01295: Unallocated Company restaurant expenses include amortization of reacquired franchise rights. The quarterly and year to date increases were driven by the acquisition of restaurants from franchisees in 2025.
+01296: Interest expense, net
+01297: The quarterly decrease in Interest expense, net was driven by higher interest income, primarily due to interest earned on the proceeds from the divestitures of the Pizza Hut business.
+01298: The year to date increase in Interest expense, net was driven by higher outstanding borrowings.
+01299: Consolidated Cash Flows
+01300: Net cash provided by operating activities was $1,398 million in 2026 versus $1,393 million in 2025. The change was primarily driven by an increase in Operating Profit before Special Items offset by higher income tax payments and higher incentive compensation payments.
+01301: Net cash provided by investing activities was $2,155 million in 2026 versus net cash used in investing activities of $208 million in 2025. The change was primarily driven by current year proceeds from the Pizza Hut divestitures and lower current year spending on franchise restaurant acquisitions, partially offset by lapping maturities of short-term investments in the prior year.
+01302: Net cash used in financing activities was $2,180 million in 2026 versus $822 million in 2025. The change was primarily driven by higher current year share repurchases and current year net debt repayments.
+01303: Consolidated Financial Condition
+01304: 44
+01305: Our Condensed Consolidated Balance Sheet was impacted by the sale of the assets and liabilities associated with the Pizza Hut divestitures (See Note 3). The most significant balance sheet amounts included in the carrying values of the divestitures included Accounts receivable, net, Goodwill, Intangible assets, net, Other assets, Accounts payable and other current liabilities and Other liabilities and deferred credits.
+01306: Liquidity and Capital Resources
+01307: We have historically generated substantial cash flows from our extensive franchise operations, which require a limited YUM investment, and from the operations of our Company-owned stores. Our annual operating cash flows were in excess of $2.0 billion in 2025 and we expect continued strong operating cash flows in 2026. It is our intent to use these operating cash flows to continue to invest in growing our business and pay a competitive dividend, with any remaining excess then returned to shareholders through share repurchases. Subject to market conditions, we expect to maintain our consolidated net leverage ratio at approximately 4.0x Earnings Before Interest, Taxes, Depreciation and Amortization ("EBITDA") over the medium term by issuing incremental debt as our business grows.
+01308: To the extent operating cash flows plus other sources of cash do not cover our anticipated cash needs, we maintain a $1.5 billion Revolving Facility under our Credit Agreement which was undrawn as of September 30, 2026. Borrowings under our Revolving Facility in 2026 had original maturities of three months or less. We believe that our ongoing cash from operations, cash on hand, which was $2.1 billion at September 30, 2026, and availability under our Revolving Facility will be sufficient to fund our cash requirements over the next twelve months.
+01309: During the quarter ended September 30, 2026, we completed our previously announced transactions to sell the Pizza Hut brand for approximately $2.4 billion in net proceeds (see Note 3). A portion of these proceeds was used to pay down $675 million in drawings on the Revolving Facility in the quarter ended September 30, 2026. The majority of the remainder of these proceeds is being used for share repurchases with timing subject to market conditions.
+01310: During the quarter ended September 30, 2026, we entered into an operating lease that has not yet commenced with estimated future nominal lease payments of approximately $165 million related to the relocation of our Taco Bell and Habit Burger & Grill headquarters. The lease is expected to commence in 2027 with a lease term, excluding renewals, through 2043.
+01311: Except as discussed above, there have been no material changes to the disclosures made in Item 7 of the Company's 2025 Form 10-K regarding our material cash requirements. Due to the ongoing significance of our debt obligations, we are providing the update below.
+01312: Debt Obligations and Interest Payments
+01313: As of September 30, 2026, approximately 97%, including the impact of interest rate swaps, of our $11.5 billion of total debt outstanding, excluding the Revolving Facility balance, finance leases and debt issuance costs and discounts, is fixed with an effective overall interest rate of approximately 4.5%. We target a capital structure which we believe provides an attractive balance between optimized interest rates, duration and flexibility with diversified sources of liquidity and maturities spread over multiple years and as mentioned above, we expect to maintain our net leverage ratio at approximately 4.0x EBITDA over the medium term by issuing incremental debt as our business grows. We have credit ratings of BB+ (Standard & Poor's)/Ba2 (Moody's).
+01314: The following table summarizes the future maturities of our outstanding long-term debt, excluding finance leases and debt issuance costs and discounts, as of September 30, 2026.
+01315: 2026 2027 2028 2029 2030 2031 2032 2037 2043 Total
+01316: Securitization Notes $ 884 $ 595 $ 590 $ 1,000 $ 737 $ 500 $ 4,306
+01317: Credit Agreement $ 7 34 1,424 438 1,902
+01318: Revolving Facility — —
+01319: Subsidiary Senior Unsecured Notes 750 750
+01320: YUM Senior Unsecured Notes 800 1,050 2,100 $ 325 $ 275 4,550
+01321: Total $ 7 $ 1,668 $ 2,019 $ 1,027 $ 1,800 $ 1,787 $ 2,600 $ 325 $ 275 $ 11,508
+01322: A Term Loan A Facility that is part of the Credit Agreement and the Revolving Facility will mature on the earliest of (i) April 26, 2029, (ii) the date that is 91 days prior to the March 15, 2028 maturity of the existing Term Loan B Facility if more than $250 million of such Term Loan B Facility remains outstanding as of such date or (iii) the date that is 91 days prior to the June
+01323: 45
+01324: 1, 2027 maturity of the existing Subsidiary Senior Unsecured Notes if more than $250 million of such Subsidiary Senior Unsecured Notes remain outstanding as of such date. Given the $750 million in Subsidiary Senior Unsecured Notes outstanding as of September 30, 2026, the maturity date of the Term Loan A Facility and the Revolving Facility will occur less than 12 months from the balance sheet date of these Condensed Consolidated Financial Statements if the Company has not paid nor refinanced at least $500 million of the Subsidiary Senior Unsecured Notes 91 days prior to June 1, 2027. As such, the outstanding borrowings of the Term Loan A Facility and the Revolving Facility as of September 30, 2026 have been classified as Short-term borrowings in the Condensed Consolidated Balance Sheets as of September 30, 2026. We expect to refinance the $750 million of the existing Subsidiary Senior Unsecured Notes before 91 days prior to June 1, 2027, and as such, the table above reflects the April 26, 2029 anticipated repayment date for the Term Loan A Facility and the Revolving Facility.
+01325: See Note 12 for details on the Securitization Notes, the Credit Agreement, Revolving Facility, Subsidiary Senior Unsecured Notes and YUM Senior Unsecured Notes.
+01326: New Accounting Pronouncements Not Yet Adopted
+01327: In November 2024, the Financial Accounting Standards Board ("FASB") issued ASU 2024-03, Disaggregation of Income Statement Expenses (Subtopic 220-40), which requires new financial statement disclosures disaggregating prescribed expense categories within relevant income statement expense captions. The standard is effective for the Company's Annual Report on Form 10-K for fiscal 2027, and subsequent interim periods, with early adoption permitted. The amendments should be applied prospectively; however, retrospective application is permitted. We are currently evaluating the impact of the standard on our disclosures.
+01328: In September 2025, the FASB issued ASU 2025-06, Intangibles — Goodwill and Other — Internal-Use Software (Subtopic 350-40): Targeted Improvements to the Accounting for Internal-Use Software, which amends certain aspects of the accounting for software costs, including removing software development project stages and requiring companies to capitalize costs when both 1) management authorizes or commits to funding a software project and 2) it is probable that the project will be completed and the software will be used to perform the function intended. The standard is effective for the Company in our first quarter of fiscal 2028, with early adoption permitted and can be applied on a prospective, retrospective or modified prospective basis. We are currently evaluating the impact of the standard on our condensed consolidated financial statements.
+01329: Item 3. Quantitative and Qualitative Disclosures About Market Risk
+01330: There were no material changes during the quarter ended September 30, 2026, to the disclosures made in Item 7A of the Company’s 2025 Form 10-K.
+01331: Item 4. Controls and Procedures
+01332: Evaluation of Disclosure Controls and Procedures
+01333: The Company has evaluated the effectiveness of the design and operation of its disclosure controls and procedures pursuant to Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934 as of the end of the period covered by this report. Based on the evaluation, performed under the supervision and with the participation of the Company’s management, including the Chief Executive Officer (the “CEO”) and the Chief Financial Officer (the “CFO”), the Company’s management, including the CEO and CFO, concluded that the Company’s disclosure controls and procedures were effective as of the end of the period covered by the report.
+01334: Changes in Internal Control
+01335: There were no changes with respect to the Company’s internal control over financial reporting or in other factors that materially affected, or are reasonably likely to materially affect, internal control over financial reporting during the quarter ended September 30, 2026.
+01336: 46
+01337: Forward-Looking Statements
+01338: Forward-looking statements can generally be identified by the fact that they do not relate strictly to historical or current facts and by the use of forward-looking words such as “expect,” “expectation,” “believe,” “anticipate,” “may,” “could,” “intend,” “belief,” “plan,” “estimate,” “target,” “predict,” “likely,” “seek,” “project,” “model,” “ongoing,” “will,” “should,” “forecast,” “outlook” or similar terminology. Forward-looking statements are based on and reflect our current expectations, estimates, assumptions and/or projections, our perception of historical trends and current conditions, as well as other factors that we believe are appropriate and reasonable under the circumstances. Forward-looking statements are neither predictions nor guarantees of future events, circumstances or performance and are inherently subject to known and unknown risks, uncertainties and assumptions that could cause our actual results to differ materially from those indicated by those statements. There can be no assurance that our expectations, estimates, assumptions and/or projections will be achieved. Factors that could cause actual results and events to differ materially from our expectations and forward-looking statements include (i) the factors described in Management’s Discussion and Analysis of Financial Condition and Results of Operations included in Part I, Item 2 of this report, (ii) any risks and uncertainties described in the Risk Factors included in Part II, Item 1A of this report, (iii) the factors described in the Management’s Discussion and Analysis of Financial Condition and Results of Operations included in Part II, Item 7 of our Form 10-K for the year ended December 31, 2025, and (iv) the risks and uncertainties described in the Risk Factors included in Part I, Item 1A of our Form 10-K for the year ended December 31, 2025. You should not place undue reliance on forward-looking statements, which speak only as of the date hereof. We are not undertaking to update any of these statements.
+01339: 47
+01340: Report of Independent Registered Public Accounting Firm
+01341: To the Shareholders and Board of Directors
+01342: Yum! Brands, Inc.:
+01343: Results of Review of Interim Financial Information
+01344: We have reviewed the condensed consolidated balance sheets of Yum! Brands, Inc. and subsidiaries (YUM) as of September 30, 2026, the related condensed consolidated statements of income, comprehensive income, and shareholders’ deficit for the three-month and nine-month periods ended September 30, 2026 and 2025, the related condensed consolidated statements of cash flows for the nine-month periods ended September 30, 2026 and 2025, and the related notes (collectively, the consolidated interim financial information). Based on our reviews, we are not aware of any material modifications that should be made to the consolidated interim financial information for it to be in conformity with U.S. generally accepted accounting principles.
+01345: We have previously audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the consolidated balance sheets of YUM as of December 31, 2025, and the related consolidated statements of income, comprehensive income, cash flows, and shareholders’ deficit for the year then ended (not presented herein); and in our report dated February 20, 2026, we expressed an unqualified opinion on those consolidated financial statements. In our opinion, the information set forth in the accompanying condensed consolidated balance sheets as of December 31, 2025 is fairly stated, in all material respects, in relation to the consolidated balance sheets from which it has been derived.
+01346: Basis for Review Results
+01347: This consolidated interim financial information is the responsibility of YUM’s management. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to YUM in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+01348: We conducted our reviews in accordance with the standards of the PCAOB. A review of consolidated interim financial information consists principally of applying analytical procedures and making inquiries of persons responsible for financial and accounting matters. It is substantially less in scope than an audit conducted in accordance with the standards of the PCAOB, the objective of which is the expression of an opinion regarding the financial statements taken as a whole. Accordingly, we do not express such an opinion.
+01349: /s/ KPMG LLP
+01350: Louisville, Kentucky
+01351: November 6, 2026
+01352: 48
+01353: PART II – OTHER INFORMATION AND SIGNATURES
+01354: Item 1. Legal Proceedings
+01355: Information regarding legal proceedings is incorporated by reference from Note 15 to the Company’s Condensed Consolidated Financial Statements set forth in Part I of this report.
+01356: Item 1A. Risk Factors
+01357: We face a variety of risks that are inherent in our business and our industry, including operational, legal, regulatory and product risks. Such risks could cause our actual results to differ materially from our forward-looking statements, expectations and historical trends. There have been no material changes from the risk factors disclosed in Part I, Item 1A “Risk Factors” in our Annual Report on Form 10-K for the year ended December 31, 2025, except for those as updated in Part II, Item 1A "Risk Factors" in our Quarterly Report on Form 10-Q for the quarter ended June 30, 2026.
+01358: Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+01359: The following table provides information as of September 30, 2026, with respect to shares of Common Stock repurchased by the Company during the quarter then ended:
+01360: Fiscal Periods Total number of shares purchased
+01361: (thousands) Average price paid per share Total number of shares purchased as part of publicly announced plans or programs
+01362: (thousands) Approximate dollar value of shares that may yet be purchased under the plans or programs
+01363: (millions)
+01364: 7/1/26-7/31/26 — $— — $4,389
+01365: 8/1/26-8/31/26 1,892 $149.22 1,892 $4,107
+01366: 9/1/26-9/30/26 1,833 $142.18 1,833 $3,846
+01367: Total 3,725 $145.74 3,725
+01368: In June 2026, our Board of Directors authorized share repurchases of up to $4 billion (excluding applicable transaction fees and excise taxes) of our outstanding Common Stock through June 30, 2028. The new authorization took effect during the quarter ended September 30, 2026 upon the exhaustion of a prior authorization approved in May 2024. As of September 30, 2026, we have remaining capacity to repurchase up to $3.8 billion of Common Stock under the June 2026 authorization.
+01369: Item 5. Other Information
+01370: Securities Trading Plans
+01371: During the three months ended September 30, 2026, none of the Company’s directors or executive officers adopted or terminated any contract, instruction or written plan for the purchase or sale of Company securities that was intended to satisfy the affirmative defense conditions of Rule 10b5-1(c) or any “non-Rule 10b5-1 trading arrangement” as defined in Item 408 (c) of Regulation S-K.
+01372: 49
+01373: Item 6. Exhibits
+01374: (a) Exhibit Index
+01375: Exhibit No. Exhibit Description
+01376: 10.1
+01377: Amended and Restated Master License Agreement, dated as of August 7, 2026, by and between YRI China Franchising, LLC and Yum Restaurants Consulting (Shanghai) Company Limited, which is incorporated by reference from Exhibit 10.1 to YUM's Report on Form 8-K filed on August 7, 2026.
+01378: 10.2
+01379: Guaranty, dated as of August 7, 2026, by Yum China Holdings, Inc., in favor of YRI China Franchising LLC, which is incorporated by reference from Exhibit 10.2 to YUM's Report on Form 8-K filed on August 7, 2026.
+01380: 15
+01381: Letter from KPMG LLP regarding Unaudited Interim Financial Information (Acknowledgement of Independent Registered Public Accounting Firm).
+01382: 31.1
+01383: Certification of the Chief Executive Officer pursuant to Rule 13a-14(a) of Securities Exchange Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+01384: 31.2
+01385: Certification of the Chief Financial Officer pursuant to Rule 13a-14(a) of Securities Exchange Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+01386: 32.1
+01387: Certification of the Chief Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+01388: 32.2
+01389: Certification of the Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+01390: 101.INS XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document.
+01391: 101.SCH XBRL Taxonomy Extension Schema Document
+01392: 101.CAL XBRL Taxonomy Extension Calculation Linkbase Document
+01393: 101.LAB XBRL Taxonomy Extension Label Linkbase Document
+01394: 101.PRE XBRL Taxonomy Extension Presentation Linkbase Document
+01395: 101.DEF XBRL Taxonomy Extension Definition Linkbase Document
+01396: † Indicates a management contract or compensatory plan.
+01397: * Schedules (or similar attachments) have been omitted from this filing pursuant to Item 601(a)(5) of Regulation S-K. The registrant hereby undertakes to furnish supplemental copies of any of the omitted schedules (or similar attachments) upon request by the U.S. Securities and Exchange Commission.
+01398: 50
+01399: SIGNATURES
+01400: Pursuant to the requirement of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, duly authorized officer of the registrant.
+01401: YUM! BRANDS, INC.
+01402: (Registrant)
+01403: Date: November 6, 2026 /s/ David Russell
+01404: Senior Vice President, Finance and Corporate Controller
+01405: (Principal Accounting Officer)
+01406: 51

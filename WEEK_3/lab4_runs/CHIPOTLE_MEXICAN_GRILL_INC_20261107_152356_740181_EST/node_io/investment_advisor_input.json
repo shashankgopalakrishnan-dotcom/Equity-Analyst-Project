@@ -1,0 +1,39 @@
+{
+  "task": "Give a thesis, Buy/Hold/Sell recommendation, and one deciding reported number. Use only the two analyst outputs. A null score is unavailable; do not substitute a number. Recommend Buy only when business evidence is at least 4, financial support is exactly 3, and risk exposure is 3 or below. If any Buy condition is false or unavailable, choose Hold unless the evidence supports Sell.",
+  "context": {
+    "research_analyst_output": {
+      "markdown": "### Business Model\nChipotle Mexican Grill operates company-owned and partner-operated restaurants in the United States, Canada, and international markets, offering a menu of burritos, burrito bowls, quesadillas, tacos, and salads. The company emphasizes serving responsibly sourced, classically cooked, real food with wholesome ingredients without artificial colors, flavors or preservatives [10-K line 00178]. Chipotle’s business model is centered on its ",
+      "scores": {
+        "growth_evidence": 4.0,
+        "competitive_position": 3.0,
+        "risk_exposure": 3.0
+      },
+      "business_score_average": 3.5,
+      "release_opening_paragraph": "00016: NEWPORT BEACH, Calif. – October 28, 2026 – Chipotle Mexican Grill, Inc. (NYSE: CMG) today reported financial results for its third quarter ended September 30, 2026.",
+      "expert_lens_provenance": [
+        "peter_lynch",
+        "warren_buffett"
+      ]
+    },
+    "financial_analyst_output": {
+      "markdown": "# Chipotle Mexican Grill Inc. (CMG) Financial Analysis\n\n## Annual Facts and Ratios\n\n- **Total Revenue**: $11,925.6 million [10-K line 00454]\n- **Income from Operations**: $1,935.8 million [10-K line 00456]\n- **Net Income**: $1,535.8 million [10-K line 00456]\n- **Diluted EPS**: $1.14 [10-K line 00456]\n- **Operating Margin**: 16.23% [calculator result]\n- **Return on Average Equity**: 47.36% [calculator result]\n- **Free Cash Flow**: $1,447.6 million [calculator result]\n\n## Quarterly Revenue and Diluted EPS\n\n- **Latest Quarter Revenue**: $3.3 billion [release line 00027]\n- **Diluted EPS (Latest Quarter)**: $0.27 [release line 00022]\n\n## Peer Margins\n\n- **McDonald's (MCD) TTM Operating Margin**: 46.95% [peer data]\n- **Yum Brands (YUM) TTM Operating Margin**: 49.49% [peer data]\n- **Cava (CAVA) TTM Operating Margin**: 4.86% [peer data]\n\n## Financial Scores\n\n- **Cash Flow Support**: 3 [operating cash flow of $2,113.9 million exceeds net income of $1,535.8 million]\n- **Operating Margin Trend**: 1 [decline of 0.71 percentage points from prior year’s 16.94%]\n- **Debt Trend**: null [no debt reported]\n- **Peer Comparison**: 1 [company's TTM margin of 14.12% is below median peer margin of 46.95%]\n\n## Financial Summary\n\nChipotle Mexican Grill Inc. reported total revenue of $11.9 billion for the year ended December 31, 2025, representing a 5.4% increase from the prior year [10-K line 00454]. Net income was $1.5 billion, with diluted earnings per share of $1.14, up 2.7% from the prior year [10-K line 00456]. The company's operating margin was 16.23%, down from 16.94% in the prior year [calculator result], indicating a declining profitability trend [calculator result].\n\nOperating cash flow for the year reached $2.1 billion, which exceeds net income, suggesting strong cash generation [10-K line 00818]. Free cash flow was calculated at $1.4 billion, reflecting significant capital expenditure of $666.3 million [calculator result].\n\nComparable restaurant sales decreased by 1.7% for the year, with lower transactions (2.9%) partially offset by a 1.2% increase in average check [10-K line 00457]. Digital sales represented 36.7% of total food and beverage revenue [10-K line 00457].\n\nThe company’s TTM operating margin of 14.12% is significantly below the median peer margin of 46.95%, indicating weaker performance relative to its peers [calculator result, peer data]. The company reported no long-term or current debt for the year [10-K line 00000].\n\n## Conclusion\n\nChipotle’s financial performance shows stable revenue growth but declining profitability and operating margin trends. Cash flow generation remains strong, supporting earnings, but the company's margin performance lags behind industry peers.\n\n\nInsight: Comparable restaurant sales decreased 1.7% for the year ended December 31, 2025 [10-K line 00457].",
+      "scores": {
+        "cash_flow_support": 3.0,
+        "operating_margin_trend": 1.0,
+        "debt_trend": null,
+        "peer_comparison": 1.0
+      },
+      "score_validation": {
+        "expected": {
+          "cash_flow_support": 3,
+          "operating_margin_trend": 1,
+          "debt_trend": null,
+          "peer_comparison": 1
+        },
+        "valid": true
+      },
+      "financial_support_score": null
+    }
+  },
+  "expected_output": "Return markdown and copy these externally validated values exactly into scores: {\"business_evidence\": 3.5, \"financial_support\": null, \"risk_exposure\": 3.0}"
+}

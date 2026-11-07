@@ -1,0 +1,1679 @@
+{
+  "task": "First return exactly one mark for EACH entry in insight_claims, even if it has no numeric value. Copy each complete Insight line exactly into claim; check its cited line and meaning. Then audit every other numeric claim in the report. Every claim field must be copied verbatim from one complete line in compiled_report; do not summarize, combine, or invent claims. If no exact report line supports a candidate mark, omit it. Do not audit or reproduce the omitted Investment Advisor thesis. The saved filing texts are numbered excerpts around cited lines, not complete documents: if evidence is missing, mark the claim unsupported rather than guessing. For every XBRL claim, compare its value, tag, accession, and period with saved_facts. For every filing-line citation, confirm the cited numbered line exists in saved_filing_texts and that it states the number for the stated period and definition. Recalculate every ratio from its quoted inputs. If the filing offers more than one definition, mark a ratio unsupported unless its definition is stated. Mark each claim correct, wrong, or unsupported. For each wrong or unsupported claim, give a corrected claim with the actual filing line or XBRL tag and period. Do not add claims or reproduce the source files.",
+  "context": {
+    "insight_claims": [
+      "Insight: (Research Analyst) As of December 31, 2025, we owned 3,938 Chipotle restaurants throughout the United States, and 104 international Chipotle restaurants [10-K line 00179].",
+      "Insight: (Financial Analyst) Comparable restaurant sales decreased 1.7% for the year ended December 31, 2025 [10-K line 00457].",
+      "Insight: (Investment Advisor) ** The company reports strong operating cash flow of $2.1 billion, exceeding net income of $1.5 billion, indicating solid cash generation [10-K line 00818]."
+    ],
+    "compiled_report": "## Overview\n\nChipotle Mexican Grill operates company-owned and partner-operated restaurants in the United States, Canada, and international markets, offering a menu of burritos, burrito bowls, quesadillas, tacos, and salads. The company emphasizes serving responsibly sourced, classically cooked, real food with wholesome ingredients without artificial colors, flavors or preservatives [10-K line 00178]. Chipotle’s business model is centered on its commitment to Food with Integrity, which includes sourcing animal products raised in accordance with established criteria for sustainability and animal welfare, and using responsibly grown produce that meets Food with Integrity standards [10-K line 00188]. The company manages its U.S. operations based on 11 regions and aggregates its operations into one reportable segment [10-K line 00179].\n\n## Market Positioning and Growth Outlook\n\nChipotle’s growth story is supported by disclosed evidence of customer demand and reported progress from new product or market expansion. In the third quarter of 2026, comparable restaurant sales increased 2.1%, demonstrating positive transaction growth for three consecutive quarters [release line 00019]. Additionally, the company opened 84 new company-owned restaurants during the quarter, with 53 including a Chipotlane, indicating strategic expansion and innovation in restaurant format [release line 00024]. These developments support management’s narrative of executing its Recipe for Growth strategy [10-K line 00181].\n\nChipotle holds a competitive position in the fast-casual dining segment, where it differentiates itself by serving high-quality ingredients without artificial flavors, colors, or preservatives and by focusing on animal welfare and environmental sustainability [10-K line 00188]. The company’s brand is rooted in Food with Integrity and its mission to cultivate a better world [10-K line 00178]. While competitors exist in the fast-casual, quick-service, and casual dining segments, Chipotle's focus on quality and ethical sourcing provides a distinct advantage that helps sustain its market presence [10-K line 00245].\n\nChipotle faces several risks, including wage inflation and labor market dynamics that impact its ability to attract and retain qualified employees [10-K line 00597]. The company is also exposed to ingredient and operating cost increases due to inflation, global conflicts, severe weather, tariffs, or trade restrictions [10-K line 00597]. Additionally, supply chain disruptions related to Food with Integrity practices could affect ingredient availability and pricing [10-K line 00190]. The reliance on certain information technology systems and potential cybersecurity incidents pose further operational risks [10-K line 00597].\n\n\n## Valuation Insights\n\n# Chipotle Mexican Grill Inc. (CMG) Financial Analysis\n\n### Annual Facts and Ratios\n- **Revenue**: $11,925,601,000 [filing accession: 0001058090-26-000009, tag: Revenues, period-end: 2025-12-31]\n- **Operating Income**: $1,935,798,000 [filing accession: 0001058090-26-000009, tag: OperatingIncomeLoss, period-end: 2025-12-31]\n- **Net Income**: $1,535,761,000 [filing accession: 0001058090-26-000009, tag: NetIncomeLoss, period-end: 2025-12-31]\n- **Diluted EPS**: $1.14 [filing accession: 0001058090-26-000009, tag: EarningsPerShareDiluted, period-end: 2025-12-31]\n- **Stockholders' Equity**: $2,830,607,000 [filing accession: 0001058090-26-000009, tag: StockholdersEquity, period-end: 2025-12-31]\n- **Long-Term Debt**: $0 [filing accession: 0001058090-26-000009, tag: LongTermDebt, period-end: 2025-12-31]\n- **Cash from Operations**: $2,113,926,000 [filing accession: 0001058090-26-000009, tag: NetCashProvidedByUsedInOperatingActivities, period-end: 2025-12-31]\n- **Additions to Property and Equipment**: $666,336,000 [filing accession: 0001058090-26-000009, tag: PaymentsToAcquirePropertyPlantAndEquipment, period-end: 2025-12-31]\n- Calculator ratios, arithmetic, quarter figures, and peer comparisons are listed in Source-linked desk data.\n\n### Quarterly Revenue and Diluted EPS\n\n- **Latest Quarter Revenue**: $3.3 billion [release line 00027]\n- **Diluted EPS (Latest Quarter)**: $0.27 [release line 00022]\n\n### Peer Margins\n\n- **McDonald's (MCD) TTM Operating Margin**: 46.95% [peer data]\n- **Yum Brands (YUM) TTM Operating Margin**: 49.49% [peer data]\n- **Cava (CAVA) TTM Operating Margin**: 4.86% [peer data]\n\n### Financial Scores\n\n- **Cash Flow Support**: 3 [operating cash flow of $2,113.9 million exceeds net income of $1,535.8 million]\n- **Operating Margin Trend**: 1 [decline of 0.71 percentage points from prior year’s 16.94%]\n- **Debt Trend**: null [no debt reported]\n- **Peer Comparison**: 1 [company's TTM margin of 14.12% is below median peer margin of 46.95%]\n\n### Financial Summary\n\nChipotle Mexican Grill Inc. reported total revenue of $11.9 billion for the year ended December 31, 2025, representing a 5.4% increase from the prior year [10-K line 00454]. Net income was $1.5 billion, with diluted earnings per share of $1.14, up 2.7% from the prior year [10-K line 00456]. The company's operating margin was 16.23%, down from 16.94% in the prior year [calculator result], indicating a declining profitability trend [calculator result].\n\nOperating cash flow for the year reached $2.1 billion, which exceeds net income, suggesting strong cash generation [10-K line 00818]. Free cash flow was calculated at $1.4 billion, reflecting significant capital expenditure of $666.3 million [calculator result].\n\nComparable restaurant sales decreased by 1.7% for the year, with lower transactions (2.9%) partially offset by a 1.2% increase in average check [10-K line 00457]. Digital sales represented 36.7% of total food and beverage revenue [10-K line 00457].\n\nThe company’s TTM operating margin of 14.12% is significantly below the median peer margin of 46.95%, indicating weaker performance relative to its peers [calculator result, peer data]. The company reported no long-term or current debt for the year [10-K line 00000].\n\n### Conclusion\n\nChipotle’s financial performance shows stable revenue growth but declining profitability and operating margin trends. Cash flow generation remains strong, supporting earnings, but the company's margin performance lags behind industry peers.\n\n\n\n\n### Analyst Insights\n\n**Research Analyst**\n\nInsight: (Research Analyst) As of December 31, 2025, we owned 3,938 Chipotle restaurants throughout the United States, and 104 international Chipotle restaurants [10-K line 00179].\n\n**Financial Analyst**\n\nInsight: (Financial Analyst) Comparable restaurant sales decreased 1.7% for the year ended December 31, 2025 [10-K line 00457].\n\n**Investment Advisor**\n\nInsight: (Investment Advisor) ** The company reports strong operating cash flow of $2.1 billion, exceeding net income of $1.5 billion, indicating solid cash generation [10-K line 00818].\n\n### Source-linked desk data\n\nThe values below come from this run's saved SEC facts, calculator outputs, and selected release lines.\n\n| Metric | Value | Unit | Accession | XBRL tag | Period end |\n|---|---:|---|---|---|---|\n| Revenue (current) | $11,925,601,000 | USD | 0001058090-26-000009 | Revenues | 2025-12-31 |\n| Revenue (prior) | $11,313,853,000 | USD | 0001058090-26-000009 | Revenues | 2024-12-31 |\n| Operating Income (current) | $1,935,798,000 | USD | 0001058090-26-000009 | OperatingIncomeLoss | 2025-12-31 |\n| Operating Income (prior) | $1,916,333,000 | USD | 0001058090-26-000009 | OperatingIncomeLoss | 2024-12-31 |\n| Net Income (current) | $1,535,761,000 | USD | 0001058090-26-000009 | NetIncomeLoss | 2025-12-31 |\n| Net Income (prior) | $1,534,110,000 | USD | 0001058090-26-000009 | NetIncomeLoss | 2024-12-31 |\n| Diluted EPS (current) | $1.14 | USD/shares | 0001058090-26-000009 | EarningsPerShareDiluted | 2025-12-31 |\n| Diluted EPS (prior) | $1.11 | USD/shares | 0001058090-26-000009 | EarningsPerShareDiluted | 2024-12-31 |\n| Stockholders' Equity (current) | $2,830,607,000 | USD | 0001058090-26-000009 | StockholdersEquity | 2025-12-31 |\n| Stockholders' Equity (prior) | $3,655,546,000 | USD | 0001058090-26-000009 | StockholdersEquity | 2024-12-31 |\n| Long-Term Debt (current) | $0 | USD | 0001058090-26-000009 | LongTermDebt | 2025-12-31 |\n| Long-Term Debt (prior) | $0 | USD | 0001058090-25-000014 | LongTermDebt | 2024-12-31 |\n| Cash from Operations (current) | $2,113,926,000 | USD | 0001058090-26-000009 | NetCashProvidedByUsedInOperatingActivities | 2025-12-31 |\n| Cash from Operations (prior) | $2,105,076,000 | USD | 0001058090-26-000009 | NetCashProvidedByUsedInOperatingActivities | 2024-12-31 |\n| Additions to Property and Equipment (current) | $666,336,000 | USD | 0001058090-26-000009 | PaymentsToAcquirePropertyPlantAndEquipment | 2025-12-31 |\n| Additions to Property and Equipment (prior) | $593,603,000 | USD | 0001058090-26-000009 | PaymentsToAcquirePropertyPlantAndEquipment | 2024-12-31 |\n\n| Calculator metric | Value | Arithmetic |\n|---|---:|---|\n| Revenue Growth | 5.41% | [arithmetic: (11925601000 / 11313853000) - 1 = 0.054070704295] |\n| Operating Margin | 16.23% | [arithmetic: 1935798000 / 11925601000 = 0.162322888381] |\n| Return on Average Equity | 47.36% | [arithmetic: 1535761000 / ((2830607000 + 3655546000) / 2) = 0.473550654756] |\n| Debt to Equity | unavailable | unavailable |\n| Free Cash Flow | $1,447,590,000 | [arithmetic: 2113926000 - 666336000 = 1447590000] |\n| P/E | unavailable | unavailable |\n\nQuarterly release lines:\n- \"Total revenue in the third quarter of 2026 was $3.3 billion, an increase of 9.6% compared to the third quarter of 2025. The increase was driven by new restaurant openings and, to a lesser extent, comparable restaurant sales. Comparable restaurant sales increased 2.1%, including a 1.3% increase in average check and a 0.8% increase in transactions. Digital sales represented 38.8% of total food and beverage revenue for the three months ended September 30, 2026, an increase from 36.7% for the three months ended September 30, 2025.\" [release line 00027]\n- \"•Diluted earnings per share was $0.27, a 6.9% decrease from $0.29\" [release line 00022]\n- Latest-quarter Total Revenue: $3.3 billion [release line 00027]\n- Latest-quarter Diluted EPS: $0.27 [release line 00022]\n\nPeer facts and margins:\n\n| Peer fact | Value | Unit | Accession | XBRL tag | Period end |\n|---|---:|---|---|---|---|\n| MCD Revenue (current) | $26,885,000,000 | USD | 0000063908-26-000035 | Revenues | 2025-12-31 |\n| MCD Revenue (prior) | $25,920,000,000 | USD | 0000063908-26-000035 | Revenues | 2024-12-31 |\n| MCD Operating Income (current) | $12,393,000,000 | USD | 0000063908-26-000035 | OperatingIncomeLoss | 2025-12-31 |\n| MCD Operating Income (prior) | $11,712,000,000 | USD | 0000063908-26-000035 | OperatingIncomeLoss | 2024-12-31 |\n| MCD Net Income (current) | $8,563,000,000 | USD | 0000063908-26-000035 | NetIncomeLoss | 2025-12-31 |\n| MCD Net Income (prior) | $8,223,000,000 | USD | 0000063908-26-000035 | NetIncomeLoss | 2024-12-31 |\n| MCD Diluted EPS (current) | $11.95 | USD/shares | 0000063908-26-000035 | EarningsPerShareDiluted | 2025-12-31 |\n| MCD Diluted EPS (prior) | $11.39 | USD/shares | 0000063908-26-000035 | EarningsPerShareDiluted | 2024-12-31 |\n| MCD Stockholders' Equity (current) | $-1,791,000,000 | USD | 0000063908-26-000035 | StockholdersEquity | 2025-12-31 |\n| MCD Stockholders' Equity (prior) | $-3,797,000,000 | USD | 0000063908-26-000035 | StockholdersEquity | 2024-12-31 |\n| MCD Long-Term Debt (current) | $39,973,000,000 | USD | 0000063908-26-000035 | LongTermDebtNoncurrent | 2025-12-31 |\n| MCD Long-Term Debt (prior) | $38,424,000,000 | USD | 0000063908-26-000035 | LongTermDebtNoncurrent | 2024-12-31 |\n| MCD Current Portion of Long-Term Debt (current) | $725,000,000 | USD | 0000063908-26-000035 | LongTermDebtCurrent | 2025-12-31 |\n| MCD Current Portion of Long-Term Debt (prior) | $0 | USD | 0000063908-22-000011 | LongTermDebtCurrent | 2021-12-31 |\n| MCD Cash from Operations (current) | $10,551,000,000 | USD | 0000063908-26-000035 | NetCashProvidedByUsedInOperatingActivities | 2025-12-31 |\n| MCD Cash from Operations (prior) | $9,447,000,000 | USD | 0000063908-26-000035 | NetCashProvidedByUsedInOperatingActivities | 2024-12-31 |\n| MCD Additions to Property and Equipment (current) | $3,365,000,000 | USD | 0000063908-26-000035 | PaymentsToAcquirePropertyPlantAndEquipment | 2025-12-31 |\n| MCD Additions to Property and Equipment (prior) | $2,775,000,000 | USD | 0000063908-26-000035 | PaymentsToAcquirePropertyPlantAndEquipment | 2024-12-31 |\n| YUM Revenue (current) | $8,214,000,000 | USD | 0001041061-26-000084 | Revenues | 2025-12-31 |\n| YUM Revenue (prior) | $7,549,000,000 | USD | 0001041061-26-000084 | Revenues | 2024-12-31 |\n| YUM Operating Income (current) | $2,574,000,000 | USD | 0001041061-26-000084 | OperatingIncomeLoss | 2025-12-31 |\n| YUM Operating Income (prior) | $2,403,000,000 | USD | 0001041061-26-000084 | OperatingIncomeLoss | 2024-12-31 |\n| YUM Net Income (current) | $1,559,000,000 | USD | 0001041061-26-000084 | NetIncomeLoss | 2025-12-31 |\n| YUM Net Income (prior) | $1,486,000,000 | USD | 0001041061-26-000084 | NetIncomeLoss | 2024-12-31 |\n| YUM Diluted EPS (current) | $5.55 | USD/shares | 0001041061-26-000084 | EarningsPerShareDiluted | 2025-12-31 |\n| YUM Diluted EPS (prior) | $5.22 | USD/shares | 0001041061-26-000084 | EarningsPerShareDiluted | 2024-12-31 |\n| YUM Stockholders' Equity (current) | $-7,325,000,000 | USD | 0001041061-26-000084 | StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest | 2025-12-31 |\n| YUM Stockholders' Equity (prior) | $-7,648,000,000 | USD | 0001041061-26-000084 | StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest | 2024-12-31 |\n| YUM Current Portion of Long-Term Debt (current) | $39,000,000 | USD | 0001041061-26-000084 | LongTermDebtAndCapitalLeaseObligationsCurrent | 2025-12-31 |\n| YUM Current Portion of Long-Term Debt (prior) | $29,000,000 | USD | 0001041061-26-000084 | LongTermDebtAndCapitalLeaseObligationsCurrent | 2024-12-31 |\n| YUM Cash from Operations (current) | $2,010,000,000 | USD | 0001041061-26-000084 | NetCashProvidedByUsedInOperatingActivities | 2025-12-31 |\n| YUM Cash from Operations (prior) | $1,689,000,000 | USD | 0001041061-26-000084 | NetCashProvidedByUsedInOperatingActivities | 2024-12-31 |\n| YUM Additions to Property and Equipment (current) | $371,000,000 | USD | 0001041061-26-000084 | PaymentsToAcquirePropertyPlantAndEquipment | 2025-12-31 |\n| YUM Additions to Property and Equipment (prior) | $257,000,000 | USD | 0001041061-26-000084 | PaymentsToAcquirePropertyPlantAndEquipment | 2024-12-31 |\n| CAVA Revenue (current) | $1,179,664,000 | USD | 0001628280-26-011296 | RevenueFromContractWithCustomerExcludingAssessedTax | 2025-12-28 |\n| CAVA Revenue (prior) | $963,713,000 | USD | 0001628280-26-011296 | RevenueFromContractWithCustomerExcludingAssessedTax | 2024-12-29 |\n| CAVA Operating Income (current) | $55,285,000 | USD | 0001628280-26-011296 | OperatingIncomeLoss | 2025-12-28 |\n| CAVA Operating Income (prior) | $43,118,000 | USD | 0001628280-26-011296 | OperatingIncomeLoss | 2024-12-29 |\n| CAVA Net Income (current) | $63,743,000 | USD | 0001628280-26-011296 | NetIncomeLoss | 2025-12-28 |\n| CAVA Net Income (prior) | $130,319,000 | USD | 0001628280-26-011296 | NetIncomeLoss | 2024-12-29 |\n| CAVA Diluted EPS (current) | $0.54 | USD/shares | 0001628280-26-011296 | EarningsPerShareDiluted | 2025-12-28 |\n| CAVA Diluted EPS (prior) | $1.10 | USD/shares | 0001628280-26-011296 | EarningsPerShareDiluted | 2024-12-29 |\n| CAVA Stockholders' Equity (current) | $779,656,000 | USD | 0001628280-26-011296 | StockholdersEquity | 2025-12-28 |\n| CAVA Stockholders' Equity (prior) | $695,566,000 | USD | 0001628280-26-011296 | StockholdersEquity | 2024-12-29 |\n| CAVA Cash from Operations (current) | $184,840,000 | USD | 0001628280-26-011296 | NetCashProvidedByUsedInOperatingActivities | 2025-12-28 |\n| CAVA Cash from Operations (prior) | $161,027,000 | USD | 0001628280-26-011296 | NetCashProvidedByUsedInOperatingActivities | 2024-12-29 |\n| CAVA Additions to Property and Equipment (current) | $158,699,000 | USD | 0001628280-26-011296 | PaymentsToAcquirePropertyPlantAndEquipment | 2025-12-28 |\n| CAVA Additions to Property and Equipment (prior) | $108,131,000 | USD | 0001628280-26-011296 | PaymentsToAcquirePropertyPlantAndEquipment | 2024-12-29 |\n\n| Peer margin | Value | Arithmetic |\n|---|---:|---|\n| MCD Operating Margin | 46.10% | [arithmetic: 12393000000 / 26885000000 = 0.46096336247] |\n| YUM Operating Margin | 31.34% | [arithmetic: 2574000000 / 8214000000 = 0.313367421476] |\n| CAVA Operating Margin | 4.69% | [arithmetic: 55285000 / 1179664000 = 0.0468650395367] |\n\nAligned trailing-12-month peer data (annual filings plus current YTD less prior-year YTD where required):\n\n| Measure | Value | Arithmetic | Period | Source basis |\n|---|---:|---|---|---|\n| CMG TTM Revenue | $12,713,477,000 | [arithmetic: 11925601000 + 9729966000 - 8942090000 = 12713477000] | 2025-10-01 to 2026-09-30 | Revenues; 0001058090-26-000009+0001058090-26-000104-0001058090-26-000104 |\n| CMG TTM Operating Income | $1,794,941,000 | [arithmetic: 1935798000 + 1374622000 - 1515479000 = 1794941000] | 2025-10-01 to 2026-09-30 | OperatingIncomeLoss; 0001058090-26-000009+0001058090-26-000104-0001058090-26-000104/0001058090-26-000009+0001058090-26-000104-0001058090-26-000104 |\n| CMG TTM Operating Margin | 14.12% | [arithmetic: 1794941000 / 12713477000 = 0.141184115093] | 2025-10-01 to 2026-09-30 | Same trailing 12-month window |\n| MCD TTM Revenue | $27,782,000,000 | [arithmetic: 26885000000 + 20773000000 - 19876000000 = 27782000000] | 2025-10-01 to 2026-09-30 | Revenues; 0000063908-26-000035+0000063908-26-000083-0000063908-26-000083 |\n| MCD TTM Operating Income | $13,043,000,000 | [arithmetic: 12393000000 + 9887000000 - 9237000000 = 13043000000] | 2025-10-01 to 2026-09-30 | OperatingIncomeLoss; 0000063908-26-000035+0000063908-26-000083-0000063908-26-000083/0000063908-26-000035+0000063908-26-000083-0000063908-26-000083 |\n| MCD TTM Operating Margin | 46.95% | [arithmetic: 13043000000 / 27782000000 = 0.469476639551] | 2025-10-01 to 2026-09-30 | Same trailing 12-month window |\n| YUM TTM Revenue | $8,797,000,000 | [arithmetic: 8214000000 + 6282000000 - 5699000000 = 8797000000] | 2025-10-01 to 2026-09-30 | Revenues; 0001041061-26-000084+0001041061-26-000210-0001041061-26-000210 |\n| YUM TTM Operating Income | $4,354,000,000 | [arithmetic: 2574000000 + 3616000000 - 1836000000 = 4354000000] | 2025-10-01 to 2026-09-30 | OperatingIncomeLoss; 0001041061-26-000084+0001041061-26-000210-0001041061-26-000210/0001041061-26-000084+0001041061-26-000210-0001041061-26-000210 |\n| YUM TTM Operating Margin | 49.49% | [arithmetic: 4354000000 / 8797000000 = 0.494941457315] | 2025-10-01 to 2026-09-30 | Same trailing 12-month window |\n| CAVA TTM Revenue | $1,438,127,000 | [arithmetic: 1179664000 + 1163142000 - 904679000 = 1438127000] | 2025-10-06 to 2026-10-04 | RevenueFromContractWithCustomerExcludingAssessedTax; 0001628280-26-011296+0001628280-26-070344-0001628280-26-070344 |\n| CAVA TTM Operating Income | $69,913,000 | [arithmetic: 55285000 + 67104000 - 52476000 = 69913000] | 2025-10-06 to 2026-10-04 | OperatingIncomeLoss; 0001628280-26-011296+0001628280-26-070344-0001628280-26-070344/0001628280-26-011296+0001628280-26-070344-0001628280-26-070344 |\n| CAVA TTM Operating Margin | 4.86% | [arithmetic: 69913000 / 1438127000 = 0.0486139263083] | 2025-10-06 to 2026-10-04 | Same trailing 12-month window |\n| Peer TTM median operating margin | 46.95% | TTM peer median uses comparable peers ending within 45 days of company TTM end 2026-09-30. | Anchor: 2026-09-30; maximum date difference: 45 days |\n\n## Future Developments and Strategic Recommendations\n\nKey catalysts for Chipotle include continued digital sales growth, which represented 38.8% of total food and beverage revenue in the third quarter of 2026, up from 36.7% in the same period of 2025 [release line 00027]. Additionally, the company's investment in technology to modernize the back-of-house operations and enhance the guest experience through AI and relaunching its Rewards Program contributes to operational efficiency and competitiveness [10-K line 00205]. Expansion into new international markets and increased use of Chipotlanes in new restaurant formats also support future growth [10-K line 00186].\n\nIn the third quarter of 2026, Chipotle reported total revenue of $3.3 billion, an increase of 9.6% year-over-year, driven by new restaurant openings and comparable sales [release line 00018]. The company also saw improvements in food, beverage, and packaging costs as a percentage of total revenue, decreasing to 29.5% from 30.0% in the third quarter of 2025, primarily due to menu price increases and tariff relief [release line 00029]. Furthermore, Chipotle opened five international partner-operated restaurants during the quarter, contributing to its global expansion efforts [release line 00024].\n\n**Strategic monitoring focus:** Track the disclosed catalysts and risks above against the next reported results. This is an analytical monitoring suggestion, not a company forecast.",
+    "saved_filing_texts": {
+      "10k.txt": "00177: General\n00178: Chipotle Mexican Grill, Inc., a Delaware corporation, together with its subsidiaries (“Chipotle,” “we,” “us,” or “our”) owns and operates Chipotle Mexican Grill restaurants, which feature a relevant menu of burritos, burrito bowls (a burrito without the tortilla), quesadillas, tacos, and salads. We strive to cultivate a better world by serving responsibly sourced, classically cooked, real food with wholesome ingredients and without artificial colors, flavors or preservatives. We are passionate about providing a great guest experience and making our food more accessible to everyone while continuing to be a brand with a demonstrated purpose. Our first Chipotle restaurant opened in Denver, Colorado in 1993. Over 30 years later, our devotion to seeking out high-quality ingredients, raised with respect for animals, farmers, and the environment, remains at the core of our commitment to Food with Integrity.\n00179: As of December 31, 2025, we owned 3,938 Chipotle restaurants throughout the United States (“U.S.”) and 104 international Chipotle restaurants. Additionally, we had 14 international partner-operated restaurants. Partner-operated restaurants represent Chipotle restaurants over which Chipotle does not have a controlling financial interest and for which Chipotle does not directly manage day-to-day operations. This includes restaurants operated by third parties pursuant to license or franchise agreements and restaurants in which Chipotle holds a minority, non-controlling ownership interest. We manage our U.S. operations based on 11 regions and aggregate our operations to one reportable segment. Our revenue is derived from sales by our restaurants.\n00180: Business Strategy\n00187: Food with Integrity\n00188: Serving high-quality food at reasonable prices is critical to ensuring guests enjoy wholesome food at a great value. In Chipotle-owned restaurants, we strive to serve only animal products that are raised in accordance with criteria we have established to improve sustainability and promote animal welfare, and without the use of non-therapeutic antibiotics or added growth hormones. We brand our meats as “Responsibly Raised®.” We also seek to use responsibly grown produce, by which we mean produce grown by suppliers whose practices conform to our Food with Integrity standards and our priorities with respect to environmental considerations and employee welfare. For more information about our sustainability and animal welfare initiatives, see our biennial Sustainability Report and interim Update Report on our website www.chipotle.com/sustainability.\n00189: Purchasing\n00190: Maintaining the high levels of quality and safety we demand in our restaurants depends in part on our ability to acquire high-quality, fresh ingredients and other necessary supplies that meet our specifications from reliable suppliers. We work with multiple independently owned and operated regional distribution centers that purchase from various suppliers we carefully select based on the suppliers' understanding of and adherence to our mission and Food with Integrity standards, quality and price availability. We have also sought to increase the number of suppliers for our ingredients to help mitigate pricing volatility and reduce our reliance on one or several suppliers, which could create supply shortages. In addition, we closely monitor industry news, trade tariffs, weather, exchange rates, foreign demand, geopolitical crises and other world events that may affect our ingredient prices or available supply. Certain key ingredients are purchased from a small number of suppliers.\n00181: Chipotle is a brand with a demonstrated purpose of Cultivating a Better World. Our Recipe for Growth strategy leans into what uniquely differentiates Chipotle, with a focus on accelerating growth and sharpening competitiveness. The strategy is grounded in five key areas:\n00182: •Protect and strengthen the core by driving operational and culinary excellence to deliver exceptional value for our guests;\n00183: •Evolve the brand messaging and accelerate menu innovation and new occasions that drive demand into our restaurants;\n00244: Competition\n00245: The fast-casual, quick-service, and casual dining segments of the restaurant industry are highly competitive with respect to, among other things, taste, price, food quality and presentation, customer service, location, convenience, brand reputation, and cleanliness and ambience of each restaurant. Our competition includes a variety of restaurants in each of these segments, including locally-owned restaurants, as well as national and regional chains. Competition from food delivery services, which offer meals from a wide variety of restaurants, also has increased in recent years and is expected to continue to increase. Many of our competitors also offer dine-in, carry-out, online, catering, and delivery services. Among our main competitors are restaurant formats that claim to serve higher quality ingredients without artificial flavors, colors and preservatives, and that serve food quickly and at a reasonable price.\n00246: 7\n00247: Table of Contents\n00596: The effective income tax rate decreased 0.1% for the year ended December 31, 2025 compared to the year ended December 31, 2024, primarily due to increases in U.S. federal income tax credits of 0.3% and lower nondeductible expenses of 0.2%. These decreases were partially offset by a 0.4% reduction in tax benefits related to option exercises and equity vesting.\n00597: Quarterly Financial Data/Seasonality\n00598: Seasonal factors cause our profitability to fluctuate from quarter to quarter. Historically, our average daily restaurant sales and net income are lower in the first and fourth quarters due, in part, to the holiday season and because fewer people eat out during periods of inclement weather (the winter months) than during periods of mild or warm weather (the spring, summer and fall months). Other factors also have a seasonal effect on our results. For example, restaurants located near colleges and universities generally do more business during the academic year. Seasonal factors, however, might be moderated or outweighed by other factors that may influence our quarterly results, such as unexpected publicity impacting our business in a positive or negative way, disease outbreak, epidemic or endemic, the impact of inflation and consumer sentiment on consumer spending, fluctuations in food or packaging costs, the timing of holidays, or the timing of menu price increases or promotional activities and other marketing initiatives. The number of trading days in a quarter can also affect our results, although, on an overall annual basis, changes in trading days do not have a significant impact.\n00599: Our quarterly results are also affected by other factors such as the amount and timing of non-cash stock-based compensation expense and related tax rate impacts, litigation, settlement costs and related legal expenses, impairment charges and non-operating costs, timing of marketing or promotional expenses, the number and timing of new restaurants opened in a quarter, and closure of restaurants. New restaurants typically have higher operating costs following opening because of the expenses associated with their opening and operating inefficiencies in the months immediately following opening. Accordingly, results for a particular quarter are not necessarily indicative of results to be expected for any other quarter or for any year.\n00191: 4\n00192: Table of Contents\n00453: 2025 Financial Highlights, year-over-year:\n00454: •Total revenue increased 5.4% to $11.9 billion\n00455: •Comparable restaurant sales decreased 1.7%\n00456: •Diluted earnings per share was $1.14, a 2.7% increase from $1.11\n00457: Sales Trends. Comparable restaurant sales decreased 1.7% for the year ended December 31, 2025. The decrease is attributable to lower transactions of 2.9%, partially offset by a 1.2% increase in average check. Comparable restaurant sales represent the change in period-over-period total revenue for company-owned restaurants in operation for at least 13 full calendar months. Digital sales represented 36.7% of total food and beverage revenue. For 2026, management is anticipating comparable restaurant sales to be about flat.\n00458: Restaurant Development. During the year ended December 31, 2025, we opened 334 company-owned restaurants, which included 257 restaurants with a Chipotlane. We expect to open approximately 350 to 370 restaurants in 2026, which includes 10 to 15 international partner-operated restaurants. We expect around 80% of our new company-owned restaurants will include a Chipotlane.\n00817: Other long-term liabilities (4,192) 3,258 9,431\n00818: Net cash provided by operating activities 2,113,926 2,105,076 1,783,477\n00819: Investing activities\n00820: Purchases of leasehold improvements, property and equipment (666,336) (593,603) (560,731)\n00459: Partner-Operated Restaurants. During the year ended December 31, 2025, 11 partner-operated restaurants were opened in the Middle East.\n00001: cmg-20251231\n00002: Table of Contents\n00204: Digital Business and Innovation\n00205: Our digital platform continues to be a strategic driver of our growth. Digital sales represent food and beverage revenue for company-owned restaurants generated through the Chipotle website, Chipotle app or third-party delivery aggregators and include revenue deferrals associated with Chipotle Rewards. Digital sales represented 36.7% of food and beverage revenue in 2025, compared to 35.1% in 2024. We have made digital ordering convenient with continued enhancements to our app and by building more Chipotlanes, which is our drive through format for guest pick-up of digital orders. We are also investing in technology and tools to modernize the back of house of our restaurants and to improve the team member experience.\n00206: Human Capital\n00207: At Chipotle, our vision is to cultivate an environment where our employees can thrive and grow into great leaders. We believe in investing and supporting our people because they are our most important asset. As of December 31, 2025, Chipotle employed 130,301 people worldwide and 1,233 contract workers. Of our employees, 127,116 worked in the United States, and 3,185 worked internationally across Canada, France, Germany, and the United Kingdom. Within the U.S., 125,408 employees worked in our restaurants, and 1,708 in our Restaurant Support Centers and Field Leadership. In 2025, nearly all newly promoted General Managers completed training focused on fostering a positive people culture where employees feel supported, heard, and able to grow with Chipotle. There were no union petitions or campaigns in 2025, and we continue to bargain in good faith with the one restaurant that voted in 2022 to form a union.\n00185: •Expand our global reach by scaling with intention through proven, company-owned and partner operated markets, as well as strategic new regions; and\n00186: •Cultivate the best talent in the industry that is energized and focused on speed and agility.",
+      "earnings_release_exhibit_99_1.txt": "00018: •Total revenue increased 9.6% to $3.3 billion\n00019: •Comparable restaurant sales increased 2.1%\n00020: •Operating margin was 13.7%, a decrease from 15.9%\n00021: •Restaurant level operating margin1 was 23.3%, a decrease from 24.5%\n00023: •Adjusted diluted earnings per share1 was $0.27, a 6.9% decrease from $0.29\n00024: •Opened 84 company-owned restaurants, with 53 locations including a Chipotlane. We also opened five international partner-operated restaurants.\n00025: “Three consecutive quarters of positive comparable transaction growth demonstrates that our Recipe for Growth strategy is working,” said Scott Boatwright, Chief Executive Officer, Chipotle. “We're gaining traction with menu and digital innovation, making significant progress on our high-efficiency equipment rollout, and accelerating our global expansion with entry into three new markets this quarter. These achievements reinforce our confidence in the strategy and our ability to execute as we build Chipotle into an iconic global brand.”\n00026: Results for the three months ended September 30, 2026:\n00027: Total revenue in the third quarter of 2026 was $3.3 billion, an increase of 9.6% compared to the third quarter of 2025. The increase was driven by new restaurant openings and, to a lesser extent, comparable restaurant sales. Comparable restaurant sales increased 2.1%, including a 1.3% increase in average check and a 0.8% increase in transactions. Digital sales represented 38.8% of total food and beverage revenue for the three months ended September 30, 2026, an increase from 36.7% for the three months ended September 30, 2025.\n00028: During the third quarter we opened 84 company-owned restaurants, of which 53 included a Chipotlane, and five international partner-operated restaurants. Chipotlanes continue to perform well and are helping enhance guest access and convenience, as well as increase new restaurant sales, margins and returns.\n00029: Food, beverage and packaging costs in the third quarter of 2026 were 29.5% of total revenue, a decrease from 30.0% in the third quarter of 2025. The decrease was primarily driven by the benefit of menu price increases, tariff relief, and favorable limited-time offer mix. These benefits were partially offset by inflation, primarily in beef and freight, and higher protein usage.\n00022: •Diluted earnings per share was $0.27, a 6.9% decrease from $0.29\n00017: Third quarter highlights, year over year:\n00030: 1Restaurant level operating margin, adjusted diluted earnings per share, adjusted net income, adjusted general and administrative expenses, and non-GAAP effective income tax rate are non-GAAP financial measures. Reconciliations to GAAP measures and further information are set forth in the table at the end of this press release.\n00031: Labor costs in the third quarter of 2026 were 25.7% of total revenue, an increase from 25.2% in the third quarter of 2025. The increase was primarily driven by lower sales volumes, higher employee compensation, including wage inflation and performance-based bonuses, additional restaurant labor supporting operational execution including promotional activities, and increased insurance costs. These headwinds were partially offset by the benefit from menu price increases."
+    },
+    "saved_facts": {
+      "ticker": "CMG",
+      "cik": "0001058090",
+      "fiscal_end": "2025-12-31",
+      "values": {
+        "revenue": {
+          "current": {
+            "start": "2025-01-01",
+            "end": "2025-12-31",
+            "val": 11925601000,
+            "accn": "0001058090-26-000009",
+            "fy": 2025,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-02-04",
+            "frame": "CY2025"
+          },
+          "prior": {
+            "start": "2024-01-01",
+            "end": "2024-12-31",
+            "val": 11313853000,
+            "accn": "0001058090-26-000009",
+            "fy": 2025,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-02-04",
+            "frame": "CY2024"
+          }
+        },
+        "operating_income": {
+          "current": {
+            "start": "2025-01-01",
+            "end": "2025-12-31",
+            "val": 1935798000,
+            "accn": "0001058090-26-000009",
+            "fy": 2025,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-02-04",
+            "frame": "CY2025"
+          },
+          "prior": {
+            "start": "2024-01-01",
+            "end": "2024-12-31",
+            "val": 1916333000,
+            "accn": "0001058090-26-000009",
+            "fy": 2025,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-02-04",
+            "frame": "CY2024"
+          }
+        },
+        "net_income": {
+          "current": {
+            "start": "2025-01-01",
+            "end": "2025-12-31",
+            "val": 1535761000,
+            "accn": "0001058090-26-000009",
+            "fy": 2025,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-02-04"
+          },
+          "prior": {
+            "start": "2024-01-01",
+            "end": "2024-12-31",
+            "val": 1534110000,
+            "accn": "0001058090-26-000009",
+            "fy": 2025,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-02-04"
+          }
+        },
+        "diluted_eps": {
+          "current": {
+            "start": "2025-01-01",
+            "end": "2025-12-31",
+            "val": 1.14,
+            "accn": "0001058090-26-000009",
+            "fy": 2025,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-02-04",
+            "frame": "CY2025"
+          },
+          "prior": {
+            "start": "2024-01-01",
+            "end": "2024-12-31",
+            "val": 1.11,
+            "accn": "0001058090-26-000009",
+            "fy": 2025,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-02-04",
+            "frame": "CY2024"
+          }
+        },
+        "equity": {
+          "current": {
+            "end": "2025-12-31",
+            "val": 2830607000,
+            "accn": "0001058090-26-000009",
+            "fy": 2025,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-02-04"
+          },
+          "prior": {
+            "end": "2024-12-31",
+            "val": 3655546000,
+            "accn": "0001058090-26-000009",
+            "fy": 2025,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-02-04"
+          }
+        },
+        "long_term_debt": {
+          "current": {
+            "end": "2025-12-31",
+            "val": 0,
+            "accn": "0001058090-26-000009",
+            "fy": 2025,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-02-04",
+            "frame": "CY2025Q4I"
+          },
+          "prior": {
+            "end": "2024-12-31",
+            "val": 0,
+            "accn": "0001058090-25-000014",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-05",
+            "frame": "CY2024Q4I"
+          }
+        },
+        "current_debt": {
+          "current": null,
+          "prior": null
+        },
+        "cash_from_operations": {
+          "current": {
+            "start": "2025-01-01",
+            "end": "2025-12-31",
+            "val": 2113926000,
+            "accn": "0001058090-26-000009",
+            "fy": 2025,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-02-04",
+            "frame": "CY2025"
+          },
+          "prior": {
+            "start": "2024-01-01",
+            "end": "2024-12-31",
+            "val": 2105076000,
+            "accn": "0001058090-26-000009",
+            "fy": 2025,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-02-04",
+            "frame": "CY2024"
+          }
+        },
+        "capex": {
+          "current": {
+            "start": "2025-01-01",
+            "end": "2025-12-31",
+            "val": 666336000,
+            "accn": "0001058090-26-000009",
+            "fy": 2025,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-02-04",
+            "frame": "CY2025"
+          },
+          "prior": {
+            "start": "2024-01-01",
+            "end": "2024-12-31",
+            "val": 593603000,
+            "accn": "0001058090-26-000009",
+            "fy": 2025,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-02-04",
+            "frame": "CY2024"
+          }
+        }
+      },
+      "tags": {
+        "revenue": "Revenues",
+        "operating_income": "OperatingIncomeLoss",
+        "net_income": "NetIncomeLoss",
+        "diluted_eps": "EarningsPerShareDiluted",
+        "equity": "StockholdersEquity",
+        "long_term_debt": "LongTermDebt",
+        "cash_from_operations": "NetCashProvidedByUsedInOperatingActivities",
+        "capex": "PaymentsToAcquirePropertyPlantAndEquipment"
+      },
+      "units": {
+        "revenue": "USD",
+        "operating_income": "USD",
+        "net_income": "USD",
+        "diluted_eps": "USD/shares",
+        "equity": "USD",
+        "long_term_debt": "USD",
+        "cash_from_operations": "USD",
+        "capex": "USD"
+      },
+      "all_facts_path": "/Users/shashankgopalakrishnan/Documents/Courses/Mastering AI for finance/WEEK_3/lab4_runs/CHIPOTLE_MEXICAN_GRILL_INC_20261107_152356_740181_EST/CMG_companyfacts.json",
+      "ttm": {
+        "available": true,
+        "revenue": 12713477000.0,
+        "operating_income": 1794941000.0,
+        "margin": 0.14118411509298362,
+        "period_start": "2025-10-01",
+        "period_end": "2026-09-30",
+        "period_days": 365,
+        "basis": "latest 10-K + latest 10-Q YTD - comparative 10-Q YTD",
+        "revenue_source": {
+          "val": 12713477000.0,
+          "tag": "Revenues",
+          "start": "2025-10-01",
+          "end": "2026-09-30",
+          "basis": "latest 10-K + latest 10-Q YTD - comparative 10-Q YTD",
+          "annual": {
+            "val": 11925601000,
+            "tag": "Revenues",
+            "start": "2025-01-01",
+            "end": "2025-12-31",
+            "accn": "0001058090-26-000009"
+          },
+          "current_ytd": {
+            "val": 9729966000,
+            "tag": "Revenues",
+            "start": "2026-01-01",
+            "end": "2026-09-30",
+            "accn": "0001058090-26-000104"
+          },
+          "prior_ytd": {
+            "val": 8942090000,
+            "tag": "Revenues",
+            "start": "2025-01-01",
+            "end": "2025-09-30",
+            "accn": "0001058090-26-000104"
+          }
+        },
+        "operating_income_source": {
+          "val": 1794941000.0,
+          "tag": "OperatingIncomeLoss",
+          "start": "2025-10-01",
+          "end": "2026-09-30",
+          "basis": "latest 10-K + latest 10-Q YTD - comparative 10-Q YTD",
+          "annual": {
+            "val": 1935798000,
+            "tag": "OperatingIncomeLoss",
+            "start": "2025-01-01",
+            "end": "2025-12-31",
+            "accn": "0001058090-26-000009"
+          },
+          "current_ytd": {
+            "val": 1374622000,
+            "tag": "OperatingIncomeLoss",
+            "start": "2026-01-01",
+            "end": "2026-09-30",
+            "accn": "0001058090-26-000104"
+          },
+          "prior_ytd": {
+            "val": 1515479000,
+            "tag": "OperatingIncomeLoss",
+            "start": "2025-01-01",
+            "end": "2025-09-30",
+            "accn": "0001058090-26-000104"
+          }
+        }
+      },
+      "peers": [
+        {
+          "ticker": "MCD",
+          "company": "MCDONALDS CORP",
+          "fiscal_end": "2025-12-31",
+          "margin": 0.4609633624697787,
+          "ttm": {
+            "available": true,
+            "revenue": 27782000000.0,
+            "operating_income": 13043000000.0,
+            "margin": 0.4694766395507883,
+            "period_start": "2025-10-01",
+            "period_end": "2026-09-30",
+            "period_days": 365,
+            "basis": "latest 10-K + latest 10-Q YTD - comparative 10-Q YTD",
+            "revenue_source": {
+              "val": 27782000000.0,
+              "tag": "Revenues",
+              "start": "2025-10-01",
+              "end": "2026-09-30",
+              "basis": "latest 10-K + latest 10-Q YTD - comparative 10-Q YTD",
+              "annual": {
+                "val": 26885000000,
+                "tag": "Revenues",
+                "start": "2025-01-01",
+                "end": "2025-12-31",
+                "accn": "0000063908-26-000035"
+              },
+              "current_ytd": {
+                "val": 20773000000,
+                "tag": "Revenues",
+                "start": "2026-01-01",
+                "end": "2026-09-30",
+                "accn": "0000063908-26-000083"
+              },
+              "prior_ytd": {
+                "val": 19876000000,
+                "tag": "Revenues",
+                "start": "2025-01-01",
+                "end": "2025-09-30",
+                "accn": "0000063908-26-000083"
+              }
+            },
+            "operating_income_source": {
+              "val": 13043000000.0,
+              "tag": "OperatingIncomeLoss",
+              "start": "2025-10-01",
+              "end": "2026-09-30",
+              "basis": "latest 10-K + latest 10-Q YTD - comparative 10-Q YTD",
+              "annual": {
+                "val": 12393000000,
+                "tag": "OperatingIncomeLoss",
+                "start": "2025-01-01",
+                "end": "2025-12-31",
+                "accn": "0000063908-26-000035"
+              },
+              "current_ytd": {
+                "val": 9887000000,
+                "tag": "OperatingIncomeLoss",
+                "start": "2026-01-01",
+                "end": "2026-09-30",
+                "accn": "0000063908-26-000083"
+              },
+              "prior_ytd": {
+                "val": 9237000000,
+                "tag": "OperatingIncomeLoss",
+                "start": "2025-01-01",
+                "end": "2025-09-30",
+                "accn": "0000063908-26-000083"
+              }
+            }
+          },
+          "facts": {
+            "ticker": "MCD",
+            "cik": "0000063908",
+            "fiscal_end": "2025-12-31",
+            "values": {
+              "revenue": {
+                "current": {
+                  "start": "2025-01-01",
+                  "end": "2025-12-31",
+                  "val": 26885000000,
+                  "accn": "0000063908-26-000035",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-02-24",
+                  "frame": "CY2025"
+                },
+                "prior": {
+                  "start": "2024-01-01",
+                  "end": "2024-12-31",
+                  "val": 25920000000,
+                  "accn": "0000063908-26-000035",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-02-24",
+                  "frame": "CY2024"
+                }
+              },
+              "operating_income": {
+                "current": {
+                  "start": "2025-01-01",
+                  "end": "2025-12-31",
+                  "val": 12393000000,
+                  "accn": "0000063908-26-000035",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-02-24",
+                  "frame": "CY2025"
+                },
+                "prior": {
+                  "start": "2024-01-01",
+                  "end": "2024-12-31",
+                  "val": 11712000000,
+                  "accn": "0000063908-26-000035",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-02-24",
+                  "frame": "CY2024"
+                }
+              },
+              "net_income": {
+                "current": {
+                  "start": "2025-01-01",
+                  "end": "2025-12-31",
+                  "val": 8563000000,
+                  "accn": "0000063908-26-000035",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-02-24"
+                },
+                "prior": {
+                  "start": "2024-01-01",
+                  "end": "2024-12-31",
+                  "val": 8223000000,
+                  "accn": "0000063908-26-000035",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-02-24"
+                }
+              },
+              "diluted_eps": {
+                "current": {
+                  "start": "2025-01-01",
+                  "end": "2025-12-31",
+                  "val": 11.95,
+                  "accn": "0000063908-26-000035",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-02-24",
+                  "frame": "CY2025"
+                },
+                "prior": {
+                  "start": "2024-01-01",
+                  "end": "2024-12-31",
+                  "val": 11.39,
+                  "accn": "0000063908-26-000035",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-02-24",
+                  "frame": "CY2024"
+                }
+              },
+              "equity": {
+                "current": {
+                  "end": "2025-12-31",
+                  "val": -1791000000,
+                  "accn": "0000063908-26-000035",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-02-24"
+                },
+                "prior": {
+                  "end": "2024-12-31",
+                  "val": -3797000000,
+                  "accn": "0000063908-26-000035",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-02-24"
+                }
+              },
+              "long_term_debt": {
+                "current": {
+                  "end": "2025-12-31",
+                  "val": 39973000000,
+                  "accn": "0000063908-26-000035",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-02-24"
+                },
+                "prior": {
+                  "end": "2024-12-31",
+                  "val": 38424000000,
+                  "accn": "0000063908-26-000035",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-02-24",
+                  "frame": "CY2024Q4I"
+                }
+              },
+              "current_debt": {
+                "current": {
+                  "end": "2025-12-31",
+                  "val": 725000000,
+                  "accn": "0000063908-26-000035",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-02-24",
+                  "frame": "CY2025Q4I"
+                },
+                "prior": {
+                  "end": "2021-12-31",
+                  "val": 0,
+                  "accn": "0000063908-22-000011",
+                  "fy": 2021,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2022-02-24",
+                  "frame": "CY2021Q4I"
+                }
+              },
+              "cash_from_operations": {
+                "current": {
+                  "start": "2025-01-01",
+                  "end": "2025-12-31",
+                  "val": 10551000000,
+                  "accn": "0000063908-26-000035",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-02-24",
+                  "frame": "CY2025"
+                },
+                "prior": {
+                  "start": "2024-01-01",
+                  "end": "2024-12-31",
+                  "val": 9447000000,
+                  "accn": "0000063908-26-000035",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-02-24",
+                  "frame": "CY2024"
+                }
+              },
+              "capex": {
+                "current": {
+                  "start": "2025-01-01",
+                  "end": "2025-12-31",
+                  "val": 3365000000,
+                  "accn": "0000063908-26-000035",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-02-24",
+                  "frame": "CY2025"
+                },
+                "prior": {
+                  "start": "2024-01-01",
+                  "end": "2024-12-31",
+                  "val": 2775000000,
+                  "accn": "0000063908-26-000035",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-02-24",
+                  "frame": "CY2024"
+                }
+              }
+            },
+            "tags": {
+              "revenue": "Revenues",
+              "operating_income": "OperatingIncomeLoss",
+              "net_income": "NetIncomeLoss",
+              "diluted_eps": "EarningsPerShareDiluted",
+              "equity": "StockholdersEquity",
+              "long_term_debt": "LongTermDebtNoncurrent",
+              "current_debt": "LongTermDebtCurrent",
+              "cash_from_operations": "NetCashProvidedByUsedInOperatingActivities",
+              "capex": "PaymentsToAcquirePropertyPlantAndEquipment"
+            },
+            "units": {
+              "revenue": "USD",
+              "operating_income": "USD",
+              "net_income": "USD",
+              "diluted_eps": "USD/shares",
+              "equity": "USD",
+              "long_term_debt": "USD",
+              "current_debt": "USD",
+              "cash_from_operations": "USD",
+              "capex": "USD"
+            },
+            "all_facts_path": "/Users/shashankgopalakrishnan/Documents/Courses/Mastering AI for finance/WEEK_3/lab4_runs/CHIPOTLE_MEXICAN_GRILL_INC_20261107_152356_740181_EST/peers/MCDONALDS_CORP/MCD_companyfacts.json",
+            "ttm": {
+              "available": true,
+              "revenue": 27782000000.0,
+              "operating_income": 13043000000.0,
+              "margin": 0.4694766395507883,
+              "period_start": "2025-10-01",
+              "period_end": "2026-09-30",
+              "period_days": 365,
+              "basis": "latest 10-K + latest 10-Q YTD - comparative 10-Q YTD",
+              "revenue_source": {
+                "val": 27782000000.0,
+                "tag": "Revenues",
+                "start": "2025-10-01",
+                "end": "2026-09-30",
+                "basis": "latest 10-K + latest 10-Q YTD - comparative 10-Q YTD",
+                "annual": {
+                  "val": 26885000000,
+                  "tag": "Revenues",
+                  "start": "2025-01-01",
+                  "end": "2025-12-31",
+                  "accn": "0000063908-26-000035"
+                },
+                "current_ytd": {
+                  "val": 20773000000,
+                  "tag": "Revenues",
+                  "start": "2026-01-01",
+                  "end": "2026-09-30",
+                  "accn": "0000063908-26-000083"
+                },
+                "prior_ytd": {
+                  "val": 19876000000,
+                  "tag": "Revenues",
+                  "start": "2025-01-01",
+                  "end": "2025-09-30",
+                  "accn": "0000063908-26-000083"
+                }
+              },
+              "operating_income_source": {
+                "val": 13043000000.0,
+                "tag": "OperatingIncomeLoss",
+                "start": "2025-10-01",
+                "end": "2026-09-30",
+                "basis": "latest 10-K + latest 10-Q YTD - comparative 10-Q YTD",
+                "annual": {
+                  "val": 12393000000,
+                  "tag": "OperatingIncomeLoss",
+                  "start": "2025-01-01",
+                  "end": "2025-12-31",
+                  "accn": "0000063908-26-000035"
+                },
+                "current_ytd": {
+                  "val": 9887000000,
+                  "tag": "OperatingIncomeLoss",
+                  "start": "2026-01-01",
+                  "end": "2026-09-30",
+                  "accn": "0000063908-26-000083"
+                },
+                "prior_ytd": {
+                  "val": 9237000000,
+                  "tag": "OperatingIncomeLoss",
+                  "start": "2025-01-01",
+                  "end": "2025-09-30",
+                  "accn": "0000063908-26-000083"
+                }
+              }
+            }
+          },
+          "filings": {
+            "10k": {
+              "accessionNumber": "0000063908-26-000035",
+              "filingDate": "2026-02-24",
+              "reportDate": "2025-12-31",
+              "acceptanceDateTime": "2026-02-24T16:12:45.000Z",
+              "act": "34",
+              "form": "10-K",
+              "fileNumber": "001-05231",
+              "filmNumber": "26668393",
+              "items": "",
+              "core_type": "XBRL",
+              "size": 12399291,
+              "isXBRL": 1,
+              "isInlineXBRL": 1,
+              "isXBRLNumeric": null,
+              "primaryDocument": "mcd-20251231.htm",
+              "primaryDocDescription": "FORM 10-K",
+              "accepted": "2026-02-24 11:12:45"
+            },
+            "10q": {
+              "accessionNumber": "0000063908-26-000083",
+              "filingDate": "2026-11-06",
+              "reportDate": "2026-09-30",
+              "acceptanceDateTime": "2026-11-06T17:07:09.000Z",
+              "act": "34",
+              "form": "10-Q",
+              "fileNumber": "001-05231",
+              "filmNumber": "261530518",
+              "items": "",
+              "core_type": "XBRL",
+              "size": 6458268,
+              "isXBRL": 1,
+              "isInlineXBRL": 1,
+              "isXBRLNumeric": 1,
+              "primaryDocument": "mcd-20260930.htm",
+              "primaryDocDescription": "10-Q",
+              "accepted": "2026-11-06 12:07:09"
+            },
+            "earnings_8k": {
+              "accessionNumber": "0000063908-26-000080",
+              "filingDate": "2026-11-04",
+              "reportDate": "2026-11-04",
+              "acceptanceDateTime": "2026-11-04T12:01:40.000Z",
+              "act": "34",
+              "form": "8-K",
+              "fileNumber": "001-05231",
+              "filmNumber": "261519987",
+              "items": "2.02,9.01",
+              "core_type": "XBRL",
+              "size": 1492904,
+              "isXBRL": 1,
+              "isInlineXBRL": 1,
+              "isXBRLNumeric": 0,
+              "primaryDocument": "mcd-20261104.htm",
+              "primaryDocDescription": "8-K",
+              "accepted": "2026-11-04 07:01:40"
+            }
+          }
+        },
+        {
+          "ticker": "YUM",
+          "company": "YUM BRANDS INC",
+          "fiscal_end": "2025-12-31",
+          "margin": 0.3133674214755296,
+          "ttm": {
+            "available": true,
+            "revenue": 8797000000.0,
+            "operating_income": 4354000000.0,
+            "margin": 0.4949414573149937,
+            "period_start": "2025-10-01",
+            "period_end": "2026-09-30",
+            "period_days": 365,
+            "basis": "latest 10-K + latest 10-Q YTD - comparative 10-Q YTD",
+            "revenue_source": {
+              "val": 8797000000.0,
+              "tag": "Revenues",
+              "start": "2025-10-01",
+              "end": "2026-09-30",
+              "basis": "latest 10-K + latest 10-Q YTD - comparative 10-Q YTD",
+              "annual": {
+                "val": 8214000000,
+                "tag": "Revenues",
+                "start": "2025-01-01",
+                "end": "2025-12-31",
+                "accn": "0001041061-26-000084"
+              },
+              "current_ytd": {
+                "val": 6282000000,
+                "tag": "Revenues",
+                "start": "2026-01-01",
+                "end": "2026-09-30",
+                "accn": "0001041061-26-000210"
+              },
+              "prior_ytd": {
+                "val": 5699000000,
+                "tag": "Revenues",
+                "start": "2025-01-01",
+                "end": "2025-09-30",
+                "accn": "0001041061-26-000210"
+              }
+            },
+            "operating_income_source": {
+              "val": 4354000000.0,
+              "tag": "OperatingIncomeLoss",
+              "start": "2025-10-01",
+              "end": "2026-09-30",
+              "basis": "latest 10-K + latest 10-Q YTD - comparative 10-Q YTD",
+              "annual": {
+                "val": 2574000000,
+                "tag": "OperatingIncomeLoss",
+                "start": "2025-01-01",
+                "end": "2025-12-31",
+                "accn": "0001041061-26-000084"
+              },
+              "current_ytd": {
+                "val": 3616000000,
+                "tag": "OperatingIncomeLoss",
+                "start": "2026-01-01",
+                "end": "2026-09-30",
+                "accn": "0001041061-26-000210"
+              },
+              "prior_ytd": {
+                "val": 1836000000,
+                "tag": "OperatingIncomeLoss",
+                "start": "2025-01-01",
+                "end": "2025-09-30",
+                "accn": "0001041061-26-000210"
+              }
+            }
+          },
+          "facts": {
+            "ticker": "YUM",
+            "cik": "0001041061",
+            "fiscal_end": "2025-12-31",
+            "values": {
+              "revenue": {
+                "current": {
+                  "start": "2025-01-01",
+                  "end": "2025-12-31",
+                  "val": 8214000000,
+                  "accn": "0001041061-26-000084",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-02-20",
+                  "frame": "CY2025"
+                },
+                "prior": {
+                  "start": "2024-01-01",
+                  "end": "2024-12-31",
+                  "val": 7549000000,
+                  "accn": "0001041061-26-000084",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-02-20",
+                  "frame": "CY2024"
+                }
+              },
+              "operating_income": {
+                "current": {
+                  "start": "2025-01-01",
+                  "end": "2025-12-31",
+                  "val": 2574000000,
+                  "accn": "0001041061-26-000084",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-02-20",
+                  "frame": "CY2025"
+                },
+                "prior": {
+                  "start": "2024-01-01",
+                  "end": "2024-12-31",
+                  "val": 2403000000,
+                  "accn": "0001041061-26-000084",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-02-20",
+                  "frame": "CY2024"
+                }
+              },
+              "net_income": {
+                "current": {
+                  "start": "2025-01-01",
+                  "end": "2025-12-31",
+                  "val": 1559000000,
+                  "accn": "0001041061-26-000084",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-02-20",
+                  "frame": "CY2025"
+                },
+                "prior": {
+                  "start": "2024-01-01",
+                  "end": "2024-12-31",
+                  "val": 1486000000,
+                  "accn": "0001041061-26-000084",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-02-20",
+                  "frame": "CY2024"
+                }
+              },
+              "diluted_eps": {
+                "current": {
+                  "start": "2025-01-01",
+                  "end": "2025-12-31",
+                  "val": 5.55,
+                  "accn": "0001041061-26-000084",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-02-20",
+                  "frame": "CY2025"
+                },
+                "prior": {
+                  "start": "2024-01-01",
+                  "end": "2024-12-31",
+                  "val": 5.22,
+                  "accn": "0001041061-26-000084",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-02-20",
+                  "frame": "CY2024"
+                }
+              },
+              "equity": {
+                "current": {
+                  "end": "2025-12-31",
+                  "val": -7325000000,
+                  "accn": "0001041061-26-000084",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-02-20",
+                  "frame": "CY2025Q4I"
+                },
+                "prior": {
+                  "end": "2024-12-31",
+                  "val": -7648000000,
+                  "accn": "0001041061-26-000084",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-02-20",
+                  "frame": "CY2024Q4I"
+                }
+              },
+              "long_term_debt": {
+                "current": null,
+                "prior": null
+              },
+              "current_debt": {
+                "current": {
+                  "end": "2025-12-31",
+                  "val": 39000000,
+                  "accn": "0001041061-26-000084",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-02-20",
+                  "frame": "CY2025Q4I"
+                },
+                "prior": {
+                  "end": "2024-12-31",
+                  "val": 29000000,
+                  "accn": "0001041061-26-000084",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-02-20",
+                  "frame": "CY2024Q4I"
+                }
+              },
+              "cash_from_operations": {
+                "current": {
+                  "start": "2025-01-01",
+                  "end": "2025-12-31",
+                  "val": 2010000000,
+                  "accn": "0001041061-26-000084",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-02-20",
+                  "frame": "CY2025"
+                },
+                "prior": {
+                  "start": "2024-01-01",
+                  "end": "2024-12-31",
+                  "val": 1689000000,
+                  "accn": "0001041061-26-000084",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-02-20",
+                  "frame": "CY2024"
+                }
+              },
+              "capex": {
+                "current": {
+                  "start": "2025-01-01",
+                  "end": "2025-12-31",
+                  "val": 371000000,
+                  "accn": "0001041061-26-000084",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-02-20",
+                  "frame": "CY2025"
+                },
+                "prior": {
+                  "start": "2024-01-01",
+                  "end": "2024-12-31",
+                  "val": 257000000,
+                  "accn": "0001041061-26-000084",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-02-20",
+                  "frame": "CY2024"
+                }
+              }
+            },
+            "tags": {
+              "revenue": "Revenues",
+              "operating_income": "OperatingIncomeLoss",
+              "net_income": "NetIncomeLoss",
+              "diluted_eps": "EarningsPerShareDiluted",
+              "equity": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+              "current_debt": "LongTermDebtAndCapitalLeaseObligationsCurrent",
+              "cash_from_operations": "NetCashProvidedByUsedInOperatingActivities",
+              "capex": "PaymentsToAcquirePropertyPlantAndEquipment"
+            },
+            "units": {
+              "revenue": "USD",
+              "operating_income": "USD",
+              "net_income": "USD",
+              "diluted_eps": "USD/shares",
+              "equity": "USD",
+              "current_debt": "USD",
+              "cash_from_operations": "USD",
+              "capex": "USD"
+            },
+            "all_facts_path": "/Users/shashankgopalakrishnan/Documents/Courses/Mastering AI for finance/WEEK_3/lab4_runs/CHIPOTLE_MEXICAN_GRILL_INC_20261107_152356_740181_EST/peers/YUM_BRANDS_INC/YUM_companyfacts.json",
+            "ttm": {
+              "available": true,
+              "revenue": 8797000000.0,
+              "operating_income": 4354000000.0,
+              "margin": 0.4949414573149937,
+              "period_start": "2025-10-01",
+              "period_end": "2026-09-30",
+              "period_days": 365,
+              "basis": "latest 10-K + latest 10-Q YTD - comparative 10-Q YTD",
+              "revenue_source": {
+                "val": 8797000000.0,
+                "tag": "Revenues",
+                "start": "2025-10-01",
+                "end": "2026-09-30",
+                "basis": "latest 10-K + latest 10-Q YTD - comparative 10-Q YTD",
+                "annual": {
+                  "val": 8214000000,
+                  "tag": "Revenues",
+                  "start": "2025-01-01",
+                  "end": "2025-12-31",
+                  "accn": "0001041061-26-000084"
+                },
+                "current_ytd": {
+                  "val": 6282000000,
+                  "tag": "Revenues",
+                  "start": "2026-01-01",
+                  "end": "2026-09-30",
+                  "accn": "0001041061-26-000210"
+                },
+                "prior_ytd": {
+                  "val": 5699000000,
+                  "tag": "Revenues",
+                  "start": "2025-01-01",
+                  "end": "2025-09-30",
+                  "accn": "0001041061-26-000210"
+                }
+              },
+              "operating_income_source": {
+                "val": 4354000000.0,
+                "tag": "OperatingIncomeLoss",
+                "start": "2025-10-01",
+                "end": "2026-09-30",
+                "basis": "latest 10-K + latest 10-Q YTD - comparative 10-Q YTD",
+                "annual": {
+                  "val": 2574000000,
+                  "tag": "OperatingIncomeLoss",
+                  "start": "2025-01-01",
+                  "end": "2025-12-31",
+                  "accn": "0001041061-26-000084"
+                },
+                "current_ytd": {
+                  "val": 3616000000,
+                  "tag": "OperatingIncomeLoss",
+                  "start": "2026-01-01",
+                  "end": "2026-09-30",
+                  "accn": "0001041061-26-000210"
+                },
+                "prior_ytd": {
+                  "val": 1836000000,
+                  "tag": "OperatingIncomeLoss",
+                  "start": "2025-01-01",
+                  "end": "2025-09-30",
+                  "accn": "0001041061-26-000210"
+                }
+              }
+            }
+          },
+          "filings": {
+            "10k": {
+              "accessionNumber": "0001041061-26-000084",
+              "filingDate": "2026-02-20",
+              "reportDate": "2025-12-31",
+              "acceptanceDateTime": "2026-02-20T21:54:25.000Z",
+              "act": "34",
+              "form": "10-K",
+              "fileNumber": "001-13163",
+              "filmNumber": "26660959",
+              "items": "",
+              "core_type": "XBRL",
+              "size": 18352293,
+              "isXBRL": 1,
+              "isInlineXBRL": 1,
+              "isXBRLNumeric": null,
+              "primaryDocument": "yum-20251231.htm",
+              "primaryDocDescription": "10-K",
+              "accepted": "2026-02-20 16:54:25"
+            },
+            "10q": {
+              "accessionNumber": "0001041061-26-000210",
+              "filingDate": "2026-11-06",
+              "reportDate": "2026-09-30",
+              "acceptanceDateTime": "2026-11-06T19:39:43.000Z",
+              "act": "34",
+              "form": "10-Q",
+              "fileNumber": "001-13163",
+              "filmNumber": "261531267",
+              "items": "",
+              "core_type": "XBRL",
+              "size": 9432809,
+              "isXBRL": 1,
+              "isInlineXBRL": 1,
+              "isXBRLNumeric": 1,
+              "primaryDocument": "yum-20260930.htm",
+              "primaryDocDescription": "10-Q",
+              "accepted": "2026-11-06 14:39:43"
+            },
+            "earnings_8k": {
+              "accessionNumber": "0001041061-26-000195",
+              "filingDate": "2026-11-03",
+              "reportDate": "2026-11-03",
+              "acceptanceDateTime": "2026-11-03T13:07:58.000Z",
+              "act": "34",
+              "form": "8-K",
+              "fileNumber": "001-13163",
+              "filmNumber": "261514267",
+              "items": "2.02,9.01",
+              "core_type": "XBRL",
+              "size": 1034586,
+              "isXBRL": 1,
+              "isInlineXBRL": 1,
+              "isXBRLNumeric": 0,
+              "primaryDocument": "yum-20261103.htm",
+              "primaryDocDescription": "8-K",
+              "accepted": "2026-11-03 08:07:58"
+            }
+          }
+        },
+        {
+          "ticker": "CAVA",
+          "company": "CAVA GROUP, INC.",
+          "fiscal_end": "2025-12-28",
+          "margin": 0.046865039536681634,
+          "ttm": {
+            "available": true,
+            "revenue": 1438127000.0,
+            "operating_income": 69913000.0,
+            "margin": 0.048613926308316305,
+            "period_start": "2025-10-06",
+            "period_end": "2026-10-04",
+            "period_days": 364,
+            "basis": "latest 10-K + latest 10-Q YTD - comparative 10-Q YTD",
+            "revenue_source": {
+              "val": 1438127000.0,
+              "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+              "start": "2025-10-06",
+              "end": "2026-10-04",
+              "basis": "latest 10-K + latest 10-Q YTD - comparative 10-Q YTD",
+              "annual": {
+                "val": 1179664000,
+                "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "start": "2024-12-30",
+                "end": "2025-12-28",
+                "accn": "0001628280-26-011296"
+              },
+              "current_ytd": {
+                "val": 1163142000,
+                "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "start": "2025-12-29",
+                "end": "2026-10-04",
+                "accn": "0001628280-26-070344"
+              },
+              "prior_ytd": {
+                "val": 904679000,
+                "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "start": "2024-12-30",
+                "end": "2025-10-05",
+                "accn": "0001628280-26-070344"
+              }
+            },
+            "operating_income_source": {
+              "val": 69913000.0,
+              "tag": "OperatingIncomeLoss",
+              "start": "2025-10-06",
+              "end": "2026-10-04",
+              "basis": "latest 10-K + latest 10-Q YTD - comparative 10-Q YTD",
+              "annual": {
+                "val": 55285000,
+                "tag": "OperatingIncomeLoss",
+                "start": "2024-12-30",
+                "end": "2025-12-28",
+                "accn": "0001628280-26-011296"
+              },
+              "current_ytd": {
+                "val": 67104000,
+                "tag": "OperatingIncomeLoss",
+                "start": "2025-12-29",
+                "end": "2026-10-04",
+                "accn": "0001628280-26-070344"
+              },
+              "prior_ytd": {
+                "val": 52476000,
+                "tag": "OperatingIncomeLoss",
+                "start": "2024-12-30",
+                "end": "2025-10-05",
+                "accn": "0001628280-26-070344"
+              }
+            }
+          },
+          "facts": {
+            "ticker": "CAVA",
+            "cik": "0001639438",
+            "fiscal_end": "2025-12-28",
+            "values": {
+              "revenue": {
+                "current": {
+                  "start": "2024-12-30",
+                  "end": "2025-12-28",
+                  "val": 1179664000,
+                  "accn": "0001628280-26-011296",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-02-25",
+                  "frame": "CY2025"
+                },
+                "prior": {
+                  "start": "2024-01-01",
+                  "end": "2024-12-29",
+                  "val": 963713000,
+                  "accn": "0001628280-26-011296",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-02-25",
+                  "frame": "CY2024"
+                }
+              },
+              "operating_income": {
+                "current": {
+                  "start": "2024-12-30",
+                  "end": "2025-12-28",
+                  "val": 55285000,
+                  "accn": "0001628280-26-011296",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-02-25",
+                  "frame": "CY2025"
+                },
+                "prior": {
+                  "start": "2024-01-01",
+                  "end": "2024-12-29",
+                  "val": 43118000,
+                  "accn": "0001628280-26-011296",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-02-25",
+                  "frame": "CY2024"
+                }
+              },
+              "net_income": {
+                "current": {
+                  "start": "2024-12-30",
+                  "end": "2025-12-28",
+                  "val": 63743000,
+                  "accn": "0001628280-26-011296",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-02-25"
+                },
+                "prior": {
+                  "start": "2024-01-01",
+                  "end": "2024-12-29",
+                  "val": 130319000,
+                  "accn": "0001628280-26-011296",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-02-25"
+                }
+              },
+              "diluted_eps": {
+                "current": {
+                  "start": "2024-12-30",
+                  "end": "2025-12-28",
+                  "val": 0.54,
+                  "accn": "0001628280-26-011296",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-02-25",
+                  "frame": "CY2025"
+                },
+                "prior": {
+                  "start": "2024-01-01",
+                  "end": "2024-12-29",
+                  "val": 1.1,
+                  "accn": "0001628280-26-011296",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-02-25",
+                  "frame": "CY2024"
+                }
+              },
+              "equity": {
+                "current": {
+                  "end": "2025-12-28",
+                  "val": 779656000,
+                  "accn": "0001628280-26-011296",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-02-25"
+                },
+                "prior": {
+                  "end": "2024-12-29",
+                  "val": 695566000,
+                  "accn": "0001628280-26-011296",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-02-25"
+                }
+              },
+              "long_term_debt": {
+                "current": null,
+                "prior": null
+              },
+              "current_debt": {
+                "current": null,
+                "prior": null
+              },
+              "cash_from_operations": {
+                "current": {
+                  "start": "2024-12-30",
+                  "end": "2025-12-28",
+                  "val": 184840000,
+                  "accn": "0001628280-26-011296",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-02-25",
+                  "frame": "CY2025"
+                },
+                "prior": {
+                  "start": "2024-01-01",
+                  "end": "2024-12-29",
+                  "val": 161027000,
+                  "accn": "0001628280-26-011296",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-02-25",
+                  "frame": "CY2024"
+                }
+              },
+              "capex": {
+                "current": {
+                  "start": "2024-12-30",
+                  "end": "2025-12-28",
+                  "val": 158699000,
+                  "accn": "0001628280-26-011296",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-02-25",
+                  "frame": "CY2025"
+                },
+                "prior": {
+                  "start": "2024-01-01",
+                  "end": "2024-12-29",
+                  "val": 108131000,
+                  "accn": "0001628280-26-011296",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-02-25",
+                  "frame": "CY2024"
+                }
+              }
+            },
+            "tags": {
+              "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+              "operating_income": "OperatingIncomeLoss",
+              "net_income": "NetIncomeLoss",
+              "diluted_eps": "EarningsPerShareDiluted",
+              "equity": "StockholdersEquity",
+              "cash_from_operations": "NetCashProvidedByUsedInOperatingActivities",
+              "capex": "PaymentsToAcquirePropertyPlantAndEquipment"
+            },
+            "units": {
+              "revenue": "USD",
+              "operating_income": "USD",
+              "net_income": "USD",
+              "diluted_eps": "USD/shares",
+              "equity": "USD",
+              "cash_from_operations": "USD",
+              "capex": "USD"
+            },
+            "all_facts_path": "/Users/shashankgopalakrishnan/Documents/Courses/Mastering AI for finance/WEEK_3/lab4_runs/CHIPOTLE_MEXICAN_GRILL_INC_20261107_152356_740181_EST/peers/CAVA_GROUP_INC./CAVA_companyfacts.json",
+            "ttm": {
+              "available": true,
+              "revenue": 1438127000.0,
+              "operating_income": 69913000.0,
+              "margin": 0.048613926308316305,
+              "period_start": "2025-10-06",
+              "period_end": "2026-10-04",
+              "period_days": 364,
+              "basis": "latest 10-K + latest 10-Q YTD - comparative 10-Q YTD",
+              "revenue_source": {
+                "val": 1438127000.0,
+                "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "start": "2025-10-06",
+                "end": "2026-10-04",
+                "basis": "latest 10-K + latest 10-Q YTD - comparative 10-Q YTD",
+                "annual": {
+                  "val": 1179664000,
+                  "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                  "start": "2024-12-30",
+                  "end": "2025-12-28",
+                  "accn": "0001628280-26-011296"
+                },
+                "current_ytd": {
+                  "val": 1163142000,
+                  "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                  "start": "2025-12-29",
+                  "end": "2026-10-04",
+                  "accn": "0001628280-26-070344"
+                },
+                "prior_ytd": {
+                  "val": 904679000,
+                  "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                  "start": "2024-12-30",
+                  "end": "2025-10-05",
+                  "accn": "0001628280-26-070344"
+                }
+              },
+              "operating_income_source": {
+                "val": 69913000.0,
+                "tag": "OperatingIncomeLoss",
+                "start": "2025-10-06",
+                "end": "2026-10-04",
+                "basis": "latest 10-K + latest 10-Q YTD - comparative 10-Q YTD",
+                "annual": {
+                  "val": 55285000,
+                  "tag": "OperatingIncomeLoss",
+                  "start": "2024-12-30",
+                  "end": "2025-12-28",
+                  "accn": "0001628280-26-011296"
+                },
+                "current_ytd": {
+                  "val": 67104000,
+                  "tag": "OperatingIncomeLoss",
+                  "start": "2025-12-29",
+                  "end": "2026-10-04",
+                  "accn": "0001628280-26-070344"
+                },
+                "prior_ytd": {
+                  "val": 52476000,
+                  "tag": "OperatingIncomeLoss",
+                  "start": "2024-12-30",
+                  "end": "2025-10-05",
+                  "accn": "0001628280-26-070344"
+                }
+              }
+            }
+          },
+          "filings": {
+            "10k": {
+              "accessionNumber": "0001628280-26-011296",
+              "filingDate": "2026-02-25",
+              "reportDate": "2025-12-28",
+              "acceptanceDateTime": "2026-02-24T23:08:34.000Z",
+              "act": "34",
+              "form": "10-K",
+              "fileNumber": "001-41721",
+              "filmNumber": "26673327",
+              "items": "",
+              "core_type": "XBRL",
+              "size": 9102030,
+              "isXBRL": 1,
+              "isInlineXBRL": 1,
+              "isXBRLNumeric": null,
+              "primaryDocument": "cava-20251228.htm",
+              "primaryDocDescription": "10-K",
+              "accepted": "2026-02-24 18:08:34"
+            },
+            "10q": {
+              "accessionNumber": "0001628280-26-070344",
+              "filingDate": "2026-11-05",
+              "reportDate": "2026-10-04",
+              "acceptanceDateTime": "2026-11-04T23:05:05.000Z",
+              "act": "34",
+              "form": "10-Q",
+              "fileNumber": "001-41721",
+              "filmNumber": "261524011",
+              "items": "",
+              "core_type": "XBRL",
+              "size": 6157013,
+              "isXBRL": 1,
+              "isInlineXBRL": 1,
+              "isXBRLNumeric": 1,
+              "primaryDocument": "cava-20261004.htm",
+              "primaryDocDescription": "10-Q",
+              "accepted": "2026-11-04 18:05:05"
+            },
+            "earnings_8k": {
+              "accessionNumber": "0001628280-26-070159",
+              "filingDate": "2026-11-04",
+              "reportDate": "2026-11-04",
+              "acceptanceDateTime": "2026-11-04T21:13:56.000Z",
+              "act": "34",
+              "form": "8-K",
+              "fileNumber": "001-41721",
+              "filmNumber": "261522386",
+              "items": "2.02,9.01",
+              "core_type": "XBRL",
+              "size": 490055,
+              "isXBRL": 1,
+              "isInlineXBRL": 1,
+              "isXBRLNumeric": 0,
+              "primaryDocument": "cava-20261104.htm",
+              "primaryDocDescription": "8-K",
+              "accepted": "2026-11-04 16:13:56"
+            }
+          }
+        }
+      ],
+      "release_lines": [
+        "Total revenue in the third quarter of 2026 was $3.3 billion, an increase of 9.6% compared to the third quarter of 2025. The increase was driven by new restaurant openings and, to a lesser extent, comparable restaurant sales. Comparable restaurant sales increased 2.1%, including a 1.3% increase in average check and a 0.8% increase in transactions. Digital sales represented 38.8% of total food and beverage revenue for the three months ended September 30, 2026, an increase from 36.7% for the three months ended September 30, 2025.",
+        "•Diluted earnings per share was $0.27, a 6.9% decrease from $0.29"
+      ],
+      "calculations": {
+        "revenue_growth": 0.05407070429499128,
+        "operating_margin": 0.16232288838105519,
+        "return_on_average_equity": 0.473550654756371,
+        "debt_to_equity": null,
+        "free_cash_flow": 1447590000.0,
+        "pe": null
+      },
+      "share_price_input": null,
+      "persona_calculations": {
+        "total_debt": {
+          "current": null,
+          "prior": null
+        },
+        "operating_margin": {
+          "current": 0.16232288838105519,
+          "prior": 0.16937934406607547
+        },
+        "operating_margin_change_percentage_points": -0.705645568502028,
+        "company_ttm": {
+          "available": true,
+          "revenue": 12713477000.0,
+          "operating_income": 1794941000.0,
+          "margin": 0.14118411509298362,
+          "period_start": "2025-10-01",
+          "period_end": "2026-09-30",
+          "period_days": 365,
+          "basis": "latest 10-K + latest 10-Q YTD - comparative 10-Q YTD",
+          "revenue_source": {
+            "val": 12713477000.0,
+            "tag": "Revenues",
+            "start": "2025-10-01",
+            "end": "2026-09-30",
+            "basis": "latest 10-K + latest 10-Q YTD - comparative 10-Q YTD",
+            "annual": {
+              "val": 11925601000,
+              "tag": "Revenues",
+              "start": "2025-01-01",
+              "end": "2025-12-31",
+              "accn": "0001058090-26-000009"
+            },
+            "current_ytd": {
+              "val": 9729966000,
+              "tag": "Revenues",
+              "start": "2026-01-01",
+              "end": "2026-09-30",
+              "accn": "0001058090-26-000104"
+            },
+            "prior_ytd": {
+              "val": 8942090000,
+              "tag": "Revenues",
+              "start": "2025-01-01",
+              "end": "2025-09-30",
+              "accn": "0001058090-26-000104"
+            }
+          },
+          "operating_income_source": {
+            "val": 1794941000.0,
+            "tag": "OperatingIncomeLoss",
+            "start": "2025-10-01",
+            "end": "2026-09-30",
+            "basis": "latest 10-K + latest 10-Q YTD - comparative 10-Q YTD",
+            "annual": {
+              "val": 1935798000,
+              "tag": "OperatingIncomeLoss",
+              "start": "2025-01-01",
+              "end": "2025-12-31",
+              "accn": "0001058090-26-000009"
+            },
+            "current_ytd": {
+              "val": 1374622000,
+              "tag": "OperatingIncomeLoss",
+              "start": "2026-01-01",
+              "end": "2026-09-30",
+              "accn": "0001058090-26-000104"
+            },
+            "prior_ytd": {
+              "val": 1515479000,
+              "tag": "OperatingIncomeLoss",
+              "start": "2025-01-01",
+              "end": "2025-09-30",
+              "accn": "0001058090-26-000104"
+            }
+          }
+        },
+        "peer_company_ttm_margin": 0.14118411509298362,
+        "peer_alignment_window_days": 45,
+        "peer_comparison_status": "TTM peer median uses comparable peers ending within 45 days of company TTM end 2026-09-30.",
+        "comparable_peers": [
+          {
+            "ticker": "MCD",
+            "period_start": "2025-10-01",
+            "period_end": "2026-09-30",
+            "margin": 0.4694766395507883,
+            "days_from_anchor": 0,
+            "basis": "latest 10-K + latest 10-Q YTD - comparative 10-Q YTD"
+          },
+          {
+            "ticker": "YUM",
+            "period_start": "2025-10-01",
+            "period_end": "2026-09-30",
+            "margin": 0.4949414573149937,
+            "days_from_anchor": 0,
+            "basis": "latest 10-K + latest 10-Q YTD - comparative 10-Q YTD"
+          },
+          {
+            "ticker": "CAVA",
+            "period_start": "2025-10-06",
+            "period_end": "2026-10-04",
+            "margin": 0.048613926308316305,
+            "days_from_anchor": 4,
+            "basis": "latest 10-K + latest 10-Q YTD - comparative 10-Q YTD"
+          }
+        ],
+        "peer_median_operating_margin": 0.4694766395507883,
+        "peer_margin_comparison": "below",
+        "financial_scores": {
+          "cash_flow_support": 3,
+          "operating_margin_trend": 1,
+          "debt_trend": null,
+          "peer_comparison": 1
+        }
+      },
+      "release_opening_paragraph": "00016: NEWPORT BEACH, Calif. – October 28, 2026 – Chipotle Mexican Grill, Inc. (NYSE: CMG) today reported financial results for its third quarter ended September 30, 2026.",
+      "release_filename": "earnings_release_exhibit_99_1.txt",
+      "research_scores": {
+        "growth_evidence": 4.0,
+        "competitive_position": 3.0,
+        "risk_exposure": 3.0
+      },
+      "raw_companyfacts_files": [
+        "CMG_companyfacts.json"
+      ]
+    }
+  },
+  "expected_output": "Valid JSON with insight_marks and marks arrays. insight_marks must contain exactly one mark for each complete Insight line, with the claim copied exactly. Each mark must have claim, status, reason, correction, source, and corrected_claim. Use corrected_claim only when saved evidence supports the correction. Do not return or reproduce the filing texts."
+}

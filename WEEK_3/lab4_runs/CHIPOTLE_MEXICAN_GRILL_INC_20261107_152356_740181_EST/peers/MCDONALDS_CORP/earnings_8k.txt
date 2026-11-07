@@ -1,0 +1,52 @@
+00001: mcd-20261104
+00002: UNITED STATES
+00003: SECURITIES AND EXCHANGE COMMISSION
+00004: WASHINGTON, DC 20549
+00005: FORM 8-K
+00006: CURRENT REPORT PURSUANT TO
+00007: SECTION 13 OR 15(d) OF THE
+00008: SECURITIES EXCHANGE ACT OF 1934
+00009: Date of report (Date of earliest event reported): November 4, 2026
+00010: McDONALD’S CORPORATION
+00011: (Exact Name of Registrant as Specified in its Charter)
+00012: Delaware 1-5231 36-2361282
+00013: (State or Other Jurisdiction
+00014: of Incorporation) (Commission
+00015: File Number) (IRS Employer
+00016: Identification No.)
+00017: 110 North Carpenter Street
+00018: Chicago, Illinois
+00019: (Address of Principal Executive Offices)
+00020: 60607
+00021: (Zip Code)
+00022: (630) 623-3000
+00023: (Registrant’s telephone number, including area code)
+00024: Not Applicable
+00025: (Former Name or Former Address, if Changed Since Last Report)
+00026: Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+00027: ☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+00028: ☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+00029: ☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+00030: ☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+00031: Securities registered pursuant to Section 12(b) of the Act:
+00032: Title of each class Trading Symbol(s) Name of each exchange on which registered
+00033: Common Stock, $0.01 par value MCD New York Stock Exchange
+00034: Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+00035: Emerging growth company
+00036: ☐
+00037: If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+00038: o
+00039: Item 2.02. Results of Operations and Financial Condition.
+00040: On November 4, 2026, McDonald’s Corporation issued an investor release reporting its results for the third quarter and nine months ended September 30, 2026. A copy of the investor release is being filed as Exhibit 99.1 to this Form 8-K and is incorporated by reference in its entirety. Also filed herewith and incorporated by reference as Exhibit 99.2 is supplemental information for the third quarter and nine months ended September 30, 2026. The information under this Item 2.02, including such Exhibits, shall be deemed to be “filed” for purposes of the Securities Exchange Act of 1934, as amended.
+00041: Item 9.01. Financial Statements and Exhibits.
+00042: (d) Exhibits.
+00043: 99.1 Investor Release of McDonald's Corporation issued November 4, 2026: McDonald’s Reports Third Quarter 2026 Results
+00044: 99.2 McDonald's Corporation: Supplemental Information (Unaudited), Quarter and Nine Months Ended September 30, 2026
+00045: 104 Cover Page Interactive Data File (embedded within the Inline XBRL document)
+00046: SIGNATURES
+00047: Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+00048: McDONALD’S CORPORATION
+00049: (Registrant)
+00050: Date: November 4, 2026 By: /s/ Lauren B. Elting
+00051: Lauren B. Elting
+00052: Vice President – Chief Accounting Officer and Corporate Controller

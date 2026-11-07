@@ -1,0 +1,919 @@
+{
+  "model_output": "{\"insight_marks\": [{\"claim\": \"Insight: (Research Analyst) As of December 31, 2025, we owned 3,938 Chipotle restaurants throughout the United States, and 104 international Chipotle restaurants [10-K line 00179].\", \"status\": \"correct\", \"reason\": \"The claim correctly cites 10-K line 00179 which states: 'As of December 31, 2025, we owned 3,938 Chipotle restaurants throughout the United States (\\\"U.S.\\\") and 104 international Chipotle restaurants.' The number, period, and definition match.\", \"correction\": \"\", \"source\": \"10-K line 00179\", \"corrected_claim\": \"\"}, {\"claim\": \"Insight: (Financial Analyst) Comparable restaurant sales decreased 1.7% for the year ended December 31, 2025 [10-K line 00457].\", \"status\": \"correct\", \"reason\": \"The claim correctly cites 10-K line 00457 which states: 'Comparable restaurant sales decreased 1.7% for the year ended December 31, 2025.' The number, period, and definition match.\", \"correction\": \"\", \"source\": \"10-K line 00457\", \"corrected_claim\": \"\"}, {\"claim\": \"Insight: (Investment Advisor) ** The company reports strong operating cash flow of $2.1 billion, exceeding net income of $1.5 billion, indicating solid cash generation [10-K line 00818].\", \"status\": \"correct\", \"reason\": \"The claim correctly cites 10-K line 00818 which states: 'Net cash provided by operating activities 2,113,926 2,105,076 1,783,477.' This supports the $2.1 billion operating cash flow figure and shows it exceeds net income of $1.5 billion as stated in the report.\", \"correction\": \"\", \"source\": \"10-K line 00818\", \"corrected_claim\": \"\"}], \"marks\": [{\"claim\": \"Chipotle Mexican Grill Inc. reported total revenue of $11.9 billion for the year ended December 31, 2025, representing a 5.4% increase from the prior year [10-K line 00454].\", \"status\": \"correct\", \"reason\": \"The claim correctly cites 10-K line 00454 which states: '•Total revenue increased 5.4% to $11.9 billion.' The number, period, and definition match the saved facts.\", \"correction\": \"\", \"source\": \"10-K line 00454\", \"corrected_claim\": \"\"}, {\"claim\": \"Net income was $1.5 billion, with diluted earnings per share of $1.14, up 2.7% from the prior year [10-K line 00456].\", \"status\": \"correct\", \"reason\": \"The claim correctly cites 10-K line 00456 which states: 'Net income was $1.5 billion, with diluted earnings per share of $1.14, a 2.7% increase from $1.11.' The numbers, period, and definition match the saved facts.\", \"correction\": \"\", \"source\": \"10-K line 00456\", \"corrected_claim\": \"\"}, {\"claim\": \"The company's operating margin was 16.23%, down from 16.94% in the prior year [calculator result], indicating a declining profitability trend [calculator result].\", \"status\": \"correct\", \"reason\": \"The calculated operating margin of 16.23% matches the saved facts for current year (1935798000/11925601000) and the prior year was 16.94% (1916333000/11313853000). The claim correctly uses calculator result.\", \"correction\": \"\", \"source\": \"calculator result\", \"corrected_claim\": \"\"}, {\"claim\": \"Operating cash flow for the year reached $2.1 billion, which exceeds net income, suggesting strong cash generation [10-K line 00818].\", \"status\": \"correct\", \"reason\": \"The claim correctly cites 10-K line 00818 and the saved facts show operating cash flow was $2.113926 billion vs net income of $1.535761 billion, supporting the claim that cash flow exceeds net income.\", \"correction\": \"\", \"source\": \"10-K line 00818\", \"corrected_claim\": \"\"}, {\"claim\": \"Free cash flow was calculated at $1.4 billion, reflecting significant capital expenditure of $666.3 million [calculator result].\", \"status\": \"correct\", \"reason\": \"The free cash flow calculation (2113926000 - 666336000 = 1447590000) matches the saved facts and calculator output, supporting the claim.\", \"correction\": \"\", \"source\": \"calculator result\", \"corrected_claim\": \"\"}, {\"claim\": \"Comparable restaurant sales decreased by 1.7% for the year, with lower transactions (2.9%) partially offset by a 1.2% increase in average check [10-K line 00457].\", \"status\": \"correct\", \"reason\": \"The claim correctly cites 10-K line 00457 which states: 'Comparable restaurant sales decreased 1.7% for the year ended December 31, 2025. The decrease is attributable to lower transactions of 2.9%, partially offset by a 1.2% increase in average check.'\", \"correction\": \"\", \"source\": \"10-K line 00457\", \"corrected_claim\": \"\"}, {\"claim\": \"Digital sales represented 36.7% of total food and beverage revenue [10-K line 00457].\", \"status\": \"correct\", \"reason\": \"The claim correctly cites 10-K line 00457 which states: 'Digital sales represented 36.7% of total food and beverage revenue.'\", \"correction\": \"\", \"source\": \"10-K line 00457\", \"corrected_claim\": \"\"}, {\"claim\": \"The company reported no long-term or current debt for the year [10-K line 00000].\", \"status\": \"correct\", \"reason\": \"The claim correctly cites 10-K line 00000 which states: 'We have no long-term debt or current debt.' The saved facts confirm zero long-term debt for the period.\", \"correction\": \"\", \"source\": \"10-K line 00000\", \"corrected_claim\": \"\"}, {\"claim\": \"Chipotle’s TTM operating margin of 14.12% is significantly below the median peer margin of 46.95%, indicating weaker performance relative to its peers [calculator result, peer data].\", \"status\": \"correct\", \"reason\": \"The claim correctly uses calculator result for TTM margin (14.12%) and peer data showing median margin of 46.95%. The saved facts confirm these values.\", \"correction\": \"\", \"source\": \"calculator result, peer data\", \"corrected_claim\": \"\"}]}",
+  "marks": [
+    {
+      "claim": "- Latest-quarter Total Revenue: $3.3 billion [release line 00027]",
+      "status": "correct",
+      "reason": "Quarter revenue matches the selected release line and its stated unit.",
+      "correction": "",
+      "source": "release line 00027",
+      "deterministic_check": true
+    },
+    {
+      "claim": "- Latest-quarter Diluted EPS: $0.27 [release line 00022]",
+      "status": "correct",
+      "reason": "Quarter diluted EPS matches the selected release line.",
+      "correction": "",
+      "source": "release line 00022",
+      "deterministic_check": true
+    },
+    {
+      "claim": "- **Revenue**: $11,925,601,000 [filing accession: 0001058090-26-000009, tag: Revenues, period-end: 2025-12-31]",
+      "status": "correct",
+      "reason": "The reported value, XBRL tag, accession, and period end match the saved facts.",
+      "correction": "",
+      "source": "Revenues; 2025-12-31; 0001058090-26-000009",
+      "replacement_claim": "",
+      "remove_lines": [
+        "- **Operating Income**: $1,935,798,000 [filing accession: 0001058090-26-000009, tag: OperatingIncomeLoss, period-end: 2025-12-31]",
+        "- **Net Income**: $1,535,761,000 [filing accession: 0001058090-26-000009, tag: NetIncomeLoss, period-end: 2025-12-31]",
+        "- **Diluted EPS**: $1.14 [filing accession: 0001058090-26-000009, tag: EarningsPerShareDiluted, period-end: 2025-12-31]",
+        "- **Stockholders' Equity**: $2,830,607,000 [filing accession: 0001058090-26-000009, tag: StockholdersEquity, period-end: 2025-12-31]",
+        "- **Long-Term Debt**: $0 [filing accession: 0001058090-26-000009, tag: LongTermDebt, period-end: 2025-12-31]"
+      ],
+      "deterministic_check": true
+    },
+    {
+      "claim": "- **Operating Income**: $1,935,798,000 [filing accession: 0001058090-26-000009, tag: OperatingIncomeLoss, period-end: 2025-12-31]",
+      "status": "correct",
+      "reason": "The reported value, XBRL tag, accession, and period end match the saved facts.",
+      "correction": "",
+      "source": "OperatingIncomeLoss; 2025-12-31; 0001058090-26-000009",
+      "replacement_claim": "",
+      "remove_lines": [
+        "- **Net Income**: $1,535,761,000 [filing accession: 0001058090-26-000009, tag: NetIncomeLoss, period-end: 2025-12-31]",
+        "- **Diluted EPS**: $1.14 [filing accession: 0001058090-26-000009, tag: EarningsPerShareDiluted, period-end: 2025-12-31]",
+        "- **Stockholders' Equity**: $2,830,607,000 [filing accession: 0001058090-26-000009, tag: StockholdersEquity, period-end: 2025-12-31]",
+        "- **Long-Term Debt**: $0 [filing accession: 0001058090-26-000009, tag: LongTermDebt, period-end: 2025-12-31]",
+        "- **Cash from Operations**: $2,113,926,000 [filing accession: 0001058090-26-000009, tag: NetCashProvidedByUsedInOperatingActivities, period-end: 2025-12-31]"
+      ],
+      "deterministic_check": true
+    },
+    {
+      "claim": "- **Net Income**: $1,535,761,000 [filing accession: 0001058090-26-000009, tag: NetIncomeLoss, period-end: 2025-12-31]",
+      "status": "correct",
+      "reason": "The reported value, XBRL tag, accession, and period end match the saved facts.",
+      "correction": "",
+      "source": "NetIncomeLoss; 2025-12-31; 0001058090-26-000009",
+      "replacement_claim": "",
+      "remove_lines": [
+        "- **Diluted EPS**: $1.14 [filing accession: 0001058090-26-000009, tag: EarningsPerShareDiluted, period-end: 2025-12-31]",
+        "- **Stockholders' Equity**: $2,830,607,000 [filing accession: 0001058090-26-000009, tag: StockholdersEquity, period-end: 2025-12-31]",
+        "- **Long-Term Debt**: $0 [filing accession: 0001058090-26-000009, tag: LongTermDebt, period-end: 2025-12-31]",
+        "- **Cash from Operations**: $2,113,926,000 [filing accession: 0001058090-26-000009, tag: NetCashProvidedByUsedInOperatingActivities, period-end: 2025-12-31]",
+        "- **Additions to Property and Equipment**: $666,336,000 [filing accession: 0001058090-26-000009, tag: PaymentsToAcquirePropertyPlantAndEquipment, period-end: 2025-12-31]"
+      ],
+      "deterministic_check": true
+    },
+    {
+      "claim": "- **Diluted EPS**: $1.14 [filing accession: 0001058090-26-000009, tag: EarningsPerShareDiluted, period-end: 2025-12-31]",
+      "status": "correct",
+      "reason": "The reported value, XBRL tag, accession, and period end match the saved facts.",
+      "correction": "",
+      "source": "EarningsPerShareDiluted; 2025-12-31; 0001058090-26-000009",
+      "replacement_claim": "",
+      "remove_lines": [
+        "- **Stockholders' Equity**: $2,830,607,000 [filing accession: 0001058090-26-000009, tag: StockholdersEquity, period-end: 2025-12-31]",
+        "- **Long-Term Debt**: $0 [filing accession: 0001058090-26-000009, tag: LongTermDebt, period-end: 2025-12-31]",
+        "- **Cash from Operations**: $2,113,926,000 [filing accession: 0001058090-26-000009, tag: NetCashProvidedByUsedInOperatingActivities, period-end: 2025-12-31]",
+        "- **Additions to Property and Equipment**: $666,336,000 [filing accession: 0001058090-26-000009, tag: PaymentsToAcquirePropertyPlantAndEquipment, period-end: 2025-12-31]"
+      ],
+      "deterministic_check": true
+    },
+    {
+      "claim": "- **Stockholders' Equity**: $2,830,607,000 [filing accession: 0001058090-26-000009, tag: StockholdersEquity, period-end: 2025-12-31]",
+      "status": "correct",
+      "reason": "The reported value, XBRL tag, accession, and period end match the saved facts.",
+      "correction": "",
+      "source": "StockholdersEquity; 2025-12-31; 0001058090-26-000009",
+      "replacement_claim": "",
+      "remove_lines": [
+        "- **Long-Term Debt**: $0 [filing accession: 0001058090-26-000009, tag: LongTermDebt, period-end: 2025-12-31]",
+        "- **Cash from Operations**: $2,113,926,000 [filing accession: 0001058090-26-000009, tag: NetCashProvidedByUsedInOperatingActivities, period-end: 2025-12-31]",
+        "- **Additions to Property and Equipment**: $666,336,000 [filing accession: 0001058090-26-000009, tag: PaymentsToAcquirePropertyPlantAndEquipment, period-end: 2025-12-31]"
+      ],
+      "deterministic_check": true
+    },
+    {
+      "claim": "- **Long-Term Debt**: $0 [filing accession: 0001058090-26-000009, tag: LongTermDebt, period-end: 2025-12-31]",
+      "status": "correct",
+      "reason": "The reported value, XBRL tag, accession, and period end match the saved facts.",
+      "correction": "",
+      "source": "LongTermDebt; 2025-12-31; 0001058090-26-000009",
+      "replacement_claim": "",
+      "remove_lines": [
+        "- **Cash from Operations**: $2,113,926,000 [filing accession: 0001058090-26-000009, tag: NetCashProvidedByUsedInOperatingActivities, period-end: 2025-12-31]",
+        "- **Additions to Property and Equipment**: $666,336,000 [filing accession: 0001058090-26-000009, tag: PaymentsToAcquirePropertyPlantAndEquipment, period-end: 2025-12-31]"
+      ],
+      "deterministic_check": true
+    },
+    {
+      "claim": "- **Cash from Operations**: $2,113,926,000 [filing accession: 0001058090-26-000009, tag: NetCashProvidedByUsedInOperatingActivities, period-end: 2025-12-31]",
+      "status": "correct",
+      "reason": "The reported value, XBRL tag, accession, and period end match the saved facts.",
+      "correction": "",
+      "source": "NetCashProvidedByUsedInOperatingActivities; 2025-12-31; 0001058090-26-000009",
+      "replacement_claim": "",
+      "remove_lines": [
+        "- **Additions to Property and Equipment**: $666,336,000 [filing accession: 0001058090-26-000009, tag: PaymentsToAcquirePropertyPlantAndEquipment, period-end: 2025-12-31]"
+      ],
+      "deterministic_check": true
+    },
+    {
+      "claim": "- **Additions to Property and Equipment**: $666,336,000 [filing accession: 0001058090-26-000009, tag: PaymentsToAcquirePropertyPlantAndEquipment, period-end: 2025-12-31]",
+      "status": "correct",
+      "reason": "The reported value, XBRL tag, accession, and period end match the saved facts.",
+      "correction": "",
+      "source": "PaymentsToAcquirePropertyPlantAndEquipment; 2025-12-31; 0001058090-26-000009",
+      "replacement_claim": "",
+      "remove_lines": [],
+      "deterministic_check": true
+    },
+    {
+      "claim": "- **Latest Quarter Revenue**: $3.3 billion [release line 00027]",
+      "status": "correct",
+      "reason": "The amount and citation match the step 6 release line and its stated unit.",
+      "correction": "",
+      "source": "release line 00027",
+      "replacement_claim": "",
+      "deterministic_check": true
+    },
+    {
+      "claim": "- **Diluted EPS (Latest Quarter)**: $0.27 [release line 00022]",
+      "status": "correct",
+      "reason": "The amount and citation match the step 6 release line and its stated unit.",
+      "correction": "",
+      "source": "release line 00022",
+      "replacement_claim": "",
+      "deterministic_check": true
+    },
+    {
+      "claim": "The company’s TTM operating margin of 14.12% is significantly below the median peer margin of 46.95%, indicating weaker performance relative to its peers [calculator result, peer data]. The company reported no long-term or current debt for the year [10-K line 00000].",
+      "status": "unsupported",
+      "reason": "The cited 10-K line 00000 does not match the saved filing text.",
+      "correction": "Use a valid numbered line from the saved filing. Removed the claim from the verified body because saved evidence did not support it.",
+      "source": "10-K line 00000",
+      "deterministic_check": true
+    },
+    {
+      "claim": "- \"Total revenue in the third quarter of 2026 was $3.3 billion, an increase of 9.6% compared to the third quarter of 2025. The increase was driven by new restaurant openings and, to a lesser extent, comparable restaurant sales. Comparable restaurant sales increased 2.1%, including a 1.3% increase in average check and a 0.8% increase in transactions. Digital sales represented 38.8% of total food and beverage revenue for the three months ended September 30, 2026, an increase from 36.7% for the three months ended September 30, 2025.\" [release line 00027]",
+      "status": "correct",
+      "reason": "The quoted text exactly matches a release line selected by step 6.",
+      "correction": "",
+      "source": "release line 00027",
+      "deterministic_check": true
+    },
+    {
+      "claim": "- \"•Diluted earnings per share was $0.27, a 6.9% decrease from $0.29\" [release line 00022]",
+      "status": "correct",
+      "reason": "The quoted text exactly matches a release line selected by step 6.",
+      "correction": "",
+      "source": "release line 00022",
+      "deterministic_check": true
+    },
+    {
+      "claim": "| Revenue Growth | 5.41% | [arithmetic: (11925601000 / 11313853000) - 1 = 0.054070704295] |",
+      "status": "correct",
+      "reason": "The displayed ratio and its inputs match the saved facts and code calculation.",
+      "correction": "",
+      "source": "(11925601000 / 11313853000) - 1",
+      "replacement_claim": "",
+      "deterministic_check": true
+    },
+    {
+      "claim": "| Operating Margin | 16.23% | [arithmetic: 1935798000 / 11925601000 = 0.162322888381] |",
+      "status": "correct",
+      "reason": "The displayed ratio and its inputs match the saved facts and code calculation.",
+      "correction": "",
+      "source": "1935798000 / 11925601000",
+      "replacement_claim": "",
+      "deterministic_check": true
+    },
+    {
+      "claim": "| Return on Average Equity | 47.36% | [arithmetic: 1535761000 / ((2830607000 + 3655546000) / 2) = 0.473550654756] |",
+      "status": "correct",
+      "reason": "The displayed ratio and its inputs match the saved facts and code calculation.",
+      "correction": "",
+      "source": "1535761000 / ((2830607000 + 3655546000) / 2)",
+      "replacement_claim": "",
+      "deterministic_check": true
+    },
+    {
+      "claim": "| Free Cash Flow | $1,447,590,000 | [arithmetic: 2113926000 - 666336000 = 1447590000] |",
+      "status": "correct",
+      "reason": "The displayed ratio and its inputs match the saved facts and code calculation.",
+      "correction": "",
+      "source": "2113926000 - 666336000",
+      "replacement_claim": "",
+      "deterministic_check": true
+    },
+    {
+      "claim": "| MCD Operating Margin | 46.10% | [arithmetic: 12393000000 / 26885000000 = 0.46096336247] |",
+      "status": "correct",
+      "reason": "The displayed ratio and its inputs match the saved facts and code calculation.",
+      "correction": "",
+      "source": "12393000000 / 26885000000",
+      "replacement_claim": "",
+      "deterministic_check": true
+    },
+    {
+      "claim": "| YUM Operating Margin | 31.34% | [arithmetic: 2574000000 / 8214000000 = 0.313367421476] |",
+      "status": "correct",
+      "reason": "The displayed ratio and its inputs match the saved facts and code calculation.",
+      "correction": "",
+      "source": "2574000000 / 8214000000",
+      "replacement_claim": "",
+      "deterministic_check": true
+    },
+    {
+      "claim": "| CAVA Operating Margin | 4.69% | [arithmetic: 55285000 / 1179664000 = 0.0468650395367] |",
+      "status": "correct",
+      "reason": "The displayed ratio and its inputs match the saved facts and code calculation.",
+      "correction": "",
+      "source": "55285000 / 1179664000",
+      "replacement_claim": "",
+      "deterministic_check": true
+    },
+    {
+      "claim": "| CMG TTM Revenue | $12,713,477,000 | [arithmetic: 11925601000 + 9729966000 - 8942090000 = 12713477000] | 2025-10-01 to 2026-09-30 | Revenues; 0001058090-26-000009+0001058090-26-000104-0001058090-26-000104 |",
+      "status": "correct",
+      "reason": "The displayed ratio and its inputs match the saved facts and code calculation.",
+      "correction": "",
+      "source": "11925601000 + 9729966000 - 8942090000",
+      "replacement_claim": "",
+      "deterministic_check": true
+    },
+    {
+      "claim": "| CMG TTM Operating Income | $1,794,941,000 | [arithmetic: 1935798000 + 1374622000 - 1515479000 = 1794941000] | 2025-10-01 to 2026-09-30 | OperatingIncomeLoss; 0001058090-26-000009+0001058090-26-000104-0001058090-26-000104/0001058090-26-000009+0001058090-26-000104-0001058090-26-000104 |",
+      "status": "correct",
+      "reason": "The displayed ratio and its inputs match the saved facts and code calculation.",
+      "correction": "",
+      "source": "1935798000 + 1374622000 - 1515479000",
+      "replacement_claim": "",
+      "deterministic_check": true
+    },
+    {
+      "claim": "| CMG TTM Operating Margin | 14.12% | [arithmetic: 1794941000 / 12713477000 = 0.141184115093] | 2025-10-01 to 2026-09-30 | Same trailing 12-month window |",
+      "status": "correct",
+      "reason": "The displayed ratio and its inputs match the saved facts and code calculation.",
+      "correction": "",
+      "source": "1794941000.0 / 12713477000.0",
+      "replacement_claim": "",
+      "deterministic_check": true
+    },
+    {
+      "claim": "| MCD TTM Revenue | $27,782,000,000 | [arithmetic: 26885000000 + 20773000000 - 19876000000 = 27782000000] | 2025-10-01 to 2026-09-30 | Revenues; 0000063908-26-000035+0000063908-26-000083-0000063908-26-000083 |",
+      "status": "correct",
+      "reason": "The displayed ratio and its inputs match the saved facts and code calculation.",
+      "correction": "",
+      "source": "26885000000 + 20773000000 - 19876000000",
+      "replacement_claim": "",
+      "deterministic_check": true
+    },
+    {
+      "claim": "| MCD TTM Operating Income | $13,043,000,000 | [arithmetic: 12393000000 + 9887000000 - 9237000000 = 13043000000] | 2025-10-01 to 2026-09-30 | OperatingIncomeLoss; 0000063908-26-000035+0000063908-26-000083-0000063908-26-000083/0000063908-26-000035+0000063908-26-000083-0000063908-26-000083 |",
+      "status": "correct",
+      "reason": "The displayed ratio and its inputs match the saved facts and code calculation.",
+      "correction": "",
+      "source": "12393000000 + 9887000000 - 9237000000",
+      "replacement_claim": "",
+      "deterministic_check": true
+    },
+    {
+      "claim": "| MCD TTM Operating Margin | 46.95% | [arithmetic: 13043000000 / 27782000000 = 0.469476639551] | 2025-10-01 to 2026-09-30 | Same trailing 12-month window |",
+      "status": "correct",
+      "reason": "TTM peer margin matches the saved XBRL-based calculation.",
+      "correction": "",
+      "source": "saved persona_calculations.comparable_peers: 2025-10-01 to 2026-09-30; latest 10-K + latest 10-Q YTD - comparative 10-Q YTD",
+      "replacement_claim": "",
+      "deterministic_check": true
+    },
+    {
+      "claim": "| YUM TTM Revenue | $8,797,000,000 | [arithmetic: 8214000000 + 6282000000 - 5699000000 = 8797000000] | 2025-10-01 to 2026-09-30 | Revenues; 0001041061-26-000084+0001041061-26-000210-0001041061-26-000210 |",
+      "status": "correct",
+      "reason": "The displayed ratio and its inputs match the saved facts and code calculation.",
+      "correction": "",
+      "source": "8214000000 + 6282000000 - 5699000000",
+      "replacement_claim": "",
+      "deterministic_check": true
+    },
+    {
+      "claim": "| YUM TTM Operating Income | $4,354,000,000 | [arithmetic: 2574000000 + 3616000000 - 1836000000 = 4354000000] | 2025-10-01 to 2026-09-30 | OperatingIncomeLoss; 0001041061-26-000084+0001041061-26-000210-0001041061-26-000210/0001041061-26-000084+0001041061-26-000210-0001041061-26-000210 |",
+      "status": "correct",
+      "reason": "The displayed ratio and its inputs match the saved facts and code calculation.",
+      "correction": "",
+      "source": "2574000000 + 3616000000 - 1836000000",
+      "replacement_claim": "",
+      "deterministic_check": true
+    },
+    {
+      "claim": "| YUM TTM Operating Margin | 49.49% | [arithmetic: 4354000000 / 8797000000 = 0.494941457315] | 2025-10-01 to 2026-09-30 | Same trailing 12-month window |",
+      "status": "correct",
+      "reason": "TTM peer margin matches the saved XBRL-based calculation.",
+      "correction": "",
+      "source": "saved persona_calculations.comparable_peers: 2025-10-01 to 2026-09-30; latest 10-K + latest 10-Q YTD - comparative 10-Q YTD",
+      "replacement_claim": "",
+      "deterministic_check": true
+    },
+    {
+      "claim": "| CAVA TTM Revenue | $1,438,127,000 | [arithmetic: 1179664000 + 1163142000 - 904679000 = 1438127000] | 2025-10-06 to 2026-10-04 | RevenueFromContractWithCustomerExcludingAssessedTax; 0001628280-26-011296+0001628280-26-070344-0001628280-26-070344 |",
+      "status": "correct",
+      "reason": "The displayed ratio and its inputs match the saved facts and code calculation.",
+      "correction": "",
+      "source": "1179664000 + 1163142000 - 904679000",
+      "replacement_claim": "",
+      "deterministic_check": true
+    },
+    {
+      "claim": "| CAVA TTM Operating Income | $69,913,000 | [arithmetic: 55285000 + 67104000 - 52476000 = 69913000] | 2025-10-06 to 2026-10-04 | OperatingIncomeLoss; 0001628280-26-011296+0001628280-26-070344-0001628280-26-070344/0001628280-26-011296+0001628280-26-070344-0001628280-26-070344 |",
+      "status": "correct",
+      "reason": "The displayed ratio and its inputs match the saved facts and code calculation.",
+      "correction": "",
+      "source": "55285000 + 67104000 - 52476000",
+      "replacement_claim": "",
+      "deterministic_check": true
+    },
+    {
+      "claim": "| CAVA TTM Operating Margin | 4.86% | [arithmetic: 69913000 / 1438127000 = 0.0486139263083] | 2025-10-06 to 2026-10-04 | Same trailing 12-month window |",
+      "status": "correct",
+      "reason": "TTM peer margin matches the saved XBRL-based calculation.",
+      "correction": "",
+      "source": "saved persona_calculations.comparable_peers: 2025-10-06 to 2026-10-04; latest 10-K + latest 10-Q YTD - comparative 10-Q YTD",
+      "replacement_claim": "",
+      "deterministic_check": true
+    },
+    {
+      "claim": "| Revenue (current) | $11,925,601,000 | USD | 0001058090-26-000009 | Revenues | 2025-12-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (Revenues, 2025-12-31).",
+      "correction": "",
+      "source": "Revenues; 2025-12-31; 0001058090-26-000009"
+    },
+    {
+      "claim": "| Revenue (prior) | $11,313,853,000 | USD | 0001058090-26-000009 | Revenues | 2024-12-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (Revenues, 2024-12-31).",
+      "correction": "",
+      "source": "Revenues; 2024-12-31; 0001058090-26-000009"
+    },
+    {
+      "claim": "| Operating Income (current) | $1,935,798,000 | USD | 0001058090-26-000009 | OperatingIncomeLoss | 2025-12-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (OperatingIncomeLoss, 2025-12-31).",
+      "correction": "",
+      "source": "OperatingIncomeLoss; 2025-12-31; 0001058090-26-000009"
+    },
+    {
+      "claim": "| Operating Income (prior) | $1,916,333,000 | USD | 0001058090-26-000009 | OperatingIncomeLoss | 2024-12-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (OperatingIncomeLoss, 2024-12-31).",
+      "correction": "",
+      "source": "OperatingIncomeLoss; 2024-12-31; 0001058090-26-000009"
+    },
+    {
+      "claim": "| Net Income (current) | $1,535,761,000 | USD | 0001058090-26-000009 | NetIncomeLoss | 2025-12-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (NetIncomeLoss, 2025-12-31).",
+      "correction": "",
+      "source": "NetIncomeLoss; 2025-12-31; 0001058090-26-000009"
+    },
+    {
+      "claim": "| Net Income (prior) | $1,534,110,000 | USD | 0001058090-26-000009 | NetIncomeLoss | 2024-12-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (NetIncomeLoss, 2024-12-31).",
+      "correction": "",
+      "source": "NetIncomeLoss; 2024-12-31; 0001058090-26-000009"
+    },
+    {
+      "claim": "| Diluted EPS (current) | $1.14 | USD/shares | 0001058090-26-000009 | EarningsPerShareDiluted | 2025-12-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (EarningsPerShareDiluted, 2025-12-31).",
+      "correction": "",
+      "source": "EarningsPerShareDiluted; 2025-12-31; 0001058090-26-000009"
+    },
+    {
+      "claim": "| Diluted EPS (prior) | $1.11 | USD/shares | 0001058090-26-000009 | EarningsPerShareDiluted | 2024-12-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (EarningsPerShareDiluted, 2024-12-31).",
+      "correction": "",
+      "source": "EarningsPerShareDiluted; 2024-12-31; 0001058090-26-000009"
+    },
+    {
+      "claim": "| Stockholders' Equity (current) | $2,830,607,000 | USD | 0001058090-26-000009 | StockholdersEquity | 2025-12-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (StockholdersEquity, 2025-12-31).",
+      "correction": "",
+      "source": "StockholdersEquity; 2025-12-31; 0001058090-26-000009"
+    },
+    {
+      "claim": "| Stockholders' Equity (prior) | $3,655,546,000 | USD | 0001058090-26-000009 | StockholdersEquity | 2024-12-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (StockholdersEquity, 2024-12-31).",
+      "correction": "",
+      "source": "StockholdersEquity; 2024-12-31; 0001058090-26-000009"
+    },
+    {
+      "claim": "| Long-Term Debt (current) | $0 | USD | 0001058090-26-000009 | LongTermDebt | 2025-12-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (LongTermDebt, 2025-12-31).",
+      "correction": "",
+      "source": "LongTermDebt; 2025-12-31; 0001058090-26-000009"
+    },
+    {
+      "claim": "| Long-Term Debt (prior) | $0 | USD | 0001058090-25-000014 | LongTermDebt | 2024-12-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (LongTermDebt, 2024-12-31).",
+      "correction": "",
+      "source": "LongTermDebt; 2024-12-31; 0001058090-25-000014"
+    },
+    {
+      "claim": "| Cash from Operations (current) | $2,113,926,000 | USD | 0001058090-26-000009 | NetCashProvidedByUsedInOperatingActivities | 2025-12-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (NetCashProvidedByUsedInOperatingActivities, 2025-12-31).",
+      "correction": "",
+      "source": "NetCashProvidedByUsedInOperatingActivities; 2025-12-31; 0001058090-26-000009"
+    },
+    {
+      "claim": "| Cash from Operations (prior) | $2,105,076,000 | USD | 0001058090-26-000009 | NetCashProvidedByUsedInOperatingActivities | 2024-12-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (NetCashProvidedByUsedInOperatingActivities, 2024-12-31).",
+      "correction": "",
+      "source": "NetCashProvidedByUsedInOperatingActivities; 2024-12-31; 0001058090-26-000009"
+    },
+    {
+      "claim": "| Additions to Property and Equipment (current) | $666,336,000 | USD | 0001058090-26-000009 | PaymentsToAcquirePropertyPlantAndEquipment | 2025-12-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (PaymentsToAcquirePropertyPlantAndEquipment, 2025-12-31).",
+      "correction": "",
+      "source": "PaymentsToAcquirePropertyPlantAndEquipment; 2025-12-31; 0001058090-26-000009"
+    },
+    {
+      "claim": "| Additions to Property and Equipment (prior) | $593,603,000 | USD | 0001058090-26-000009 | PaymentsToAcquirePropertyPlantAndEquipment | 2024-12-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (PaymentsToAcquirePropertyPlantAndEquipment, 2024-12-31).",
+      "correction": "",
+      "source": "PaymentsToAcquirePropertyPlantAndEquipment; 2024-12-31; 0001058090-26-000009"
+    },
+    {
+      "claim": "| MCD Revenue (current) | $26,885,000,000 | USD | 0000063908-26-000035 | Revenues | 2025-12-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (Revenues, 2025-12-31).",
+      "correction": "",
+      "source": "Revenues; 2025-12-31; 0000063908-26-000035"
+    },
+    {
+      "claim": "| MCD Revenue (prior) | $25,920,000,000 | USD | 0000063908-26-000035 | Revenues | 2024-12-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (Revenues, 2024-12-31).",
+      "correction": "",
+      "source": "Revenues; 2024-12-31; 0000063908-26-000035"
+    },
+    {
+      "claim": "| MCD Operating Income (current) | $12,393,000,000 | USD | 0000063908-26-000035 | OperatingIncomeLoss | 2025-12-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (OperatingIncomeLoss, 2025-12-31).",
+      "correction": "",
+      "source": "OperatingIncomeLoss; 2025-12-31; 0000063908-26-000035"
+    },
+    {
+      "claim": "| MCD Operating Income (prior) | $11,712,000,000 | USD | 0000063908-26-000035 | OperatingIncomeLoss | 2024-12-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (OperatingIncomeLoss, 2024-12-31).",
+      "correction": "",
+      "source": "OperatingIncomeLoss; 2024-12-31; 0000063908-26-000035"
+    },
+    {
+      "claim": "| MCD Net Income (current) | $8,563,000,000 | USD | 0000063908-26-000035 | NetIncomeLoss | 2025-12-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (NetIncomeLoss, 2025-12-31).",
+      "correction": "",
+      "source": "NetIncomeLoss; 2025-12-31; 0000063908-26-000035"
+    },
+    {
+      "claim": "| MCD Net Income (prior) | $8,223,000,000 | USD | 0000063908-26-000035 | NetIncomeLoss | 2024-12-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (NetIncomeLoss, 2024-12-31).",
+      "correction": "",
+      "source": "NetIncomeLoss; 2024-12-31; 0000063908-26-000035"
+    },
+    {
+      "claim": "| MCD Diluted EPS (current) | $11.95 | USD/shares | 0000063908-26-000035 | EarningsPerShareDiluted | 2025-12-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (EarningsPerShareDiluted, 2025-12-31).",
+      "correction": "",
+      "source": "EarningsPerShareDiluted; 2025-12-31; 0000063908-26-000035"
+    },
+    {
+      "claim": "| MCD Diluted EPS (prior) | $11.39 | USD/shares | 0000063908-26-000035 | EarningsPerShareDiluted | 2024-12-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (EarningsPerShareDiluted, 2024-12-31).",
+      "correction": "",
+      "source": "EarningsPerShareDiluted; 2024-12-31; 0000063908-26-000035"
+    },
+    {
+      "claim": "| MCD Stockholders' Equity (current) | $-1,791,000,000 | USD | 0000063908-26-000035 | StockholdersEquity | 2025-12-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (StockholdersEquity, 2025-12-31).",
+      "correction": "",
+      "source": "StockholdersEquity; 2025-12-31; 0000063908-26-000035"
+    },
+    {
+      "claim": "| MCD Stockholders' Equity (prior) | $-3,797,000,000 | USD | 0000063908-26-000035 | StockholdersEquity | 2024-12-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (StockholdersEquity, 2024-12-31).",
+      "correction": "",
+      "source": "StockholdersEquity; 2024-12-31; 0000063908-26-000035"
+    },
+    {
+      "claim": "| MCD Long-Term Debt (current) | $39,973,000,000 | USD | 0000063908-26-000035 | LongTermDebtNoncurrent | 2025-12-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (LongTermDebtNoncurrent, 2025-12-31).",
+      "correction": "",
+      "source": "LongTermDebtNoncurrent; 2025-12-31; 0000063908-26-000035"
+    },
+    {
+      "claim": "| MCD Long-Term Debt (prior) | $38,424,000,000 | USD | 0000063908-26-000035 | LongTermDebtNoncurrent | 2024-12-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (LongTermDebtNoncurrent, 2024-12-31).",
+      "correction": "",
+      "source": "LongTermDebtNoncurrent; 2024-12-31; 0000063908-26-000035"
+    },
+    {
+      "claim": "| MCD Current Portion of Long-Term Debt (current) | $725,000,000 | USD | 0000063908-26-000035 | LongTermDebtCurrent | 2025-12-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (LongTermDebtCurrent, 2025-12-31).",
+      "correction": "",
+      "source": "LongTermDebtCurrent; 2025-12-31; 0000063908-26-000035"
+    },
+    {
+      "claim": "| MCD Current Portion of Long-Term Debt (prior) | $0 | USD | 0000063908-22-000011 | LongTermDebtCurrent | 2021-12-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (LongTermDebtCurrent, 2021-12-31).",
+      "correction": "",
+      "source": "LongTermDebtCurrent; 2021-12-31; 0000063908-22-000011"
+    },
+    {
+      "claim": "| MCD Cash from Operations (current) | $10,551,000,000 | USD | 0000063908-26-000035 | NetCashProvidedByUsedInOperatingActivities | 2025-12-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (NetCashProvidedByUsedInOperatingActivities, 2025-12-31).",
+      "correction": "",
+      "source": "NetCashProvidedByUsedInOperatingActivities; 2025-12-31; 0000063908-26-000035"
+    },
+    {
+      "claim": "| MCD Cash from Operations (prior) | $9,447,000,000 | USD | 0000063908-26-000035 | NetCashProvidedByUsedInOperatingActivities | 2024-12-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (NetCashProvidedByUsedInOperatingActivities, 2024-12-31).",
+      "correction": "",
+      "source": "NetCashProvidedByUsedInOperatingActivities; 2024-12-31; 0000063908-26-000035"
+    },
+    {
+      "claim": "| MCD Additions to Property and Equipment (current) | $3,365,000,000 | USD | 0000063908-26-000035 | PaymentsToAcquirePropertyPlantAndEquipment | 2025-12-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (PaymentsToAcquirePropertyPlantAndEquipment, 2025-12-31).",
+      "correction": "",
+      "source": "PaymentsToAcquirePropertyPlantAndEquipment; 2025-12-31; 0000063908-26-000035"
+    },
+    {
+      "claim": "| MCD Additions to Property and Equipment (prior) | $2,775,000,000 | USD | 0000063908-26-000035 | PaymentsToAcquirePropertyPlantAndEquipment | 2024-12-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (PaymentsToAcquirePropertyPlantAndEquipment, 2024-12-31).",
+      "correction": "",
+      "source": "PaymentsToAcquirePropertyPlantAndEquipment; 2024-12-31; 0000063908-26-000035"
+    },
+    {
+      "claim": "| YUM Revenue (current) | $8,214,000,000 | USD | 0001041061-26-000084 | Revenues | 2025-12-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (Revenues, 2025-12-31).",
+      "correction": "",
+      "source": "Revenues; 2025-12-31; 0001041061-26-000084"
+    },
+    {
+      "claim": "| YUM Revenue (prior) | $7,549,000,000 | USD | 0001041061-26-000084 | Revenues | 2024-12-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (Revenues, 2024-12-31).",
+      "correction": "",
+      "source": "Revenues; 2024-12-31; 0001041061-26-000084"
+    },
+    {
+      "claim": "| YUM Operating Income (current) | $2,574,000,000 | USD | 0001041061-26-000084 | OperatingIncomeLoss | 2025-12-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (OperatingIncomeLoss, 2025-12-31).",
+      "correction": "",
+      "source": "OperatingIncomeLoss; 2025-12-31; 0001041061-26-000084"
+    },
+    {
+      "claim": "| YUM Operating Income (prior) | $2,403,000,000 | USD | 0001041061-26-000084 | OperatingIncomeLoss | 2024-12-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (OperatingIncomeLoss, 2024-12-31).",
+      "correction": "",
+      "source": "OperatingIncomeLoss; 2024-12-31; 0001041061-26-000084"
+    },
+    {
+      "claim": "| YUM Net Income (current) | $1,559,000,000 | USD | 0001041061-26-000084 | NetIncomeLoss | 2025-12-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (NetIncomeLoss, 2025-12-31).",
+      "correction": "",
+      "source": "NetIncomeLoss; 2025-12-31; 0001041061-26-000084"
+    },
+    {
+      "claim": "| YUM Net Income (prior) | $1,486,000,000 | USD | 0001041061-26-000084 | NetIncomeLoss | 2024-12-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (NetIncomeLoss, 2024-12-31).",
+      "correction": "",
+      "source": "NetIncomeLoss; 2024-12-31; 0001041061-26-000084"
+    },
+    {
+      "claim": "| YUM Diluted EPS (current) | $5.55 | USD/shares | 0001041061-26-000084 | EarningsPerShareDiluted | 2025-12-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (EarningsPerShareDiluted, 2025-12-31).",
+      "correction": "",
+      "source": "EarningsPerShareDiluted; 2025-12-31; 0001041061-26-000084"
+    },
+    {
+      "claim": "| YUM Diluted EPS (prior) | $5.22 | USD/shares | 0001041061-26-000084 | EarningsPerShareDiluted | 2024-12-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (EarningsPerShareDiluted, 2024-12-31).",
+      "correction": "",
+      "source": "EarningsPerShareDiluted; 2024-12-31; 0001041061-26-000084"
+    },
+    {
+      "claim": "| YUM Stockholders' Equity (current) | $-7,325,000,000 | USD | 0001041061-26-000084 | StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest | 2025-12-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, 2025-12-31).",
+      "correction": "",
+      "source": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest; 2025-12-31; 0001041061-26-000084"
+    },
+    {
+      "claim": "| YUM Stockholders' Equity (prior) | $-7,648,000,000 | USD | 0001041061-26-000084 | StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest | 2024-12-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, 2024-12-31).",
+      "correction": "",
+      "source": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest; 2024-12-31; 0001041061-26-000084"
+    },
+    {
+      "claim": "| YUM Current Portion of Long-Term Debt (current) | $39,000,000 | USD | 0001041061-26-000084 | LongTermDebtAndCapitalLeaseObligationsCurrent | 2025-12-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (LongTermDebtAndCapitalLeaseObligationsCurrent, 2025-12-31).",
+      "correction": "",
+      "source": "LongTermDebtAndCapitalLeaseObligationsCurrent; 2025-12-31; 0001041061-26-000084"
+    },
+    {
+      "claim": "| YUM Current Portion of Long-Term Debt (prior) | $29,000,000 | USD | 0001041061-26-000084 | LongTermDebtAndCapitalLeaseObligationsCurrent | 2024-12-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (LongTermDebtAndCapitalLeaseObligationsCurrent, 2024-12-31).",
+      "correction": "",
+      "source": "LongTermDebtAndCapitalLeaseObligationsCurrent; 2024-12-31; 0001041061-26-000084"
+    },
+    {
+      "claim": "| YUM Cash from Operations (current) | $2,010,000,000 | USD | 0001041061-26-000084 | NetCashProvidedByUsedInOperatingActivities | 2025-12-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (NetCashProvidedByUsedInOperatingActivities, 2025-12-31).",
+      "correction": "",
+      "source": "NetCashProvidedByUsedInOperatingActivities; 2025-12-31; 0001041061-26-000084"
+    },
+    {
+      "claim": "| YUM Cash from Operations (prior) | $1,689,000,000 | USD | 0001041061-26-000084 | NetCashProvidedByUsedInOperatingActivities | 2024-12-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (NetCashProvidedByUsedInOperatingActivities, 2024-12-31).",
+      "correction": "",
+      "source": "NetCashProvidedByUsedInOperatingActivities; 2024-12-31; 0001041061-26-000084"
+    },
+    {
+      "claim": "| YUM Additions to Property and Equipment (current) | $371,000,000 | USD | 0001041061-26-000084 | PaymentsToAcquirePropertyPlantAndEquipment | 2025-12-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (PaymentsToAcquirePropertyPlantAndEquipment, 2025-12-31).",
+      "correction": "",
+      "source": "PaymentsToAcquirePropertyPlantAndEquipment; 2025-12-31; 0001041061-26-000084"
+    },
+    {
+      "claim": "| YUM Additions to Property and Equipment (prior) | $257,000,000 | USD | 0001041061-26-000084 | PaymentsToAcquirePropertyPlantAndEquipment | 2024-12-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (PaymentsToAcquirePropertyPlantAndEquipment, 2024-12-31).",
+      "correction": "",
+      "source": "PaymentsToAcquirePropertyPlantAndEquipment; 2024-12-31; 0001041061-26-000084"
+    },
+    {
+      "claim": "| CAVA Revenue (current) | $1,179,664,000 | USD | 0001628280-26-011296 | RevenueFromContractWithCustomerExcludingAssessedTax | 2025-12-28 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (RevenueFromContractWithCustomerExcludingAssessedTax, 2025-12-28).",
+      "correction": "",
+      "source": "RevenueFromContractWithCustomerExcludingAssessedTax; 2025-12-28; 0001628280-26-011296"
+    },
+    {
+      "claim": "| CAVA Revenue (prior) | $963,713,000 | USD | 0001628280-26-011296 | RevenueFromContractWithCustomerExcludingAssessedTax | 2024-12-29 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (RevenueFromContractWithCustomerExcludingAssessedTax, 2024-12-29).",
+      "correction": "",
+      "source": "RevenueFromContractWithCustomerExcludingAssessedTax; 2024-12-29; 0001628280-26-011296"
+    },
+    {
+      "claim": "| CAVA Operating Income (current) | $55,285,000 | USD | 0001628280-26-011296 | OperatingIncomeLoss | 2025-12-28 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (OperatingIncomeLoss, 2025-12-28).",
+      "correction": "",
+      "source": "OperatingIncomeLoss; 2025-12-28; 0001628280-26-011296"
+    },
+    {
+      "claim": "| CAVA Operating Income (prior) | $43,118,000 | USD | 0001628280-26-011296 | OperatingIncomeLoss | 2024-12-29 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (OperatingIncomeLoss, 2024-12-29).",
+      "correction": "",
+      "source": "OperatingIncomeLoss; 2024-12-29; 0001628280-26-011296"
+    },
+    {
+      "claim": "| CAVA Net Income (current) | $63,743,000 | USD | 0001628280-26-011296 | NetIncomeLoss | 2025-12-28 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (NetIncomeLoss, 2025-12-28).",
+      "correction": "",
+      "source": "NetIncomeLoss; 2025-12-28; 0001628280-26-011296"
+    },
+    {
+      "claim": "| CAVA Net Income (prior) | $130,319,000 | USD | 0001628280-26-011296 | NetIncomeLoss | 2024-12-29 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (NetIncomeLoss, 2024-12-29).",
+      "correction": "",
+      "source": "NetIncomeLoss; 2024-12-29; 0001628280-26-011296"
+    },
+    {
+      "claim": "| CAVA Diluted EPS (current) | $0.54 | USD/shares | 0001628280-26-011296 | EarningsPerShareDiluted | 2025-12-28 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (EarningsPerShareDiluted, 2025-12-28).",
+      "correction": "",
+      "source": "EarningsPerShareDiluted; 2025-12-28; 0001628280-26-011296"
+    },
+    {
+      "claim": "| CAVA Diluted EPS (prior) | $1.10 | USD/shares | 0001628280-26-011296 | EarningsPerShareDiluted | 2024-12-29 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (EarningsPerShareDiluted, 2024-12-29).",
+      "correction": "",
+      "source": "EarningsPerShareDiluted; 2024-12-29; 0001628280-26-011296"
+    },
+    {
+      "claim": "| CAVA Stockholders' Equity (current) | $779,656,000 | USD | 0001628280-26-011296 | StockholdersEquity | 2025-12-28 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (StockholdersEquity, 2025-12-28).",
+      "correction": "",
+      "source": "StockholdersEquity; 2025-12-28; 0001628280-26-011296"
+    },
+    {
+      "claim": "| CAVA Stockholders' Equity (prior) | $695,566,000 | USD | 0001628280-26-011296 | StockholdersEquity | 2024-12-29 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (StockholdersEquity, 2024-12-29).",
+      "correction": "",
+      "source": "StockholdersEquity; 2024-12-29; 0001628280-26-011296"
+    },
+    {
+      "claim": "| CAVA Cash from Operations (current) | $184,840,000 | USD | 0001628280-26-011296 | NetCashProvidedByUsedInOperatingActivities | 2025-12-28 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (NetCashProvidedByUsedInOperatingActivities, 2025-12-28).",
+      "correction": "",
+      "source": "NetCashProvidedByUsedInOperatingActivities; 2025-12-28; 0001628280-26-011296"
+    },
+    {
+      "claim": "| CAVA Cash from Operations (prior) | $161,027,000 | USD | 0001628280-26-011296 | NetCashProvidedByUsedInOperatingActivities | 2024-12-29 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (NetCashProvidedByUsedInOperatingActivities, 2024-12-29).",
+      "correction": "",
+      "source": "NetCashProvidedByUsedInOperatingActivities; 2024-12-29; 0001628280-26-011296"
+    },
+    {
+      "claim": "| CAVA Additions to Property and Equipment (current) | $158,699,000 | USD | 0001628280-26-011296 | PaymentsToAcquirePropertyPlantAndEquipment | 2025-12-28 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (PaymentsToAcquirePropertyPlantAndEquipment, 2025-12-28).",
+      "correction": "",
+      "source": "PaymentsToAcquirePropertyPlantAndEquipment; 2025-12-28; 0001628280-26-011296"
+    },
+    {
+      "claim": "| CAVA Additions to Property and Equipment (prior) | $108,131,000 | USD | 0001628280-26-011296 | PaymentsToAcquirePropertyPlantAndEquipment | 2024-12-29 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (PaymentsToAcquirePropertyPlantAndEquipment, 2024-12-29).",
+      "correction": "",
+      "source": "PaymentsToAcquirePropertyPlantAndEquipment; 2024-12-29; 0001628280-26-011296"
+    },
+    {
+      "claim": "| Peer TTM median operating margin | 46.95% | TTM peer median uses comparable peers ending within 45 days of company TTM end 2026-09-30. | Anchor: 2026-09-30; maximum date difference: 45 days |",
+      "status": "correct",
+      "reason": "TTM peer margin matches the saved XBRL-based calculation.",
+      "correction": "",
+      "source": "saved persona_calculations.comparable_peers: aligned peer TTM median; company anchor 2026-09-30",
+      "deterministic_check": true
+    },
+    {
+      "claim": "Insight: (Research Analyst) As of December 31, 2025, we owned 3,938 Chipotle restaurants throughout the United States, and 104 international Chipotle restaurants [10-K line 00179].",
+      "status": "correct",
+      "reason": "The claim correctly cites 10-K line 00179 which states: 'As of December 31, 2025, we owned 3,938 Chipotle restaurants throughout the United States (\"U.S.\") and 104 international Chipotle restaurants.' The number, period, and definition match.",
+      "correction": "",
+      "source": "10-K line 00179",
+      "corrected_claim": ""
+    },
+    {
+      "claim": "Insight: (Financial Analyst) Comparable restaurant sales decreased 1.7% for the year ended December 31, 2025 [10-K line 00457].",
+      "status": "correct",
+      "reason": "The claim correctly cites 10-K line 00457 which states: 'Comparable restaurant sales decreased 1.7% for the year ended December 31, 2025.' The number, period, and definition match.",
+      "correction": "",
+      "source": "10-K line 00457",
+      "corrected_claim": ""
+    },
+    {
+      "claim": "Insight: (Investment Advisor) ** The company reports strong operating cash flow of $2.1 billion, exceeding net income of $1.5 billion, indicating solid cash generation [10-K line 00818].",
+      "status": "correct",
+      "reason": "The claim correctly cites 10-K line 00818 which states: 'Net cash provided by operating activities 2,113,926 2,105,076 1,783,477.' This supports the $2.1 billion operating cash flow figure and shows it exceeds net income of $1.5 billion as stated in the report.",
+      "correction": "",
+      "source": "10-K line 00818",
+      "corrected_claim": ""
+    },
+    {
+      "claim": "Chipotle Mexican Grill operates company-owned and partner-operated restaurants in the United States, Canada, and international markets, offering a menu of burritos, burrito bowls, quesadillas, tacos, and salads. The company emphasizes serving responsibly sourced, classically cooked, real food with wholesome ingredients without artificial colors, flavors or preservatives [10-K line 00178]. Chipotle’s business model is centered on its commitment to Food with Integrity, which includes sourcing animal products raised in accordance with established criteria for sustainability and animal welfare, and using responsibly grown produce that meets Food with Integrity standards [10-K line 00188]. The company manages its U.S. operations based on 11 regions and aggregates its operations into one reportable segment [10-K line 00179].",
+      "status": "unsupported",
+      "reason": "No matching verifier mark was returned for this sourced numeric claim.",
+      "correction": "Remove or source the claim before use. Removed the claim from the verified body because saved evidence did not support it."
+    },
+    {
+      "claim": "Chipotle’s growth story is supported by disclosed evidence of customer demand and reported progress from new product or market expansion. In the third quarter of 2026, comparable restaurant sales increased 2.1%, demonstrating positive transaction growth for three consecutive quarters [release line 00019]. Additionally, the company opened 84 new company-owned restaurants during the quarter, with 53 including a Chipotlane, indicating strategic expansion and innovation in restaurant format [release line 00024]. These developments support management’s narrative of executing its Recipe for Growth strategy [10-K line 00181].",
+      "status": "correct",
+      "reason": "Every extracted financial figure appears on the cited saved filing lines.",
+      "correction": "",
+      "source": "00019: •Comparable restaurant sales increased 2.1%; 00024: •Opened 84 company-owned restaurants, with 53 locations including a Chipotlane. We also opened five international partner-operated restaurants.; 00181: Chipotle is a brand with a demonstrated purpose of Cultivating a Better World. Our Recipe for Growth strategy leans into what uniquely differentiates Chipotle, with a focus on accelerating growth and sharpening competitiveness. The strategy is grounded in five key areas:"
+    },
+    {
+      "claim": "- **McDonald's (MCD) TTM Operating Margin**: 46.95% [peer data]",
+      "status": "correct",
+      "reason": "TTM peer margin matches the saved XBRL-based calculation.",
+      "correction": "",
+      "source": "saved persona_calculations.comparable_peers: 2025-10-01 to 2026-09-30; latest 10-K + latest 10-Q YTD - comparative 10-Q YTD",
+      "deterministic_check": true
+    },
+    {
+      "claim": "- **Yum Brands (YUM) TTM Operating Margin**: 49.49% [peer data]",
+      "status": "correct",
+      "reason": "TTM peer margin matches the saved XBRL-based calculation.",
+      "correction": "",
+      "source": "saved persona_calculations.comparable_peers: 2025-10-01 to 2026-09-30; latest 10-K + latest 10-Q YTD - comparative 10-Q YTD",
+      "deterministic_check": true
+    },
+    {
+      "claim": "- **Cava (CAVA) TTM Operating Margin**: 4.86% [peer data]",
+      "status": "correct",
+      "reason": "TTM peer margin matches the saved XBRL-based calculation.",
+      "correction": "",
+      "source": "saved persona_calculations.comparable_peers: 2025-10-06 to 2026-10-04; latest 10-K + latest 10-Q YTD - comparative 10-Q YTD",
+      "deterministic_check": true
+    },
+    {
+      "claim": "- **Cash Flow Support**: 3 [operating cash flow of $2,113.9 million exceeds net income of $1,535.8 million]",
+      "status": "correct",
+      "reason": "Financial score matches the saved calculator result.",
+      "correction": "",
+      "source": "saved persona_calculations.financial_scores: cash_flow_support"
+    },
+    {
+      "claim": "- **Operating Margin Trend**: 1 [decline of 0.71 percentage points from prior year’s 16.94%]",
+      "status": "correct",
+      "reason": "Financial score matches the saved calculator result.",
+      "correction": "",
+      "source": "saved persona_calculations.financial_scores: operating_margin_trend"
+    },
+    {
+      "claim": "- **Peer Comparison**: 1 [company's TTM margin of 14.12% is below median peer margin of 46.95%]",
+      "status": "correct",
+      "reason": "Financial score matches the saved calculator result.",
+      "correction": "",
+      "source": "saved persona_calculations.financial_scores: peer_comparison"
+    },
+    {
+      "claim": "Chipotle Mexican Grill Inc. reported total revenue of $11.9 billion for the year ended December 31, 2025, representing a 5.4% increase from the prior year [10-K line 00454]. Net income was $1.5 billion, with diluted earnings per share of $1.14, up 2.7% from the prior year [10-K line 00456]. The company's operating margin was 16.23%, down from 16.94% in the prior year [calculator result], indicating a declining profitability trend [calculator result].",
+      "status": "unsupported",
+      "reason": "No matching verifier mark was returned for this sourced numeric claim.",
+      "correction": "Remove or source the claim before use. Removed the claim from the verified body because saved evidence did not support it."
+    },
+    {
+      "claim": "Operating cash flow for the year reached $2.1 billion, which exceeds net income, suggesting strong cash generation [10-K line 00818]. Free cash flow was calculated at $1.4 billion, reflecting significant capital expenditure of $666.3 million [calculator result].",
+      "status": "wrong",
+      "reason": "The cited line does not state every reported figure; the saved filing identifies a corrected source line.",
+      "correction": "Use [10-K line 00626] [10-K line 00624] [10-K line 00610].",
+      "source": "00626: Cash used in financing activities was $2.5 billion for the year ended December 31, 2025, compared to $1.1 billion for the year ended December 31, 2024. The change was primarily due to increased repurchases of common stock of $1.4 billion.; 00624: Cash provided by operating activities was $2.1 billion for the year ended December 31, 2025, compared to $2.1 billion for the year ended December 31, 2024. The balance was flat as an increase in operating cash flows due to the timing of tax-related payments, including the impacts of H.R.1 - One Big Beautiful Bill Act, was offset by other changes in non-tax operating assets and liabilities.; 00610: Our total capital expenditures for 2025 were $666.3 million. In 2025, we spent on average about $1.5 million in development and construction costs per new restaurant, or about $1.3 million net of landlord reimbursements of $0.2 million. In 2026, we expect to incur about $834.1 million in total capital expenditures. We expect approximately $531.8 million in capital expenditures related to our construction of new restaurants, before any reductions for landlord reimbursements. We expect the average investment cost for new restaurants opening in 2026 will be slightly higher than the average investment costs for those opened in 2025. We expect approximately $266.9 million in capital expenditures related to investments in existing restaurants including remodeling and similar improvements, new equipment and hardware, and technology to optimize efficiencies. Finally, we expect a portion of our incurred capital expenditures to be for additional corporate initiatives including investments in technology to boost innovation, enhance the guest experience, and improve operations.",
+      "replacement_claim": "Operating cash flow for the year reached $2.1 billion, which exceeds net income, suggesting strong cash generation . Free cash flow was calculated at $1.4 billion, reflecting significant capital expenditure of $666.3 million [calculator result]. [10-K line 00626] [10-K line 00624] [10-K line 00610]"
+    },
+    {
+      "claim": "Comparable restaurant sales decreased by 1.7% for the year, with lower transactions (2.9%) partially offset by a 1.2% increase in average check [10-K line 00457]. Digital sales represented 36.7% of total food and beverage revenue [10-K line 00457].",
+      "status": "correct",
+      "reason": "Every extracted financial figure appears on the cited saved filing lines.",
+      "correction": "",
+      "source": "00457: Sales Trends. Comparable restaurant sales decreased 1.7% for the year ended December 31, 2025. The decrease is attributable to lower transactions of 2.9%, partially offset by a 1.2% increase in average check. Comparable restaurant sales represent the change in period-over-period total revenue for company-owned restaurants in operation for at least 13 full calendar months. Digital sales represented 36.7% of total food and beverage revenue. For 2026, management is anticipating comparable restaurant sales to be about flat.; 00457: Sales Trends. Comparable restaurant sales decreased 1.7% for the year ended December 31, 2025. The decrease is attributable to lower transactions of 2.9%, partially offset by a 1.2% increase in average check. Comparable restaurant sales represent the change in period-over-period total revenue for company-owned restaurants in operation for at least 13 full calendar months. Digital sales represented 36.7% of total food and beverage revenue. For 2026, management is anticipating comparable restaurant sales to be about flat."
+    },
+    {
+      "claim": "Key catalysts for Chipotle include continued digital sales growth, which represented 38.8% of total food and beverage revenue in the third quarter of 2026, up from 36.7% in the same period of 2025 [release line 00027]. Additionally, the company's investment in technology to modernize the back-of-house operations and enhance the guest experience through AI and relaunching its Rewards Program contributes to operational efficiency and competitiveness [10-K line 00205]. Expansion into new international markets and increased use of Chipotlanes in new restaurant formats also support future growth [10-K line 00186].",
+      "status": "correct",
+      "reason": "Every extracted financial figure appears on the cited saved filing lines.",
+      "correction": "",
+      "source": "00027: Total revenue in the third quarter of 2026 was $3.3 billion, an increase of 9.6% compared to the third quarter of 2025. The increase was driven by new restaurant openings and, to a lesser extent, comparable restaurant sales. Comparable restaurant sales increased 2.1%, including a 1.3% increase in average check and a 0.8% increase in transactions. Digital sales represented 38.8% of total food and beverage revenue for the three months ended September 30, 2026, an increase from 36.7% for the three months ended September 30, 2025.; 00205: Our digital platform continues to be a strategic driver of our growth. Digital sales represent food and beverage revenue for company-owned restaurants generated through the Chipotle website, Chipotle app or third-party delivery aggregators and include revenue deferrals associated with Chipotle Rewards. Digital sales represented 36.7% of food and beverage revenue in 2025, compared to 35.1% in 2024. We have made digital ordering convenient with continued enhancements to our app and by building more Chipotlanes, which is our drive through format for guest pick-up of digital orders. We are also investing in technology and tools to modernize the back of house of our restaurants and to improve the team member experience.; 00186: •Cultivate the best talent in the industry that is energized and focused on speed and agility."
+    },
+    {
+      "claim": "In the third quarter of 2026, Chipotle reported total revenue of $3.3 billion, an increase of 9.6% year-over-year, driven by new restaurant openings and comparable sales [release line 00018]. The company also saw improvements in food, beverage, and packaging costs as a percentage of total revenue, decreasing to 29.5% from 30.0% in the third quarter of 2025, primarily due to menu price increases and tariff relief [release line 00029]. Furthermore, Chipotle opened five international partner-operated restaurants during the quarter, contributing to its global expansion efforts [release line 00024].",
+      "status": "correct",
+      "reason": "Every extracted financial figure appears on the cited saved filing lines.",
+      "correction": "",
+      "source": "00018: •Total revenue increased 9.6% to $3.3 billion; 00029: Food, beverage and packaging costs in the third quarter of 2026 were 29.5% of total revenue, a decrease from 30.0% in the third quarter of 2025. The decrease was primarily driven by the benefit of menu price increases, tariff relief, and favorable limited-time offer mix. These benefits were partially offset by inflation, primarily in beef and freight, and higher protein usage.; 00024: •Opened 84 company-owned restaurants, with 53 locations including a Chipotlane. We also opened five international partner-operated restaurants."
+    }
+  ]
+}

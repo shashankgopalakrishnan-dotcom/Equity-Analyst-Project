@@ -1,0 +1,18 @@
+{
+  "formulas": [
+    "Revenue growth = (11925601000 / 11313853000) - 1 = 0.05407070429499128",
+    "Operating margin = 1935798000 / 11925601000 = 0.16232288838105519",
+    "Return on average equity = 1535761000 / ((2830607000 + 3655546000) / 2) = 0.473550654756371",
+    "Debt/equity unavailable",
+    "Free cash flow = 2113926000 - 666336000 = 1447590000.0",
+    "P/E unavailable"
+  ],
+  "values": {
+    "revenue_growth": 0.05407070429499128,
+    "operating_margin": 0.16232288838105519,
+    "return_on_average_equity": 0.473550654756371,
+    "debt_to_equity": null,
+    "free_cash_flow": 1447590000.0,
+    "pe": null
+  }
+}

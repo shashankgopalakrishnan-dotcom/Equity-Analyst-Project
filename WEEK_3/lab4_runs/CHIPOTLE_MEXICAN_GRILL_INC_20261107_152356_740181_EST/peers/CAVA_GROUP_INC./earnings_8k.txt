@@ -1,0 +1,58 @@
+00001: cava-20261104
+00002: UNITED STATES
+00003: SECURITIES AND EXCHANGE COMMISSION
+00004: Washington, D.C. 20549
+00005: FORM 8-K
+00006: CURRENT REPORT
+00007: Pursuant to Section 13 or 15(d) of
+00008: the Securities Exchange Act of 1934
+00009: Date of Report (Date of earliest event reported): November 4, 2026
+00010: CAVA Group, Inc.
+00011: (Exact name of registrant as specified in its charter)
+00012: Delaware 001-41721 47-3426661
+00013: (State or other jurisdiction
+00014: of incorporation)
+00015: (Commission
+00016: File Number)
+00017: (IRS Employer
+00018: Identification No.)
+00019: 14 Ridge Square NW, Suite 500
+00020: Washington, DC 20016
+00021: (Address of principal executive offices) (Zip Code)
+00022: Registrant’s telephone number, including area code: (202) 400-2920
+00023: Not applicable
+00024: (Former name or former address, if changed since last report.)
+00025: Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+00026: ☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+00027: ☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+00028: ☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+00029: ☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+00030: Securities registered pursuant to Section 12(b) of the Act:
+00031: Title of
+00032: each class
+00033: Trading
+00034: Symbol
+00035: Name of each exchange
+00036: on which registered
+00037: Common Stock, par value $0.0001 per share CAVA New York Stock Exchange
+00038: Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+00039: Emerging growth company ☐
+00040: If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+00041: Item 2.02Results of Operations and Financial Condition
+00042: On November 4, 2026, CAVA Group, Inc. (the "Company") issued a press release announcing earnings and other financial results for the fiscal quarter ended October 4, 2026. A copy of the press release is attached hereto as Exhibit 99.1 and incorporated herein by reference.
+00043: The information in this Item 2.02, including the corresponding Exhibit 99.1, is being furnished and shall not be deemed "filed" for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the "Exchange Act") or otherwise subject to the liabilities under that section and shall not be deemed to be incorporated by reference into any filings under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such filing.
+00044: Item 9.01Financial Statements and Exhibits.
+00045: (d) Exhibits.
+00046: The following exhibit is being furnished as part of this report:
+00047: Exhibit No. Description
+00048: 99.1
+00049: CAVA Group, Inc. Press Release, dated November 4, 2026
+00050: 104 The cover page from this Current Report on Form 8-K, formatted in Inline XBRL
+00051: Signatures
+00052: Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+00053: Date: November 4, 2026
+00054: CAVA Group, Inc.
+00055: By: /s/ Tricia Tolivar
+00056: Name: Tricia Tolivar
+00057: Title:
+00058: Title: Chief Financial Officer (duly authorized officer and principal financial officer)

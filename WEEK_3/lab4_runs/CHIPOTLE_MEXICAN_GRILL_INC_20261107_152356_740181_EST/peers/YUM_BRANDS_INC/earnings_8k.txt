@@ -1,0 +1,47 @@
+00001: yum-20261103
+00002: UNITED STATES
+00003: SECURITIES AND EXCHANGE COMMISSION
+00004: Washington, D. C. 20549
+00005: FORM 8-K
+00006: CURRENT REPORT
+00007: Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+00008: Date of Report (Date of earliest event reported)
+00009: November 3, 2026
+00010: ________________________
+00011: YUM! BRANDS, INC.
+00012: (Exact name of registrant as specified in its charter)
+00013: Commission File Number 1-13163
+00014: North Carolina 13-3951308
+00015: (State or other jurisdiction of (I.R.S. Employer
+00016: incorporation) Identification No.)
+00017: 1441 Gardiner Lane, Louisville, Kentucky 40213
+00018: (Address of principal executive offices) (Zip Code)
+00019: Registrant’s telephone number, including area code: (502) 874-8300
+00020: Former name or former address, if changed since last report: N/A
+00021: Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+00022: ☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+00023: ☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+00024: ☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+00025: ☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+00026: Securities registered pursuant to Section 12(b) of the Act
+00027: Title of Each Class Trading Symbol(s) Name of Each Exchange on Which Registered
+00028: Common Stock, no par value YUM New York Stock Exchange
+00029: Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+00030: Emerging growth company ☐
+00031: If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+00032: Item 2.02 Results of Operations and Financial Condition
+00033: On November 3, 2026, YUM! Brands, Inc. (“YUM”) issued a press release announcing financial results for the quarter ended September 30, 2026. A copy of the press release is attached hereto as Exhibit 99.1 and incorporated by reference herein.
+00034: Item 9.01 Financial Statements and Exhibits
+00035: (d) Exhibits
+00036: Exhibit Number Description
+00037: 99.1
+00038: Earnings Press Release dated November 3, 2026 from YUM! Brands, Inc.
+00039: 104 Cover Page Interactive Data File (embedded within the Inline XBRL document)
+00040: SIGNATURES
+00041: Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+00042: YUM! BRANDS, INC.
+00043: (Registrant)
+00044: Date: November 3, 2026 /s/ David E. Russell
+00045: David E. Russell
+00046: Sr. Vice President, Finance and Corporate Controller
+00047: (Principal Accounting Officer)

@@ -1,0 +1,53 @@
+00001: cmg-20261028
+00002: UNITED STATES
+00003: SECURITIES AND EXCHANGE COMMISSION
+00004: Washington, D.C. 20549
+00005: FORM 8-K
+00006: CURRENT REPORT
+00007: Pursuant to Section 13 or 15(d) of the
+00008: Securities Exchange Act of 1934
+00009: Date of Report (Date of earliest event reported): October 28, 2026
+00010: CHIPOTLE MEXICAN GRILL, INC.
+00011: (Exact name of registrant as specified in its charter)
+00012: Delaware
+00013: (State or other
+00014: jurisdiction of
+00015: incorporation)
+00016: 1-32731
+00017: (Commission File Number)
+00018: 84-1219301
+00019: (I.R.S. Employer
+00020: Identification No.)
+00021: 610 Newport Center Drive, Suite 1100
+00022: Newport Beach, CA 92660
+00023: (Address of principal executive offices) (Zip Code)
+00024: Registrant’s telephone number, including area code: (949) 524-4000
+00025: Not Applicable
+00026: (Former name or former address, if changed since last report)
+00027: Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+00028: ☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+00029: ☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+00030: ☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+00031: ☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+00032: Securities registered pursuant to Section 12(b) of the Act:
+00033: Title of each class Trading Symbol(s) Name of each exchange on which registered
+00034: Common stock, par value $0.01 per share CMG New York Stock Exchange
+00035: Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+00036: Emerging growth company ☐
+00037: If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o
+00038: Item 2.02 Results of Operations and Financial Condition.
+00039: On October 28, 2026, Chipotle Mexican Grill, Inc. issued a press release announcing earnings and other financial results for our fiscal quarter ended September 30, 2026, and that management would review these results in a conference call at 4:30 pm Eastern time on October 28, 2026.
+00040: Item 9.01 Financial Statements and Exhibits.
+00041: Exhibit Index
+00042: Exhibit Number Exhibit Description
+00043: 99.1
+00044: Chipotle Mexican Grill, Inc. Press Release, dated October 28, 2026
+00045: 104 Cover Page Interactive Data File (embedded within the Inline XBRL document)
+00046: SIGNATURES
+00047: Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+00048: Chipotle Mexican Grill, Inc.
+00049: October 28, 2026
+00050: By:
+00051: /s/ Matthew R. Bush
+00052: Name: Matthew R. Bush
+00053: Title: Vice President, Controller (principal accounting officer and duly authorized signatory for the registrant)

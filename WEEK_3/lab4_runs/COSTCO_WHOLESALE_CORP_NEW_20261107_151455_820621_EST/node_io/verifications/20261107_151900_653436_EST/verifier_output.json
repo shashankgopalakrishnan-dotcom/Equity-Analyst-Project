@@ -1,0 +1,981 @@
+{
+  "model_output": "{\"insight_marks\": [{\"claim\": \"Insight: (Research Analyst) Costco's private-label brand, Kirkland Signature, is high quality and offered at prices generally lower than national brands, helping to lower costs, differentiate merchandise offerings, and earn higher margins [10-K line 00192].\", \"status\": \"correct\", \"reason\": \"The claim matches the text in 10-K line 00192 which states that Kirkland Signature products are high quality, offered at prices generally lower than national brands, and help lower costs, differentiate merchandise offerings, and generally earn higher margins.\", \"correction\": \"\", \"source\": \"10-K line 00192\", \"corrected_claim\": \"\"}, {\"claim\": \"Insight: (Financial Analyst) Costco Wholesale Corporation reported total revenue of $303,154,000,000 for the fiscal year ended August 30, 2026 [10-K line 00625].\", \"status\": \"correct\", \"reason\": \"The claim matches the text in 10-K line 00625 which reports total revenue of $303,154,000,000 for the fiscal year ended August 30, 2026.\", \"correction\": \"\", \"source\": \"10-K line 00625\", \"corrected_claim\": \"\"}, {\"claim\": \"Insight: (Investment Advisor) Costco's membership fee revenue increased 11% to $5.9 billion in 2026, driven by new member sign-ups and upgrades to Executive memberships [10-K line 00458].\", \"status\": \"correct\", \"reason\": \"The claim matches the text in 10-K line 00458 which reports membership fee revenue increased 11% to $5.9 billion in 2026, driven by new member sign-ups, membership fee increases, and upgrades to Executive memberships.\", \"correction\": \"\", \"source\": \"10-K line 00458\", \"corrected_claim\": \"\"}], \"marks\": []}",
+  "marks": [
+    {
+      "claim": "- Latest-quarter Total Revenue: $95,723 million [release line 00043]",
+      "status": "correct",
+      "reason": "Quarter revenue matches the selected release line and its stated unit.",
+      "correction": "",
+      "source": "release line 00043",
+      "deterministic_check": true
+    },
+    {
+      "claim": "- Latest-quarter Diluted EPS: $6.75 [release line 00056]",
+      "status": "correct",
+      "reason": "Quarter diluted EPS matches the selected release line.",
+      "correction": "",
+      "source": "release line 00056",
+      "deterministic_check": true
+    },
+    {
+      "claim": "- **Revenue**: $303,154,000,000 [filing accession: 0000909832-26-000093, tag: RevenueFromContractWithCustomerExcludingAssessedTax, period-end: 2026-08-30]",
+      "status": "correct",
+      "reason": "The reported value, XBRL tag, accession, and period end match the saved facts.",
+      "correction": "",
+      "source": "RevenueFromContractWithCustomerExcludingAssessedTax; 2026-08-30; 0000909832-26-000093",
+      "replacement_claim": "",
+      "remove_lines": [
+        "- **Operating Income**: $11,685,000,000 [filing accession: 0000909832-26-000093, tag: OperatingIncomeLoss, period-end: 2026-08-30]",
+        "- **Net Income**: $9,226,000,000 [filing accession: 0000909832-26-000093, tag: NetIncomeLoss, period-end: 2026-08-30]",
+        "- **Diluted EPS**: $20.76 [filing accession: 0000909832-26-000093, tag: EarningsPerShareDiluted, period-end: 2026-08-30]",
+        "- **Stockholders' Equity**: $35,803,000,000 [filing accession: 0000909832-26-000093, tag: StockholdersEquity, period-end: 2026-08-30]",
+        "- **Long-Term Debt**: $3,914,000,000 [filing accession: 0000909832-26-000093, tag: LongTermDebtNoncurrent, period-end: 2026-08-30]"
+      ],
+      "deterministic_check": true
+    },
+    {
+      "claim": "- **Operating Income**: $11,685,000,000 [filing accession: 0000909832-26-000093, tag: OperatingIncomeLoss, period-end: 2026-08-30]",
+      "status": "correct",
+      "reason": "The reported value, XBRL tag, accession, and period end match the saved facts.",
+      "correction": "",
+      "source": "OperatingIncomeLoss; 2026-08-30; 0000909832-26-000093",
+      "replacement_claim": "",
+      "remove_lines": [
+        "- **Net Income**: $9,226,000,000 [filing accession: 0000909832-26-000093, tag: NetIncomeLoss, period-end: 2026-08-30]",
+        "- **Diluted EPS**: $20.76 [filing accession: 0000909832-26-000093, tag: EarningsPerShareDiluted, period-end: 2026-08-30]",
+        "- **Stockholders' Equity**: $35,803,000,000 [filing accession: 0000909832-26-000093, tag: StockholdersEquity, period-end: 2026-08-30]",
+        "- **Long-Term Debt**: $3,914,000,000 [filing accession: 0000909832-26-000093, tag: LongTermDebtNoncurrent, period-end: 2026-08-30]",
+        "- **Current Portion of Long-Term Debt**: $2,248,000,000 [filing accession: 0000909832-26-000093, tag: LongTermDebtCurrent, period-end: 2026-08-30]"
+      ],
+      "deterministic_check": true
+    },
+    {
+      "claim": "- **Net Income**: $9,226,000,000 [filing accession: 0000909832-26-000093, tag: NetIncomeLoss, period-end: 2026-08-30]",
+      "status": "correct",
+      "reason": "The reported value, XBRL tag, accession, and period end match the saved facts.",
+      "correction": "",
+      "source": "NetIncomeLoss; 2026-08-30; 0000909832-26-000093",
+      "replacement_claim": "",
+      "remove_lines": [
+        "- **Diluted EPS**: $20.76 [filing accession: 0000909832-26-000093, tag: EarningsPerShareDiluted, period-end: 2026-08-30]",
+        "- **Stockholders' Equity**: $35,803,000,000 [filing accession: 0000909832-26-000093, tag: StockholdersEquity, period-end: 2026-08-30]",
+        "- **Long-Term Debt**: $3,914,000,000 [filing accession: 0000909832-26-000093, tag: LongTermDebtNoncurrent, period-end: 2026-08-30]",
+        "- **Current Portion of Long-Term Debt**: $2,248,000,000 [filing accession: 0000909832-26-000093, tag: LongTermDebtCurrent, period-end: 2026-08-30]",
+        "- **Cash from Operations**: $15,817,000,000 [filing accession: 0000909832-26-000093, tag: NetCashProvidedByUsedInOperatingActivities, period-end: 2026-08-30]"
+      ],
+      "deterministic_check": true
+    },
+    {
+      "claim": "- **Diluted EPS**: $20.76 [filing accession: 0000909832-26-000093, tag: EarningsPerShareDiluted, period-end: 2026-08-30]",
+      "status": "correct",
+      "reason": "The reported value, XBRL tag, accession, and period end match the saved facts.",
+      "correction": "",
+      "source": "EarningsPerShareDiluted; 2026-08-30; 0000909832-26-000093",
+      "replacement_claim": "",
+      "remove_lines": [
+        "- **Stockholders' Equity**: $35,803,000,000 [filing accession: 0000909832-26-000093, tag: StockholdersEquity, period-end: 2026-08-30]",
+        "- **Long-Term Debt**: $3,914,000,000 [filing accession: 0000909832-26-000093, tag: LongTermDebtNoncurrent, period-end: 2026-08-30]",
+        "- **Current Portion of Long-Term Debt**: $2,248,000,000 [filing accession: 0000909832-26-000093, tag: LongTermDebtCurrent, period-end: 2026-08-30]",
+        "- **Cash from Operations**: $15,817,000,000 [filing accession: 0000909832-26-000093, tag: NetCashProvidedByUsedInOperatingActivities, period-end: 2026-08-30]",
+        "- **Additions to Property and Equipment**: $6,435,000,000 [filing accession: 0000909832-26-000093, tag: PaymentsToAcquirePropertyPlantAndEquipment, period-end: 2026-08-30]"
+      ],
+      "deterministic_check": true
+    },
+    {
+      "claim": "- **Stockholders' Equity**: $35,803,000,000 [filing accession: 0000909832-26-000093, tag: StockholdersEquity, period-end: 2026-08-30]",
+      "status": "correct",
+      "reason": "The reported value, XBRL tag, accession, and period end match the saved facts.",
+      "correction": "",
+      "source": "StockholdersEquity; 2026-08-30; 0000909832-26-000093",
+      "replacement_claim": "",
+      "remove_lines": [
+        "- **Long-Term Debt**: $3,914,000,000 [filing accession: 0000909832-26-000093, tag: LongTermDebtNoncurrent, period-end: 2026-08-30]",
+        "- **Current Portion of Long-Term Debt**: $2,248,000,000 [filing accession: 0000909832-26-000093, tag: LongTermDebtCurrent, period-end: 2026-08-30]",
+        "- **Cash from Operations**: $15,817,000,000 [filing accession: 0000909832-26-000093, tag: NetCashProvidedByUsedInOperatingActivities, period-end: 2026-08-30]",
+        "- **Additions to Property and Equipment**: $6,435,000,000 [filing accession: 0000909832-26-000093, tag: PaymentsToAcquirePropertyPlantAndEquipment, period-end: 2026-08-30]"
+      ],
+      "deterministic_check": true
+    },
+    {
+      "claim": "- **Long-Term Debt**: $3,914,000,000 [filing accession: 0000909832-26-000093, tag: LongTermDebtNoncurrent, period-end: 2026-08-30]",
+      "status": "correct",
+      "reason": "The reported value, XBRL tag, accession, and period end match the saved facts.",
+      "correction": "",
+      "source": "LongTermDebtNoncurrent; 2026-08-30; 0000909832-26-000093",
+      "replacement_claim": "",
+      "remove_lines": [
+        "- **Current Portion of Long-Term Debt**: $2,248,000,000 [filing accession: 0000909832-26-000093, tag: LongTermDebtCurrent, period-end: 2026-08-30]",
+        "- **Cash from Operations**: $15,817,000,000 [filing accession: 0000909832-26-000093, tag: NetCashProvidedByUsedInOperatingActivities, period-end: 2026-08-30]",
+        "- **Additions to Property and Equipment**: $6,435,000,000 [filing accession: 0000909832-26-000093, tag: PaymentsToAcquirePropertyPlantAndEquipment, period-end: 2026-08-30]"
+      ],
+      "deterministic_check": true
+    },
+    {
+      "claim": "- **Current Portion of Long-Term Debt**: $2,248,000,000 [filing accession: 0000909832-26-000093, tag: LongTermDebtCurrent, period-end: 2026-08-30]",
+      "status": "correct",
+      "reason": "The reported value, XBRL tag, accession, and period end match the saved facts.",
+      "correction": "",
+      "source": "LongTermDebtCurrent; 2026-08-30; 0000909832-26-000093",
+      "replacement_claim": "",
+      "remove_lines": [
+        "- **Cash from Operations**: $15,817,000,000 [filing accession: 0000909832-26-000093, tag: NetCashProvidedByUsedInOperatingActivities, period-end: 2026-08-30]",
+        "- **Additions to Property and Equipment**: $6,435,000,000 [filing accession: 0000909832-26-000093, tag: PaymentsToAcquirePropertyPlantAndEquipment, period-end: 2026-08-30]"
+      ],
+      "deterministic_check": true
+    },
+    {
+      "claim": "- **Cash from Operations**: $15,817,000,000 [filing accession: 0000909832-26-000093, tag: NetCashProvidedByUsedInOperatingActivities, period-end: 2026-08-30]",
+      "status": "correct",
+      "reason": "The reported value, XBRL tag, accession, and period end match the saved facts.",
+      "correction": "",
+      "source": "NetCashProvidedByUsedInOperatingActivities; 2026-08-30; 0000909832-26-000093",
+      "replacement_claim": "",
+      "remove_lines": [
+        "- **Additions to Property and Equipment**: $6,435,000,000 [filing accession: 0000909832-26-000093, tag: PaymentsToAcquirePropertyPlantAndEquipment, period-end: 2026-08-30]"
+      ],
+      "deterministic_check": true
+    },
+    {
+      "claim": "- **Additions to Property and Equipment**: $6,435,000,000 [filing accession: 0000909832-26-000093, tag: PaymentsToAcquirePropertyPlantAndEquipment, period-end: 2026-08-30]",
+      "status": "correct",
+      "reason": "The reported value, XBRL tag, accession, and period end match the saved facts.",
+      "correction": "",
+      "source": "PaymentsToAcquirePropertyPlantAndEquipment; 2026-08-30; 0000909832-26-000093",
+      "replacement_claim": "",
+      "remove_lines": [],
+      "deterministic_check": true
+    },
+    {
+      "claim": "- \"Total revenue 95,723 86,156 303,154 275,235\" [release line 00043]",
+      "status": "correct",
+      "reason": "The quoted text exactly matches a release line selected by step 6.",
+      "correction": "",
+      "source": "release line 00043",
+      "deterministic_check": true
+    },
+    {
+      "claim": "- \"Diluted $ 6.75 $ 5.87 $ 20.76 $ 18.21\" [release line 00056]",
+      "status": "correct",
+      "reason": "The quoted text exactly matches a release line selected by step 6.",
+      "correction": "",
+      "source": "release line 00056",
+      "deterministic_check": true
+    },
+    {
+      "claim": "| Revenue Growth | 10.14% | [arithmetic: (303154000000 / 275235000000) - 1 = 0.101436953876] |",
+      "status": "correct",
+      "reason": "The displayed ratio and its inputs match the saved facts and code calculation.",
+      "correction": "",
+      "source": "(303154000000 / 275235000000) - 1",
+      "replacement_claim": "",
+      "deterministic_check": true
+    },
+    {
+      "claim": "| Operating Margin | 3.85% | [arithmetic: 11685000000 / 303154000000 = 0.0385447660265] |",
+      "status": "correct",
+      "reason": "The displayed ratio and its inputs match the saved facts and code calculation.",
+      "correction": "",
+      "source": "11685000000 / 303154000000",
+      "replacement_claim": "",
+      "deterministic_check": true
+    },
+    {
+      "claim": "| Return on Average Equity | 28.40% | [arithmetic: 9226000000 / ((35803000000 + 29164000000) / 2) = 0.284021118414] |",
+      "status": "correct",
+      "reason": "The displayed ratio and its inputs match the saved facts and code calculation.",
+      "correction": "",
+      "source": "9226000000 / ((35803000000 + 29164000000) / 2)",
+      "replacement_claim": "",
+      "deterministic_check": true
+    },
+    {
+      "claim": "| Debt to Equity | 0.17 | [arithmetic: (3914000000 + 2248000000) / 35803000000 = 0.172108482529] |",
+      "status": "correct",
+      "reason": "The displayed ratio and its inputs match the saved facts and code calculation.",
+      "correction": "",
+      "source": "(3914000000 + 2248000000) / 35803000000",
+      "replacement_claim": "",
+      "deterministic_check": true
+    },
+    {
+      "claim": "| Free Cash Flow | $9,382,000,000 | [arithmetic: 15817000000 - 6435000000 = 9382000000] |",
+      "status": "correct",
+      "reason": "The displayed ratio and its inputs match the saved facts and code calculation.",
+      "correction": "",
+      "source": "15817000000 - 6435000000",
+      "replacement_claim": "",
+      "deterministic_check": true
+    },
+    {
+      "claim": "| P/E | 47.79 | [arithmetic: 992.13 / 20.76 = 47.7904624277] |",
+      "status": "correct",
+      "reason": "The displayed ratio and its inputs match the saved facts and code calculation.",
+      "correction": "",
+      "source": "992.13 / 20.76",
+      "replacement_claim": "",
+      "deterministic_check": true
+    },
+    {
+      "claim": "| WMT Operating Margin | 4.18% | [arithmetic: 29825000000 / 713163000000 = 0.0418207338294] |",
+      "status": "correct",
+      "reason": "The displayed ratio and its inputs match the saved facts and code calculation.",
+      "correction": "",
+      "source": "29825000000 / 713163000000",
+      "replacement_claim": "",
+      "deterministic_check": true
+    },
+    {
+      "claim": "| TGT Operating Margin | 4.88% | [arithmetic: 5117000000 / 104780000000 = 0.0488356556595] |",
+      "status": "correct",
+      "reason": "The displayed ratio and its inputs match the saved facts and code calculation.",
+      "correction": "",
+      "source": "5117000000 / 104780000000",
+      "replacement_claim": "",
+      "deterministic_check": true
+    },
+    {
+      "claim": "| BJ Operating Margin | 3.81% | [arithmetic: 816604000 / 21457274000 = 0.0380572108088] |",
+      "status": "correct",
+      "reason": "The displayed ratio and its inputs match the saved facts and code calculation.",
+      "correction": "",
+      "source": "816604000 / 21457274000",
+      "replacement_claim": "",
+      "deterministic_check": true
+    },
+    {
+      "claim": "| COST TTM Revenue | $303,154,000,000 | [arithmetic: 303154000000 = 303154000000] | 2025-09-01 to 2026-08-30 | RevenueFromContractWithCustomerExcludingAssessedTax; 0000909832-26-000093 |",
+      "status": "correct",
+      "reason": "The displayed ratio and its inputs match the saved facts and code calculation.",
+      "correction": "",
+      "source": "303154000000",
+      "replacement_claim": "",
+      "deterministic_check": true
+    },
+    {
+      "claim": "| COST TTM Operating Income | $11,685,000,000 | [arithmetic: 11685000000 = 11685000000] | 2025-09-01 to 2026-08-30 | OperatingIncomeLoss; 0000909832-26-000093/0000909832-26-000093 |",
+      "status": "correct",
+      "reason": "The displayed ratio and its inputs match the saved facts and code calculation.",
+      "correction": "",
+      "source": "11685000000",
+      "replacement_claim": "",
+      "deterministic_check": true
+    },
+    {
+      "claim": "| COST TTM Operating Margin | 3.85% | [arithmetic: 11685000000 / 303154000000 = 0.0385447660265] | 2025-09-01 to 2026-08-30 | Same trailing 12-month window |",
+      "status": "correct",
+      "reason": "The displayed ratio and its inputs match the saved facts and code calculation.",
+      "correction": "",
+      "source": "11685000000 / 303154000000",
+      "replacement_claim": "",
+      "deterministic_check": true
+    },
+    {
+      "claim": "| WMT TTM Revenue | $735,840,000,000 | [arithmetic: 713163000000 + 365688000000 - 343011000000 = 735840000000] | 2025-08-01 to 2026-07-31 | Revenues; 0000104169-26-000055+0000104169-26-000154-0000104169-26-000154 |",
+      "status": "correct",
+      "reason": "The displayed ratio and its inputs match the saved facts and code calculation.",
+      "correction": "",
+      "source": "713163000000 + 365688000000 - 343011000000",
+      "replacement_claim": "",
+      "deterministic_check": true
+    },
+    {
+      "claim": "| WMT TTM Operating Income | $32,280,000,000 | [arithmetic: 29825000000 + 16876000000 - 14421000000 = 32280000000] | 2025-08-01 to 2026-07-31 | OperatingIncomeLoss; 0000104169-26-000055+0000104169-26-000154-0000104169-26-000154/0000104169-26-000055+0000104169-26-000154-0000104169-26-000154 |",
+      "status": "correct",
+      "reason": "The displayed ratio and its inputs match the saved facts and code calculation.",
+      "correction": "",
+      "source": "29825000000 + 16876000000 - 14421000000",
+      "replacement_claim": "",
+      "deterministic_check": true
+    },
+    {
+      "claim": "| WMT TTM Operating Margin | 4.39% | [arithmetic: 32280000000 / 735840000000 = 0.0438682322244] | 2025-08-01 to 2026-07-31 | Same trailing 12-month window |",
+      "status": "correct",
+      "reason": "The displayed ratio and its inputs match the saved facts and code calculation.",
+      "correction": "",
+      "source": "32280000000.0 / 735840000000.0",
+      "replacement_claim": "",
+      "deterministic_check": true
+    },
+    {
+      "claim": "| TGT TTM Revenue | $107,705,000,000 | [arithmetic: 104780000000 + 51982000000 - 49057000000 = 107705000000] | 2025-08-03 to 2026-08-01 | RevenueFromContractWithCustomerExcludingAssessedTax; 0000027419-26-000016+0000027419-26-000042-0000027419-26-000042 |",
+      "status": "correct",
+      "reason": "The displayed ratio and its inputs match the saved facts and code calculation.",
+      "correction": "",
+      "source": "104780000000 + 51982000000 - 49057000000",
+      "replacement_claim": "",
+      "deterministic_check": true
+    },
+    {
+      "claim": "| TGT TTM Operating Income | $6,023,000,000 | [arithmetic: 5117000000 + 3695000000 - 2789000000 = 6023000000] | 2025-08-03 to 2026-08-01 | OperatingIncomeLoss; 0000027419-26-000016+0000027419-26-000042-0000027419-26-000042/0000027419-26-000016+0000027419-26-000042-0000027419-26-000042 |",
+      "status": "correct",
+      "reason": "The displayed ratio and its inputs match the saved facts and code calculation.",
+      "correction": "",
+      "source": "5117000000 + 3695000000 - 2789000000",
+      "replacement_claim": "",
+      "deterministic_check": true
+    },
+    {
+      "claim": "| TGT TTM Operating Margin | 5.59% | [arithmetic: 6023000000 / 107705000000 = 0.0559212664222] | 2025-08-03 to 2026-08-01 | Same trailing 12-month window |",
+      "status": "correct",
+      "reason": "The displayed ratio and its inputs match the saved facts and code calculation.",
+      "correction": "",
+      "source": "6023000000.0 / 107705000000.0",
+      "replacement_claim": "",
+      "deterministic_check": true
+    },
+    {
+      "claim": "| BJ TTM Revenue | $22,811,630,000 | [arithmetic: 21457274000 + 11888079000 - 10533723000 = 22811630000] | 2025-08-03 to 2026-08-01 | RevenueFromContractWithCustomerExcludingAssessedTax; 0001531152-26-000007+0001531152-26-000057-0001531152-26-000057 |",
+      "status": "correct",
+      "reason": "The displayed ratio and its inputs match the saved facts and code calculation.",
+      "correction": "",
+      "source": "21457274000 + 11888079000 - 10533723000",
+      "replacement_claim": "",
+      "deterministic_check": true
+    },
+    {
+      "claim": "| BJ TTM Operating Income | $856,699,000 | [arithmetic: 816604000 + 460270000 - 420175000 = 856699000] | 2025-08-03 to 2026-08-01 | OperatingIncomeLoss; 0001531152-26-000007+0001531152-26-000057-0001531152-26-000057/0001531152-26-000007+0001531152-26-000057-0001531152-26-000057 |",
+      "status": "correct",
+      "reason": "The displayed ratio and its inputs match the saved facts and code calculation.",
+      "correction": "",
+      "source": "816604000 + 460270000 - 420175000",
+      "replacement_claim": "",
+      "deterministic_check": true
+    },
+    {
+      "claim": "| BJ TTM Operating Margin | 3.76% | [arithmetic: 856699000 / 22811630000 = 0.0375553610154] | 2025-08-03 to 2026-08-01 | Same trailing 12-month window |",
+      "status": "correct",
+      "reason": "The displayed ratio and its inputs match the saved facts and code calculation.",
+      "correction": "",
+      "source": "856699000.0 / 22811630000.0",
+      "replacement_claim": "",
+      "deterministic_check": true
+    },
+    {
+      "claim": "| Revenue (current) | $303,154,000,000 | USD | 0000909832-26-000093 | RevenueFromContractWithCustomerExcludingAssessedTax | 2026-08-30 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (RevenueFromContractWithCustomerExcludingAssessedTax, 2026-08-30).",
+      "correction": "",
+      "source": "RevenueFromContractWithCustomerExcludingAssessedTax; 2026-08-30; 0000909832-26-000093"
+    },
+    {
+      "claim": "| Revenue (prior) | $275,235,000,000 | USD | 0000909832-26-000093 | RevenueFromContractWithCustomerExcludingAssessedTax | 2025-08-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (RevenueFromContractWithCustomerExcludingAssessedTax, 2025-08-31).",
+      "correction": "",
+      "source": "RevenueFromContractWithCustomerExcludingAssessedTax; 2025-08-31; 0000909832-26-000093"
+    },
+    {
+      "claim": "| Operating Income (current) | $11,685,000,000 | USD | 0000909832-26-000093 | OperatingIncomeLoss | 2026-08-30 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (OperatingIncomeLoss, 2026-08-30).",
+      "correction": "",
+      "source": "OperatingIncomeLoss; 2026-08-30; 0000909832-26-000093"
+    },
+    {
+      "claim": "| Operating Income (prior) | $10,383,000,000 | USD | 0000909832-26-000093 | OperatingIncomeLoss | 2025-08-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (OperatingIncomeLoss, 2025-08-31).",
+      "correction": "",
+      "source": "OperatingIncomeLoss; 2025-08-31; 0000909832-26-000093"
+    },
+    {
+      "claim": "| Net Income (current) | $9,226,000,000 | USD | 0000909832-26-000093 | NetIncomeLoss | 2026-08-30 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (NetIncomeLoss, 2026-08-30).",
+      "correction": "",
+      "source": "NetIncomeLoss; 2026-08-30; 0000909832-26-000093"
+    },
+    {
+      "claim": "| Net Income (prior) | $8,099,000,000 | USD | 0000909832-26-000093 | NetIncomeLoss | 2025-08-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (NetIncomeLoss, 2025-08-31).",
+      "correction": "",
+      "source": "NetIncomeLoss; 2025-08-31; 0000909832-26-000093"
+    },
+    {
+      "claim": "| Diluted EPS (current) | $20.76 | USD/shares | 0000909832-26-000093 | EarningsPerShareDiluted | 2026-08-30 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (EarningsPerShareDiluted, 2026-08-30).",
+      "correction": "",
+      "source": "EarningsPerShareDiluted; 2026-08-30; 0000909832-26-000093"
+    },
+    {
+      "claim": "| Diluted EPS (prior) | $18.21 | USD/shares | 0000909832-26-000093 | EarningsPerShareDiluted | 2025-08-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (EarningsPerShareDiluted, 2025-08-31).",
+      "correction": "",
+      "source": "EarningsPerShareDiluted; 2025-08-31; 0000909832-26-000093"
+    },
+    {
+      "claim": "| Stockholders' Equity (current) | $35,803,000,000 | USD | 0000909832-26-000093 | StockholdersEquity | 2026-08-30 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (StockholdersEquity, 2026-08-30).",
+      "correction": "",
+      "source": "StockholdersEquity; 2026-08-30; 0000909832-26-000093"
+    },
+    {
+      "claim": "| Stockholders' Equity (prior) | $29,164,000,000 | USD | 0000909832-26-000093 | StockholdersEquity | 2025-08-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (StockholdersEquity, 2025-08-31).",
+      "correction": "",
+      "source": "StockholdersEquity; 2025-08-31; 0000909832-26-000093"
+    },
+    {
+      "claim": "| Long-Term Debt (current) | $3,914,000,000 | USD | 0000909832-26-000093 | LongTermDebtNoncurrent | 2026-08-30 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (LongTermDebtNoncurrent, 2026-08-30).",
+      "correction": "",
+      "source": "LongTermDebtNoncurrent; 2026-08-30; 0000909832-26-000093"
+    },
+    {
+      "claim": "| Long-Term Debt (prior) | $5,713,000,000 | USD | 0000909832-26-000093 | LongTermDebtNoncurrent | 2025-08-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (LongTermDebtNoncurrent, 2025-08-31).",
+      "correction": "",
+      "source": "LongTermDebtNoncurrent; 2025-08-31; 0000909832-26-000093"
+    },
+    {
+      "claim": "| Current Portion of Long-Term Debt (current) | $2,248,000,000 | USD | 0000909832-26-000093 | LongTermDebtCurrent | 2026-08-30 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (LongTermDebtCurrent, 2026-08-30).",
+      "correction": "",
+      "source": "LongTermDebtCurrent; 2026-08-30; 0000909832-26-000093"
+    },
+    {
+      "claim": "| Current Portion of Long-Term Debt (prior) | $75,000,000 | USD | 0000909832-26-000093 | LongTermDebtCurrent | 2025-08-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (LongTermDebtCurrent, 2025-08-31).",
+      "correction": "",
+      "source": "LongTermDebtCurrent; 2025-08-31; 0000909832-26-000093"
+    },
+    {
+      "claim": "| Cash from Operations (current) | $15,817,000,000 | USD | 0000909832-26-000093 | NetCashProvidedByUsedInOperatingActivities | 2026-08-30 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (NetCashProvidedByUsedInOperatingActivities, 2026-08-30).",
+      "correction": "",
+      "source": "NetCashProvidedByUsedInOperatingActivities; 2026-08-30; 0000909832-26-000093"
+    },
+    {
+      "claim": "| Cash from Operations (prior) | $13,335,000,000 | USD | 0000909832-26-000093 | NetCashProvidedByUsedInOperatingActivities | 2025-08-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (NetCashProvidedByUsedInOperatingActivities, 2025-08-31).",
+      "correction": "",
+      "source": "NetCashProvidedByUsedInOperatingActivities; 2025-08-31; 0000909832-26-000093"
+    },
+    {
+      "claim": "| Additions to Property and Equipment (current) | $6,435,000,000 | USD | 0000909832-26-000093 | PaymentsToAcquirePropertyPlantAndEquipment | 2026-08-30 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (PaymentsToAcquirePropertyPlantAndEquipment, 2026-08-30).",
+      "correction": "",
+      "source": "PaymentsToAcquirePropertyPlantAndEquipment; 2026-08-30; 0000909832-26-000093"
+    },
+    {
+      "claim": "| Additions to Property and Equipment (prior) | $5,498,000,000 | USD | 0000909832-26-000093 | PaymentsToAcquirePropertyPlantAndEquipment | 2025-08-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (PaymentsToAcquirePropertyPlantAndEquipment, 2025-08-31).",
+      "correction": "",
+      "source": "PaymentsToAcquirePropertyPlantAndEquipment; 2025-08-31; 0000909832-26-000093"
+    },
+    {
+      "claim": "| WMT Revenue (current) | $713,163,000,000 | USD | 0000104169-26-000055 | Revenues | 2026-01-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (Revenues, 2026-01-31).",
+      "correction": "",
+      "source": "Revenues; 2026-01-31; 0000104169-26-000055"
+    },
+    {
+      "claim": "| WMT Revenue (prior) | $680,985,000,000 | USD | 0000104169-26-000055 | Revenues | 2025-01-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (Revenues, 2025-01-31).",
+      "correction": "",
+      "source": "Revenues; 2025-01-31; 0000104169-26-000055"
+    },
+    {
+      "claim": "| WMT Operating Income (current) | $29,825,000,000 | USD | 0000104169-26-000055 | OperatingIncomeLoss | 2026-01-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (OperatingIncomeLoss, 2026-01-31).",
+      "correction": "",
+      "source": "OperatingIncomeLoss; 2026-01-31; 0000104169-26-000055"
+    },
+    {
+      "claim": "| WMT Operating Income (prior) | $29,348,000,000 | USD | 0000104169-26-000055 | OperatingIncomeLoss | 2025-01-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (OperatingIncomeLoss, 2025-01-31).",
+      "correction": "",
+      "source": "OperatingIncomeLoss; 2025-01-31; 0000104169-26-000055"
+    },
+    {
+      "claim": "| WMT Net Income (current) | $21,893,000,000 | USD | 0000104169-26-000055 | NetIncomeLoss | 2026-01-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (NetIncomeLoss, 2026-01-31).",
+      "correction": "",
+      "source": "NetIncomeLoss; 2026-01-31; 0000104169-26-000055"
+    },
+    {
+      "claim": "| WMT Net Income (prior) | $19,436,000,000 | USD | 0000104169-26-000055 | NetIncomeLoss | 2025-01-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (NetIncomeLoss, 2025-01-31).",
+      "correction": "",
+      "source": "NetIncomeLoss; 2025-01-31; 0000104169-26-000055"
+    },
+    {
+      "claim": "| WMT Diluted EPS (current) | $2.73 | USD/shares | 0000104169-26-000055 | EarningsPerShareDiluted | 2026-01-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (EarningsPerShareDiluted, 2026-01-31).",
+      "correction": "",
+      "source": "EarningsPerShareDiluted; 2026-01-31; 0000104169-26-000055"
+    },
+    {
+      "claim": "| WMT Diluted EPS (prior) | $2.41 | USD/shares | 0000104169-26-000055 | EarningsPerShareDiluted | 2025-01-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (EarningsPerShareDiluted, 2025-01-31).",
+      "correction": "",
+      "source": "EarningsPerShareDiluted; 2025-01-31; 0000104169-26-000055"
+    },
+    {
+      "claim": "| WMT Stockholders' Equity (current) | $99,617,000,000 | USD | 0000104169-26-000055 | StockholdersEquity | 2026-01-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (StockholdersEquity, 2026-01-31).",
+      "correction": "",
+      "source": "StockholdersEquity; 2026-01-31; 0000104169-26-000055"
+    },
+    {
+      "claim": "| WMT Stockholders' Equity (prior) | $91,013,000,000 | USD | 0000104169-26-000055 | StockholdersEquity | 2025-01-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (StockholdersEquity, 2025-01-31).",
+      "correction": "",
+      "source": "StockholdersEquity; 2025-01-31; 0000104169-26-000055"
+    },
+    {
+      "claim": "| WMT Long-Term Debt (current) | $34,624,000,000 | USD | 0000104169-26-000055 | LongTermDebtNoncurrent | 2026-01-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (LongTermDebtNoncurrent, 2026-01-31).",
+      "correction": "",
+      "source": "LongTermDebtNoncurrent; 2026-01-31; 0000104169-26-000055"
+    },
+    {
+      "claim": "| WMT Long-Term Debt (prior) | $33,401,000,000 | USD | 0000104169-26-000055 | LongTermDebtNoncurrent | 2025-01-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (LongTermDebtNoncurrent, 2025-01-31).",
+      "correction": "",
+      "source": "LongTermDebtNoncurrent; 2025-01-31; 0000104169-26-000055"
+    },
+    {
+      "claim": "| WMT Current Portion of Long-Term Debt (current) | $3,542,000,000 | USD | 0000104169-26-000055 | LongTermDebtCurrent | 2026-01-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (LongTermDebtCurrent, 2026-01-31).",
+      "correction": "",
+      "source": "LongTermDebtCurrent; 2026-01-31; 0000104169-26-000055"
+    },
+    {
+      "claim": "| WMT Current Portion of Long-Term Debt (prior) | $2,598,000,000 | USD | 0000104169-26-000055 | LongTermDebtCurrent | 2025-01-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (LongTermDebtCurrent, 2025-01-31).",
+      "correction": "",
+      "source": "LongTermDebtCurrent; 2025-01-31; 0000104169-26-000055"
+    },
+    {
+      "claim": "| WMT Cash from Operations (current) | $41,565,000,000 | USD | 0000104169-26-000055 | NetCashProvidedByUsedInOperatingActivities | 2026-01-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (NetCashProvidedByUsedInOperatingActivities, 2026-01-31).",
+      "correction": "",
+      "source": "NetCashProvidedByUsedInOperatingActivities; 2026-01-31; 0000104169-26-000055"
+    },
+    {
+      "claim": "| WMT Cash from Operations (prior) | $36,443,000,000 | USD | 0000104169-26-000055 | NetCashProvidedByUsedInOperatingActivities | 2025-01-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (NetCashProvidedByUsedInOperatingActivities, 2025-01-31).",
+      "correction": "",
+      "source": "NetCashProvidedByUsedInOperatingActivities; 2025-01-31; 0000104169-26-000055"
+    },
+    {
+      "claim": "| WMT Additions to Property and Equipment (current) | $26,642,000,000 | USD | 0000104169-26-000055 | PaymentsToAcquirePropertyPlantAndEquipment | 2026-01-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (PaymentsToAcquirePropertyPlantAndEquipment, 2026-01-31).",
+      "correction": "",
+      "source": "PaymentsToAcquirePropertyPlantAndEquipment; 2026-01-31; 0000104169-26-000055"
+    },
+    {
+      "claim": "| WMT Additions to Property and Equipment (prior) | $23,783,000,000 | USD | 0000104169-26-000055 | PaymentsToAcquirePropertyPlantAndEquipment | 2025-01-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (PaymentsToAcquirePropertyPlantAndEquipment, 2025-01-31).",
+      "correction": "",
+      "source": "PaymentsToAcquirePropertyPlantAndEquipment; 2025-01-31; 0000104169-26-000055"
+    },
+    {
+      "claim": "| TGT Revenue (current) | $104,780,000,000 | USD | 0000027419-26-000016 | RevenueFromContractWithCustomerExcludingAssessedTax | 2026-01-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (RevenueFromContractWithCustomerExcludingAssessedTax, 2026-01-31).",
+      "correction": "",
+      "source": "RevenueFromContractWithCustomerExcludingAssessedTax; 2026-01-31; 0000027419-26-000016"
+    },
+    {
+      "claim": "| TGT Revenue (prior) | $106,566,000,000 | USD | 0000027419-26-000016 | RevenueFromContractWithCustomerExcludingAssessedTax | 2025-02-01 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (RevenueFromContractWithCustomerExcludingAssessedTax, 2025-02-01).",
+      "correction": "",
+      "source": "RevenueFromContractWithCustomerExcludingAssessedTax; 2025-02-01; 0000027419-26-000016"
+    },
+    {
+      "claim": "| TGT Operating Income (current) | $5,117,000,000 | USD | 0000027419-26-000016 | OperatingIncomeLoss | 2026-01-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (OperatingIncomeLoss, 2026-01-31).",
+      "correction": "",
+      "source": "OperatingIncomeLoss; 2026-01-31; 0000027419-26-000016"
+    },
+    {
+      "claim": "| TGT Operating Income (prior) | $5,566,000,000 | USD | 0000027419-26-000016 | OperatingIncomeLoss | 2025-02-01 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (OperatingIncomeLoss, 2025-02-01).",
+      "correction": "",
+      "source": "OperatingIncomeLoss; 2025-02-01; 0000027419-26-000016"
+    },
+    {
+      "claim": "| TGT Net Income (current) | $3,705,000,000 | USD | 0000027419-26-000016 | NetIncomeLoss | 2026-01-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (NetIncomeLoss, 2026-01-31).",
+      "correction": "",
+      "source": "NetIncomeLoss; 2026-01-31; 0000027419-26-000016"
+    },
+    {
+      "claim": "| TGT Net Income (prior) | $4,091,000,000 | USD | 0000027419-26-000016 | NetIncomeLoss | 2025-02-01 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (NetIncomeLoss, 2025-02-01).",
+      "correction": "",
+      "source": "NetIncomeLoss; 2025-02-01; 0000027419-26-000016"
+    },
+    {
+      "claim": "| TGT Diluted EPS (current) | $8.13 | USD/shares | 0000027419-26-000016 | EarningsPerShareDiluted | 2026-01-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (EarningsPerShareDiluted, 2026-01-31).",
+      "correction": "",
+      "source": "EarningsPerShareDiluted; 2026-01-31; 0000027419-26-000016"
+    },
+    {
+      "claim": "| TGT Diluted EPS (prior) | $8.86 | USD/shares | 0000027419-26-000016 | EarningsPerShareDiluted | 2025-02-01 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (EarningsPerShareDiluted, 2025-02-01).",
+      "correction": "",
+      "source": "EarningsPerShareDiluted; 2025-02-01; 0000027419-26-000016"
+    },
+    {
+      "claim": "| TGT Stockholders' Equity (current) | $16,165,000,000 | USD | 0000027419-26-000016 | StockholdersEquity | 2026-01-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (StockholdersEquity, 2026-01-31).",
+      "correction": "",
+      "source": "StockholdersEquity; 2026-01-31; 0000027419-26-000016"
+    },
+    {
+      "claim": "| TGT Stockholders' Equity (prior) | $14,666,000,000 | USD | 0000027419-26-000016 | StockholdersEquity | 2025-02-01 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (StockholdersEquity, 2025-02-01).",
+      "correction": "",
+      "source": "StockholdersEquity; 2025-02-01; 0000027419-26-000016"
+    },
+    {
+      "claim": "| TGT Long-Term Debt (current) | $14,398,000,000 | USD | 0000027419-26-000016 | LongTermDebt | 2026-01-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (LongTermDebt, 2026-01-31).",
+      "correction": "",
+      "source": "LongTermDebt; 2026-01-31; 0000027419-26-000016"
+    },
+    {
+      "claim": "| TGT Long-Term Debt (prior) | $13,904,000,000 | USD | 0000027419-26-000016 | LongTermDebt | 2025-02-01 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (LongTermDebt, 2025-02-01).",
+      "correction": "",
+      "source": "LongTermDebt; 2025-02-01; 0000027419-26-000016"
+    },
+    {
+      "claim": "| TGT Current Portion of Long-Term Debt (current) | $2,130,000,000 | USD | 0000027419-26-000016 | LongTermDebtAndCapitalLeaseObligationsCurrent | 2026-01-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (LongTermDebtAndCapitalLeaseObligationsCurrent, 2026-01-31).",
+      "correction": "",
+      "source": "LongTermDebtAndCapitalLeaseObligationsCurrent; 2026-01-31; 0000027419-26-000016"
+    },
+    {
+      "claim": "| TGT Current Portion of Long-Term Debt (prior) | $1,636,000,000 | USD | 0000027419-26-000016 | LongTermDebtAndCapitalLeaseObligationsCurrent | 2025-02-01 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (LongTermDebtAndCapitalLeaseObligationsCurrent, 2025-02-01).",
+      "correction": "",
+      "source": "LongTermDebtAndCapitalLeaseObligationsCurrent; 2025-02-01; 0000027419-26-000016"
+    },
+    {
+      "claim": "| TGT Cash from Operations (current) | $6,562,000,000 | USD | 0000027419-26-000016 | NetCashProvidedByUsedInOperatingActivities | 2026-01-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (NetCashProvidedByUsedInOperatingActivities, 2026-01-31).",
+      "correction": "",
+      "source": "NetCashProvidedByUsedInOperatingActivities; 2026-01-31; 0000027419-26-000016"
+    },
+    {
+      "claim": "| TGT Cash from Operations (prior) | $7,367,000,000 | USD | 0000027419-26-000016 | NetCashProvidedByUsedInOperatingActivities | 2025-02-01 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (NetCashProvidedByUsedInOperatingActivities, 2025-02-01).",
+      "correction": "",
+      "source": "NetCashProvidedByUsedInOperatingActivities; 2025-02-01; 0000027419-26-000016"
+    },
+    {
+      "claim": "| TGT Additions to Property and Equipment (current) | $3,727,000,000 | USD | 0000027419-26-000016 | PaymentsToAcquirePropertyPlantAndEquipment | 2026-01-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (PaymentsToAcquirePropertyPlantAndEquipment, 2026-01-31).",
+      "correction": "",
+      "source": "PaymentsToAcquirePropertyPlantAndEquipment; 2026-01-31; 0000027419-26-000016"
+    },
+    {
+      "claim": "| TGT Additions to Property and Equipment (prior) | $2,891,000,000 | USD | 0000027419-26-000016 | PaymentsToAcquirePropertyPlantAndEquipment | 2025-02-01 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (PaymentsToAcquirePropertyPlantAndEquipment, 2025-02-01).",
+      "correction": "",
+      "source": "PaymentsToAcquirePropertyPlantAndEquipment; 2025-02-01; 0000027419-26-000016"
+    },
+    {
+      "claim": "| BJ Revenue (current) | $21,457,274,000 | USD | 0001531152-26-000007 | RevenueFromContractWithCustomerExcludingAssessedTax | 2026-01-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (RevenueFromContractWithCustomerExcludingAssessedTax, 2026-01-31).",
+      "correction": "",
+      "source": "RevenueFromContractWithCustomerExcludingAssessedTax; 2026-01-31; 0001531152-26-000007"
+    },
+    {
+      "claim": "| BJ Revenue (prior) | $20,501,804,000 | USD | 0001531152-26-000007 | RevenueFromContractWithCustomerExcludingAssessedTax | 2025-02-01 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (RevenueFromContractWithCustomerExcludingAssessedTax, 2025-02-01).",
+      "correction": "",
+      "source": "RevenueFromContractWithCustomerExcludingAssessedTax; 2025-02-01; 0001531152-26-000007"
+    },
+    {
+      "claim": "| BJ Operating Income (current) | $816,604,000 | USD | 0001531152-26-000007 | OperatingIncomeLoss | 2026-01-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (OperatingIncomeLoss, 2026-01-31).",
+      "correction": "",
+      "source": "OperatingIncomeLoss; 2026-01-31; 0001531152-26-000007"
+    },
+    {
+      "claim": "| BJ Operating Income (prior) | $772,206,000 | USD | 0001531152-26-000007 | OperatingIncomeLoss | 2025-02-01 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (OperatingIncomeLoss, 2025-02-01).",
+      "correction": "",
+      "source": "OperatingIncomeLoss; 2025-02-01; 0001531152-26-000007"
+    },
+    {
+      "claim": "| BJ Net Income (current) | $578,377,000 | USD | 0001531152-26-000007 | NetIncomeLoss | 2026-01-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (NetIncomeLoss, 2026-01-31).",
+      "correction": "",
+      "source": "NetIncomeLoss; 2026-01-31; 0001531152-26-000007"
+    },
+    {
+      "claim": "| BJ Net Income (prior) | $534,417,000 | USD | 0001531152-26-000007 | NetIncomeLoss | 2025-02-01 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (NetIncomeLoss, 2025-02-01).",
+      "correction": "",
+      "source": "NetIncomeLoss; 2025-02-01; 0001531152-26-000007"
+    },
+    {
+      "claim": "| BJ Diluted EPS (current) | $4.38 | USD/shares | 0001531152-26-000007 | EarningsPerShareDiluted | 2026-01-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (EarningsPerShareDiluted, 2026-01-31).",
+      "correction": "",
+      "source": "EarningsPerShareDiluted; 2026-01-31; 0001531152-26-000007"
+    },
+    {
+      "claim": "| BJ Diluted EPS (prior) | $4 | USD/shares | 0001531152-26-000007 | EarningsPerShareDiluted | 2025-02-01 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (EarningsPerShareDiluted, 2025-02-01).",
+      "correction": "",
+      "source": "EarningsPerShareDiluted; 2025-02-01; 0001531152-26-000007"
+    },
+    {
+      "claim": "| BJ Stockholders' Equity (current) | $2,197,659,000 | USD | 0001531152-26-000007 | StockholdersEquity | 2026-01-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (StockholdersEquity, 2026-01-31).",
+      "correction": "",
+      "source": "StockholdersEquity; 2026-01-31; 0001531152-26-000007"
+    },
+    {
+      "claim": "| BJ Stockholders' Equity (prior) | $1,847,454,000 | USD | 0001531152-26-000007 | StockholdersEquity | 2025-02-01 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (StockholdersEquity, 2025-02-01).",
+      "correction": "",
+      "source": "StockholdersEquity; 2025-02-01; 0001531152-26-000007"
+    },
+    {
+      "claim": "| BJ Long-Term Debt (current) | $399,099,000 | USD | 0001531152-26-000007 | LongTermDebtNoncurrent | 2026-01-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (LongTermDebtNoncurrent, 2026-01-31).",
+      "correction": "",
+      "source": "LongTermDebtNoncurrent; 2026-01-31; 0001531152-26-000007"
+    },
+    {
+      "claim": "| BJ Long-Term Debt (prior) | $398,807,000 | USD | 0001531152-26-000007 | LongTermDebtNoncurrent | 2025-02-01 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (LongTermDebtNoncurrent, 2025-02-01).",
+      "correction": "",
+      "source": "LongTermDebtNoncurrent; 2025-02-01; 0001531152-26-000007"
+    },
+    {
+      "claim": "| BJ Current Portion of Long-Term Debt (current) | $120,000,000 | USD | 0001531152-26-000007 | LongTermDebtCurrent | 2026-01-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (LongTermDebtCurrent, 2026-01-31).",
+      "correction": "",
+      "source": "LongTermDebtCurrent; 2026-01-31; 0001531152-26-000007"
+    },
+    {
+      "claim": "| BJ Current Portion of Long-Term Debt (prior) | $175,000,000 | USD | 0001531152-26-000007 | LongTermDebtCurrent | 2025-02-01 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (LongTermDebtCurrent, 2025-02-01).",
+      "correction": "",
+      "source": "LongTermDebtCurrent; 2025-02-01; 0001531152-26-000007"
+    },
+    {
+      "claim": "| BJ Cash from Operations (current) | $1,030,056,000 | USD | 0001531152-26-000007 | NetCashProvidedByUsedInOperatingActivities | 2026-01-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (NetCashProvidedByUsedInOperatingActivities, 2026-01-31).",
+      "correction": "",
+      "source": "NetCashProvidedByUsedInOperatingActivities; 2026-01-31; 0001531152-26-000007"
+    },
+    {
+      "claim": "| BJ Cash from Operations (prior) | $900,872,000 | USD | 0001531152-26-000007 | NetCashProvidedByUsedInOperatingActivities | 2025-02-01 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (NetCashProvidedByUsedInOperatingActivities, 2025-02-01).",
+      "correction": "",
+      "source": "NetCashProvidedByUsedInOperatingActivities; 2025-02-01; 0001531152-26-000007"
+    },
+    {
+      "claim": "| BJ Additions to Property and Equipment (current) | $702,048,000 | USD | 0001531152-26-000007 | PaymentsToAcquirePropertyPlantAndEquipment | 2026-01-31 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (PaymentsToAcquirePropertyPlantAndEquipment, 2026-01-31).",
+      "correction": "",
+      "source": "PaymentsToAcquirePropertyPlantAndEquipment; 2026-01-31; 0001531152-26-000007"
+    },
+    {
+      "claim": "| BJ Additions to Property and Equipment (prior) | $587,983,000 | USD | 0001531152-26-000007 | PaymentsToAcquirePropertyPlantAndEquipment | 2025-02-01 |",
+      "status": "correct",
+      "reason": "Tag, accession, period end, and value match the saved facts (PaymentsToAcquirePropertyPlantAndEquipment, 2025-02-01).",
+      "correction": "",
+      "source": "PaymentsToAcquirePropertyPlantAndEquipment; 2025-02-01; 0001531152-26-000007"
+    },
+    {
+      "claim": "| Peer TTM median operating margin | 4.39% | TTM peer median uses comparable peers ending within 45 days of company TTM end 2026-08-30. | Anchor: 2026-08-30; maximum date difference: 45 days |",
+      "status": "correct",
+      "reason": "Median TTM operating margin matches peer TTM facts inside the saved period window.",
+      "correction": "",
+      "source": "saved company and peer TTM facts; anchor 2026-08-30; window 45 days"
+    },
+    {
+      "claim": "Insight: (Research Analyst) Costco's private-label brand, Kirkland Signature, is high quality and offered at prices generally lower than national brands, helping to lower costs, differentiate merchandise offerings, and earn higher margins [10-K line 00192].",
+      "status": "correct",
+      "reason": "The claim matches the text in 10-K line 00192 which states that Kirkland Signature products are high quality, offered at prices generally lower than national brands, and help lower costs, differentiate merchandise offerings, and generally earn higher margins.",
+      "correction": "",
+      "source": "10-K line 00192",
+      "corrected_claim": ""
+    },
+    {
+      "claim": "Insight: (Financial Analyst) Costco Wholesale Corporation reported total revenue of $303,154,000,000 for the fiscal year ended August 30, 2026 [10-K line 00625].",
+      "status": "correct",
+      "reason": "The claim matches the text in 10-K line 00625 which reports total revenue of $303,154,000,000 for the fiscal year ended August 30, 2026.",
+      "correction": "",
+      "source": "10-K line 00625",
+      "corrected_claim": ""
+    },
+    {
+      "claim": "Insight: (Investment Advisor) Costco's membership fee revenue increased 11% to $5.9 billion in 2026, driven by new member sign-ups and upgrades to Executive memberships [10-K line 00458].",
+      "status": "correct",
+      "reason": "The claim matches the text in 10-K line 00458 which reports membership fee revenue increased 11% to $5.9 billion in 2026, driven by new member sign-ups, membership fee increases, and upgrades to Executive memberships.",
+      "correction": "",
+      "source": "10-K line 00458",
+      "corrected_claim": ""
+    },
+    {
+      "claim": "Costco operates membership warehouses and e-commerce sites based on the concept of offering low prices on a limited selection of nationally-branded and private-label products to achieve high sales volumes and rapid inventory turnover [10-K line 00134]. The company buys most merchandise directly from suppliers, routes it through cross-docking consolidation points or directly to warehouses, creating freight volume and handling efficiencies that lower costs compared to traditional distribution channels [10-K line 00135]. Costco's warehouse format features a no-frills, self-service layout with strict inventory controls, including membership requirements, to reduce shrinkage and labor costs [10-K line 00139]. The company operates in multiple countries and offers a range of categories including foods and sundries, non-foods, fresh foods, warehouse ancillary (such as gasoline), and other businesses like e-commerce and travel [10-K line 00143]. Membership fees are $65 annually in the U.S., with Executive memberships offering additional rewards redeemable at warehouses [10-K line 00157].",
+      "status": "correct",
+      "reason": "Every extracted financial figure appears on the cited saved filing lines.",
+      "correction": "",
+      "source": "00134: We operate membership warehouses and e-commerce sites based on the concept that offering low prices on a limited selection of nationally-branded and private-label products in a wide range of categories will produce high sales volumes and rapid inventory turnover. When combined with the operating efficiencies achieved by volume purchasing, efficient distribution and reduced handling of merchandise in no-frills, self-service warehouse facilities, these volumes and turnover enable us to operate profitably at significantly lower gross margins (net sales less merchandise costs) than most other retailers. We often sell inventory before we are required to pay for it, even while taking advantage of early payment discounts.; 00135: We buy most of our merchandise directly from suppliers and route it to cross-docking consolidation points (depots) or directly to our warehouses. Our depots receive large shipments from suppliers and quickly; 00139: Our average warehouse space is approximately 148,000 square feet, with newer units being slightly larger. Floor plans are designed for efficiency in the use of selling space, the handling of merchandise, and the control of inventory. Because shoppers are attracted principally by the quality of merchandise and low prices, our warehouses are not elaborate. By strictly controlling the entrances and exits and using a membership format, we believe our inventory losses (shrinkage) are well below those of typical retail operations.; 00143: We offer merchandise and services in the following categories:; 00157: Our members may utilize their memberships at all of our warehouses and e-commerce sites. Our annual fee for memberships is $65 in the U.S., varies in other countries and includes a free household card."
+    },
+    {
+      "claim": "Costco's growth story is supported by disclosed evidence of customer demand and reported results from new product or market expansion. The company opened 28 new warehouses in 2026, including three relocations, resulting in a net of 25 new warehouses [10-K line 00415]. Comparable sales increased 8% in 2026, driven by increases in average ticket and shopping frequency, indicating strong customer demand [10-K line 00451]. Digitally-enabled comparable sales grew 21%, demonstrating progress in online offerings [10-K line 00452]. Membership fee revenue increased 11% to $5.9 billion, supported by new member sign-ups and upgrades to Executive memberships, reflecting sustained demand for membership [10-K line 00458].",
+      "status": "unsupported",
+      "reason": "No matching verifier mark was returned for this sourced numeric claim.",
+      "correction": "Remove or source the claim before use. Removed the claim from the verified body because saved evidence did not support it."
+    },
+    {
+      "claim": "- **Growth Evidence**: 5",
+      "status": "correct",
+      "reason": "Research score matches the saved Research Analyst output.",
+      "correction": "",
+      "source": "saved Research Analyst output: growth_evidence"
+    },
+    {
+      "claim": "- **Competitive Position**: 5",
+      "status": "correct",
+      "reason": "Research score matches the saved Research Analyst output.",
+      "correction": "",
+      "source": "saved Research Analyst output: competitive_position"
+    },
+    {
+      "claim": "- **Risk Exposure**: 3",
+      "status": "correct",
+      "reason": "Research score matches the saved Research Analyst output.",
+      "correction": "",
+      "source": "saved Research Analyst output: risk_exposure"
+    },
+    {
+      "claim": "- **Walmart Inc. (WMT) TTM Operating Margin**: 4.39% [Peer calculation]",
+      "status": "unsupported",
+      "reason": "Numeric claim has no filing-line or XBRL source.",
+      "correction": "Remove or source the claim before use. Removed the claim from the verified body because saved evidence did not support it."
+    },
+    {
+      "claim": "- **Target Corp. (TGT) TTM Operating Margin**: 5.59% [Peer calculation]",
+      "status": "unsupported",
+      "reason": "Numeric claim has no filing-line or XBRL source.",
+      "correction": "Remove or source the claim before use. Removed the claim from the verified body because saved evidence did not support it."
+    },
+    {
+      "claim": "- **BJ's Wholesale Club Holdings, Inc. (BJ) TTM Operating Margin**: 3.76% [Peer calculation]",
+      "status": "unsupported",
+      "reason": "Numeric claim has no filing-line or XBRL source.",
+      "correction": "Remove or source the claim before use. Removed the claim from the verified body because saved evidence did not support it."
+    },
+    {
+      "claim": "- **Median Peer TTM Operating Margin**: 4.39% [Peer calculation]",
+      "status": "unsupported",
+      "reason": "Numeric claim has no filing-line or XBRL source.",
+      "correction": "Remove or source the claim before use. Removed the claim from the verified body because saved evidence did not support it."
+    },
+    {
+      "claim": "- **Cash Flow Support**: 3 [10-K line 00499 / 10-K line 00629]",
+      "status": "correct",
+      "reason": "Financial score matches the saved calculator result.",
+      "correction": "",
+      "source": "saved persona_calculations.financial_scores: cash_flow_support"
+    },
+    {
+      "claim": "- **Operating Margin Trend**: 2 [10-K line 00629 / 10-K line 00625]",
+      "status": "correct",
+      "reason": "Financial score matches the saved calculator result.",
+      "correction": "",
+      "source": "saved persona_calculations.financial_scores: operating_margin_trend"
+    },
+    {
+      "claim": "- **Debt Trend**: 1 [10-K line 00687 / 10-K line 00691]",
+      "status": "correct",
+      "reason": "Financial score matches the saved calculator result.",
+      "correction": "",
+      "source": "saved persona_calculations.financial_scores: debt_trend"
+    },
+    {
+      "claim": "- **Peer Comparison**: 1 [Peer margin comparison]",
+      "status": "correct",
+      "reason": "Financial score matches the saved calculator result.",
+      "correction": "",
+      "source": "saved persona_calculations.financial_scores: peer_comparison"
+    },
+    {
+      "claim": "In 2026, Costco experienced a 10% increase in net sales to $297.2 billion, driven by comparable sales growth and new warehouse openings [10-K line 00416]. The company reported an increase in membership fee revenue, driven by new member sign-ups, fee increases, and Executive membership upgrades [10-K line 00458]. Gross margin percentage decreased slightly but improved when excluding gasoline price inflation, indicating better performance in core merchandise categories [10-K line 00469]. SG&A expenses as a percentage of net sales decreased, reflecting operational efficiency gains [10-K line 00475]. The company also received IEEPA tariff refunds which were partially reinvested in member value [10-K line 00426].",
+      "status": "unsupported",
+      "reason": "No matching verifier mark was returned for this sourced numeric claim.",
+      "correction": "Remove or source the claim before use. Removed the claim from the verified body because saved evidence did not support it."
+    }
+  ]
+}

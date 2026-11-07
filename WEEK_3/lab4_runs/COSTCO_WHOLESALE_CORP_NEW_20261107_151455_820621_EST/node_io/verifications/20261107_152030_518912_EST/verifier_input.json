@@ -1,0 +1,1676 @@
+{
+  "task": "First return exactly one mark for EACH entry in insight_claims, even if it has no numeric value. Copy each complete Insight line exactly into claim; check its cited line and meaning. Then audit every other numeric claim in the report. Every claim field must be copied verbatim from one complete line in compiled_report; do not summarize, combine, or invent claims. If no exact report line supports a candidate mark, omit it. Do not audit or reproduce the omitted Investment Advisor thesis. The saved filing texts are numbered excerpts around cited lines, not complete documents: if evidence is missing, mark the claim unsupported rather than guessing. For every XBRL claim, compare its value, tag, accession, and period with saved_facts. For every filing-line citation, confirm the cited numbered line exists in saved_filing_texts and that it states the number for the stated period and definition. Recalculate every ratio from its quoted inputs. If the filing offers more than one definition, mark a ratio unsupported unless its definition is stated. Mark each claim correct, wrong, or unsupported. For each wrong or unsupported claim, give a corrected claim with the actual filing line or XBRL tag and period. Do not add claims or reproduce the source files.",
+  "context": {
+    "insight_claims": [
+      "Insight: (Research Analyst) Costco's private-label brand, Kirkland Signature, is high quality and offered at prices generally lower than national brands, helping to lower costs, differentiate merchandise offerings, and earn higher margins [10-K line 00192].",
+      "Insight: (Financial Analyst) Costco Wholesale Corporation reported total revenue of $303,154,000,000 for the fiscal year ended August 30, 2026 [10-K line 00625].",
+      "Insight: (Investment Advisor) Costco's membership fee revenue increased 11% to $5.9 billion in 2026, driven by new member sign-ups and upgrades to Executive memberships [10-K line 00458]."
+    ],
+    "compiled_report": "## Overview\n\nCostco operates membership warehouses and e-commerce sites based on the concept of offering low prices on a limited selection of nationally-branded and private-label products to achieve high sales volumes and rapid inventory turnover [10-K line 00134]. The company buys most merchandise directly from suppliers, routes it through cross-docking consolidation points or directly to warehouses, creating freight volume and handling efficiencies that lower costs compared to traditional distribution channels [10-K line 00135]. Costco's warehouse format features a no-frills, self-service layout with strict inventory controls, including membership requirements, to reduce shrinkage and labor costs [10-K line 00139]. The company operates in multiple countries and offers a range of categories including foods and sundries, non-foods, fresh foods, warehouse ancillary (such as gasoline), and other businesses like e-commerce and travel [10-K line 00143]. Membership fees are $65 annually in the U.S., with Executive memberships offering additional rewards redeemable at warehouses [10-K line 00157].\n\n## Market Positioning and Growth Outlook\n\nCostco's growth story is supported by disclosed evidence of customer demand and reported results from new product or market expansion. The company opened 28 new warehouses in 2026, including three relocations, resulting in a net of 25 new warehouses [10-K line 00415]. Comparable sales increased 8% in 2026, driven by increases in average ticket and shopping frequency, indicating strong customer demand [10-K line 00451]. Digitally-enabled comparable sales grew 21%, demonstrating progress in online offerings [10-K line 00452]. Membership fee revenue increased 11% to $5.9 billion, supported by new member sign-ups and upgrades to Executive memberships, reflecting sustained demand for membership [10-K line 00458].\n\nCostco holds a strong competitive position supported by specific advantages. The company's low-price strategy combined with high-quality merchandise and efficient distribution helps differentiate it from competitors like Walmart, Target, Amazon, and other warehouse clubs [10-K line 00190]. Its private-label brand, Kirkland Signature, is noted for being high quality and offered at prices generally lower than national brands, contributing to higher margins and cost reduction [10-K line 00192]. Additionally, the company's membership format provides a loyal customer base and recurring revenue that supports profitability and sustainability [10-K line 00406].\n\nCostco faces several risks including competitive pressures from global, national, and regional wholesalers and retailers, including those with e-commerce operations [10-K line 00190]. Currency fluctuations affect net sales and gross margins, especially in international operations [10-K line 00409]. Rising costs related to employee compensation, healthcare, and utilities are partially outside the company’s control [10-K line 00407]. Additionally, government actions such as tariffs can increase merchandise costs [10-K line 00403].\n\n- **Growth Evidence**: 5\n  - Evidence includes reported results from new warehouse openings and measurable increases in comparable sales, average ticket, and shopping frequency.\n- **Competitive Position**: 5\n  - The company has a clear advantage through its low-price strategy, private-label brand differentiation, and membership model.\n- **Risk Exposure**: 3\n  - Risks include strong competition, currency fluctuations, and labor cost pressures, but they are not concentrated or severe enough to score lower.\n\n\n## Valuation Insights\n\n### Costco Wholesale Corp. (COST) Financial Report\n\n### Annual Facts and Ratios\n- **Revenue**: $303,154,000,000 [filing accession: 0000909832-26-000093, tag: RevenueFromContractWithCustomerExcludingAssessedTax, period-end: 2026-08-30]\n- **Operating Income**: $11,685,000,000 [filing accession: 0000909832-26-000093, tag: OperatingIncomeLoss, period-end: 2026-08-30]\n- **Net Income**: $9,226,000,000 [filing accession: 0000909832-26-000093, tag: NetIncomeLoss, period-end: 2026-08-30]\n- **Diluted EPS**: $20.76 [filing accession: 0000909832-26-000093, tag: EarningsPerShareDiluted, period-end: 2026-08-30]\n- **Stockholders' Equity**: $35,803,000,000 [filing accession: 0000909832-26-000093, tag: StockholdersEquity, period-end: 2026-08-30]\n- **Long-Term Debt**: $3,914,000,000 [filing accession: 0000909832-26-000093, tag: LongTermDebtNoncurrent, period-end: 2026-08-30]\n- **Current Portion of Long-Term Debt**: $2,248,000,000 [filing accession: 0000909832-26-000093, tag: LongTermDebtCurrent, period-end: 2026-08-30]\n- **Cash from Operations**: $15,817,000,000 [filing accession: 0000909832-26-000093, tag: NetCashProvidedByUsedInOperatingActivities, period-end: 2026-08-30]\n- **Additions to Property and Equipment**: $6,435,000,000 [filing accession: 0000909832-26-000093, tag: PaymentsToAcquirePropertyPlantAndEquipment, period-end: 2026-08-30]\n- Calculator ratios, arithmetic, quarter figures, and peer comparisons are listed in Source-linked desk data.\n\n### Latest Quarter Revenue and Diluted EPS\n\n- Release statement unit context: (dollars in millions, except per share data) (unaudited) [release line 00033]\n- Latest-quarter Total Revenue: $95,723 million [release line 00043]\n- Latest-quarter Diluted EPS: $6.75 [release line 00056]\n\n### Peer Margins\n\n- **Walmart Inc. (WMT) TTM Operating Margin**: 4.39% [Peer calculation]\n- **Target Corp. (TGT) TTM Operating Margin**: 5.59% [Peer calculation]\n- **BJ's Wholesale Club Holdings, Inc. (BJ) TTM Operating Margin**: 3.76% [Peer calculation]\n- **Median Peer TTM Operating Margin**: 4.39% [Peer calculation]\n\n### Financial Scores\n\n- **Cash Flow Support**: 3 [10-K line 00499 / 10-K line 00629]\n- **Operating Margin Trend**: 2 [10-K line 00629 / 10-K line 00625]\n- **Debt Trend**: 1 [10-K line 00687 / 10-K line 00691]\n- **Peer Comparison**: 1 [Peer margin comparison]\n\n### Conclusion\n\nCostco’s operating margin trend is stable, and its cash flow supports its earnings. However, the company's debt level has increased, and its operating margin is below the median peer operating margin.\n\n\n\n\n### Analyst Insights\n\n**Research Analyst**\n\nInsight: (Research Analyst) Costco's private-label brand, Kirkland Signature, is high quality and offered at prices generally lower than national brands, helping to lower costs, differentiate merchandise offerings, and earn higher margins [10-K line 00192].\n\n**Financial Analyst**\n\nInsight: (Financial Analyst) Costco Wholesale Corporation reported total revenue of $303,154,000,000 for the fiscal year ended August 30, 2026 [10-K line 00625].\n\n**Investment Advisor**\n\nInsight: (Investment Advisor) Costco's membership fee revenue increased 11% to $5.9 billion in 2026, driven by new member sign-ups and upgrades to Executive memberships [10-K line 00458].\n\n### Source-linked desk data\n\nThe values below come from this run's saved SEC facts, calculator outputs, and selected release lines.\n\n| Metric | Value | Unit | Accession | XBRL tag | Period end |\n|---|---:|---|---|---|---|\n| Revenue (current) | $303,154,000,000 | USD | 0000909832-26-000093 | RevenueFromContractWithCustomerExcludingAssessedTax | 2026-08-30 |\n| Revenue (prior) | $275,235,000,000 | USD | 0000909832-26-000093 | RevenueFromContractWithCustomerExcludingAssessedTax | 2025-08-31 |\n| Operating Income (current) | $11,685,000,000 | USD | 0000909832-26-000093 | OperatingIncomeLoss | 2026-08-30 |\n| Operating Income (prior) | $10,383,000,000 | USD | 0000909832-26-000093 | OperatingIncomeLoss | 2025-08-31 |\n| Net Income (current) | $9,226,000,000 | USD | 0000909832-26-000093 | NetIncomeLoss | 2026-08-30 |\n| Net Income (prior) | $8,099,000,000 | USD | 0000909832-26-000093 | NetIncomeLoss | 2025-08-31 |\n| Diluted EPS (current) | $20.76 | USD/shares | 0000909832-26-000093 | EarningsPerShareDiluted | 2026-08-30 |\n| Diluted EPS (prior) | $18.21 | USD/shares | 0000909832-26-000093 | EarningsPerShareDiluted | 2025-08-31 |\n| Stockholders' Equity (current) | $35,803,000,000 | USD | 0000909832-26-000093 | StockholdersEquity | 2026-08-30 |\n| Stockholders' Equity (prior) | $29,164,000,000 | USD | 0000909832-26-000093 | StockholdersEquity | 2025-08-31 |\n| Long-Term Debt (current) | $3,914,000,000 | USD | 0000909832-26-000093 | LongTermDebtNoncurrent | 2026-08-30 |\n| Long-Term Debt (prior) | $5,713,000,000 | USD | 0000909832-26-000093 | LongTermDebtNoncurrent | 2025-08-31 |\n| Current Portion of Long-Term Debt (current) | $2,248,000,000 | USD | 0000909832-26-000093 | LongTermDebtCurrent | 2026-08-30 |\n| Current Portion of Long-Term Debt (prior) | $75,000,000 | USD | 0000909832-26-000093 | LongTermDebtCurrent | 2025-08-31 |\n| Cash from Operations (current) | $15,817,000,000 | USD | 0000909832-26-000093 | NetCashProvidedByUsedInOperatingActivities | 2026-08-30 |\n| Cash from Operations (prior) | $13,335,000,000 | USD | 0000909832-26-000093 | NetCashProvidedByUsedInOperatingActivities | 2025-08-31 |\n| Additions to Property and Equipment (current) | $6,435,000,000 | USD | 0000909832-26-000093 | PaymentsToAcquirePropertyPlantAndEquipment | 2026-08-30 |\n| Additions to Property and Equipment (prior) | $5,498,000,000 | USD | 0000909832-26-000093 | PaymentsToAcquirePropertyPlantAndEquipment | 2025-08-31 |\n\n| Calculator metric | Value | Arithmetic |\n|---|---:|---|\n| Revenue Growth | 10.14% | [arithmetic: (303154000000 / 275235000000) - 1 = 0.101436953876] |\n| Operating Margin | 3.85% | [arithmetic: 11685000000 / 303154000000 = 0.0385447660265] |\n| Return on Average Equity | 28.40% | [arithmetic: 9226000000 / ((35803000000 + 29164000000) / 2) = 0.284021118414] |\n| Debt to Equity | 0.17 | [arithmetic: (3914000000 + 2248000000) / 35803000000 = 0.172108482529] |\n| Free Cash Flow | $9,382,000,000 | [arithmetic: 15817000000 - 6435000000 = 9382000000] |\n| P/E | 47.79 | [arithmetic: 992.13 / 20.76 = 47.7904624277] |\n\nQuarterly release lines:\n- \"Total revenue 95,723 86,156 303,154 275,235\" [release line 00043]\n- \"Diluted $ 6.75 $ 5.87 $ 20.76 $ 18.21\" [release line 00056]\n- Latest-quarter Total Revenue: $95,723 million [release line 00043]\n- Latest-quarter Diluted EPS: $6.75 [release line 00056]\n\nPeer facts and margins:\n\n| Peer fact | Value | Unit | Accession | XBRL tag | Period end |\n|---|---:|---|---|---|---|\n| WMT Revenue (current) | $713,163,000,000 | USD | 0000104169-26-000055 | Revenues | 2026-01-31 |\n| WMT Revenue (prior) | $680,985,000,000 | USD | 0000104169-26-000055 | Revenues | 2025-01-31 |\n| WMT Operating Income (current) | $29,825,000,000 | USD | 0000104169-26-000055 | OperatingIncomeLoss | 2026-01-31 |\n| WMT Operating Income (prior) | $29,348,000,000 | USD | 0000104169-26-000055 | OperatingIncomeLoss | 2025-01-31 |\n| WMT Net Income (current) | $21,893,000,000 | USD | 0000104169-26-000055 | NetIncomeLoss | 2026-01-31 |\n| WMT Net Income (prior) | $19,436,000,000 | USD | 0000104169-26-000055 | NetIncomeLoss | 2025-01-31 |\n| WMT Diluted EPS (current) | $2.73 | USD/shares | 0000104169-26-000055 | EarningsPerShareDiluted | 2026-01-31 |\n| WMT Diluted EPS (prior) | $2.41 | USD/shares | 0000104169-26-000055 | EarningsPerShareDiluted | 2025-01-31 |\n| WMT Stockholders' Equity (current) | $99,617,000,000 | USD | 0000104169-26-000055 | StockholdersEquity | 2026-01-31 |\n| WMT Stockholders' Equity (prior) | $91,013,000,000 | USD | 0000104169-26-000055 | StockholdersEquity | 2025-01-31 |\n| WMT Long-Term Debt (current) | $34,624,000,000 | USD | 0000104169-26-000055 | LongTermDebtNoncurrent | 2026-01-31 |\n| WMT Long-Term Debt (prior) | $33,401,000,000 | USD | 0000104169-26-000055 | LongTermDebtNoncurrent | 2025-01-31 |\n| WMT Current Portion of Long-Term Debt (current) | $3,542,000,000 | USD | 0000104169-26-000055 | LongTermDebtCurrent | 2026-01-31 |\n| WMT Current Portion of Long-Term Debt (prior) | $2,598,000,000 | USD | 0000104169-26-000055 | LongTermDebtCurrent | 2025-01-31 |\n| WMT Cash from Operations (current) | $41,565,000,000 | USD | 0000104169-26-000055 | NetCashProvidedByUsedInOperatingActivities | 2026-01-31 |\n| WMT Cash from Operations (prior) | $36,443,000,000 | USD | 0000104169-26-000055 | NetCashProvidedByUsedInOperatingActivities | 2025-01-31 |\n| WMT Additions to Property and Equipment (current) | $26,642,000,000 | USD | 0000104169-26-000055 | PaymentsToAcquirePropertyPlantAndEquipment | 2026-01-31 |\n| WMT Additions to Property and Equipment (prior) | $23,783,000,000 | USD | 0000104169-26-000055 | PaymentsToAcquirePropertyPlantAndEquipment | 2025-01-31 |\n| TGT Revenue (current) | $104,780,000,000 | USD | 0000027419-26-000016 | RevenueFromContractWithCustomerExcludingAssessedTax | 2026-01-31 |\n| TGT Revenue (prior) | $106,566,000,000 | USD | 0000027419-26-000016 | RevenueFromContractWithCustomerExcludingAssessedTax | 2025-02-01 |\n| TGT Operating Income (current) | $5,117,000,000 | USD | 0000027419-26-000016 | OperatingIncomeLoss | 2026-01-31 |\n| TGT Operating Income (prior) | $5,566,000,000 | USD | 0000027419-26-000016 | OperatingIncomeLoss | 2025-02-01 |\n| TGT Net Income (current) | $3,705,000,000 | USD | 0000027419-26-000016 | NetIncomeLoss | 2026-01-31 |\n| TGT Net Income (prior) | $4,091,000,000 | USD | 0000027419-26-000016 | NetIncomeLoss | 2025-02-01 |\n| TGT Diluted EPS (current) | $8.13 | USD/shares | 0000027419-26-000016 | EarningsPerShareDiluted | 2026-01-31 |\n| TGT Diluted EPS (prior) | $8.86 | USD/shares | 0000027419-26-000016 | EarningsPerShareDiluted | 2025-02-01 |\n| TGT Stockholders' Equity (current) | $16,165,000,000 | USD | 0000027419-26-000016 | StockholdersEquity | 2026-01-31 |\n| TGT Stockholders' Equity (prior) | $14,666,000,000 | USD | 0000027419-26-000016 | StockholdersEquity | 2025-02-01 |\n| TGT Long-Term Debt (current) | $14,398,000,000 | USD | 0000027419-26-000016 | LongTermDebt | 2026-01-31 |\n| TGT Long-Term Debt (prior) | $13,904,000,000 | USD | 0000027419-26-000016 | LongTermDebt | 2025-02-01 |\n| TGT Current Portion of Long-Term Debt (current) | $2,130,000,000 | USD | 0000027419-26-000016 | LongTermDebtAndCapitalLeaseObligationsCurrent | 2026-01-31 |\n| TGT Current Portion of Long-Term Debt (prior) | $1,636,000,000 | USD | 0000027419-26-000016 | LongTermDebtAndCapitalLeaseObligationsCurrent | 2025-02-01 |\n| TGT Cash from Operations (current) | $6,562,000,000 | USD | 0000027419-26-000016 | NetCashProvidedByUsedInOperatingActivities | 2026-01-31 |\n| TGT Cash from Operations (prior) | $7,367,000,000 | USD | 0000027419-26-000016 | NetCashProvidedByUsedInOperatingActivities | 2025-02-01 |\n| TGT Additions to Property and Equipment (current) | $3,727,000,000 | USD | 0000027419-26-000016 | PaymentsToAcquirePropertyPlantAndEquipment | 2026-01-31 |\n| TGT Additions to Property and Equipment (prior) | $2,891,000,000 | USD | 0000027419-26-000016 | PaymentsToAcquirePropertyPlantAndEquipment | 2025-02-01 |\n| BJ Revenue (current) | $21,457,274,000 | USD | 0001531152-26-000007 | RevenueFromContractWithCustomerExcludingAssessedTax | 2026-01-31 |\n| BJ Revenue (prior) | $20,501,804,000 | USD | 0001531152-26-000007 | RevenueFromContractWithCustomerExcludingAssessedTax | 2025-02-01 |\n| BJ Operating Income (current) | $816,604,000 | USD | 0001531152-26-000007 | OperatingIncomeLoss | 2026-01-31 |\n| BJ Operating Income (prior) | $772,206,000 | USD | 0001531152-26-000007 | OperatingIncomeLoss | 2025-02-01 |\n| BJ Net Income (current) | $578,377,000 | USD | 0001531152-26-000007 | NetIncomeLoss | 2026-01-31 |\n| BJ Net Income (prior) | $534,417,000 | USD | 0001531152-26-000007 | NetIncomeLoss | 2025-02-01 |\n| BJ Diluted EPS (current) | $4.38 | USD/shares | 0001531152-26-000007 | EarningsPerShareDiluted | 2026-01-31 |\n| BJ Diluted EPS (prior) | $4 | USD/shares | 0001531152-26-000007 | EarningsPerShareDiluted | 2025-02-01 |\n| BJ Stockholders' Equity (current) | $2,197,659,000 | USD | 0001531152-26-000007 | StockholdersEquity | 2026-01-31 |\n| BJ Stockholders' Equity (prior) | $1,847,454,000 | USD | 0001531152-26-000007 | StockholdersEquity | 2025-02-01 |\n| BJ Long-Term Debt (current) | $399,099,000 | USD | 0001531152-26-000007 | LongTermDebtNoncurrent | 2026-01-31 |\n| BJ Long-Term Debt (prior) | $398,807,000 | USD | 0001531152-26-000007 | LongTermDebtNoncurrent | 2025-02-01 |\n| BJ Current Portion of Long-Term Debt (current) | $120,000,000 | USD | 0001531152-26-000007 | LongTermDebtCurrent | 2026-01-31 |\n| BJ Current Portion of Long-Term Debt (prior) | $175,000,000 | USD | 0001531152-26-000007 | LongTermDebtCurrent | 2025-02-01 |\n| BJ Cash from Operations (current) | $1,030,056,000 | USD | 0001531152-26-000007 | NetCashProvidedByUsedInOperatingActivities | 2026-01-31 |\n| BJ Cash from Operations (prior) | $900,872,000 | USD | 0001531152-26-000007 | NetCashProvidedByUsedInOperatingActivities | 2025-02-01 |\n| BJ Additions to Property and Equipment (current) | $702,048,000 | USD | 0001531152-26-000007 | PaymentsToAcquirePropertyPlantAndEquipment | 2026-01-31 |\n| BJ Additions to Property and Equipment (prior) | $587,983,000 | USD | 0001531152-26-000007 | PaymentsToAcquirePropertyPlantAndEquipment | 2025-02-01 |\n\n| Peer margin | Value | Arithmetic |\n|---|---:|---|\n| WMT Operating Margin | 4.18% | [arithmetic: 29825000000 / 713163000000 = 0.0418207338294] |\n| TGT Operating Margin | 4.88% | [arithmetic: 5117000000 / 104780000000 = 0.0488356556595] |\n| BJ Operating Margin | 3.81% | [arithmetic: 816604000 / 21457274000 = 0.0380572108088] |\n\nAligned trailing-12-month peer data (annual filings plus current YTD less prior-year YTD where required):\n\n| Measure | Value | Arithmetic | Period | Source basis |\n|---|---:|---|---|---|\n| COST TTM Revenue | $303,154,000,000 | [arithmetic: 303154000000 = 303154000000] | 2025-09-01 to 2026-08-30 | RevenueFromContractWithCustomerExcludingAssessedTax; 0000909832-26-000093 |\n| COST TTM Operating Income | $11,685,000,000 | [arithmetic: 11685000000 = 11685000000] | 2025-09-01 to 2026-08-30 | OperatingIncomeLoss; 0000909832-26-000093/0000909832-26-000093 |\n| COST TTM Operating Margin | 3.85% | [arithmetic: 11685000000 / 303154000000 = 0.0385447660265] | 2025-09-01 to 2026-08-30 | Same trailing 12-month window |\n| WMT TTM Revenue | $735,840,000,000 | [arithmetic: 713163000000 + 365688000000 - 343011000000 = 735840000000] | 2025-08-01 to 2026-07-31 | Revenues; 0000104169-26-000055+0000104169-26-000154-0000104169-26-000154 |\n| WMT TTM Operating Income | $32,280,000,000 | [arithmetic: 29825000000 + 16876000000 - 14421000000 = 32280000000] | 2025-08-01 to 2026-07-31 | OperatingIncomeLoss; 0000104169-26-000055+0000104169-26-000154-0000104169-26-000154/0000104169-26-000055+0000104169-26-000154-0000104169-26-000154 |\n| WMT TTM Operating Margin | 4.39% | [arithmetic: 32280000000 / 735840000000 = 0.0438682322244] | 2025-08-01 to 2026-07-31 | Same trailing 12-month window |\n| TGT TTM Revenue | $107,705,000,000 | [arithmetic: 104780000000 + 51982000000 - 49057000000 = 107705000000] | 2025-08-03 to 2026-08-01 | RevenueFromContractWithCustomerExcludingAssessedTax; 0000027419-26-000016+0000027419-26-000042-0000027419-26-000042 |\n| TGT TTM Operating Income | $6,023,000,000 | [arithmetic: 5117000000 + 3695000000 - 2789000000 = 6023000000] | 2025-08-03 to 2026-08-01 | OperatingIncomeLoss; 0000027419-26-000016+0000027419-26-000042-0000027419-26-000042/0000027419-26-000016+0000027419-26-000042-0000027419-26-000042 |\n| TGT TTM Operating Margin | 5.59% | [arithmetic: 6023000000 / 107705000000 = 0.0559212664222] | 2025-08-03 to 2026-08-01 | Same trailing 12-month window |\n| BJ TTM Revenue | $22,811,630,000 | [arithmetic: 21457274000 + 11888079000 - 10533723000 = 22811630000] | 2025-08-03 to 2026-08-01 | RevenueFromContractWithCustomerExcludingAssessedTax; 0001531152-26-000007+0001531152-26-000057-0001531152-26-000057 |\n| BJ TTM Operating Income | $856,699,000 | [arithmetic: 816604000 + 460270000 - 420175000 = 856699000] | 2025-08-03 to 2026-08-01 | OperatingIncomeLoss; 0001531152-26-000007+0001531152-26-000057-0001531152-26-000057/0001531152-26-000007+0001531152-26-000057-0001531152-26-000057 |\n| BJ TTM Operating Margin | 3.76% | [arithmetic: 856699000 / 22811630000 = 0.0375553610154] | 2025-08-03 to 2026-08-01 | Same trailing 12-month window |\n| Peer TTM median operating margin | 4.39% | TTM peer median uses comparable peers ending within 45 days of company TTM end 2026-08-30. | Anchor: 2026-08-30; maximum date difference: 45 days |\n\n## Future Developments and Strategic Recommendations\n\nKey catalysts for future growth include continued expansion of warehouse operations, particularly in international markets where square footage growth is higher due to smaller existing bases [10-K line 00405]. The company's investment in e-commerce and digital capabilities continues to drive sales, with digitally-enabled comparable sales growing significantly [10-K line 00452]. Additionally, Costco's strategy of maintaining low prices while increasing member value through benefits like Executive rewards and co-branded credit cards supports customer retention and satisfaction [10-K line 00459].\n\nIn 2026, Costco experienced a 10% increase in net sales to $297.2 billion, driven by comparable sales growth and new warehouse openings [10-K line 00416]. The company reported an increase in membership fee revenue, driven by new member sign-ups, fee increases, and Executive membership upgrades [10-K line 00458]. Gross margin percentage decreased slightly but improved when excluding gasoline price inflation, indicating better performance in core merchandise categories [10-K line 00469]. SG&A expenses as a percentage of net sales decreased, reflecting operational efficiency gains [10-K line 00475]. The company also received IEEPA tariff refunds which were partially reinvested in member value [10-K line 00426].\n\n**Strategic monitoring focus:** Track the disclosed catalysts and risks above against the next reported results. This is an analytical monitoring suggestion, not a company forecast.",
+    "saved_filing_texts": {
+      "10k.txt": "00133: General\n00134: We operate membership warehouses and e-commerce sites based on the concept that offering low prices on a limited selection of nationally-branded and private-label products in a wide range of categories will produce high sales volumes and rapid inventory turnover. When combined with the operating efficiencies achieved by volume purchasing, efficient distribution and reduced handling of merchandise in no-frills, self-service warehouse facilities, these volumes and turnover enable us to operate profitably at significantly lower gross margins (net sales less merchandise costs) than most other retailers. We often sell inventory before we are required to pay for it, even while taking advantage of early payment discounts.\n00135: We buy most of our merchandise directly from suppliers and route it to cross-docking consolidation points (depots) or directly to our warehouses. Our depots receive large shipments from suppliers and quickly\n00136: 3\n00137: Table of Contents\n00138: ship these goods to warehouses. This process creates freight volume and handling efficiencies, lowering costs associated with traditional multiple-step distribution channels. Our e-commerce operations ship merchandise through our depots and logistics operations, as well as through drop-ship and other delivery arrangements with our suppliers.\n00139: Our average warehouse space is approximately 148,000 square feet, with newer units being slightly larger. Floor plans are designed for efficiency in the use of selling space, the handling of merchandise, and the control of inventory. Because shoppers are attracted principally by the quality of merchandise and low prices, our warehouses are not elaborate. By strictly controlling the entrances and exits and using a membership format, we believe our inventory losses (shrinkage) are well below those of typical retail operations.\n00140: Our operating hours are shorter than many other retailers, and due to other efficiencies inherent in a warehouse club operation, we believe labor costs are lower relative to the volume of sales. In the U.S., we offer exclusive shopping hours for our Executive members and our gasoline operations generally have extended hours. Merchandise is generally stored on racks above the sales floor and displayed on pallets containing large quantities, reducing labor required. In general, with variations by country, our warehouses accept certain credit cards, including Costco co-branded cards, debit cards, cash and checks, Executive member reward certificates, co-brand cardholder rebates, and our proprietary stored-value card (shop card).\n00141: Our strategy is to provide our members with a broad range of high-quality merchandise at prices we believe are consistently lower than elsewhere. We seek to limit most items to fast-selling models, sizes, and colors. We carry less than 4,000 active stock keeping units (SKUs) per warehouse in our core warehouse business, significantly less than other broadline retailers. We average from 9,000 to 11,000 SKUs online, some of which are available in our warehouses. Many consumable products are offered for sale in case, carton, or multiple-pack quantities only.\n00142: To promote member satisfaction, we generally accept returns of merchandise. On certain electronic items, we have a 90-day return policy and provide, free of charge, technical support services, as well as an extended warranty. Additional third-party warranty coverage is sold on certain electronic items and major appliances.\n00143: We offer merchandise and services in the following categories:\n00144: ■Core Merchandise Categories:\n00145: •Foods and Sundries (including sundries, dry grocery, candy, cooler, freezer, liquor, and tobacco)\n00156: Membership\n00157: Our members may utilize their memberships at all of our warehouses and e-commerce sites. Our annual fee for memberships is $65 in the U.S., varies in other countries and includes a free household card.\n00158: Membership at the end of 2026, 2025, and 2024 was made up of the following (in thousands):\n00159: 2026 2025 2024\n00414: Highlights for 2026 include:\n00415: •We opened 28 new warehouses, including three relocations, for a total of 25 net new warehouses: 18 in the U.S., five in our Canadian segment, and two in our Other International segment, compared to 27 new warehouses, including three relocations, in 2025;\n00416: •Net sales increased 10% to $297,247, driven by an increase in comparable sales and sales at new warehouses;\n00417: •Higher gasoline prices positively impacted net sales by $3,501, or 130 basis points, and changes in foreign currencies positively impacted net sales by $1,332, or 49 basis points;\n00450: (1)Comparable sales for 2024 were calculated using comparable retail weeks.\n00451: Net sales increased $27,335 or 10% during 2026. The improvement was primarily attributable to an increase in comparable sales of $22,457 or 8%. Comparable sales were positively impacted by increases of 5% in average ticket and 3% in shopping frequency. The remaining increase in net sales was driven by sales at the 25 net new warehouses opened since the end of 2025.\n00452: Digitally-enabled comparable sales increased 21% during 2026, both as reported and excluding the impact of changes in foreign currencies.\n00453: Sales increased $17,136 or 8% in core merchandise categories, increasing in all categories. Sales in warehouse ancillary and other businesses increased $10,199, or 20%, led by gasoline and pharmacy.\n00454: Higher gasoline prices positively impacted net sales by $3,501, or 130 basis points, with a 12% increase in the average price per gallon. The volume of gasoline sold increased 7%, positively impacting net sales by $1,913, or 71 basis points.\n00457: 2026 2025 2024\n00458: Membership fees $ 5,907 $ 5,323 $ 4,828\n00459: Membership fee revenue increased 11% in 2026, driven by new member sign-ups, membership fee increases, and upgrades to Executive memberships. At the end of 2026, member renewal rates were 92.3% in the U.S. and Canada and 89.8% worldwide.\n00460: 26\n00189: Competition\n00190: Our industry is highly competitive, based on factors such as price, merchandise quality and selection, location, convenience, distribution strategy, and customer service. We compete on a worldwide basis with global, national, and regional wholesalers and retailers, including supermarkets, supercenters, online retailers, gasoline stations, hard discounters, department and specialty stores, and operators selling a single category or narrow range of merchandise. Walmart, Target, Kroger, and Amazon are among our significant general merchandise retail competitors in the U.S. We also compete with other warehouse clubs, including Walmart’s Sam’s Club and BJ’s Wholesale Club in the U.S. Many of the metropolitan areas in the U.S. and certain of our Other International locations have multiple competing clubs.\n00191: Intellectual Property\n00192: We believe that, to varying degrees, our trademarks, trade names, copyrights, proprietary processes, trade secrets, trade dress, domain names, and similar intellectual property add significant value to our business and are important to our success. We have invested significantly in the development and protection of our well-recognized brands, including the Costco Wholesale trademarks and our private-label brand, Kirkland Signature. We believe that Kirkland Signature products are high quality, offered at prices that are generally lower than national brands, and help lower costs, differentiate our merchandise offerings, and generally earn higher margins. We expect to continue to increase the sales penetration of our private-label items.\n00193: We rely on trademark and copyright laws, trade-secret protection, and confidentiality, license and other agreements with our suppliers, employees and others to protect our intellectual property. The availability and duration of trademark registrations vary by country; however, trademarks are generally valid and may be renewed indefinitely as long as they are in use and registrations are maintained.\n00194: Available Information\n00405: We also achieve net sales growth by opening new warehouses. As our warehouse base grows and available and desirable sites become more difficult to secure, square footage growth becomes a comparatively less substantial component of growth. Negative aspects of such growth include lower initial operating profitability relative to existing warehouses and cannibalization of sales at existing warehouses when openings occur in existing markets. Our rate of square footage growth is generally higher in many of our international markets, due to the smaller base in those markets, and we expect that to continue.\n00406: The membership format is integral to our business and profitability. This format is designed to reinforce member loyalty and provide continuing fee revenue. The extent to which we achieve growth in our membership base, increase the penetration of Executive memberships, and sustain high renewal rates materially influences our profitability. Our renewal rate, which excludes affiliates of Business members, is a trailing calculation that captures renewals during the period seven to eighteen months prior to the reporting date. Our paid-membership growth rate may be adversely impacted when warehouse openings occur in existing markets as compared to new markets. Our worldwide renewal rate is adversely impacted by membership growth in certain international markets and a higher penetration of memberships sold online, including through digital membership promotions, which renew at a slightly lower rate on average.\n00407: Our financial performance depends heavily on controlling costs. While we believe that we have achieved successes in this area, some significant costs are partially outside our control, particularly health care and utility expenses. With respect to the compensation of our employees, our philosophy is not to seek to minimize their wages and benefits. Rather, we believe that achieving our longer-term objectives of reducing employee turnover, increasing productivity, and enhancing employee satisfaction requires maintaining compensation levels that are better than the industry average for much of our workforce. This may cause us, for example, to absorb costs that other employers might seek to pass through to their workforces. Because our business operates on very low margins, modest changes in various items in the consolidated statements of income, particularly merchandise costs and SG&A expenses, can have substantial impacts on net income.\n00408: Our operating models are generally the same across our U.S., Canadian, and Other International operating segments (see Note 11 to the consolidated financial statements included in Item 8 of this Report). Certain operations in the Other International segment have relatively higher rates of square footage growth, lower wage and benefit costs as a percentage of sales, less or no direct membership warehouse competition, or lack business delivery or Costco operated e-commerce sites.\n00409: In discussions of our consolidated operating results, we refer to the impact of changes in foreign currencies relative to the U.S. dollar, which are differences between the foreign-exchange rates we use to convert the financial results of our international operations from local currencies into U.S. dollars. This impact is calculated based on the difference between the current and prior period's exchange rates. The impact of changes in gasoline prices on net sales is calculated based on the difference between the current and prior period's average price per gallon. Results expressed excluding the impacts of foreign-\n00410: 24\n00411: Table of Contents\n00402: net sales (gross margin percentage) in the near term. Gross margin is also impacted by our digitally-enabled businesses, domestically and internationally, some of which have a lower gross-margin percentage than our warehouse operations.\n00403: Government actions in various countries relating to tariffs affect the costs of some of our merchandise. The degree of our exposure is dependent on (among other things) the type of goods, rates imposed, and timing of the tariffs. Higher tariffs are more likely to adversely impact rather than improve our results.\n00404: We believe our gasoline business enhances traffic in our warehouses; it generally has a lower gross margin percentage and lower SG&A expense relative to our non-gasoline businesses. A higher penetration of gasoline sales will generally lower our gross margin percentage. Generally, rising gasoline prices benefit net sales growth which, given the higher sales base, negatively impacts our gross margin percentage but decreases our SG&A expenses as a percentage of net sales. A decline in gasoline prices has the inverse effect.\n00624: Membership fees 5,907 5,323 4,828\n00625: Total revenue 303,154 275,235 254,453\n00626: OPERATING EXPENSES\n00627: Merchandise costs 264,279 239,886 222,358\n00461: Table of Contents\n00418: •Membership fee revenue increased 11% to $5,907, driven by new member sign-ups, membership fee increases, and upgrades to Executive membership;\n00468: Gross margin percentage 11.09 % 11.12 % 10.92 %\n00469: Gross margin percentage decreased three basis points. Excluding the impact of gasoline price inflation on net sales, gross margin percentage was 11.22%, an increase of 10 basis points. This increase was positively impacted by 19 basis points in warehouse ancillary and other businesses, primarily gasoline and pharmacy, offset by an 11 basis point decrease in core merchandise categories. The majority of the increase in warehouse ancillary and other businesses and the decrease in core merchandise categories was due to the change in sales mix as warehouse ancillary and other businesses sales grew at a faster rate than core merchandise categories. Core merchandise categories were also negatively impacted by our co-branded credit card program as a result of reward costs associated with higher gasoline sales. IEEPA tariff refunds, net of investment in price reductions for members, positively impacted gross margin by three basis points.\n00470: The gross margin in core merchandise categories when expressed as a percentage of their own sales increased 15 basis points. The increase was across all categories. Gross margin in warehouse ancillary and other businesses when expressed as a percentage of their own sales decreased 14 basis points, primarily due to gasoline and pharmacy.\n00471: Changes in foreign currencies relative to the U.S. dollar positively impacted gross margin by $137, attributable to our Other International and Canadian operations.\n00474: SG&A expenses $ 27,190 $ 24,966 $ 22,810\n00475: SG&A expenses as a percentage of net sales 9.15 % 9.25 % 9.14 %\n00476: SG&A expenses as a percentage of net sales decreased 10 basis points compared to 2025. SG&A expenses as a percentage of net sales excluding the impact of gasoline price inflation was 9.26%, an increase of one basis point. Changes in foreign currencies relative to the U.S. dollar increased SG&A expenses by $126, attributable to our Other International and Canadian operations. SG&A expenses as a percentage of net sales increased in our Canadian and Other International segments and were flat in our U.S. segment compared to 2025.\n00477: Interest Expense\n00425: Beginning in February 2025, the United States imposed tariffs under the International Emergency Economic Powers Act (IEEPA) on certain goods, materials, and products imported into the United States. We paid the government approximately $500 in IEEPA tariffs. In February 2026, the U.S. Supreme Court ruled that the IEEPA tariffs were unlawful. Following this ruling, the government launched a program to administer IEEPA refunds.\n00426: We applied the gain contingency model, in accordance with Accounting Standards Codification (ASC) 450-30, “Gain Contingencies,” recognizing recoveries in our consolidated statements of operations only as they were realized. During 2026, we began filing for refunds and received $184, made up of $174 in refunds, recorded as a reduction to merchandise costs, and $10 recorded as interest income. A portion of these refunds was invested in reducing prices for members. Subsequent to 2026, we received $155 in additional refunds and we intend to continue to invest the majority of the refunds in increased value for the member. For a small percentage of transactions where corrections are required, refunds may be delayed as the government continues to implement the IEEPA refund process.\n00427: 25\n00428: Table of Contents",
+      "earnings_release_exhibit_99_1.txt": "00032: CONSOLIDATED STATEMENTS OF INCOME\n00033: (dollars in millions, except per share data) (unaudited)\n00034: 16 Weeks Ended 52 Weeks Ended\n00035: August 30,\n00042: Membership fees 1,850 1,724 5,907 5,323\n00043: Total revenue 95,723 86,156 303,154 275,235\n00044: OPERATING EXPENSES\n00045: Merchandise costs 83,531 75,037 264,279 239,886\n00055: Basic $ 6.75 $ 5.88 $ 20.78 $ 18.24\n00056: Diluted $ 6.75 $ 5.87 $ 20.76 $ 18.21\n00057: Shares used in calculation (000's):\n00058: Basic 443,975 444,007 443,953 443,985"
+    },
+    "saved_facts": {
+      "ticker": "COST",
+      "cik": "0000909832",
+      "fiscal_end": "2026-08-30",
+      "values": {
+        "revenue": {
+          "current": {
+            "start": "2025-09-01",
+            "end": "2026-08-30",
+            "val": 303154000000,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2026"
+          },
+          "prior": {
+            "start": "2024-09-02",
+            "end": "2025-08-31",
+            "val": 275235000000,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2025"
+          }
+        },
+        "operating_income": {
+          "current": {
+            "start": "2025-09-01",
+            "end": "2026-08-30",
+            "val": 11685000000,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2026"
+          },
+          "prior": {
+            "start": "2024-09-02",
+            "end": "2025-08-31",
+            "val": 10383000000,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2025"
+          }
+        },
+        "net_income": {
+          "current": {
+            "start": "2025-09-01",
+            "end": "2026-08-30",
+            "val": 9226000000,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2026"
+          },
+          "prior": {
+            "start": "2024-09-02",
+            "end": "2025-08-31",
+            "val": 8099000000,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2025"
+          }
+        },
+        "diluted_eps": {
+          "current": {
+            "start": "2025-09-01",
+            "end": "2026-08-30",
+            "val": 20.76,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2026"
+          },
+          "prior": {
+            "start": "2024-09-02",
+            "end": "2025-08-31",
+            "val": 18.21,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2025"
+          }
+        },
+        "equity": {
+          "current": {
+            "end": "2026-08-30",
+            "val": 35803000000,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2026Q3I"
+          },
+          "prior": {
+            "end": "2025-08-31",
+            "val": 29164000000,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2025Q3I"
+          }
+        },
+        "long_term_debt": {
+          "current": {
+            "end": "2026-08-30",
+            "val": 3914000000,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2026Q3I"
+          },
+          "prior": {
+            "end": "2025-08-31",
+            "val": 5713000000,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2025Q3I"
+          }
+        },
+        "current_debt": {
+          "current": {
+            "end": "2026-08-30",
+            "val": 2248000000,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2026Q3I"
+          },
+          "prior": {
+            "end": "2025-08-31",
+            "val": 75000000,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2025Q3I"
+          }
+        },
+        "cash_from_operations": {
+          "current": {
+            "start": "2025-09-01",
+            "end": "2026-08-30",
+            "val": 15817000000,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2026"
+          },
+          "prior": {
+            "start": "2024-09-02",
+            "end": "2025-08-31",
+            "val": 13335000000,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2025"
+          }
+        },
+        "capex": {
+          "current": {
+            "start": "2025-09-01",
+            "end": "2026-08-30",
+            "val": 6435000000,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2026"
+          },
+          "prior": {
+            "start": "2024-09-02",
+            "end": "2025-08-31",
+            "val": 5498000000,
+            "accn": "0000909832-26-000093",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-10-07",
+            "frame": "CY2025"
+          }
+        }
+      },
+      "tags": {
+        "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "operating_income": "OperatingIncomeLoss",
+        "net_income": "NetIncomeLoss",
+        "diluted_eps": "EarningsPerShareDiluted",
+        "equity": "StockholdersEquity",
+        "long_term_debt": "LongTermDebtNoncurrent",
+        "current_debt": "LongTermDebtCurrent",
+        "cash_from_operations": "NetCashProvidedByUsedInOperatingActivities",
+        "capex": "PaymentsToAcquirePropertyPlantAndEquipment"
+      },
+      "units": {
+        "revenue": "USD",
+        "operating_income": "USD",
+        "net_income": "USD",
+        "diluted_eps": "USD/shares",
+        "equity": "USD",
+        "long_term_debt": "USD",
+        "current_debt": "USD",
+        "cash_from_operations": "USD",
+        "capex": "USD"
+      },
+      "all_facts_path": "/Users/shashankgopalakrishnan/Documents/Courses/Mastering AI for finance/WEEK_3/lab4_runs/COSTCO_WHOLESALE_CORP_NEW_20261107_151455_820621_EST/COST_companyfacts.json",
+      "ttm": {
+        "available": true,
+        "revenue": 303154000000,
+        "operating_income": 11685000000,
+        "margin": 0.03854476602650798,
+        "period_start": "2025-09-01",
+        "period_end": "2026-08-30",
+        "period_days": 364,
+        "basis": "10-K annual",
+        "revenue_source": {
+          "val": 303154000000,
+          "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "start": "2025-09-01",
+          "end": "2026-08-30",
+          "accn": "0000909832-26-000093",
+          "basis": "10-K annual"
+        },
+        "operating_income_source": {
+          "val": 11685000000,
+          "tag": "OperatingIncomeLoss",
+          "start": "2025-09-01",
+          "end": "2026-08-30",
+          "accn": "0000909832-26-000093",
+          "basis": "10-K annual"
+        }
+      },
+      "peers": [
+        {
+          "ticker": "WMT",
+          "company": "Walmart Inc.",
+          "fiscal_end": "2026-01-31",
+          "margin": 0.041820733829433104,
+          "ttm": {
+            "available": true,
+            "revenue": 735840000000.0,
+            "operating_income": 32280000000.0,
+            "margin": 0.043868232224396606,
+            "period_start": "2025-08-01",
+            "period_end": "2026-07-31",
+            "period_days": 365,
+            "basis": "latest 10-K + latest 10-Q YTD - comparative 10-Q YTD",
+            "revenue_source": {
+              "val": 735840000000.0,
+              "tag": "Revenues",
+              "start": "2025-08-01",
+              "end": "2026-07-31",
+              "basis": "latest 10-K + latest 10-Q YTD - comparative 10-Q YTD",
+              "annual": {
+                "val": 713163000000,
+                "tag": "Revenues",
+                "start": "2025-02-01",
+                "end": "2026-01-31",
+                "accn": "0000104169-26-000055"
+              },
+              "current_ytd": {
+                "val": 365688000000,
+                "tag": "Revenues",
+                "start": "2026-02-01",
+                "end": "2026-07-31",
+                "accn": "0000104169-26-000154"
+              },
+              "prior_ytd": {
+                "val": 343011000000,
+                "tag": "Revenues",
+                "start": "2025-02-01",
+                "end": "2025-07-31",
+                "accn": "0000104169-26-000154"
+              }
+            },
+            "operating_income_source": {
+              "val": 32280000000.0,
+              "tag": "OperatingIncomeLoss",
+              "start": "2025-08-01",
+              "end": "2026-07-31",
+              "basis": "latest 10-K + latest 10-Q YTD - comparative 10-Q YTD",
+              "annual": {
+                "val": 29825000000,
+                "tag": "OperatingIncomeLoss",
+                "start": "2025-02-01",
+                "end": "2026-01-31",
+                "accn": "0000104169-26-000055"
+              },
+              "current_ytd": {
+                "val": 16876000000,
+                "tag": "OperatingIncomeLoss",
+                "start": "2026-02-01",
+                "end": "2026-07-31",
+                "accn": "0000104169-26-000154"
+              },
+              "prior_ytd": {
+                "val": 14421000000,
+                "tag": "OperatingIncomeLoss",
+                "start": "2025-02-01",
+                "end": "2025-07-31",
+                "accn": "0000104169-26-000154"
+              }
+            }
+          },
+          "facts": {
+            "ticker": "WMT",
+            "cik": "0000104169",
+            "fiscal_end": "2026-01-31",
+            "values": {
+              "revenue": {
+                "current": {
+                  "start": "2025-02-01",
+                  "end": "2026-01-31",
+                  "val": 713163000000,
+                  "accn": "0000104169-26-000055",
+                  "fy": 2026,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-13",
+                  "frame": "CY2025"
+                },
+                "prior": {
+                  "start": "2024-02-01",
+                  "end": "2025-01-31",
+                  "val": 680985000000,
+                  "accn": "0000104169-26-000055",
+                  "fy": 2026,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-13",
+                  "frame": "CY2024"
+                }
+              },
+              "operating_income": {
+                "current": {
+                  "start": "2025-02-01",
+                  "end": "2026-01-31",
+                  "val": 29825000000,
+                  "accn": "0000104169-26-000055",
+                  "fy": 2026,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-13",
+                  "frame": "CY2025"
+                },
+                "prior": {
+                  "start": "2024-02-01",
+                  "end": "2025-01-31",
+                  "val": 29348000000,
+                  "accn": "0000104169-26-000055",
+                  "fy": 2026,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-13",
+                  "frame": "CY2024"
+                }
+              },
+              "net_income": {
+                "current": {
+                  "start": "2025-02-01",
+                  "end": "2026-01-31",
+                  "val": 21893000000,
+                  "accn": "0000104169-26-000055",
+                  "fy": 2026,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-13"
+                },
+                "prior": {
+                  "start": "2024-02-01",
+                  "end": "2025-01-31",
+                  "val": 19436000000,
+                  "accn": "0000104169-26-000055",
+                  "fy": 2026,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-13"
+                }
+              },
+              "diluted_eps": {
+                "current": {
+                  "start": "2025-02-01",
+                  "end": "2026-01-31",
+                  "val": 2.73,
+                  "accn": "0000104169-26-000055",
+                  "fy": 2026,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-13",
+                  "frame": "CY2025"
+                },
+                "prior": {
+                  "start": "2024-02-01",
+                  "end": "2025-01-31",
+                  "val": 2.41,
+                  "accn": "0000104169-26-000055",
+                  "fy": 2026,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-13",
+                  "frame": "CY2024"
+                }
+              },
+              "equity": {
+                "current": {
+                  "end": "2026-01-31",
+                  "val": 99617000000,
+                  "accn": "0000104169-26-000055",
+                  "fy": 2026,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-13"
+                },
+                "prior": {
+                  "end": "2025-01-31",
+                  "val": 91013000000,
+                  "accn": "0000104169-26-000055",
+                  "fy": 2026,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-13",
+                  "frame": "CY2024Q4I"
+                }
+              },
+              "long_term_debt": {
+                "current": {
+                  "end": "2026-01-31",
+                  "val": 34624000000,
+                  "accn": "0000104169-26-000055",
+                  "fy": 2026,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-13"
+                },
+                "prior": {
+                  "end": "2025-01-31",
+                  "val": 33401000000,
+                  "accn": "0000104169-26-000055",
+                  "fy": 2026,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-13",
+                  "frame": "CY2024Q4I"
+                }
+              },
+              "current_debt": {
+                "current": {
+                  "end": "2026-01-31",
+                  "val": 3542000000,
+                  "accn": "0000104169-26-000055",
+                  "fy": 2026,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-13"
+                },
+                "prior": {
+                  "end": "2025-01-31",
+                  "val": 2598000000,
+                  "accn": "0000104169-26-000055",
+                  "fy": 2026,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-13",
+                  "frame": "CY2024Q4I"
+                }
+              },
+              "cash_from_operations": {
+                "current": {
+                  "start": "2025-02-01",
+                  "end": "2026-01-31",
+                  "val": 41565000000,
+                  "accn": "0000104169-26-000055",
+                  "fy": 2026,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-13",
+                  "frame": "CY2025"
+                },
+                "prior": {
+                  "start": "2024-02-01",
+                  "end": "2025-01-31",
+                  "val": 36443000000,
+                  "accn": "0000104169-26-000055",
+                  "fy": 2026,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-13",
+                  "frame": "CY2024"
+                }
+              },
+              "capex": {
+                "current": {
+                  "start": "2025-02-01",
+                  "end": "2026-01-31",
+                  "val": 26642000000,
+                  "accn": "0000104169-26-000055",
+                  "fy": 2026,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-13",
+                  "frame": "CY2025"
+                },
+                "prior": {
+                  "start": "2024-02-01",
+                  "end": "2025-01-31",
+                  "val": 23783000000,
+                  "accn": "0000104169-26-000055",
+                  "fy": 2026,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-13",
+                  "frame": "CY2024"
+                }
+              }
+            },
+            "tags": {
+              "revenue": "Revenues",
+              "operating_income": "OperatingIncomeLoss",
+              "net_income": "NetIncomeLoss",
+              "diluted_eps": "EarningsPerShareDiluted",
+              "equity": "StockholdersEquity",
+              "long_term_debt": "LongTermDebtNoncurrent",
+              "current_debt": "LongTermDebtCurrent",
+              "cash_from_operations": "NetCashProvidedByUsedInOperatingActivities",
+              "capex": "PaymentsToAcquirePropertyPlantAndEquipment"
+            },
+            "units": {
+              "revenue": "USD",
+              "operating_income": "USD",
+              "net_income": "USD",
+              "diluted_eps": "USD/shares",
+              "equity": "USD",
+              "long_term_debt": "USD",
+              "current_debt": "USD",
+              "cash_from_operations": "USD",
+              "capex": "USD"
+            },
+            "all_facts_path": "/Users/shashankgopalakrishnan/Documents/Courses/Mastering AI for finance/WEEK_3/lab4_runs/COSTCO_WHOLESALE_CORP_NEW_20261107_151455_820621_EST/peers/Walmart_Inc./WMT_companyfacts.json",
+            "ttm": {
+              "available": true,
+              "revenue": 735840000000.0,
+              "operating_income": 32280000000.0,
+              "margin": 0.043868232224396606,
+              "period_start": "2025-08-01",
+              "period_end": "2026-07-31",
+              "period_days": 365,
+              "basis": "latest 10-K + latest 10-Q YTD - comparative 10-Q YTD",
+              "revenue_source": {
+                "val": 735840000000.0,
+                "tag": "Revenues",
+                "start": "2025-08-01",
+                "end": "2026-07-31",
+                "basis": "latest 10-K + latest 10-Q YTD - comparative 10-Q YTD",
+                "annual": {
+                  "val": 713163000000,
+                  "tag": "Revenues",
+                  "start": "2025-02-01",
+                  "end": "2026-01-31",
+                  "accn": "0000104169-26-000055"
+                },
+                "current_ytd": {
+                  "val": 365688000000,
+                  "tag": "Revenues",
+                  "start": "2026-02-01",
+                  "end": "2026-07-31",
+                  "accn": "0000104169-26-000154"
+                },
+                "prior_ytd": {
+                  "val": 343011000000,
+                  "tag": "Revenues",
+                  "start": "2025-02-01",
+                  "end": "2025-07-31",
+                  "accn": "0000104169-26-000154"
+                }
+              },
+              "operating_income_source": {
+                "val": 32280000000.0,
+                "tag": "OperatingIncomeLoss",
+                "start": "2025-08-01",
+                "end": "2026-07-31",
+                "basis": "latest 10-K + latest 10-Q YTD - comparative 10-Q YTD",
+                "annual": {
+                  "val": 29825000000,
+                  "tag": "OperatingIncomeLoss",
+                  "start": "2025-02-01",
+                  "end": "2026-01-31",
+                  "accn": "0000104169-26-000055"
+                },
+                "current_ytd": {
+                  "val": 16876000000,
+                  "tag": "OperatingIncomeLoss",
+                  "start": "2026-02-01",
+                  "end": "2026-07-31",
+                  "accn": "0000104169-26-000154"
+                },
+                "prior_ytd": {
+                  "val": 14421000000,
+                  "tag": "OperatingIncomeLoss",
+                  "start": "2025-02-01",
+                  "end": "2025-07-31",
+                  "accn": "0000104169-26-000154"
+                }
+              }
+            }
+          },
+          "filings": {
+            "10k": {
+              "accessionNumber": "0000104169-26-000055",
+              "filingDate": "2026-03-13",
+              "reportDate": "2026-01-31",
+              "acceptanceDateTime": "2026-03-13T20:06:24.000Z",
+              "act": "34",
+              "form": "10-K",
+              "fileNumber": "001-06991",
+              "filmNumber": "26752440",
+              "items": "",
+              "core_type": "XBRL",
+              "size": 13080322,
+              "isXBRL": 1,
+              "isInlineXBRL": 1,
+              "isXBRLNumeric": null,
+              "primaryDocument": "wmt-20260131.htm",
+              "primaryDocDescription": "10-K",
+              "accepted": "2026-03-13 16:06:24"
+            },
+            "10q": {
+              "accessionNumber": "0000104169-26-000154",
+              "filingDate": "2026-08-28",
+              "reportDate": "2026-07-31",
+              "acceptanceDateTime": "2026-08-28T20:11:28.000Z",
+              "act": "34",
+              "form": "10-Q",
+              "fileNumber": "001-06991",
+              "filmNumber": "261340128",
+              "items": "",
+              "core_type": "XBRL",
+              "size": 6311331,
+              "isXBRL": 1,
+              "isInlineXBRL": 1,
+              "isXBRLNumeric": 1,
+              "primaryDocument": "wmt-20260731.htm",
+              "primaryDocDescription": "10-Q",
+              "accepted": "2026-08-28 16:11:28"
+            },
+            "earnings_8k": {
+              "accessionNumber": "0000104169-26-000145",
+              "filingDate": "2026-08-20",
+              "reportDate": "2026-08-20",
+              "acceptanceDateTime": "2026-08-20T10:59:01.000Z",
+              "act": "34",
+              "form": "8-K",
+              "fileNumber": "001-06991",
+              "filmNumber": "261297202",
+              "items": "2.02,9.01",
+              "core_type": "XBRL",
+              "size": 20985471,
+              "isXBRL": 1,
+              "isInlineXBRL": 1,
+              "isXBRLNumeric": 0,
+              "primaryDocument": "wmt-20260820.htm",
+              "primaryDocDescription": "8-K",
+              "accepted": "2026-08-20 06:59:01"
+            }
+          }
+        },
+        {
+          "ticker": "TGT",
+          "company": "TARGET CORP",
+          "fiscal_end": "2026-01-31",
+          "margin": 0.048835655659477,
+          "ttm": {
+            "available": true,
+            "revenue": 107705000000.0,
+            "operating_income": 6023000000.0,
+            "margin": 0.05592126642217167,
+            "period_start": "2025-08-03",
+            "period_end": "2026-08-01",
+            "period_days": 364,
+            "basis": "latest 10-K + latest 10-Q YTD - comparative 10-Q YTD",
+            "revenue_source": {
+              "val": 107705000000.0,
+              "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+              "start": "2025-08-03",
+              "end": "2026-08-01",
+              "basis": "latest 10-K + latest 10-Q YTD - comparative 10-Q YTD",
+              "annual": {
+                "val": 104780000000,
+                "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "start": "2025-02-02",
+                "end": "2026-01-31",
+                "accn": "0000027419-26-000016"
+              },
+              "current_ytd": {
+                "val": 51982000000,
+                "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "start": "2026-02-01",
+                "end": "2026-08-01",
+                "accn": "0000027419-26-000042"
+              },
+              "prior_ytd": {
+                "val": 49057000000,
+                "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "start": "2025-02-02",
+                "end": "2025-08-02",
+                "accn": "0000027419-26-000042"
+              }
+            },
+            "operating_income_source": {
+              "val": 6023000000.0,
+              "tag": "OperatingIncomeLoss",
+              "start": "2025-08-03",
+              "end": "2026-08-01",
+              "basis": "latest 10-K + latest 10-Q YTD - comparative 10-Q YTD",
+              "annual": {
+                "val": 5117000000,
+                "tag": "OperatingIncomeLoss",
+                "start": "2025-02-02",
+                "end": "2026-01-31",
+                "accn": "0000027419-26-000016"
+              },
+              "current_ytd": {
+                "val": 3695000000,
+                "tag": "OperatingIncomeLoss",
+                "start": "2026-02-01",
+                "end": "2026-08-01",
+                "accn": "0000027419-26-000042"
+              },
+              "prior_ytd": {
+                "val": 2789000000,
+                "tag": "OperatingIncomeLoss",
+                "start": "2025-02-02",
+                "end": "2025-08-02",
+                "accn": "0000027419-26-000042"
+              }
+            }
+          },
+          "facts": {
+            "ticker": "TGT",
+            "cik": "0000027419",
+            "fiscal_end": "2026-01-31",
+            "values": {
+              "revenue": {
+                "current": {
+                  "start": "2025-02-02",
+                  "end": "2026-01-31",
+                  "val": 104780000000,
+                  "accn": "0000027419-26-000016",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-11",
+                  "frame": "CY2025"
+                },
+                "prior": {
+                  "start": "2024-02-04",
+                  "end": "2025-02-01",
+                  "val": 106566000000,
+                  "accn": "0000027419-26-000016",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-11",
+                  "frame": "CY2024"
+                }
+              },
+              "operating_income": {
+                "current": {
+                  "start": "2025-02-02",
+                  "end": "2026-01-31",
+                  "val": 5117000000,
+                  "accn": "0000027419-26-000016",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-11",
+                  "frame": "CY2025"
+                },
+                "prior": {
+                  "start": "2024-02-04",
+                  "end": "2025-02-01",
+                  "val": 5566000000,
+                  "accn": "0000027419-26-000016",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-11",
+                  "frame": "CY2024"
+                }
+              },
+              "net_income": {
+                "current": {
+                  "start": "2025-02-02",
+                  "end": "2026-01-31",
+                  "val": 3705000000,
+                  "accn": "0000027419-26-000016",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-11"
+                },
+                "prior": {
+                  "start": "2024-02-04",
+                  "end": "2025-02-01",
+                  "val": 4091000000,
+                  "accn": "0000027419-26-000016",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-11"
+                }
+              },
+              "diluted_eps": {
+                "current": {
+                  "start": "2025-02-02",
+                  "end": "2026-01-31",
+                  "val": 8.13,
+                  "accn": "0000027419-26-000016",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-11",
+                  "frame": "CY2025"
+                },
+                "prior": {
+                  "start": "2024-02-04",
+                  "end": "2025-02-01",
+                  "val": 8.86,
+                  "accn": "0000027419-26-000016",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-11",
+                  "frame": "CY2024"
+                }
+              },
+              "equity": {
+                "current": {
+                  "end": "2026-01-31",
+                  "val": 16165000000,
+                  "accn": "0000027419-26-000016",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-11"
+                },
+                "prior": {
+                  "end": "2025-02-01",
+                  "val": 14666000000,
+                  "accn": "0000027419-26-000016",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-11"
+                }
+              },
+              "long_term_debt": {
+                "current": {
+                  "end": "2026-01-31",
+                  "val": 14398000000,
+                  "accn": "0000027419-26-000016",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-11",
+                  "frame": "CY2025Q4I"
+                },
+                "prior": {
+                  "end": "2025-02-01",
+                  "val": 13904000000,
+                  "accn": "0000027419-26-000016",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-11",
+                  "frame": "CY2024Q4I"
+                }
+              },
+              "current_debt": {
+                "current": {
+                  "end": "2026-01-31",
+                  "val": 2130000000,
+                  "accn": "0000027419-26-000016",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-11"
+                },
+                "prior": {
+                  "end": "2025-02-01",
+                  "val": 1636000000,
+                  "accn": "0000027419-26-000016",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-11",
+                  "frame": "CY2024Q4I"
+                }
+              },
+              "cash_from_operations": {
+                "current": {
+                  "start": "2025-02-02",
+                  "end": "2026-01-31",
+                  "val": 6562000000,
+                  "accn": "0000027419-26-000016",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-11",
+                  "frame": "CY2025"
+                },
+                "prior": {
+                  "start": "2024-02-04",
+                  "end": "2025-02-01",
+                  "val": 7367000000,
+                  "accn": "0000027419-26-000016",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-11",
+                  "frame": "CY2024"
+                }
+              },
+              "capex": {
+                "current": {
+                  "start": "2025-02-02",
+                  "end": "2026-01-31",
+                  "val": 3727000000,
+                  "accn": "0000027419-26-000016",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-11",
+                  "frame": "CY2025"
+                },
+                "prior": {
+                  "start": "2024-02-04",
+                  "end": "2025-02-01",
+                  "val": 2891000000,
+                  "accn": "0000027419-26-000016",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-11",
+                  "frame": "CY2024"
+                }
+              }
+            },
+            "tags": {
+              "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+              "operating_income": "OperatingIncomeLoss",
+              "net_income": "NetIncomeLoss",
+              "diluted_eps": "EarningsPerShareDiluted",
+              "equity": "StockholdersEquity",
+              "long_term_debt": "LongTermDebt",
+              "current_debt": "LongTermDebtAndCapitalLeaseObligationsCurrent",
+              "cash_from_operations": "NetCashProvidedByUsedInOperatingActivities",
+              "capex": "PaymentsToAcquirePropertyPlantAndEquipment"
+            },
+            "units": {
+              "revenue": "USD",
+              "operating_income": "USD",
+              "net_income": "USD",
+              "diluted_eps": "USD/shares",
+              "equity": "USD",
+              "long_term_debt": "USD",
+              "current_debt": "USD",
+              "cash_from_operations": "USD",
+              "capex": "USD"
+            },
+            "all_facts_path": "/Users/shashankgopalakrishnan/Documents/Courses/Mastering AI for finance/WEEK_3/lab4_runs/COSTCO_WHOLESALE_CORP_NEW_20261107_151455_820621_EST/peers/TARGET_CORP/TGT_companyfacts.json",
+            "ttm": {
+              "available": true,
+              "revenue": 107705000000.0,
+              "operating_income": 6023000000.0,
+              "margin": 0.05592126642217167,
+              "period_start": "2025-08-03",
+              "period_end": "2026-08-01",
+              "period_days": 364,
+              "basis": "latest 10-K + latest 10-Q YTD - comparative 10-Q YTD",
+              "revenue_source": {
+                "val": 107705000000.0,
+                "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "start": "2025-08-03",
+                "end": "2026-08-01",
+                "basis": "latest 10-K + latest 10-Q YTD - comparative 10-Q YTD",
+                "annual": {
+                  "val": 104780000000,
+                  "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                  "start": "2025-02-02",
+                  "end": "2026-01-31",
+                  "accn": "0000027419-26-000016"
+                },
+                "current_ytd": {
+                  "val": 51982000000,
+                  "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                  "start": "2026-02-01",
+                  "end": "2026-08-01",
+                  "accn": "0000027419-26-000042"
+                },
+                "prior_ytd": {
+                  "val": 49057000000,
+                  "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                  "start": "2025-02-02",
+                  "end": "2025-08-02",
+                  "accn": "0000027419-26-000042"
+                }
+              },
+              "operating_income_source": {
+                "val": 6023000000.0,
+                "tag": "OperatingIncomeLoss",
+                "start": "2025-08-03",
+                "end": "2026-08-01",
+                "basis": "latest 10-K + latest 10-Q YTD - comparative 10-Q YTD",
+                "annual": {
+                  "val": 5117000000,
+                  "tag": "OperatingIncomeLoss",
+                  "start": "2025-02-02",
+                  "end": "2026-01-31",
+                  "accn": "0000027419-26-000016"
+                },
+                "current_ytd": {
+                  "val": 3695000000,
+                  "tag": "OperatingIncomeLoss",
+                  "start": "2026-02-01",
+                  "end": "2026-08-01",
+                  "accn": "0000027419-26-000042"
+                },
+                "prior_ytd": {
+                  "val": 2789000000,
+                  "tag": "OperatingIncomeLoss",
+                  "start": "2025-02-02",
+                  "end": "2025-08-02",
+                  "accn": "0000027419-26-000042"
+                }
+              }
+            }
+          },
+          "filings": {
+            "10k": {
+              "accessionNumber": "0000027419-26-000016",
+              "filingDate": "2026-03-11",
+              "reportDate": "2026-01-31",
+              "acceptanceDateTime": "2026-03-11T20:42:00.000Z",
+              "act": "34",
+              "form": "10-K",
+              "fileNumber": "001-06049",
+              "filmNumber": "26744038",
+              "items": "",
+              "core_type": "XBRL",
+              "size": 12723909,
+              "isXBRL": 1,
+              "isInlineXBRL": 1,
+              "isXBRLNumeric": null,
+              "primaryDocument": "tgt-20260131.htm",
+              "primaryDocDescription": "10-K",
+              "accepted": "2026-03-11 16:42:00"
+            },
+            "10q": {
+              "accessionNumber": "0000027419-26-000042",
+              "filingDate": "2026-08-28",
+              "reportDate": "2026-08-01",
+              "acceptanceDateTime": "2026-08-28T17:53:59.000Z",
+              "act": "34",
+              "form": "10-Q",
+              "fileNumber": "001-06049",
+              "filmNumber": "261338135",
+              "items": "",
+              "core_type": "XBRL",
+              "size": 5327307,
+              "isXBRL": 1,
+              "isInlineXBRL": 1,
+              "isXBRLNumeric": 1,
+              "primaryDocument": "tgt-20260801.htm",
+              "primaryDocDescription": "10-Q",
+              "accepted": "2026-08-28 13:53:59"
+            },
+            "earnings_8k": {
+              "accessionNumber": "0000027419-26-000034",
+              "filingDate": "2026-08-19",
+              "reportDate": "2026-08-19",
+              "acceptanceDateTime": "2026-08-19T11:51:13.000Z",
+              "act": "34",
+              "form": "8-K",
+              "fileNumber": "001-06049",
+              "filmNumber": "261292907",
+              "items": "2.02,9.01",
+              "core_type": "XBRL",
+              "size": 625210,
+              "isXBRL": 1,
+              "isInlineXBRL": 1,
+              "isXBRLNumeric": 0,
+              "primaryDocument": "tgt-20260819.htm",
+              "primaryDocDescription": "8-K",
+              "accepted": "2026-08-19 07:51:13"
+            }
+          }
+        },
+        {
+          "ticker": "BJ",
+          "company": "BJ's Wholesale Club Holdings, Inc.",
+          "fiscal_end": "2026-01-31",
+          "margin": 0.03805721080879146,
+          "ttm": {
+            "available": true,
+            "revenue": 22811630000.0,
+            "operating_income": 856699000.0,
+            "margin": 0.037555361015411876,
+            "period_start": "2025-08-03",
+            "period_end": "2026-08-01",
+            "period_days": 364,
+            "basis": "latest 10-K + latest 10-Q YTD - comparative 10-Q YTD",
+            "revenue_source": {
+              "val": 22811630000.0,
+              "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+              "start": "2025-08-03",
+              "end": "2026-08-01",
+              "basis": "latest 10-K + latest 10-Q YTD - comparative 10-Q YTD",
+              "annual": {
+                "val": 21457274000,
+                "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "start": "2025-02-02",
+                "end": "2026-01-31",
+                "accn": "0001531152-26-000007"
+              },
+              "current_ytd": {
+                "val": 11888079000,
+                "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "start": "2026-02-01",
+                "end": "2026-08-01",
+                "accn": "0001531152-26-000057"
+              },
+              "prior_ytd": {
+                "val": 10533723000,
+                "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "start": "2025-02-02",
+                "end": "2025-08-02",
+                "accn": "0001531152-26-000057"
+              }
+            },
+            "operating_income_source": {
+              "val": 856699000.0,
+              "tag": "OperatingIncomeLoss",
+              "start": "2025-08-03",
+              "end": "2026-08-01",
+              "basis": "latest 10-K + latest 10-Q YTD - comparative 10-Q YTD",
+              "annual": {
+                "val": 816604000,
+                "tag": "OperatingIncomeLoss",
+                "start": "2025-02-02",
+                "end": "2026-01-31",
+                "accn": "0001531152-26-000007"
+              },
+              "current_ytd": {
+                "val": 460270000,
+                "tag": "OperatingIncomeLoss",
+                "start": "2026-02-01",
+                "end": "2026-08-01",
+                "accn": "0001531152-26-000057"
+              },
+              "prior_ytd": {
+                "val": 420175000,
+                "tag": "OperatingIncomeLoss",
+                "start": "2025-02-02",
+                "end": "2025-08-02",
+                "accn": "0001531152-26-000057"
+              }
+            }
+          },
+          "facts": {
+            "ticker": "BJ",
+            "cik": "0001531152",
+            "fiscal_end": "2026-01-31",
+            "values": {
+              "revenue": {
+                "current": {
+                  "start": "2025-02-02",
+                  "end": "2026-01-31",
+                  "val": 21457274000,
+                  "accn": "0001531152-26-000007",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-12",
+                  "frame": "CY2025"
+                },
+                "prior": {
+                  "start": "2024-02-04",
+                  "end": "2025-02-01",
+                  "val": 20501804000,
+                  "accn": "0001531152-26-000007",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-12",
+                  "frame": "CY2024"
+                }
+              },
+              "operating_income": {
+                "current": {
+                  "start": "2025-02-02",
+                  "end": "2026-01-31",
+                  "val": 816604000,
+                  "accn": "0001531152-26-000007",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-12",
+                  "frame": "CY2025"
+                },
+                "prior": {
+                  "start": "2024-02-04",
+                  "end": "2025-02-01",
+                  "val": 772206000,
+                  "accn": "0001531152-26-000007",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-12",
+                  "frame": "CY2024"
+                }
+              },
+              "net_income": {
+                "current": {
+                  "start": "2025-02-02",
+                  "end": "2026-01-31",
+                  "val": 578377000,
+                  "accn": "0001531152-26-000007",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-12"
+                },
+                "prior": {
+                  "start": "2024-02-04",
+                  "end": "2025-02-01",
+                  "val": 534417000,
+                  "accn": "0001531152-26-000007",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-12"
+                }
+              },
+              "diluted_eps": {
+                "current": {
+                  "start": "2025-02-02",
+                  "end": "2026-01-31",
+                  "val": 4.38,
+                  "accn": "0001531152-26-000007",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-12",
+                  "frame": "CY2025"
+                },
+                "prior": {
+                  "start": "2024-02-04",
+                  "end": "2025-02-01",
+                  "val": 4,
+                  "accn": "0001531152-26-000007",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-12",
+                  "frame": "CY2024"
+                }
+              },
+              "equity": {
+                "current": {
+                  "end": "2026-01-31",
+                  "val": 2197659000,
+                  "accn": "0001531152-26-000007",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-12"
+                },
+                "prior": {
+                  "end": "2025-02-01",
+                  "val": 1847454000,
+                  "accn": "0001531152-26-000007",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-12"
+                }
+              },
+              "long_term_debt": {
+                "current": {
+                  "end": "2026-01-31",
+                  "val": 399099000,
+                  "accn": "0001531152-26-000007",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-12"
+                },
+                "prior": {
+                  "end": "2025-02-01",
+                  "val": 398807000,
+                  "accn": "0001531152-26-000007",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-12",
+                  "frame": "CY2024Q4I"
+                }
+              },
+              "current_debt": {
+                "current": {
+                  "end": "2026-01-31",
+                  "val": 120000000,
+                  "accn": "0001531152-26-000007",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-12"
+                },
+                "prior": {
+                  "end": "2025-02-01",
+                  "val": 175000000,
+                  "accn": "0001531152-26-000007",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-12",
+                  "frame": "CY2024Q4I"
+                }
+              },
+              "cash_from_operations": {
+                "current": {
+                  "start": "2025-02-02",
+                  "end": "2026-01-31",
+                  "val": 1030056000,
+                  "accn": "0001531152-26-000007",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-12",
+                  "frame": "CY2025"
+                },
+                "prior": {
+                  "start": "2024-02-04",
+                  "end": "2025-02-01",
+                  "val": 900872000,
+                  "accn": "0001531152-26-000007",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-12",
+                  "frame": "CY2024"
+                }
+              },
+              "capex": {
+                "current": {
+                  "start": "2025-02-02",
+                  "end": "2026-01-31",
+                  "val": 702048000,
+                  "accn": "0001531152-26-000007",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-12",
+                  "frame": "CY2025"
+                },
+                "prior": {
+                  "start": "2024-02-04",
+                  "end": "2025-02-01",
+                  "val": 587983000,
+                  "accn": "0001531152-26-000007",
+                  "fy": 2025,
+                  "fp": "FY",
+                  "form": "10-K",
+                  "filed": "2026-03-12",
+                  "frame": "CY2024"
+                }
+              }
+            },
+            "tags": {
+              "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+              "operating_income": "OperatingIncomeLoss",
+              "net_income": "NetIncomeLoss",
+              "diluted_eps": "EarningsPerShareDiluted",
+              "equity": "StockholdersEquity",
+              "long_term_debt": "LongTermDebtNoncurrent",
+              "current_debt": "LongTermDebtCurrent",
+              "cash_from_operations": "NetCashProvidedByUsedInOperatingActivities",
+              "capex": "PaymentsToAcquirePropertyPlantAndEquipment"
+            },
+            "units": {
+              "revenue": "USD",
+              "operating_income": "USD",
+              "net_income": "USD",
+              "diluted_eps": "USD/shares",
+              "equity": "USD",
+              "long_term_debt": "USD",
+              "current_debt": "USD",
+              "cash_from_operations": "USD",
+              "capex": "USD"
+            },
+            "all_facts_path": "/Users/shashankgopalakrishnan/Documents/Courses/Mastering AI for finance/WEEK_3/lab4_runs/COSTCO_WHOLESALE_CORP_NEW_20261107_151455_820621_EST/peers/BJ_s_Wholesale_Club_Holdings_Inc./BJ_companyfacts.json",
+            "ttm": {
+              "available": true,
+              "revenue": 22811630000.0,
+              "operating_income": 856699000.0,
+              "margin": 0.037555361015411876,
+              "period_start": "2025-08-03",
+              "period_end": "2026-08-01",
+              "period_days": 364,
+              "basis": "latest 10-K + latest 10-Q YTD - comparative 10-Q YTD",
+              "revenue_source": {
+                "val": 22811630000.0,
+                "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "start": "2025-08-03",
+                "end": "2026-08-01",
+                "basis": "latest 10-K + latest 10-Q YTD - comparative 10-Q YTD",
+                "annual": {
+                  "val": 21457274000,
+                  "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                  "start": "2025-02-02",
+                  "end": "2026-01-31",
+                  "accn": "0001531152-26-000007"
+                },
+                "current_ytd": {
+                  "val": 11888079000,
+                  "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                  "start": "2026-02-01",
+                  "end": "2026-08-01",
+                  "accn": "0001531152-26-000057"
+                },
+                "prior_ytd": {
+                  "val": 10533723000,
+                  "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                  "start": "2025-02-02",
+                  "end": "2025-08-02",
+                  "accn": "0001531152-26-000057"
+                }
+              },
+              "operating_income_source": {
+                "val": 856699000.0,
+                "tag": "OperatingIncomeLoss",
+                "start": "2025-08-03",
+                "end": "2026-08-01",
+                "basis": "latest 10-K + latest 10-Q YTD - comparative 10-Q YTD",
+                "annual": {
+                  "val": 816604000,
+                  "tag": "OperatingIncomeLoss",
+                  "start": "2025-02-02",
+                  "end": "2026-01-31",
+                  "accn": "0001531152-26-000007"
+                },
+                "current_ytd": {
+                  "val": 460270000,
+                  "tag": "OperatingIncomeLoss",
+                  "start": "2026-02-01",
+                  "end": "2026-08-01",
+                  "accn": "0001531152-26-000057"
+                },
+                "prior_ytd": {
+                  "val": 420175000,
+                  "tag": "OperatingIncomeLoss",
+                  "start": "2025-02-02",
+                  "end": "2025-08-02",
+                  "accn": "0001531152-26-000057"
+                }
+              }
+            }
+          },
+          "filings": {
+            "10k": {
+              "accessionNumber": "0001531152-26-000007",
+              "filingDate": "2026-03-12",
+              "reportDate": "2026-01-31",
+              "acceptanceDateTime": "2026-03-12T20:15:55.000Z",
+              "act": "34",
+              "form": "10-K",
+              "fileNumber": "001-38559",
+              "filmNumber": "26747944",
+              "items": "",
+              "core_type": "XBRL",
+              "size": 10695688,
+              "isXBRL": 1,
+              "isInlineXBRL": 1,
+              "isXBRLNumeric": null,
+              "primaryDocument": "bj-20260131.htm",
+              "primaryDocDescription": "10-K",
+              "accepted": "2026-03-12 16:15:55"
+            },
+            "10q": {
+              "accessionNumber": "0001531152-26-000057",
+              "filingDate": "2026-08-25",
+              "reportDate": "2026-08-01",
+              "acceptanceDateTime": "2026-08-25T20:32:14.000Z",
+              "act": "34",
+              "form": "10-Q",
+              "fileNumber": "001-38559",
+              "filmNumber": "261316276",
+              "items": "",
+              "core_type": "XBRL",
+              "size": 5229316,
+              "isXBRL": 1,
+              "isInlineXBRL": 1,
+              "isXBRLNumeric": 1,
+              "primaryDocument": "bj-20260801.htm",
+              "primaryDocDescription": "10-Q",
+              "accepted": "2026-08-25 16:32:14"
+            },
+            "earnings_8k": {
+              "accessionNumber": "0001531152-26-000053",
+              "filingDate": "2026-08-21",
+              "reportDate": "2026-08-21",
+              "acceptanceDateTime": "2026-08-21T11:03:32.000Z",
+              "act": "34",
+              "form": "8-K",
+              "fileNumber": "001-38559",
+              "filmNumber": "261301661",
+              "items": "2.02,5.02,9.01",
+              "core_type": "XBRL",
+              "size": 448190,
+              "isXBRL": 1,
+              "isInlineXBRL": 1,
+              "isXBRLNumeric": 0,
+              "primaryDocument": "bj-20260821.htm",
+              "primaryDocDescription": "8-K",
+              "accepted": "2026-08-21 07:03:32"
+            }
+          }
+        }
+      ],
+      "release_lines": [
+        "Total revenue 95,723 86,156 303,154 275,235",
+        "Diluted $ 6.75 $ 5.87 $ 20.76 $ 18.21"
+      ],
+      "calculations": {
+        "revenue_growth": 0.10143695387577889,
+        "operating_margin": 0.03854476602650798,
+        "return_on_average_equity": 0.284021118413964,
+        "debt_to_equity": 0.17210848252939698,
+        "free_cash_flow": 9382000000.0,
+        "pe": 47.79046242774566
+      },
+      "share_price_input": 992.13,
+      "persona_calculations": {
+        "total_debt": {
+          "current": 6162000000,
+          "prior": 5788000000
+        },
+        "operating_margin": {
+          "current": 0.03854476602650798,
+          "prior": 0.03772412665540356
+        },
+        "operating_margin_change_percentage_points": 0.0820639371104416,
+        "company_ttm": {
+          "available": true,
+          "revenue": 303154000000,
+          "operating_income": 11685000000,
+          "margin": 0.03854476602650798,
+          "period_start": "2025-09-01",
+          "period_end": "2026-08-30",
+          "period_days": 364,
+          "basis": "10-K annual",
+          "revenue_source": {
+            "val": 303154000000,
+            "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+            "start": "2025-09-01",
+            "end": "2026-08-30",
+            "accn": "0000909832-26-000093",
+            "basis": "10-K annual"
+          },
+          "operating_income_source": {
+            "val": 11685000000,
+            "tag": "OperatingIncomeLoss",
+            "start": "2025-09-01",
+            "end": "2026-08-30",
+            "accn": "0000909832-26-000093",
+            "basis": "10-K annual"
+          }
+        },
+        "peer_company_ttm_margin": 0.03854476602650798,
+        "peer_alignment_window_days": 45,
+        "peer_comparison_status": "TTM peer median uses comparable peers ending within 45 days of company TTM end 2026-08-30.",
+        "comparable_peers": [
+          {
+            "ticker": "WMT",
+            "period_start": "2025-08-01",
+            "period_end": "2026-07-31",
+            "margin": 0.043868232224396606,
+            "days_from_anchor": -30,
+            "basis": "latest 10-K + latest 10-Q YTD - comparative 10-Q YTD"
+          },
+          {
+            "ticker": "TGT",
+            "period_start": "2025-08-03",
+            "period_end": "2026-08-01",
+            "margin": 0.05592126642217167,
+            "days_from_anchor": -29,
+            "basis": "latest 10-K + latest 10-Q YTD - comparative 10-Q YTD"
+          },
+          {
+            "ticker": "BJ",
+            "period_start": "2025-08-03",
+            "period_end": "2026-08-01",
+            "margin": 0.037555361015411876,
+            "days_from_anchor": -29,
+            "basis": "latest 10-K + latest 10-Q YTD - comparative 10-Q YTD"
+          }
+        ],
+        "peer_median_operating_margin": 0.043868232224396606,
+        "peer_margin_comparison": "below",
+        "financial_scores": {
+          "cash_flow_support": 3,
+          "operating_margin_trend": 2,
+          "debt_trend": 1,
+          "peer_comparison": 1
+        }
+      },
+      "release_opening_paragraph": "00009: ISSAQUAH, Wash., September 24, 2026 - Costco Wholesale Corporation (“Costco” or the “Company”) (Nasdaq: COST) today announced its operating results for the 16-week fourth quarter and the 52-week fiscal year ended August 30, 2026.",
+      "release_filename": "earnings_release_exhibit_99_1.txt",
+      "research_scores": {
+        "growth_evidence": 5.0,
+        "competitive_position": 5.0,
+        "risk_exposure": 3.0
+      },
+      "raw_companyfacts_files": [
+        "COST_companyfacts.json"
+      ]
+    }
+  },
+  "expected_output": "Valid JSON with insight_marks and marks arrays. insight_marks must contain exactly one mark for each complete Insight line, with the claim copied exactly. Each mark must have claim, status, reason, correction, source, and corrected_claim. Use corrected_claim only when saved evidence supports the correction. Do not return or reproduce the filing texts."
+}
