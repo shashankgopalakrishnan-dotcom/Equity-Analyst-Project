@@ -105,7 +105,22 @@ From this folder, start the page:
 PYTHONPATH=src uv run python -m week3_process_demo.lab5_ui
 ```
 
-Open `http://127.0.0.1:8765` in a browser. Enter a ticker, optional comma-separated peers, and an optional price. The page shows node progress and the verified report when the run finishes. The existing command-line entry point remains available.
+Open `http://127.0.0.1:8765` in a browser. Enter a ticker and a price. You can also enter comma-separated peers. The page shows each node as it runs and the verified report when the run finishes. The existing command-line entry point remains available.
+
+### Temporary access from another network
+
+To share the page for a short review, set `LAB5_UI_PASSWORD` in the private
+course `.env` file. The page uses the username `classmate`. Start the page, then
+start a Cloudflare Quick Tunnel in a second terminal:
+
+```bash
+cloudflared tunnel --url http://127.0.0.1:8765
+```
+
+Share the temporary `trycloudflare.com` URL and the password with the classmate
+through a private channel. The URL stops working when you stop the tunnel. Stop
+the tunnel after the review. A run uses the API keys and quota on this laptop.
+Do not share `.env` or commit the password.
 
 The Lab 5 Flow reads optional expert philosophies from the installed `financial-researcher` skill at `~/.codex/skills/financial-researcher/experts/`. These are analysis guidance, not sources for company facts. The Financial Datasets and Tavily MCP servers are not required for the SEC-only Flow.
 
